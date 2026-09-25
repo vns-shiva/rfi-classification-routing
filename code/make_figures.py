@@ -38,19 +38,25 @@ def _load(provider: str, condition: str) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+_SCORED_CONDITIONS = ["vocab", "policy"]
+
+
 def fig_ablation_accuracy() -> None:
     fig, axes = plt.subplots(2, 1, figsize=(7, 8.5), sharex=True)
-    x = range(len(_ARMS))
-    width = 0.25
+    x = list(range(len(_ARMS)))
+    width = 0.32
     for ax, provider in zip(axes, _PROVIDERS):
-        for i, condition in enumerate(_CONDITIONS):
+        for i, condition in enumerate(_SCORED_CONDITIONS):
             report = _load(provider, condition)
             accs = [report["arms"][arm]["reviewer_accuracy"] or 0.0 for arm in _ARMS]
-            offset = (i - 1) * width
+            offset = (i - 0.5) * width
             ax.bar([xi + offset for xi in x], accs, width, label=condition)
             for xi, acc in zip(x, accs):
                 ax.text(xi + offset, acc + 0.015, f"{acc:.2f}", ha="center", fontsize=7)
-        ax.set_xticks(list(x))
+        ax.text(0.99, 0.95, "bare: n/a for every arm (not scored, omitted)",
+                transform=ax.transAxes, ha="right", va="top", fontsize=7,
+                color="dimgray", style="italic")
+        ax.set_xticks(x)
         ax.set_xticklabels([_ARM_LABELS[a] for a in _ARMS], fontsize=8)
         ax.set_title(_PROVIDER_LABELS[provider], fontsize=10)
         ax.axhline(0, color="black", linewidth=0.8)
@@ -59,8 +65,9 @@ def fig_ablation_accuracy() -> None:
     axes[0].legend(title="Prompt condition", fontsize=8)
     fig.suptitle(
         "Reviewer-routing accuracy by prompt condition, scoring arm, and provider\n"
-        "(bare = not scored for every arm/provider because 100% of its outputs failed\n"
-        "closed-vocabulary schema validation and were excluded)"
+        "(bare omitted, not scored: 100% of Anthropic's and 239 of OpenAI's 240\n"
+        "bare outputs failed closed-vocabulary schema validation, and OpenAI's\n"
+        "240th bare response never parsed at all)"
     )
     fig.tight_layout()
     fig.savefig(_FIGURES / "ablation-accuracy.png", dpi=200)
