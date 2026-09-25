@@ -33,9 +33,9 @@ TITLE = "LLM-Based Automated RFI Classification and Routing for Construction Pro
 FIGURE_CAPTIONS = {
     "ablation-accuracy.png": (
         "Reviewer-routing accuracy by prompt condition, scoring arm, and provider "
-        "(Anthropic claude-sonnet-5 and OpenAI gpt-5; bare = 0 for every arm/provider "
-        "because 100% of its outputs failed closed-vocabulary schema validation and "
-        "were excluded)."
+        "(Anthropic claude-sonnet-5 and OpenAI gpt-5; bare = not scored for every "
+        "arm/provider because 100% of its outputs failed closed-vocabulary schema "
+        "validation and were excluded)."
     ),
     "gate-tradeoff.png": (
         "Confidence/escalation gating separates low- from high-accuracy "

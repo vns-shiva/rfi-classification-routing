@@ -59,7 +59,7 @@ def fig_ablation_accuracy() -> None:
     axes[1].legend(title="Prompt condition", fontsize=8)
     fig.suptitle(
         "Reviewer-routing accuracy by prompt condition, scoring arm, and provider\n"
-        "(bare = 0 for every arm/provider because 100% of its outputs failed\n"
+        "(bare = not scored for every arm/provider because 100% of its outputs failed\n"
         "closed-vocabulary schema validation and were excluded)"
     )
     fig.tight_layout()

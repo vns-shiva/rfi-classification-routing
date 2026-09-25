@@ -485,7 +485,7 @@ OpenAI outputs fail `validate_label()` and are excluded from scoring
 (`n_eval_split_matched = 0` for both providers' bare runs); the OpenAI
 run's 240th thread is a separate failure mode, never producing a
 parseable response at all (§5.5). Excluding that single non-parseable
-case, the remaining 239 Anthropic-and-OpenAI failures are not parsing
+case, the remaining 479 failures (240 Anthropic, 239 OpenAI) are not parsing
 failures (each response parses as well-formed JSON) but a semantic one:
 without the taxonomy in the prompt, the model free-texts
 plausible-sounding but out-of-vocabulary values. A representative failure
@@ -554,7 +554,7 @@ Under vocab, the composed arm's 36 gated EVAL-split threads (3 by low
 confidence, 34 by an escalation flag) score 38.9% reviewer accuracy versus
 81.1% for the 164 ungated threads, an over-40-point split. Under policy,
 56 threads are gated (55 by escalation, 1 by confidence), scoring 39.3% vs.
-87.5% ungated. Gating more than doubles under policy (36 → 56 threads),
+87.5% ungated. The number gated increases from 36 to 56 under policy,
 plausibly because seeing the routing-policy text makes the model more
 willing to flag `escalation=true`, without moving the gated subpopulation's
 own accuracy (38.9% → 39.3%, essentially unchanged). Confidence/escalation
@@ -815,13 +815,6 @@ urgency (exactly one, low to high severity): {URGENCY_TIERS, in ordinal order: r
 
 assigned_reviewer (exactly one): {REVIEWER_ROLES, ten values — see §3.1}
 ```
-
-(The five `{...}` placeholders above are shown here for readability;
-`code/build_docx.py`'s `apply_vocab_substitutions()` replaces each one with
-`vocabulary.py`'s actual constants when the submission `.docx` is built, so
-the delivered manuscript's Appendix A.3 shows the literal rendered vocabulary
-values, not this placeholder markup, and can't silently drift from
-`vocabulary.py` the way a hand-copied list could.)
 
 ### A.4 Policy block (appended for `policy` only)
 
