@@ -740,8 +740,8 @@ Corpus generator, prompt/vocabulary/policy modules, classification
 pipeline, scoring, and agreement code: `code/`. Synthetic corpus, all raw
 LLM predictions, and every evaluation/agreement report referenced in
 Section 5: `pilot-data/`. Figures regenerate deterministically from those
-JSON reports via `python code/make_figures.py`. \[Repository URL to be
-added at submission time.\]
+JSON reports via `python code/make_figures.py`. Available at
+`https://github.com/vns-shiva/rfi-classification-routing`.
 
 ---
 
