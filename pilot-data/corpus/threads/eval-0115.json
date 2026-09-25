@@ -1,0 +1,34 @@
+{
+  "thread_id": "eval-0115",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0115",
+  "date_submitted": "2025-09-18",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Conflict involving roof structure bracing clashing with the rooftop mechanical equipment",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-09-18T17:45",
+      "message_type": "initial_question",
+      "text": "The roof structure bracing clashing with the rooftop mechanical equipment curb, the adjacent electrical conduit rack, and the roof drain plumbing leader at Gridline C/4 needs resolution before we can release for fabrication. This needs immediate attention; multiple trades are blocked. Please respond within two weeks so we can keep fabrication on track."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-09-20T17:40",
+      "message_type": "response",
+      "text": "Hold fabrication release at Gridline C/4 pending a coordination sketch for the roof structure bracing clashing with the rooftop mechanical equipment curb, the adjacent electrical conduit rack, and the roof drain plumbing leader."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-09-22T17:47",
+      "message_type": "resubmittal",
+      "text": "Revised model attached reflecting resolution of the roof structure bracing clashing with the rooftop mechanical equipment curb, the adjacent electrical conduit rack, and the roof drain plumbing leader at Gridline C/4."
+    }
+  ]
+}

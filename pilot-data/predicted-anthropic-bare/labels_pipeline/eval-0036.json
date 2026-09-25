@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0036",
+  "rfi_type": "Document Discrepancy/Coordination",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 08 - Openings",
+  "urgency": "low",
+  "question_summary": "Submitter asks whether shop drawings, field mockup, or contract drawings govern for the storefront glazing system at the entry vestibule due to a documentation conflict.",
+  "referenced_documents": [
+    "Section 08 41 13",
+    "Sheet A-201",
+    "Door and Window Schedule A-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Project Architect",
+  "routing_rationale": "The conflict involves reconciling architectural door/window schedules and storefront glazing details, which falls under the architect's purview.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

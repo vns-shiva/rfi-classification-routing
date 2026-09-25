@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0073",
+  "rfi_type": "Document Discrepancy / Coordination Conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "General Contracting/Construction Management"
+  ],
+  "csi_division": "08 - Openings",
+  "urgency": "high",
+  "question_summary": "Shop drawings for the Section 08 51 13 aluminum corner window frame detail do not match the built field mockup; submitter needs confirmation of which document governs before fabrication proceeds.",
+  "referenced_documents": [
+    "Section 08 51 13 Aluminum Windows shop drawings",
+    "Field mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The discrepancy concerns an aluminum window frame detail governed by Section 08 51 13, which falls under the Architect of Record's design authority and requires their clarification on which document controls.",
+  "escalation": true,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

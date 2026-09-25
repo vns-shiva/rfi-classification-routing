@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0026",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "urgent",
+  "question_summary": "Standpipe riser at Room 214 conflicts with structural bracing; extent greater than first reported\u2014confirm if reroute per attached sketch still applies and provide direction to resume work.",
+  "referenced_documents": [
+    "Fire Protection Sheet FP-101",
+    "Attached reroute sketch (2025-05-16)",
+    "Inspection log (last month)"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "Work is stopped due to a field conflict with schedule impact and urgent turnaround, so per policy it is routed to the GC Superintendent for immediate coordination.",
+  "escalation": true,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

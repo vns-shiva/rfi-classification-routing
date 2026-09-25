@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "routine",
+  "question_summary": "Submitter asks which condition governs for the Section 08 51 13 aluminum window frame detail at the corner window, since the shop drawings do not match the built field mockup.",
+  "referenced_documents": ["Section 08 51 13", "Detail 5/A501", "Door and Window Schedule A-601"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "no specific deadline for this, but a timely response is appreciated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As a document discrepancy in an architectural detail, it is routed to the Architect of Record, the design professional responsible for that discipline.",
+  "escalation": false,
+  "confidence": 0.88
+}

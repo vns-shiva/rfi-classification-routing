@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00",
+  "urgency": "urgent",
+  "question_summary": "Shear wall reinforcement detail in Structural General Notes S-001 conflicts with additional #5 ties shown on Foundation Plan S-101; contractor requests resolution before concrete pour and later asks whether the ruling applies to all shear walls on the level.",
+  "referenced_documents": ["Structural General Notes S-001", "Foundation Plan S-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within one business day",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The conflict involves structural reinforcement details between two structural drawings, requiring the Structural Engineer of Record to confirm applicability across all shear walls.",
+  "escalation": true,
+  "confidence": 0.82
+}

@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0017",
+  "rfi_type": "Conflict between drawings/details",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": [],
+  "csi_division": "08 \u2013 Openings",
+  "urgency": "Low",
+  "question_summary": "Curtain wall panel at Gridline B/2 shows a head/jamb condition on Sheet A-301 that conflicts with Detail 5/A501; need direction on which detail governs.",
+  "referenced_documents": [
+    "Sheet A-301",
+    "Detail 5/A501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can stay on schedule.",
+  "assigned_reviewer": "Project Architect (AOR)",
+  "routing_rationale": "The issue is a conflict between architectural curtain wall details on sheets A-301 and 5/A501, which falls under the Architect of Record\u2019s scope to resolve.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,34 @@
+{
+  "thread_id": "dev-0004",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0004",
+  "date_submitted": "2025-05-20",
+  "submitted_by_role": "Foreman",
+  "subject": "Unforeseen existing feeder condition at Electrical Closet 2A conflicting with Electrical",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Bobby Kern",
+      "timestamp": "2025-05-20T15:16",
+      "message_type": "initial_question",
+      "text": "Field investigation at Electrical Closet 2A revealed a field condition -- existing feeder condition -- not shown on Electrical Panel Schedule E-601 or Sheet E-501. We'd like this looked at sooner rather than later, please. No cost impact is anticipated. No schedule impact is expected. There is no specific deadline for this, but a timely response is appreciated."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-05-22T11:31",
+      "message_type": "response",
+      "text": "Reroute per the attached sketch to clear the existing feeder condition at Electrical Closet 2A. No cost impact is anticipated. No schedule impact is expected."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Gary Owusu",
+      "timestamp": "2025-05-25T07:08",
+      "message_type": "clarification",
+      "text": "To confirm, does the reroute around the existing feeder condition at Electrical Closet 2A require a revised Electrical Panel Schedule E-601? There is no specific deadline for this, but a timely response is appreciated."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "Field Condition/Conflict",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "Division 21 - Fire Suppression",
+  "urgency": "high",
+  "question_summary": "Existing sprinkler main conflicts with new ductwork routing at Lobby 101, a condition not shown on Fire Alarm Riser Diagram FA-501; extent of conflict now found to be larger than initially reported, and confirmation is needed whether prior reroute direction still applies.",
+  "referenced_documents": ["Fire Alarm Riser Diagram FA-501", "Inspection log (prior month)", "Attached reroute sketch"],
+  "proposed_solution": "Reroute the sprinkler main to clear the conflict at Lobby 101 per the attached sketch and proceed once clearance is confirmed.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Fire Protection Engineer",
+  "routing_rationale": "The issue centers on an unforeseen conflict involving the existing fire suppression sprinkler main not reflected in fire protection design documents, requiring fire protection engineering review and revised routing direction.",
+  "escalation": true,
+  "confidence": 0.72
+}
+```

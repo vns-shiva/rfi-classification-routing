@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0111",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Shop drawings for the storefront glazing system at the entry vestibule do not match the built field mockup; submitter asks which should govern.",
+  "referenced_documents": [
+    "Section 08 41 13 storefront glazing shop drawings",
+    "Field mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict involves storefront glazing shop drawings versus field mockup, a design/documentation issue falling under the Architect of Record's purview.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

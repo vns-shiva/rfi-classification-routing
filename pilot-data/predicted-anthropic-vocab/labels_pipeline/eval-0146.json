@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0146",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Mismatch identified in Section 26 51 00 light fixture type between Electrical Detail 2/E502 and Electrical Panel Schedule E-601; requesting confirmation of correct fixture type before fabrication release.",
+  "referenced_documents": [
+    "Electrical Detail 2/E502",
+    "Electrical Panel Schedule E-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond before the electrical rough-in inspection.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The discrepancy involves electrical fixture documentation under Section 26 51 00, requiring the Electrical Engineer to confirm which document governs.",
+  "escalation": false,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

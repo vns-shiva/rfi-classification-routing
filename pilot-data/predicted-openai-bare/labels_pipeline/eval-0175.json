@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0175",
+  "rfi_type": "Existing condition conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 \u2014 Electrical",
+  "urgency": "Response requested within 3 days",
+  "question_summary": "Existing feeder in Electrical Closet 2A conflicts with the new equipment pad; not shown on Sheet E-501. Direction needed to resolve before next work sequence.",
+  "referenced_documents": [
+    "Sheet E-501",
+    "Field log dated 2025-03-07"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The conflict involves existing electrical feeder routing versus new equipment shown on E-501, which is under the Electrical EOR\u2019s design responsibility.",
+  "escalation": false,
+  "confidence": 0.77,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

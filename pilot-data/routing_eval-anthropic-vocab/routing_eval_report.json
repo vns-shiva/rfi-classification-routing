@@ -1,0 +1,122 @@
+{
+  "corpus_dir": "C:\\Users\\itsupport\\Desktop\\Development\\papers\\rfi-classification-routing\\pilot-data\\corpus",
+  "predictions_dir": "..\\pilot-data\\predicted-anthropic-vocab",
+  "annotator_id": "pipeline",
+  "n_gold": 240,
+  "n_predicted": 240,
+  "n_matched": 240,
+  "n_eval_split_matched": 200,
+  "n_dev_split_gold": 40,
+  "missing_thread_ids": [],
+  "gate_threshold": 0.6,
+  "majority_reviewer": "Code Official/AHJ Liaison",
+  "majority_escalation": false,
+  "arms": {
+    "oracle": {
+      "name": "oracle",
+      "n": 200,
+      "n_reviewer_correct": 171,
+      "reviewer_accuracy": 0.855,
+      "reviewer_kappa": 0.8341767447179574,
+      "reviewer_kappa_undefined_reason": null,
+      "n_escalation_correct": 200,
+      "escalation_accuracy": 1.0,
+      "escalation_kappa": 1.0,
+      "escalation_kappa_undefined_reason": null,
+      "n_both_correct": 171,
+      "both_accuracy": 0.855,
+      "gate_breakdown": null,
+      "notes": []
+    },
+    "composed": {
+      "name": "composed",
+      "n": 200,
+      "n_reviewer_correct": 147,
+      "reviewer_accuracy": 0.735,
+      "reviewer_kappa": 0.6997507364604576,
+      "reviewer_kappa_undefined_reason": null,
+      "n_escalation_correct": 175,
+      "escalation_accuracy": 0.875,
+      "escalation_kappa": 0.7037914691943128,
+      "escalation_kappa_undefined_reason": null,
+      "n_both_correct": 130,
+      "both_accuracy": 0.65,
+      "gate_breakdown": {
+        "n_gated": 36,
+        "n_gated_reviewer_correct": 14,
+        "gated_reviewer_accuracy": 0.3888888888888889,
+        "n_ungated": 164,
+        "n_ungated_reviewer_correct": 133,
+        "ungated_reviewer_accuracy": 0.8109756097560976,
+        "n_gated_by_category": {
+          "escalation": 34,
+          "confidence": 3
+        }
+      },
+      "notes": []
+    },
+    "direct": {
+      "name": "direct",
+      "n": 200,
+      "n_reviewer_correct": 140,
+      "reviewer_accuracy": 0.7,
+      "reviewer_kappa": 0.6574755951361534,
+      "reviewer_kappa_undefined_reason": null,
+      "n_escalation_correct": 153,
+      "escalation_accuracy": 0.765,
+      "escalation_kappa": 0.3670886075949369,
+      "escalation_kappa_undefined_reason": null,
+      "n_both_correct": 112,
+      "both_accuracy": 0.56,
+      "gate_breakdown": {
+        "n_gated": 36,
+        "n_gated_reviewer_correct": 13,
+        "gated_reviewer_accuracy": 0.3611111111111111,
+        "n_ungated": 164,
+        "n_ungated_reviewer_correct": 127,
+        "ungated_reviewer_accuracy": 0.774390243902439,
+        "n_gated_by_category": {
+          "escalation": 34,
+          "confidence": 3
+        }
+      },
+      "notes": []
+    },
+    "policy_fidelity": {
+      "name": "policy_fidelity",
+      "n": 200,
+      "n_reviewer_correct": 172,
+      "reviewer_accuracy": 0.86,
+      "reviewer_kappa": 0.8371809036459847,
+      "reviewer_kappa_undefined_reason": null,
+      "n_escalation_correct": 175,
+      "escalation_accuracy": 0.875,
+      "escalation_kappa": 0.7037914691943128,
+      "escalation_kappa_undefined_reason": null,
+      "n_both_correct": 154,
+      "both_accuracy": 0.77,
+      "gate_breakdown": null,
+      "notes": []
+    },
+    "majority": {
+      "name": "majority",
+      "n": 200,
+      "n_reviewer_correct": 15,
+      "reviewer_accuracy": 0.075,
+      "reviewer_kappa": 0.0,
+      "reviewer_kappa_undefined_reason": null,
+      "n_escalation_correct": 139,
+      "escalation_accuracy": 0.695,
+      "escalation_kappa": 0.0,
+      "escalation_kappa_undefined_reason": null,
+      "n_both_correct": 15,
+      "both_accuracy": 0.075,
+      "gate_breakdown": null,
+      "notes": []
+    }
+  },
+  "strict_failures": [],
+  "extra_thread_ids": [],
+  "n_invalid_predictions": 0,
+  "invalid_prediction_thread_ids": []
+}

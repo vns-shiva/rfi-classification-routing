@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0024",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0024",
+  "date_submitted": "2025-03-14",
+  "submitted_by_role": "Foreman",
+  "subject": "Unforeseen field condition: conflicting utility line beneath the slab area at Pour 3",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Luis Fernandez",
+      "timestamp": "2025-03-14T09:06",
+      "message_type": "initial_question",
+      "text": "We found the conflicting utility line beneath the slab area at Pour 3; see General Conditions Article 3 for the assumed condition. Our proposal is to shift the layout locally and hold everything else per plan -- let us know if that works or if you need to review first. This is urgent -- crews are standing by pending direction. There will be a cost impact to address this condition. No broader schedule impact is expected. A response next week would still let us stay on track."
+    }
+  ]
+}

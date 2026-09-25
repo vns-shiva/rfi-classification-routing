@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Design Conflict / Discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 03 - Concrete",
+  "urgency": "high",
+  "question_summary": "Conflict between shear wall reinforcement detail on S-301 and revised bar splice on Foundation Plan S-101; follow-up asks whether the revised splice applies to all shear walls on the level, not just the one originally called out.",
+  "referenced_documents": ["Sheet S-301", "Foundation Plan S-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within one business day",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The unresolved question of whether the revised bar splice detail applies to all shear walls on the level is a structural design scope determination requiring sign-off from the Structural Engineer of Record before concrete placement.",
+  "escalation": true,
+  "confidence": 0.75
+}

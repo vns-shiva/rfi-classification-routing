@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0098",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0098",
+  "date_submitted": "2025-07-01",
+  "submitted_by_role": "Subcontractor PM",
+  "subject": "Request to substitute an ABS DWV alternate in lieu of the no-hub cast-iron soil piping",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Subcontractor PM",
+      "sender_name": "Denise Park",
+      "timestamp": "2025-07-01T12:33",
+      "message_type": "initial_question",
+      "text": "We're proposing an ABS DWV alternate in lieu of the no-hub cast-iron soil piping specified in Section 22 13 16 and want sign-off before we order material. This is routine and can wait for the next scheduled submittal review. No impact to the plumbing fixture budget is anticipated. This substitution will not affect the domestic water pressure test date. A response by the end of the day would let us keep the order on track. Note: the unrelated water-meter billing dispute from last month does not apply to this substitution."
+    }
+  ]
+}

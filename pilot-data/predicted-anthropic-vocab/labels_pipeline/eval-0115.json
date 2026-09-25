@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0115",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "Mechanical",
+    "Electrical",
+    "Plumbing"
+  ],
+  "csi_division": "05 00 00 (Metals)",
+  "urgency": "urgent",
+  "question_summary": "Roof structure bracing at Gridline C/4 clashes with rooftop mechanical equipment curb, electrical conduit rack, and roof drain plumbing leader, blocking fabrication release.",
+  "referenced_documents": [],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within two weeks so we can keep fabrication on track.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The conflict centers on roof structural bracing design that must accommodate multiple trades, making the Structural Engineer the appropriate lead reviewer.",
+  "escalation": false,
+  "confidence": 0.75,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

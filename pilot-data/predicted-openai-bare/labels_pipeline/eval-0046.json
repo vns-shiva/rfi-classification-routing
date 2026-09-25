@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0046",
+  "rfi_type": "Conflict between drawings/specifications",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 - Concrete",
+  "urgency": "urgent",
+  "question_summary": "Clarify which detail governs for column baseplate reinforcement where Foundation Plan S-101 conflicts with revised bar splice on Sheet S-301.",
+  "referenced_documents": [
+    "Foundation Plan S-101",
+    "Sheet S-301"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "We need a response within one business day, if at all possible.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "This concerns reinforcement splice details and supersession of structural sheets, which must be confirmed by the Structural Engineer of Record.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

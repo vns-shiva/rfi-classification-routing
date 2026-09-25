@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0018",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "routine",
+  "question_summary": "Domestic water riser detailing at Room 214 is inconsistent between Plumbing Fixture Schedule P-602 and Plumbing Detail 6/P503, requiring clarification on which to follow.",
+  "referenced_documents": [
+    "Plumbing Fixture Schedule P-602",
+    "Plumbing Detail 6/P503"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "no specific deadline for this, but a timely response is appreciated",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a document discrepancy in the Plumbing discipline with no cost or schedule impact, it routes to the Plumbing/Fire Protection Engineer as the design professional of record.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

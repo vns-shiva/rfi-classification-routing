@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "priority",
+  "question_summary": "Curtain wall head/jamb detail at Gridline E/9 differs between Sheet A-201 and Sheet A-301, requiring clarification before shop drawings proceed.",
+  "referenced_documents": ["Sheet A-201", "Sheet A-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Respond whenever convenient.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The discrepancy involves curtain wall detailing shown on architectural sheets, so it falls to the Architect of Record to confirm the governing detail.",
+  "escalation": false,
+  "confidence": 0.9
+}

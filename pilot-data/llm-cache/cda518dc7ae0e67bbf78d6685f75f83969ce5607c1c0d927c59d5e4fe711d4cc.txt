@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Schedule A-601 and Detail 5/A501 show conflicting curtain wall corner mullion information; confirm which governs for shop drawings and mockup.",
+  "referenced_documents": ["Section 08 44 13", "A-601 Door and Window Schedule", "Detail 5/A501", "Curtain wall shop drawings", "Field mockup"],
+  "proposed_solution": "Use Door and Window Schedule A-601 as governing; reconcile Detail 5/A501 by addendum.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Discrepancy between architectural schedule and detail should be resolved by the Architect of Record as the design professional of record.",
+  "escalation": true,
+  "confidence": 0.77
+}

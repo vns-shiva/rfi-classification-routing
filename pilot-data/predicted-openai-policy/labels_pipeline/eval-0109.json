@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0109",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "urgent",
+  "question_summary": "Conflict between Mechanical Detail 4/M501 and Sequence of Operations M-701 on Section 23 74 00 equipment clearance near P-101; confirm whether M-701 governs and if direction applies throughout the area.",
+  "referenced_documents": [
+    "Section 23 74 00",
+    "Mechanical Detail 4/M501",
+    "Sequence of Operations M-701",
+    "P-101"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "This is a discrepancy within mechanical documents, so it should be resolved by the Mechanical Engineer of record.",
+  "escalation": true,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

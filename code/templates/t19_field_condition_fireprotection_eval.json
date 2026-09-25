@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "template_id": "t19_field_condition_fireprotection_eval",
+  "pool": "eval",
+  "axes": {
+    "rfi_type": ["field_condition_conflict"],
+    "primary_discipline": ["Fire_Protection"],
+    "urgency": ["priority", "urgent"],
+    "cost_impact": [true, false],
+    "schedule_impact": [true, false],
+    "deadline_family": ["business_days"],
+    "adversarial": ["none"],
+    "thread_shape": ["two_message_qa", "multi_turn_clarification"]
+  },
+  "csi_by_discipline": {
+    "Fire_Protection": "21 00 00 (Fire Suppression)"
+  },
+  "secondary_by_adversarial": {
+    "none": []
+  },
+  "slots": {
+    "fire_protection_field_condition": [
+      "existing sprinkler main conflicting with the new duct routing",
+      "fire pump room clearance conflicting with the new equipment layout",
+      "standpipe riser location conflicting with the structural bracing",
+      "sprinkler head spacing conflicting with the ceiling grid layout"
+    ]
+  },
+  "urgency_phrasing": {
+    "priority": [
+      "We would like this resolved ahead of the next work sequence.",
+      "This is becoming a priority as work proceeds nearby."
+    ],
+    "urgent": [
+      "This is urgent -- fire protection crews are standing by.",
+      "This needs a quick turnaround; work is stopped pending direction."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "There will be a cost impact to address this condition.",
+      "This condition will require a change order."
+    ],
+    "false": [
+      "No cost impact is anticipated for this condition.",
+      "We do not expect this to affect the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up work in this area.",
+      "This could affect the overall schedule."
+    ],
+    "false": [
+      "This is not holding up other work currently.",
+      "No broader schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "business_days": [
+      "Please respond within five business days so we can keep the crew moving.",
+      "A response within three business days would be appreciated."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Field Superintendent", "Foreman"],
+      "shapes": ["two_message_qa", "multi_turn_clarification"],
+      "body_variants": [
+        "Sprinkler crew found the {fire_protection_field_condition} at {room_name}; it's similar to the condition noted in last month's inspection log, but this one isn't shown on {doc_a}. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase}",
+        "We've got the {fire_protection_field_condition} at {room_name} -- can you confirm the scope of work before we proceed? {urgency_phrase} {deadline_phrase}",
+        "Inspector flagged the {fire_protection_field_condition} at {room_name} during today's walk; crew is stopped until we hear back. {cost_phrase} {schedule_phrase}",
+        "Before the crew continues near {room_name}, we need direction on whether the {fire_protection_field_condition} requires its own review. {urgency_phrase} {cost_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa", "multi_turn_clarification"],
+      "body_variants": [
+        "Reroute to clear the conflict at {room_name} per the attached sketch; proceed once clearance is confirmed. {cost_phrase}",
+        "Hold work at {room_name} -- we'll issue a bulletin addressing the {fire_protection_field_condition} by end of day. {schedule_phrase}",
+        "Proceed with a field-fit resolution for the {fire_protection_field_condition} at {room_name}; document the as-built change for the inspection record. {cost_phrase} {schedule_phrase}"
+      ]
+    },
+    {
+      "message_type": "clarification",
+      "sender_role_pool": ["Field Superintendent", "Foreman"],
+      "shapes": ["multi_turn_clarification"],
+      "body_variants": [
+        "The extent of the {fire_protection_field_condition} at {room_name} is more than we first reported -- does your direction still cover it? {deadline_phrase}",
+        "Additional note: the {fire_protection_field_condition} near {room_name} may be affecting nearby piping too; will that need its own bulletin?",
+        "Confirming the direction on the {fire_protection_field_condition} at {room_name} still stands before we close this out for the inspection record. {cost_phrase}"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "21 00 00 (Fire Suppression)",
+    "question_summary_variants": [
+      "Unforeseen fire protection field condition: {fire_protection_field_condition} at {room_name}.",
+      "Field direction requested: {fire_protection_field_condition} at {room_name}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend a change order and revised detail to address {fire_protection_field_condition}."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"cost_impact": true, "schedule_impact": true},
+      "assigned_reviewer": "Owner's Representative",
+      "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Plumbing/Fire Protection Engineer looped in as technical reviewer.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "Default discipline routing would keep this with the Plumbing/Fire Protection Engineer; this project's delegation letter pulls the owner's rep in whenever both cost and schedule are affected, regardless of discipline."
+    },
+    {
+      "when": {"urgency": "urgent", "schedule_impact": true},
+      "assigned_reviewer": "GC Superintendent",
+      "routing_rationale": "Urgent field conditions with a schedule impact route to the GC Superintendent for immediate field-level coordination.",
+      "escalation": true,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    },
+    {
+      "when": {"urgency": "urgent"},
+      "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+      "routing_rationale": "Urgent field conditions without a schedule impact escalate directly to the Plumbing/Fire Protection Engineer.",
+      "escalation": true,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+      "routing_rationale": "Default discipline routing: the Plumbing/Fire Protection Engineer resolves field conditions affecting fire protection work.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

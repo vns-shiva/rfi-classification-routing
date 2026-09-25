@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Structural", "General"],
+  "csi_division": "23 00 00",
+  "urgency": "urgent",
+  "question_summary": "Contractor requests interim direction on an undersized mechanical shaft in the corridor chase near P-101 so work can continue while a permanent resolution is finalized, and asks whether the affected adjacent duct run needs a separate bulletin.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "This is a field condition conflict with local schedule impact and urgent priority, so per policy rule 3 it is routed to the GC Superintendent to manage interim field direction while the design team issues a bulletin.",
+  "escalation": true,
+  "confidence": 0.75
+}

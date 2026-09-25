@@ -1,0 +1,18 @@
+{
+  "rfi_type": "unforeseen condition",
+  "primary_discipline": "civil",
+  "secondary_disciplines": ["structural"],
+  "csi_division": "Division 31 - Earthwork",
+  "urgency": "high",
+  "question_summary": "Field team encountered an unforeseen underground obstruction at Placement Zone 2, more extensive than initially reported, and is requesting approval to shift the layout locally while holding the rest per plan.",
+  "referenced_documents": ["General Conditions Article 3"],
+  "proposed_solution": "Shift the layout locally at Placement Zone 2 and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The issue involves an underground field obstruction affecting sitework/earthwork, requiring civil engineering evaluation of the proposed layout shift.",
+  "escalation": true,
+  "confidence": 0.72
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Field Direction Request",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": ["Mechanical", "Plumbing"],
+  "csi_division": "Division 21 - Fire Suppression",
+  "urgency": "high",
+  "question_summary": "Contractor requests confirmation of scope for a conflict between required fire pump room clearances and newly installed equipment layout at Mechanical Room 3B, with work stopped pending direction; a follow-up notes possible impact on nearby piping.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Fire Protection Engineer",
+  "routing_rationale": "The core conflict involves fire pump room clearance requirements, which fall under fire suppression system design and code compliance, making the Fire Protection Engineer the appropriate reviewer.",
+  "escalation": true,
+  "confidence": 0.62
+}

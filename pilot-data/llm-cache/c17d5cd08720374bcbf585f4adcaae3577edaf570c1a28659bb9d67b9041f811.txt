@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Conflict between documents",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 - Concrete",
+  "urgency": "urgent",
+  "question_summary": "Resolve conflict between shear wall reinforcement shown on Structural General Notes S-001 and additional #5 ties on Foundation Plan S-101, and confirm whether the additional #5 ties apply to every shear wall on this level.",
+  "referenced_documents": ["Structural General Notes S-001", "Foundation Plan S-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "We need a response within one business day, if at all possible.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The conflict and level-wide applicability of shear wall reinforcement require confirmation and direction from the Structural Engineer of Record.",
+  "escalation": false,
+  "confidence": 0.77
+}

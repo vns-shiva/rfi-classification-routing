@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0150",
+  "rfi_type": "Unforeseen site/subsurface condition",
+  "primary_discipline": "Civil/Site",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "31 - Earthwork",
+  "urgency": "High",
+  "question_summary": "Contractor requests approval to locally shift the layout at Placement Zone 2 to avoid an unforeseen underground obstruction and asks whether review is required before proceeding.",
+  "referenced_documents": [
+    "General Conditions Article 3",
+    "Attached photos \u2013 Placement Zone 2"
+  ],
+  "proposed_solution": "Shift the layout locally around the obstruction and hold all other elements per plan.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "Design direction is needed for a subsurface obstruction impacting site layout; the Civil EOR is responsible for site/earthwork and plan modifications.",
+  "escalation": false,
+  "confidence": 0.76,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

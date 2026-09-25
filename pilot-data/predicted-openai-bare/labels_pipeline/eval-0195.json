@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0195",
+  "rfi_type": "Design clarification - clearance conflict",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": [
+    "Mechanical",
+    "Plumbing"
+  ],
+  "csi_division": "21 - Fire Suppression",
+  "urgency": "high",
+  "question_summary": "Confirm scope and direction to resolve fire pump room clearance conflict with new equipment layout at Mechanical Room 3B, including whether nearby piping impacts require a separate bulletin.",
+  "referenced_documents": [],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Fire Protection Engineer of Record",
+  "routing_rationale": "Fire pump room clearances fall under NFPA 20 and fire protection scope, requiring FP EOR direction and coordination with MEP.",
+  "escalation": true,
+  "confidence": 0.74,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

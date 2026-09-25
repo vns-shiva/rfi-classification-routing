@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0161",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "urgent",
+  "question_summary": "Standpipe riser location at Electrical Closet 2A conflicts with structural bracing; request direction to resolve and confirm acceptance for inspection record.",
+  "referenced_documents": [
+    "FA-501 Fire Alarm Riser Diagram",
+    "Last month's inspection log"
+  ],
+  "proposed_solution": "Proceed with a field-fit relocation of the standpipe riser to clear the structural bracing and document the as-built change for the inspection record.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "Work is stopped due to an unforeseen field conflict with schedule impact and an urgent turnaround requested, so per policy this is routed to the GC Superintendent.",
+  "escalation": true,
+  "confidence": 0.84,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

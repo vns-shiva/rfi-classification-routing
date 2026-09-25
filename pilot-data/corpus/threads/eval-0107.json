@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0107",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0107",
+  "date_submitted": "2025-08-15",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Request to substitute a tankless alternate in lieu of the storage-type water heater",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-08-15T17:48",
+      "message_type": "initial_question",
+      "text": "We're proposing a tankless alternate in lieu of the storage-type water heater specified in Section 22 34 00 and want sign-off before we order material. We would like this reviewed before the fixture rough-in gets underway. This substitution is cost-neutral. This substitution will not affect the domestic water pressure test date. A response by the end of the day would let us keep the order on track. Note: the unrelated water-meter billing dispute from last month does not apply to this substitution."
+    }
+  ]
+}

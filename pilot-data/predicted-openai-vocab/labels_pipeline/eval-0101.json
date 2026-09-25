@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0101",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Mechanical"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen conflict in Mechanical Room 3B where fire pump room clearance and sprinkler routing interfere with new mechanical equipment layout; confirmation needed whether reroute direction covers expanded extent.",
+  "referenced_documents": [
+    "Fire Protection Detail 3/FP502",
+    "last month\u2019s inspection log",
+    "attached sketch"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep the crew moving.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The issue concerns fire pump room clearances and sprinkler rerouting, requiring fire protection engineering review and approval in coordination with mechanical layout.",
+  "escalation": false,
+  "confidence": 0.79,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

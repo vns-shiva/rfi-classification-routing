@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0174",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen fire protection field condition: existing sprinkler main conflicting with the new duct routing at Lobby 101.",
+  "referenced_documents": [
+    "Fire Alarm Riser Diagram FA-501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within three business days",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "Default discipline routing: the Plumbing/Fire Protection Engineer resolves field conditions affecting fire protection work.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-04-03",
+  "deadline_resolution_status": "resolved_to_date"
+}

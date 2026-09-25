@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Confirm whether the shop drawings or the field mockup governs for the Section 08 71 00 interior door hardware set at the stair enclosure.",
+  "referenced_documents": ["Section 08 71 00 - Door Hardware", "Door hardware shop drawings", "Field mockup for stair enclosure door hardware"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Door hardware scope and mockup acceptance fall under architectural purview, requiring the Architect’s direction on which standard governs.",
+  "escalation": false,
+  "confidence": 0.78
+}

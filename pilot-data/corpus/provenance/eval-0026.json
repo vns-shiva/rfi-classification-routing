@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0026",
+  "template_id": "t19_field_condition_fireprotection_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "field_condition_conflict",
+    "primary_discipline": "Fire_Protection",
+    "urgency": "urgent",
+    "cost_impact": false,
+    "schedule_impact": true,
+    "deadline_family": "business_days",
+    "adversarial": "none",
+    "thread_shape": "multi_turn_clarification"
+  },
+  "variant_index": 0,
+  "seed": 11952114646488122882,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0,
+    "clarification": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Cedar Grove Elementary Addition",
+  "doc_a": "Fire Protection Sheet FP-101",
+  "doc_b": "Fire Protection Detail 3/FP502",
+  "date_submitted": "2025-05-15"
+}

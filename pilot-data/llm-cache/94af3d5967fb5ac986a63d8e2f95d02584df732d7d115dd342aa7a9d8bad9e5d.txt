@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "urgent",
+  "question_summary": "Undersized mechanical shaft in the corridor chase at T-1 is more extensive than first thought; confirm if the reroute per the attached sketch still resolves the condition and provide direction for a permanent fix.",
+  "referenced_documents": ["Attached sketch (M02)", "Field photos (M03)"],
+  "proposed_solution": "Reroute to clear the conflict at T-1 per the attached sketch, pending confirmation of adequate clearance.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "Mechanical rerouting and clearance confirmation are required to resolve the undersized shaft conflict at T-1.",
+  "escalation": false,
+  "confidence": 0.76
+}

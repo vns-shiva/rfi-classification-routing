@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00",
+  "urgency": "routine",
+  "question_summary": "Mismatch in receptacle mounting height per Section 26 27 26 between Sheet E-501 and One-Line Diagram E-002 needs clarification before fabrication release.",
+  "referenced_documents": ["Sheet E-501", "One-Line Diagram E-002", "Section 26 27 26"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond at your earliest convenience",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As a document discrepancy in electrical drawings with no cost or schedule impact, it routes to the Electrical Engineer as the design professional of record for this discipline.",
+  "escalation": false,
+  "confidence": 0.9
+}

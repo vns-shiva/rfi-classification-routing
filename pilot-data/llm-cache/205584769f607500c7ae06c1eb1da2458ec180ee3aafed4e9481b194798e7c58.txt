@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Sheet M-401 and Mechanical Schedule M-601 regarding Section 23 74 00 equipment clearance at/near T-1; confirm that M-601 governs and whether this applies throughout the area.",
+  "referenced_documents": ["Sheet M-401", "Mechanical Schedule M-601", "Specification Section 23 74 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "Mechanical Engineer should resolve the discrepancy between the mechanical drawing and schedule and confirm area-wide applicability, with an addendum to clarify.",
+  "escalation": false,
+  "confidence": 0.86
+}

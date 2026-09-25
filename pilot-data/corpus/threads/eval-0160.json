@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0160",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0160",
+  "date_submitted": "2025-05-11",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Conflicting reinforcement detail for the column baseplate between Structural Detail",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Tom Reilly",
+      "timestamp": "2025-05-11T12:41",
+      "message_type": "initial_question",
+      "text": "The column baseplate reinforcement shown in Structural Detail 3/S502 conflicts with additional #5 ties noted in Foundation Plan S-101. This is becoming a priority on our end; we'd appreciate a prompt response. No cost impact is anticipated from this clarification. No schedule impact is expected from this clarification. Please respond within two business days ahead of the scheduled pour. Some on our side would call this more pressing than others do -- it's a judgment call either way."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-05-14T10:27",
+      "message_type": "response",
+      "text": "Proceed with additional #5 ties per Foundation Plan S-101; Structural Detail 3/S502 is superseded. No cost impact is anticipated from this clarification. No schedule impact is expected from this clarification."
+    }
+  ]
+}

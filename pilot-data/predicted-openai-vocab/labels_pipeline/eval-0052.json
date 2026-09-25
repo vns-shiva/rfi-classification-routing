@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0052",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "urgent",
+  "question_summary": "At Room 214 the standpipe riser location conflicts with structural bracing; condition not shown on Detail 3/FP502\u2014request direction to clear the conflict.",
+  "referenced_documents": [
+    "Fire Protection Detail 3/FP502",
+    "Last month's inspection log",
+    "Attached reroute sketch (M02)"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The issue concerns rerouting a standpipe to clear structural bracing, which is primarily a fire protection design matter requiring coordination with structural.",
+  "escalation": false,
+  "confidence": 0.83,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0014",
+  "rfi_type": "unforeseen field condition",
+  "primary_discipline": "mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "high",
+  "question_summary": "Field crew encountered a ceiling height restriction conflicting with ductwork routing at AHU-3; after initial reroute direction was given, photos reveal the condition extends further than originally identified, and the superintendent needs confirmation that the original direction still applies.",
+  "referenced_documents": [
+    "attached sketch (M02)"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the crew moving.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The issue involves ductwork routing and ceiling clearance conflicts at an AHU, which falls under mechanical engineering design authority.",
+  "escalation": true,
+  "confidence": 0.75,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

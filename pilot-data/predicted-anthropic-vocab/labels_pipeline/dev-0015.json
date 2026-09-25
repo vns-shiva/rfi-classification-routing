@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0015",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "routine",
+  "question_summary": "Retaining wall elevation at Placement Zone 2 differs between Grading Plan C-201 and Sheet C-101, requiring clarification on which to follow.",
+  "referenced_documents": [
+    "Grading Plan C-201",
+    "Sheet C-101"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "at your earliest convenience",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The discrepancy involves site grading and retaining wall elevations, which fall under civil engineering design documents.",
+  "escalation": false,
+  "confidence": 0.8,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

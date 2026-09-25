@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "routine",
+  "question_summary": "Submitter asks which document governs for the Section 08 41 13 storefront glazing system at the entry vestibule, since the shop drawings do not match the built field mockup.",
+  "referenced_documents": ["Section 08 41 13", "Sheet A-201", "Detail 5/A501"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within five days",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is a document discrepancy involving an architectural opening system (Division 08), so it is routed to the Architect of Record who owns the storefront glazing details.",
+  "escalation": false,
+  "confidence": 0.82
+}

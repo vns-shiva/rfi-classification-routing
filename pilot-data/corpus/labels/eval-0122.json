@@ -1,0 +1,23 @@
+{
+  "thread_id": "eval-0122",
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Document coordination conflict on the Section 08 51 13 aluminum window frame detail at the corner window.",
+  "referenced_documents": [],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Owner's Representative",
+  "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Architect of Record looped in as technical reviewer.",
+  "escalation": true,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

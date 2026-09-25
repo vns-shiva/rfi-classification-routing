@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Shop drawings for interior door hardware at stair enclosure do not match the field mockup; requester asks which condition governs for fabrication.",
+  "referenced_documents": ["Section 08 71 00 Interior Door Hardware", "Shop Drawings - Stair Enclosure Hardware Set", "Field Mockup - Stair Enclosure Door/Hardware"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an Architectural openings/hardware coordination issue best resolved by the Architect of Record.",
+  "escalation": false,
+  "confidence": 0.76
+}

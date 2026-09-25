@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0055",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "32 00 00 (Exterior Improvements)",
+  "urgency": "priority",
+  "question_summary": "Site coordination clash: site utility trench conflicting with the proposed landscaping layout at Area C.",
+  "referenced_documents": [
+    "Utility Plan C-301",
+    "Sheet C-101"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Friday",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "Default discipline routing: the Civil Engineer resolves site coordination clashes affecting civil work.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-08-08",
+  "deadline_resolution_status": "resolved_to_date"
+}

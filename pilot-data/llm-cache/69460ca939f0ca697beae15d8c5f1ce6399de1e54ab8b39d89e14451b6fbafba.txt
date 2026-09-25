@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Fire_Protection"],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "urgent",
+  "question_summary": "Existing sprinkler main is conflicting with the new duct routing in Electrical Closet 2A; direction needed on scope before proceeding.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep the crew moving.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "Mechanical Engineer should determine revised duct routing to avoid the existing sprinkler main and coordinate with fire protection.",
+  "escalation": true,
+  "confidence": 0.73
+}

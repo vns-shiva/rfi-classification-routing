@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "routine",
+  "question_summary": "Submitter asks whether the Section 08 44 13 curtain wall mullion detail at the building corner shown in shop drawings, the built field mockup, or the contract drawings/schedule should govern, since they do not match.",
+  "referenced_documents": ["Section 08 44 13", "Sheet A-201", "Door and Window Schedule A-601"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As a document discrepancy involving curtain wall (Architectural/CSI 08 00 00) details, it is routed to the Architect of Record who governs design intent and drawing conflicts.",
+  "escalation": false,
+  "confidence": 0.85
+}
+```

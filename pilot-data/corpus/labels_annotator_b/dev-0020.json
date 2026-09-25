@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0020",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Curtain wall panel detail at Gridline C/4 shown in Sheet A-301 conflicts with head condition specified in Door and Window Schedule A-601; clarification needed to proceed with shop drawings.",
+  "referenced_documents": [
+    "Sheet A-301",
+    "Door and Window Schedule A-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within three calendar days",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The Architect of Record must reconcile the conflicting details between their own drawings and schedules to provide an authoritative clarification on the correct curtain wall head condition.",
+  "escalation": false,
+  "confidence": 0.94,
+  "status": "open",
+  "annotator": "annotator_b",
+  "deadline_iso": "2025-10-26",
+  "deadline_resolution_status": "resolved_to_date"
+}

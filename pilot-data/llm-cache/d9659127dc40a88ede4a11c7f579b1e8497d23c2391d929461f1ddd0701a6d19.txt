@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "priority",
+  "question_summary": "Sequence of Operations M-701 and Mechanical Detail 4/M501 conflict on the required piping insulation type (Section 23 07 00) near EF-4, holding up installation in that area.",
+  "referenced_documents": ["Sequence of Operations M-701", "Mechanical Detail 4/M501"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "As a document discrepancy within the mechanical piping insulation specification, it is routed to the Mechanical Engineer of record for resolution.",
+  "escalation": false,
+  "confidence": 0.85
+}

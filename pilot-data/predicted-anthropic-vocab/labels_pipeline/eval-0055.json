@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0055",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "priority",
+  "question_summary": "Field-identified clash between the proposed utility trench and the landscaping layout at Area C, per Utility Plan C-301 versus Sheet C-101, needs resolution before the next site work sequence.",
+  "referenced_documents": [
+    "Utility Plan C-301",
+    "Sheet C-101"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The conflict involves utility trench routing versus landscape layout, which falls under civil site utility design and requires the Civil Engineer's resolution.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

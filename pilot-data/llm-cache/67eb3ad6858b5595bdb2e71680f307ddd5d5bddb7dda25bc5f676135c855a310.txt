@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Product substitution request",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": ["Architecture"],
+  "csi_division": "22 - Plumbing",
+  "urgency": "High",
+  "question_summary": "Request approval to substitute ABS DWV piping for specified no-hub cast-iron soil piping per Section 22 13 16 to proceed with ordering; potential cost adjustment, no schedule impact; needs EOD response.",
+  "referenced_documents": ["Section 22 13 16"],
+  "proposed_solution": "Use ABS DWV piping in lieu of specified no-hub cast-iron soil piping, with submittal demonstrating equivalent performance and code-compliance listings.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "by the end of the day",
+  "assigned_reviewer": "Plumbing Engineer of Record",
+  "routing_rationale": "Plumbing EOR must evaluate material substitution for equivalency and code compliance for the sanitary soil piping system.",
+  "escalation": false,
+  "confidence": 0.82
+}

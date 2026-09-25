@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "23 00 00",
+  "urgency": "priority",
+  "question_summary": "Field team requests interim direction on how to proceed with ductwork routing near T-1 given an unforeseen ceiling height restriction, while a formal resolution is finalized.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the crew moving.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "As a field condition conflict without confirmed schedule impact or urgent/critical severity, it defaults to the design professional of record for the Mechanical discipline, since the issue involves ductwork routing.",
+  "escalation": false,
+  "confidence": 0.78
+}

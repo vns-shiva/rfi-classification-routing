@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Conflict/Discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 03 - Concrete",
+  "urgency": "high",
+  "question_summary": "Field superintendent identified a conflict between shear wall reinforcement shown on Foundation Plan S-101 and additional #5 ties noted on Sheet S-301, requesting resolution before the next concrete pour.",
+  "referenced_documents": ["Foundation Plan S-101", "Sheet S-301"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "end of day Wednesday",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The conflict involves shear wall reinforcement details between two structural drawings, requiring resolution by the structural engineer of record.",
+  "escalation": false,
+  "confidence": 0.88
+}

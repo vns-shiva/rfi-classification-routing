@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0137",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Field-verified conflict between an existing junction box location and the ceiling grid layout at Lobby 101, not reflected in Electrical Panel Schedule E-601, needs engineering resolution.",
+  "referenced_documents": [
+    "Electrical Panel Schedule E-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within five days",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The conflict involves an electrical junction box location and panel schedule discrepancy, requiring the Electrical Engineer to issue revised routing and sign-off.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-04-15",
+  "deadline_resolution_status": "resolved_to_date"
+}

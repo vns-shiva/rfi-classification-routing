@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Existing electrical panel in Electrical Closet 2A conflicts with new wall framing not shown on Sheet E-501; request direction on resolving location/coordination to proceed.",
+  "referenced_documents": ["Sheet E-501", "Field Log 2025-08-24"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "Primary issue concerns an electrical panel location conflicting with new framing and requires electrical design direction.",
+  "escalation": false,
+  "confidence": 0.86
+}

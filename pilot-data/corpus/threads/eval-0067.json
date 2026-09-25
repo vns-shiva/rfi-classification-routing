@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0067",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0067",
+  "date_submitted": "2025-04-26",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Document coordination conflict on the Section 08 71 00 interior door hardware set at the",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-04-26T09:03",
+      "message_type": "initial_question",
+      "text": "Shop drawings for the Section 08 71 00 interior door hardware set at the stair enclosure are ready to submit, but what's shown doesn't match what's built out in the field mockup -- can you confirm which governs? We would like this closed out ahead of the next submittal deadline. There may be a cost impact if a change to the specified material is required. This is holding up fabrication in this area. A response within three days would be appreciated."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-05-01T10:24",
+      "message_type": "response",
+      "text": "Door and Window Schedule A-601 is the condition to build to for the Section 08 71 00 interior door hardware set at the stair enclosure; we'll reconcile Sheet A-301 by addendum. There may be a cost impact if a change to the specified material is required. This is holding up fabrication in this area."
+    }
+  ]
+}

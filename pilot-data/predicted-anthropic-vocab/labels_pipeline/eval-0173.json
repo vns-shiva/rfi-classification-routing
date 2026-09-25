@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0173",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [
+    "Fire_Protection"
+  ],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "critical",
+  "question_summary": "Existing sprinkler main conflicts with new duct routing at Electrical Closet 2A; contractor requests direction before proceeding as work is stopped.",
+  "referenced_documents": [],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The conflict centers on new mechanical ductwork routing colliding with an existing fire suppression main, requiring the Mechanical Engineer to coordinate a resolution, likely with Fire Protection input.",
+  "escalation": true,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-09-12",
+  "deadline_resolution_status": "resolved_to_date"
+}

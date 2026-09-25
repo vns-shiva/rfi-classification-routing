@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0054",
+  "rfi_type": "Document Coordination / Discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 08 - Openings",
+  "urgency": "low",
+  "question_summary": "Submitter requests confirmation on which document governs for the Section 08 41 13 storefront glazing system at the entry vestibule, since shop drawings do not match the field mockup, prior to finalizing shop drawing submittal.",
+  "referenced_documents": [
+    "Section 08 41 13",
+    "Sheet A-301",
+    "Detail 5/A501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "no specific deadline for this, but a timely response is appreciated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The discrepancy involves storefront glazing details on architectural drawings, requiring the Architect of Record to determine governing documentation and issue an addendum.",
+  "escalation": false,
+  "confidence": 0.83,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

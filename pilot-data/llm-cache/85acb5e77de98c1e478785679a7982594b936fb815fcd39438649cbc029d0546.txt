@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00",
+  "urgency": "urgent",
+  "question_summary": "Field-discovered conduit routing conflict at Lobby 101 not shown on Electrical Detail 2/E502 or One-Line Diagram E-002; after a reroute sketch was issued, foreman asks whether a revised Electrical Detail 2/E502 is required.",
+  "referenced_documents": ["Electrical Detail 2/E502", "One-Line Diagram E-002"],
+  "proposed_solution": "Reroute per the attached sketch to clear the conduit routing conflict at Lobby 101.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response by end of day would be much appreciated.",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "This is a field_condition_conflict with schedule impact and urgent severity, so per policy it is routed to the GC Superintendent rather than the design professional.",
+  "escalation": true,
+  "confidence": 0.78
+}

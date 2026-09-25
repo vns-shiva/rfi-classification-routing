@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0093",
+  "template_id": "t14_field_condition_general_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "field_condition_conflict",
+    "primary_discipline": "General",
+    "urgency": "priority",
+    "cost_impact": true,
+    "schedule_impact": false,
+    "deadline_family": "this_next_week",
+    "adversarial": "none",
+    "thread_shape": "multi_turn_clarification"
+  },
+  "variant_index": 1,
+  "seed": 7980929523744459256,
+  "body_variant_index": {
+    "initial_question": 1,
+    "response": 1,
+    "clarification": 1
+  },
+  "question_summary_variant_index": 1,
+  "proposed_solution_variant_index": 1,
+  "project": "Cedar Grove Elementary Addition",
+  "doc_a": "General Conditions Article 3",
+  "doc_b": "Project Specifications Division 00",
+  "date_submitted": "2025-06-10"
+}

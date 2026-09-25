@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0004",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Existing feeder at Electrical Closet 2A discovered in the field is not shown on Panel Schedule E-601 or Sheet E-501, requiring a reroute; follow-up asks whether E-601 needs revision to reflect the change.",
+  "referenced_documents": [
+    "Electrical Panel Schedule E-601",
+    "Sheet E-501"
+  ],
+  "proposed_solution": "Reroute per attached sketch to clear the existing feeder condition.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "no specific deadline for this, but a timely response is appreciated",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The conflict involves an existing electrical feeder and panel schedule documentation, requiring the Electrical Engineer to confirm design impact and schedule updates.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0159",
+  "template_id": "t16_code_compliance_civil_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "code_compliance_question",
+    "primary_discipline": "Civil",
+    "urgency": "priority",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "relative_days",
+    "adversarial": "answer_in_documents",
+    "thread_shape": "two_message_qa"
+  },
+  "variant_index": 3,
+  "seed": 12907043158799898677,
+  "body_variant_index": {
+    "initial_question": 1,
+    "response": 0
+  },
+  "question_summary_variant_index": 1,
+  "proposed_solution_variant_index": 1,
+  "project": "Cedar Grove Elementary Addition",
+  "doc_a": "Utility Plan C-301",
+  "doc_b": "Sheet C-101",
+  "date_submitted": "2025-10-15"
+}

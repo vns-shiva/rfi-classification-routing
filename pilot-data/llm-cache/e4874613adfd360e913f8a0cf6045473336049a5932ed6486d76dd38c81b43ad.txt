@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "priority",
+  "question_summary": "Sheet M-401 and Mechanical Schedule M-601 conflict on the diffuser layout near AHU-3, requiring clarification on which document governs and whether the resolution applies beyond the AHU-3 condition.",
+  "referenced_documents": ["Sheet M-401", "Mechanical Schedule M-601", "Section 23 37 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The conflict involves ductwork/diffuser coordination under Division 23 HVAC documents, requiring the Mechanical Engineer's clarification.",
+  "escalation": false,
+  "confidence": 0.82
+}

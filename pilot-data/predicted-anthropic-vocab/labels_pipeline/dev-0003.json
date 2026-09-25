@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0003",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Electrical"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "priority",
+  "question_summary": "Sprinkler branch line detailing at Mechanical Room 3B is inconsistent between Fire Alarm Riser Diagram FA-501 and Fire Protection Sheet FP-101, requiring clarification before sprinkler shop drawings can be released.",
+  "referenced_documents": [
+    "FA-501",
+    "FP-101"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The discrepancy involves fire suppression system detailing between fire protection and fire alarm documents, requiring the Plumbing/Fire Protection Engineer to reconcile the conflicting drawings.",
+  "escalation": false,
+  "confidence": 0.75,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

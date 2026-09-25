@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Conflict/Discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 — Concrete",
+  "urgency": "Urgent",
+  "question_summary": "Conflicting reinforcement information for the shear wall: Sheet S-301 differs from Structural Detail 3/S502 regarding use of #6 dowels at 12\" o.c.; which detail governs?",
+  "referenced_documents": ["Sheet S-301", "Detail 3/S502", "Sheet S-502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within two business days ahead of the scheduled pour.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "Conflict concerns shear wall reinforcement details that must be resolved by the Structural Engineer of Record.",
+  "escalation": false,
+  "confidence": 0.79
+}

@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0114",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Shear wall reinforcement conflict between Structural General Notes S-001 and Detail 3/S502 (#6 dowels at 12\" o.c.); follow-up asks whether this dowel spacing applies to all shear walls on the level, not just the one referenced in S-001.",
+  "referenced_documents": [
+    "Structural General Notes S-001",
+    "Structural Detail 3/S502"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within one business day",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "This is a document discrepancy in structural drawings, so it is routed to the Structural Engineer of record for resolution.",
+  "escalation": false,
+  "confidence": 0.87,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-07-04",
+  "deadline_resolution_status": "resolved_to_date"
+}

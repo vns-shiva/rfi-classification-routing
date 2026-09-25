@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Coordination conflict – fire protection vs. structural",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "21 – Fire Suppression",
+  "urgency": "High",
+  "question_summary": "Standpipe riser at Room 214 conflicts with structural bracing; initial reroute sketch issued, but the conflict is more extensive than first reported—confirm if the prior direction still applies or provide revised routing.",
+  "referenced_documents": ["Fire Protection Sheet FP-101", "Attached reroute sketch (2025-05-16)", "Inspection log (last month)"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Fire Protection Engineer of Record",
+  "routing_rationale": "The issue requires confirmation and potentially revision of the standpipe routing, which is the Fire Protection EOR’s design responsibility, with coordination input from Structural as needed.",
+  "escalation": true,
+  "confidence": 0.78
+}

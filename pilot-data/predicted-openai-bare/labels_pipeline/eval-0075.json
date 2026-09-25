@@ -1,0 +1,30 @@
+{
+  "thread_id": "eval-0075",
+  "rfi_type": "Coordination/Conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Fire Protection/Life Safety",
+    "Utilities"
+  ],
+  "csi_division": "32 - Exterior Improvements",
+  "urgency": "Normal",
+  "question_summary": "Conflict between paving layout and required fire lane turning radius at Pour Sequence 4 per Civil Detail 2/C501 vs Utility Plan C-301; request direction to resolve.",
+  "referenced_documents": [
+    "Civil Detail 2/C501",
+    "Utility Plan C-301",
+    "Site coordination sketch (attached)"
+  ],
+  "proposed_solution": "Revise paving layout per the attached site coordination sketch to achieve the required fire lane turning radius at Pour Sequence 4.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer of Record (Site/Civil)",
+  "routing_rationale": "The clash involves site paving geometry and fire access requirements, which the Civil EOR must revise and coordinate with the AHJ.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

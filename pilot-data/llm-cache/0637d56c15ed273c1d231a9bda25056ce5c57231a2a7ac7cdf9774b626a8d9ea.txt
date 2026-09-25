@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Civil"],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "urgent",
+  "question_summary": "Unforeseen underground obstruction encountered at Pour Sequence 4; requester asks if shifting the layout locally while holding all else per plan is acceptable or requires prior design review.",
+  "referenced_documents": ["Project Specifications Division 00 (assumed conditions)"],
+  "proposed_solution": "Shift the layout locally and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "Structural Engineer must evaluate and approve any layout adjustments affecting concrete foundations due to unforeseen subsurface obstructions, with potential coordination to Civil.",
+  "escalation": false,
+  "confidence": 0.72
+}

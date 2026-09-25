@@ -1,0 +1,18 @@
+{
+  "rfi_type": "substitution request",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 - Plumbing",
+  "urgency": "high",
+  "question_summary": "Contractor requests approval to substitute a tankless water heater for the storage-type unit specified in Section 22 34 00 prior to ordering material and starting fixture rough-in.",
+  "referenced_documents": ["Section 22 34 00"],
+  "proposed_solution": "Use a tankless water heater in lieu of the specified storage-type unit, noting the substitution is cost-neutral and will not affect the domestic water pressure test date.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response by the end of the day",
+  "assigned_reviewer": "Plumbing Engineer of Record",
+  "routing_rationale": "The RFI concerns a Division 22 plumbing equipment substitution, so it should be reviewed by the plumbing engineer of record who authored the original specification.",
+  "escalation": true,
+  "confidence": 0.82
+}

@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0165",
+  "rfi_type": "Document Coordination Conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 08 - Openings",
+  "urgency": "low",
+  "question_summary": "Submitter requests clarification on whether shop drawings or the field mockup governs for the Section 08 41 13 storefront glazing system at the entry vestibule, due to a discrepancy between documents and built conditions.",
+  "referenced_documents": [
+    "Sheet A-201",
+    "Detail 5/A501",
+    "Section 08 41 13 Shop Drawings"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict concerns architectural detailing and drawing precedence for the storefront glazing system, making the Architect of Record the appropriate reviewer.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

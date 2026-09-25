@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00",
+  "urgency": "routine",
+  "question_summary": "Detailer flagged a mismatch in the Section 26 51 00 light fixture type between Sheet E-501 and Electrical Detail 2/E502 and asked which governs before releasing for fabrication.",
+  "referenced_documents": ["Sheet E-501", "Electrical Detail 2/E502", "Section 26 51 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No rush on this -- please respond when convenient.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "This is a document discrepancy in electrical scope with no cost impact or urgent field condition, so it routes to the discipline engineer of record, the Electrical Engineer.",
+  "escalation": false,
+  "confidence": 0.9
+}

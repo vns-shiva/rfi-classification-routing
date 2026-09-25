@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0035",
+  "template_id": "t03_document_discrepancy_civil_dev",
+  "cell": {
+    "split": "dev",
+    "rfi_type": "document_discrepancy",
+    "primary_discipline": "Civil",
+    "urgency": "routine",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "ambiguous",
+    "adversarial": "unresolvable_deadline",
+    "thread_shape": "resubmittal"
+  },
+  "variant_index": 0,
+  "seed": 16363783387090240443,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0,
+    "resubmittal": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Harborview Logistics Center",
+  "doc_a": "Grading Plan C-201",
+  "doc_b": "Utility Plan C-301",
+  "date_submitted": "2025-09-06"
+}

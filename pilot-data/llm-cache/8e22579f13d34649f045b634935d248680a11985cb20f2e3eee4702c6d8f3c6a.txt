@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document Coordination Conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Glazing/Curtain Wall"],
+  "csi_division": "08 00 00 - Openings",
+  "urgency": "medium",
+  "question_summary": "Shop drawings for the Section 08 41 13 storefront glazing system at the entry vestibule do not match what is built in the field mockup; submitter requests confirmation of which governs before fabrication proceeds.",
+  "referenced_documents": ["Section 08 41 13 Storefront Glazing Specification", "Shop Drawings - Entry Vestibule Storefront", "Field Mockup"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As the discrepancy involves conflicting design intent between shop drawings and the approved mockup for a storefront glazing assembly, the Architect of Record must confirm which document governs.",
+  "escalation": false,
+  "confidence": 0.78
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00",
+  "urgency": "priority",
+  "question_summary": "Discrepancy in receptacle mounting height per Section 26 27 26 between One-Line Diagram E-002 and Electrical Panel Schedule E-601; submitter requests confirmation of correct height before fabrication and rough-in.",
+  "referenced_documents": ["One-Line Diagram E-002", "Electrical Panel Schedule E-601", "Section 26 27 26"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "before the electrical rough-in inspection",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As a document discrepancy in electrical documents, it is routed to the Electrical Engineer, the design professional of record for this discipline.",
+  "escalation": false,
+  "confidence": 0.85
+}

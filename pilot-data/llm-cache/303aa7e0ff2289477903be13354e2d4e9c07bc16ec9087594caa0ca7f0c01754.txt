@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "26 00 00",
+  "urgency": "priority",
+  "question_summary": "Field-verified conflict between existing conduit and newly routed ductwork at Room 214 is not shown on One-Line Diagram E-002; contractor requests direction to proceed.",
+  "referenced_documents": ["One-Line Diagram E-002"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The conflict centers on an existing electrical conduit not reflected in the electrical one-line diagram, making the Electrical Engineer the appropriate reviewer to coordinate with mechanical ductwork routing.",
+  "escalation": false,
+  "confidence": 0.78
+}

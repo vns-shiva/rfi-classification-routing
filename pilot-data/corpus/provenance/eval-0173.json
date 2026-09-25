@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0173",
+  "template_id": "t19_field_condition_fireprotection_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "field_condition_conflict",
+    "primary_discipline": "Fire_Protection",
+    "urgency": "urgent",
+    "cost_impact": false,
+    "schedule_impact": true,
+    "deadline_family": "business_days",
+    "adversarial": "none",
+    "thread_shape": "two_message_qa"
+  },
+  "variant_index": 1,
+  "seed": 3900596898458504980,
+  "body_variant_index": {
+    "initial_question": 1,
+    "response": 1
+  },
+  "question_summary_variant_index": 1,
+  "proposed_solution_variant_index": 1,
+  "project": "Northgate Mixed-Use Phase II",
+  "doc_a": "Fire Sprinkler Riser Diagram FP-501",
+  "doc_b": "Fire Protection Sheet FP-101",
+  "date_submitted": "2025-09-05"
+}

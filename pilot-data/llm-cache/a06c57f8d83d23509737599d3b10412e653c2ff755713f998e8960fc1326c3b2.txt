@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "21 00 00",
+  "urgency": "critical",
+  "question_summary": "Fire pump room clearance conflicts with newly installed equipment layout at Mechanical Room 3B, halting work and possibly affecting nearby piping.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The conflict centers on required clearance around the fire pump, which falls under fire suppression systems design and code compliance, best resolved by the Plumbing/Fire Protection Engineer.",
+  "escalation": true,
+  "confidence": 0.78
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "26 00 00",
+  "urgency": "routine",
+  "question_summary": "Field-verified junction box location at Lobby 101 conflicts with the ceiling grid layout and is not shown in Electrical Detail 2/E502; foreman requests direction on how to proceed.",
+  "referenced_documents": ["Electrical Detail 2/E502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within five days",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The conflict is routine with no urgent schedule impact, so it defaults to the Electrical Engineer as designer of record for the affected electrical detail.",
+  "escalation": false,
+  "confidence": 0.82
+}

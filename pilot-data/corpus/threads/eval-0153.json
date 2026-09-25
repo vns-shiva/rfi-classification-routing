@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0153",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0153",
+  "date_submitted": "2025-10-22",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Multi-trade coordination clash: structural steel beam clashing with the mechanical",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Chris Boone",
+      "timestamp": "2025-10-22T11:14",
+      "message_type": "initial_question",
+      "text": "Coordination clash identified: structural steel beam clashing with the mechanical ductwork routing, the electrical conduit rack, and the plumbing riser location at Gridline C/4, per Structural General Notes S-001 vs Sheet S-301. This needs immediate attention; multiple trades are blocked. There will be a cost impact to resolve this coordination clash. This is affecting the steel erection schedule. A response within three weeks would be appreciated."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-10-24T16:03",
+      "message_type": "response",
+      "text": "Revise per the attached coordination sketch resolving the structural steel beam clashing with the mechanical ductwork routing, the electrical conduit rack, and the plumbing riser location at Gridline C/4. There will be a cost impact to resolve this coordination clash. This is affecting the steel erection schedule."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0062",
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "low",
+  "question_summary": "Conflict between Sheet A-301 and Sheet A-201 for the Section 08 41 13 storefront glazing at the entry vestibule; confirm which sheet governs.",
+  "referenced_documents": [
+    "Section 08 41 13",
+    "Sheet A-301",
+    "Sheet A-201",
+    "Storefront shop drawings",
+    "Entry vestibule field mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an architectural document conflict between A-301 and A-201 for the storefront system, which the Architect of Record must clarify and revise by addendum.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

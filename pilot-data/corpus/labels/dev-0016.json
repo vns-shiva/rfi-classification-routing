@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0016",
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Conflicting head/jamb detail for the hollow metal door assembly at Gridline D/7 between Detail 5/A501 and Sheet A-201.",
+  "referenced_documents": [
+    "Detail 5/A501",
+    "Sheet A-201"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No specific response date is requested.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Default discipline routing: the Architect of Record interprets and clarifies the Contract Documents for this Architectural-discipline design clarification.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

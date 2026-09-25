@@ -1,0 +1,34 @@
+{
+  "thread_id": "dev-0023",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0023",
+  "date_submitted": "2025-03-25",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Conflict between Structural General Notes S-001 and Foundation Plan S-101 over the embed",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Chris Boone",
+      "timestamp": "2025-03-25T10:24",
+      "message_type": "initial_question",
+      "text": "The embed plate location shown in Structural General Notes S-001 at Gridline C/4 conflicts with the mechanical ductwork and architectural ceiling framing routing shown in Foundation Plan S-101. This is critical -- we need immediate direction to keep fabrication moving. There could be a cost impact if rework of embedded items is required. This could affect the erection sequence schedule. Please respond before the fabricator's shop drawing cutoff."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-03-30T17:57",
+      "message_type": "response",
+      "text": "Revise the embed plate per Foundation Plan S-101; coordinate final dimensions with the affected trades before fabrication. There could be a cost impact if rework of embedded items is required. This could affect the erection sequence schedule."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-04-02T09:25",
+      "message_type": "clarification",
+      "text": "To confirm, should the embed plate at Gridline C/4 remain per Structural General Notes S-001, or do we wait for a revised Foundation Plan S-101? Please respond before the fabricator's shop drawing cutoff."
+    }
+  ]
+}

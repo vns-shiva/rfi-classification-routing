@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0151",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0151",
+  "date_submitted": "2025-07-20",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Direction requested on unforeseen ceiling height restriction affecting the ductwork",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Gary Owusu",
+      "timestamp": "2025-07-20T10:00",
+      "message_type": "initial_question",
+      "text": "Can we get interim direction on the unforeseen ceiling height restriction affecting the ductwork routing near T-1 so the crew isn't fully stopped while you finalize the resolution? This is critical -- please treat this as a top priority. Please respond Thursday so we can keep the crew moving."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-07-25T16:47",
+      "message_type": "response",
+      "text": "Hold work at T-1 -- we'll issue a bulletin addressing the unforeseen ceiling height restriction affecting the ductwork routing by end of day. This is not holding up other work currently."
+    }
+  ]
+}

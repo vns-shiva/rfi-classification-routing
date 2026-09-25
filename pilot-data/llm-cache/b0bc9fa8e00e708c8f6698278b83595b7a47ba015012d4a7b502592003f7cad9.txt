@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen ceiling height restriction at AHU-3 limits ductwork routing; confirm whether the provided reroute sketch fully resolves the expanded conflict and provide final direction.",
+  "referenced_documents": ["Attached sketch (reroute at AHU-3)", "Photos (ceiling height restriction at AHU-3)"],
+  "proposed_solution": "Reroute ductwork to clear the conflict at AHU-3 per the attached sketch, proceeding after verifying clearances.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the crew moving.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "This is a mechanical field condition affecting duct routing, so it is routed to the Mechanical Engineer of record.",
+  "escalation": false,
+  "confidence": 0.78
+}

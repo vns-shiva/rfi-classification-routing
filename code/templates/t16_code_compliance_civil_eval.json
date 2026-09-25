@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "template_id": "t16_code_compliance_civil_eval",
+  "pool": "eval",
+  "axes": {
+    "rfi_type": ["code_compliance_question"],
+    "primary_discipline": ["Civil"],
+    "urgency": ["routine", "priority"],
+    "cost_impact": [false],
+    "schedule_impact": [false],
+    "deadline_family": ["relative_days"],
+    "adversarial": ["answer_in_documents"],
+    "thread_shape": ["single_message", "two_message_qa"]
+  },
+  "csi_by_discipline": {
+    "Civil": "31 00 00 (Earthwork)"
+  },
+  "secondary_by_adversarial": {
+    "answer_in_documents": []
+  },
+  "slots": {
+    "civil_code_item": [
+      "Section 31 23 00 minimum cover requirement for the underground utility trench backfill",
+      "Section 31 20 00 required compaction density for the structural fill under the building pad",
+      "Section 31 50 00 setback requirement for the excavation shoring near the property line",
+      "Section 31 25 00 erosion control requirement for the disturbed slope area"
+    ],
+    "civil_detail_ref": ["Detail 4/C-501", "Detail 2/C-502", "Detail 6/C-601"]
+  },
+  "urgency_phrasing": {
+    "routine": [
+      "This is routine and can be reviewed during the normal submittal cycle.",
+      "No particular urgency here -- please review at your convenience."
+    ],
+    "priority": [
+      "We'd like this confirmed ahead of the next civil inspection.",
+      "This is becoming more pressing as backfill work approaches."
+    ]
+  },
+  "cost_phrasing": {
+    "false": [
+      "No cost impact is expected from this compliance question.",
+      "We don't anticipate any effect on the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "false": [
+      "This isn't holding up any current earthwork activity.",
+      "No schedule impact is anticipated."
+    ]
+  },
+  "deadline_phrasing": {
+    "relative_days": [
+      "Please respond within five days so we can schedule the civil inspection.",
+      "A response within three days would help us stay ahead of the compaction testing."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Project Engineer", "Assistant Project Manager"],
+      "shapes": ["single_message", "two_message_qa"],
+      "body_variants": [
+        "Does the {civil_code_item} shown on {doc_a} hold up against the geotechnical report's requirements for this area? {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase}",
+        "At {pour_or_area}, the geotechnical report doesn't clearly speak to the {civil_code_item} -- can the civil inspector sign off on it as shown? {urgency_phrase} {deadline_phrase}",
+        "Will the {civil_code_item} called out in {civil_detail_ref} pass the erosion control inspector's review before we schedule the compaction test? {cost_phrase} {schedule_phrase}",
+        "Before we schedule the compaction test at {pour_or_area}, please confirm the {civil_code_item} meets the geotechnical review requirements. {urgency_phrase} {cost_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa"],
+      "body_variants": [
+        "The geotechnical report already covers this -- see {civil_detail_ref} for the {civil_code_item}. No further action needed.",
+        "The compaction and cover requirements are satisfied as shown in {doc_a}; no design change is needed for the {civil_code_item}.",
+        "{civil_detail_ref} directly addresses the {civil_code_item} per the geotechnical review; the civil inspector should be able to sign off as documented."
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "31 00 00 (Earthwork)",
+    "question_summary_variants": [
+      "Whether the {civil_code_item} as drawn on {doc_a} is code-conforming.",
+      "Confirmation requested on the {civil_code_item} at {pour_or_area}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "{doc_a} / {civil_detail_ref} already satisfies the {civil_code_item}; no design change is needed."
+    ],
+    "answer_in_documents": true
+  },
+  "gold_routing_table": [
+    {
+      "when": {},
+      "assigned_reviewer": "Code Official/AHJ Liaison",
+      "routing_rationale": "All code compliance questions route to the Code Official/AHJ Liaison regardless of discipline; the answer is already present in the referenced documents.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

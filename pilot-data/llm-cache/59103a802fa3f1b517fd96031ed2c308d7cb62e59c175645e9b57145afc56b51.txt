@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Existing electrical panel location in Room 214 conflicts with new wall framing not shown on Sheet E-501; requesting direction on relocation/adjustment.",
+  "referenced_documents": ["Sheet E-501", "Field log (2025-10-18)"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As a field condition affecting an electrical panel, the Electrical Engineer should provide direction.",
+  "escalation": false,
+  "confidence": 0.83
+}

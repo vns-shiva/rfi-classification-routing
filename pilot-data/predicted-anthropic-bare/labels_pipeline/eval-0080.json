@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0080",
+  "rfi_type": "unforeseen field condition",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Structural/Architectural (wall framing)"
+  ],
+  "csi_division": "26 00 00 - Electrical",
+  "urgency": "high",
+  "question_summary": "Field crew found that the electrical panel location at Mechanical Room 3B conflicts with new wall framing, a condition not reflected in Electrical Panel Schedule E-601; resolution and possible change order are needed before the next work sequence proceeds.",
+  "referenced_documents": [
+    "Electrical Panel Schedule E-601",
+    "revised routing sketch (attached, referenced in M02/M03)"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The conflict involves panel routing and circuit design that only the Electrical Engineer of Record can resolve and formally sign off on via a revised routing sketch.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

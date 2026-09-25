@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0033",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "urgent",
+  "question_summary": "Mechanical Detail 4/M501 conflicts with Mechanical Schedule M-601 for Section 23 37 00 diffuser layout near RTU-2; confirm which governs and whether the direction applies throughout the area.",
+  "referenced_documents": [
+    "Mechanical Detail 4/M501",
+    "Mechanical Schedule M-601",
+    "Section 23 37 00",
+    "RTU-2 area"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "This is a mechanical document discrepancy affecting diffuser layout, so the Mechanical Engineer of record should resolve and issue clarification/addendum.",
+  "escalation": true,
+  "confidence": 0.79,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

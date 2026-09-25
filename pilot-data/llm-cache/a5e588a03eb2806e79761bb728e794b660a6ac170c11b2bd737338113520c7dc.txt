@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen clearance conflict in fire pump room at Mechanical Room 3B with new equipment layout; confirm whether reroute per attached sketch still resolves the condition given greater-than-expected extent.",
+  "referenced_documents": ["Fire Protection Detail 3/FP502", "Last month's inspection log", "Attached sketch from Project Engineer"],
+  "proposed_solution": "Reroute to clear the conflict at Mechanical Room 3B per the attached sketch; proceed once clearance is confirmed.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep the crew moving.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a fire protection field condition affecting pump room clearances, it should be reviewed by the Fire Protection engineer of record.",
+  "escalation": true,
+  "confidence": 0.82
+}

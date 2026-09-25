@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "08 - Openings",
+  "urgency": "Normal",
+  "question_summary": "Confirm which governs for the building corner curtain wall mullion detail where the shop drawings and the field mockup do not match.",
+  "referenced_documents": ["Section 08 44 13 Glazed Aluminum Curtain Walls", "Curtain Wall Mullion Detail - Building Corner", "Shop Drawings - Curtain Wall", "Field Mockup Documentation"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The curtain wall corner mullion detail is an architectural design element and requires the Architect of Record to confirm design intent and reconcile the conflict between documents and mockup.",
+  "escalation": false,
+  "confidence": 0.76
+}

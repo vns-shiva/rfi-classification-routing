@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "Design Clarification",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 03 - Concrete",
+  "urgency": "Low",
+  "question_summary": "Submitter asks whether the concrete cover requirement shown at the footing in Structural Detail 3/S502 complies with the code edition referenced in Section 03 20 00.",
+  "referenced_documents": ["Structural Detail 3/S502", "Section 03 20 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The question concerns concrete cover requirements on a structural footing detail, which falls under the structural engineer's design responsibility.",
+  "escalation": false,
+  "confidence": 0.82
+}
+```

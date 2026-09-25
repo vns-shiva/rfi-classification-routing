@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "Discrepancy/Conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["BIM Coordination"],
+  "csi_division": "Division 26 - Electrical",
+  "urgency": "Medium",
+  "question_summary": "Detailer identified a mismatch in Section 26 05 33 conduit routing between Electrical Detail 2/E502 and One-Line Diagram E-002 and is requesting confirmation of which is correct before fabrication release.",
+  "referenced_documents": ["Electrical Detail 2/E502", "One-Line Diagram E-002", "Section 26 05 33"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "before the panel energization walkthrough",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The discrepancy involves conduit routing details governed by the electrical one-line diagram and details, requiring the Electrical Engineer of Record to confirm design intent.",
+  "escalation": false,
+  "confidence": 0.82
+}
+```

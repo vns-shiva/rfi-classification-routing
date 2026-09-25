@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "urgent",
+  "question_summary": "Shop drawings for the interior door hardware set at the stair enclosure (Section 08 71 00) do not match the field-built mockup; submitter asks which condition governs before fabrication and submittal deadline.",
+  "referenced_documents": ["Section 08 71 00", "Door and Window Schedule A-601", "Sheet A-301"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As a document discrepancy in an architectural finish/hardware detail, it is routed to the Architect of Record who is responsible for reconciling the conflicting contract documents.",
+  "escalation": true,
+  "confidence": 0.86
+}

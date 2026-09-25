@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "21 00 00",
+  "urgency": "priority",
+  "question_summary": "Existing sprinkler main conflicts with new duct routing at Lobby 101, a condition not shown on FP-101; crew needs direction to keep work moving.",
+  "referenced_documents": ["Fire Protection Sheet FP-101", "last month's inspection log"],
+  "proposed_solution": "Reroute to clear the conflict at Lobby 101 per the attached sketch; proceed once clearance is confirmed.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a field condition conflict without urgent/critical schedule impact, it routes to the Plumbing/Fire Protection Engineer as design professional of record for the fire protection system.",
+  "escalation": false,
+  "confidence": 0.85
+}

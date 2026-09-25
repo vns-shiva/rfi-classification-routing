@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0036",
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Document coordination conflict on the Section 08 41 13 storefront glazing system at the entry vestibule.",
+  "referenced_documents": [
+    "Sheet A-201",
+    "Door and Window Schedule A-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within three days",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Default discipline routing: the Architect of Record resolves design clarifications affecting architectural work.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-10-20",
+  "deadline_resolution_status": "resolved_to_date"
+}

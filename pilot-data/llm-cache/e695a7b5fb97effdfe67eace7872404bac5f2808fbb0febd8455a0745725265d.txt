@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen obstruction in Electrical Closet 2A conflicts with required panel clearance; request direction to reroute and clarification if One-Line Diagram E-002 must be revised.",
+  "referenced_documents": ["One-Line Diagram E-002", "Electrical Panel Schedule E-601", "Reroute sketch (attached)"],
+  "proposed_solution": "Reroute per the attached sketch to clear the panel clearance obstruction at Electrical Closet 2A.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by end of week so we can plan the rough-in sequence.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "This is an electrical field condition requiring design approval of the reroute and any drawing updates, so it should be reviewed by the Electrical Engineer.",
+  "escalation": false,
+  "confidence": 0.7
+}

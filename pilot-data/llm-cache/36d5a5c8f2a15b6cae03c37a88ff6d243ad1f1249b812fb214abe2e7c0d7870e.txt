@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination clash",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "Division 31 - Earthwork",
+  "urgency": "low",
+  "question_summary": "Field team identified a conflict between the retaining wall footing and the underground utility corridor at Pour Sequence 4, per Sheet C-101 versus Civil Detail 2/C501, requiring coordination resolution.",
+  "referenced_documents": ["Sheet C-101", "Civil Detail 2/C501"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The clash involves underground utility routing versus a retaining wall footing shown on civil drawings, making the civil engineer the appropriate reviewer with structural input as needed.",
+  "escalation": false,
+  "confidence": 0.82
+}

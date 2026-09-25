@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0024",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "urgent",
+  "question_summary": "Unforeseen utility line beneath slab at Pour 3 conflicts with planned work; requesting approval to locally shift layout and keep rest per plan.",
+  "referenced_documents": [
+    "General Conditions Article 3"
+  ],
+  "proposed_solution": "Shift the layout locally around the utility line and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The issue concerns a conflicting buried utility, so the Civil Engineer is the design professional of record to approve layout adjustments.",
+  "escalation": true,
+  "confidence": 0.73,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

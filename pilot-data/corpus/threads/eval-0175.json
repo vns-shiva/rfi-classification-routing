@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0175",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0175",
+  "date_submitted": "2025-03-07",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Unforeseen electrical field condition: existing feeder conflicting with the new equipment",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Tom Reilly",
+      "timestamp": "2025-03-07T09:27",
+      "message_type": "initial_question",
+      "text": "We de-energized the circuit and logged the existing feeder conflicting with the new equipment pad at Electrical Closet 2A in today's field log; this isn't reflected in Sheet E-501. We would like this resolved ahead of the next work sequence. This condition will require a change order. No broader schedule impact is expected. A response within three days would be appreciated."
+    }
+  ]
+}

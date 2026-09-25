@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "urgent",
+  "question_summary": "Undersized mechanical shaft in corridor chase near P-101 is impacting installation and may affect adjacent duct run; requester seeks interim direction and whether a separate bulletin is needed for the duct.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The conflict involves mechanical shaft sizing and adjacent duct coordination, which falls under the Mechanical Engineer’s scope to resolve and bulletin.",
+  "escalation": true,
+  "confidence": 0.69
+}

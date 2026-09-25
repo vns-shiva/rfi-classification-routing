@@ -1,0 +1,23 @@
+```json
+{
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "—",
+  "urgency": "priority",
+  "question_summary": "Verification that the occupancy separation rating specified in Project Manual Section 01 00 00 complies with the code edition referenced in Section 26 05 00.",
+  "referenced_documents": [
+    "Project Manual Section 01 00 00",
+    "Project Manual Section 26 05 00"
+  ],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Code Official/AHJ Liaison",
+  "routing_rationale": "This is a code compliance determination requiring authoritative interpretation of occupancy separation ratings against the adopted code edition, best reviewed by the Code Official/AHJ Liaison to confirm acceptability.",
+  "escalation": false,
+  "confidence": 0.75
+}
+```

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "priority",
+  "question_summary": "Mechanical Detail 4/M501 and Sheet M-401 conflict on the specified piping insulation type at AHU-3; clarification needed to keep installation moving before the next submittal deadline.",
+  "referenced_documents": ["Mechanical Detail 4/M501", "Sheet M-401"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "As a document discrepancy in the mechanical piping insulation specification with no cost impact and non-critical urgency, it routes to the Mechanical Engineer as design professional of record.",
+  "escalation": false,
+  "confidence": 0.88
+}

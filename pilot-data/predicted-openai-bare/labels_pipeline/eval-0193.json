@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0193",
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "medium",
+  "question_summary": "Confirm which governs for the corner aluminum window frame: Detail 5/A501 or the Door and Window Schedule A-601, as shop drawings and field mockup conflict with the documents.",
+  "referenced_documents": [
+    "Section 08 51 13",
+    "Detail 5/A501",
+    "Door and Window Schedule A-601",
+    "Shop Drawings",
+    "Field Mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The issue is a conflict between architectural detail and schedule requiring design clarification and addendum by the Architect.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

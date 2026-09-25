@@ -1,0 +1,37 @@
+{
+  "gridline": ["Gridline C/4", "Gridline D/7", "Gridline B/2", "Gridline E/9"],
+  "detail_ref": ["Detail 5/A501", "Detail 3/A502", "Detail 7/S301"],
+  "sheet_ref": ["Sheet A-201", "Sheet S-301", "Sheet M-401", "Sheet E-501", "Sheet P-601", "Sheet C-101"],
+  "spec_section": ["Section 03 30 00", "Section 07 92 00", "Section 09 65 00", "Section 23 05 00", "Section 26 05 00"],
+  "submittal_ref": ["Submittal 08-14", "Submittal 12.3", "Submittal #045", "Shop Drawing Submittal 06-02"],
+  "equipment_tag": ["AHU-3", "RTU-2", "P-101", "EF-4", "T-1"],
+  "room_name": ["Room 214", "Mechanical Room 3B", "Electrical Closet 2A", "Lobby 101"],
+  "elevation_ref": ["Elevation 2/A401", "North Elevation A301", "Elevation B/A502"],
+  "pour_or_area": ["Pour 3", "Area C", "Placement Zone 2", "Pour Sequence 4"],
+  "doc_refs": {
+    "Architectural": [
+      "Sheet A-201", "Sheet A-301", "Detail 5/A501", "Door and Window Schedule A-601"
+    ],
+    "Structural": [
+      "Sheet S-301", "Foundation Plan S-101", "Structural Detail 3/S502", "Structural General Notes S-001"
+    ],
+    "Mechanical": [
+      "Sheet M-401", "Mechanical Schedule M-601", "Sequence of Operations M-701", "Mechanical Detail 4/M501"
+    ],
+    "Electrical": [
+      "Sheet E-501", "Electrical Panel Schedule E-601", "One-Line Diagram E-002", "Electrical Detail 2/E502"
+    ],
+    "Plumbing": [
+      "Sheet P-601", "Plumbing Riser Diagram P-501", "Plumbing Fixture Schedule P-602", "Plumbing Detail 6/P503"
+    ],
+    "Fire_Protection": [
+      "Fire Protection Sheet FP-101", "Fire Sprinkler Riser Diagram FP-501", "Fire Alarm Riser Diagram FA-501", "Fire Protection Detail 3/FP502"
+    ],
+    "Civil": [
+      "Sheet C-101", "Grading Plan C-201", "Utility Plan C-301", "Civil Detail 2/C501"
+    ],
+    "General": [
+      "Project Manual Section 01 00 00", "General Conditions Article 3", "Addendum 3", "Project Specifications Division 00"
+    ]
+  }
+}

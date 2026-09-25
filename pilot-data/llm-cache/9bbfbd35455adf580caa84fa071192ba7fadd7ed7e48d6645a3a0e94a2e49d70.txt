@@ -1,0 +1,18 @@
+{
+  "rfi_type": "unforeseen field condition",
+  "primary_discipline": "fire protection",
+  "secondary_disciplines": ["mechanical"],
+  "csi_division": "Division 21 - Fire Suppression",
+  "urgency": "high",
+  "question_summary": "Existing sprinkler main conflicts with new duct routing at Room 214, not shown on FA-501; extent of conflict is larger than initially reported and submitter asks if prior direction still applies.",
+  "referenced_documents": ["Fire Alarm Riser Diagram FA-501", "inspection log (previous month)", "attached sketch"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Fire Protection Engineer",
+  "routing_rationale": "The conflict involves the fire sprinkler main and its coordination with ductwork, requiring the fire protection engineer to confirm whether the expanded conflict is still covered by the original reroute direction.",
+  "escalation": true,
+  "confidence": 0.72
+}

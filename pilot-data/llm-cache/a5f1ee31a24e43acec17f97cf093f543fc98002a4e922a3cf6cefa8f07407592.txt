@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Design conflict/clarification",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 - Concrete",
+  "urgency": "High",
+  "question_summary": "Resolve conflict between Foundation Plan S-101 and Sheet S-301 regarding additional #5 ties at column baseplates, and confirm whether the added ties apply to all column baseplates at this level.",
+  "referenced_documents": ["Foundation Plan S-101", "Sheet S-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "We need direction by end of day Wednesday.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "Structural reinforcement detailing conflict and extent confirmation should be resolved by the Structural Engineer of Record.",
+  "escalation": false,
+  "confidence": 0.79
+}

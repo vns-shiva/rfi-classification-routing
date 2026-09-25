@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0022",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "urgent",
+  "question_summary": "Field crew encountered an undersized mechanical shaft in the corridor chase at P-101 and requested direction on a permanent fix.",
+  "referenced_documents": [
+    "attached sketch"
+  ],
+  "proposed_solution": "Reroute to clear the conflict at P-101 per the attached sketch; proceed once clearance is confirmed.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the crew moving.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "As a field condition conflict without schedule impact, it is routed to the Mechanical Engineer, the design professional of record for the mechanical discipline.",
+  "escalation": true,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

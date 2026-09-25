@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0039",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Curtain wall panel head/jamb detail at Gridline C/4 in Detail 5/A501 conflicts with the head condition shown on Sheet A-201, and clarification is needed before the next submittal cycle.",
+  "referenced_documents": [
+    "Detail 5/A501",
+    "Sheet A-201"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Respond whenever convenient",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As a document discrepancy in an architectural curtain wall detail with no cost or schedule impact, it is routed to the Architect of Record for resolution.",
+  "escalation": false,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,18 @@
+{
+  "thread_id": "dev-0005",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0005",
+  "date_submitted": "2025-03-11",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Unforeseen conduit routing conflict at Mechanical Room 3B conflicting with Electrical",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Tom Reilly",
+      "timestamp": "2025-03-11T10:50",
+      "message_type": "initial_question",
+      "text": "Field investigation at Mechanical Room 3B revealed a field condition -- conduit routing conflict -- not shown on Electrical Detail 2/E502 or One-Line Diagram E-002. This is becoming a priority on our end -- we'd appreciate a prompt response. We do not expect this to affect the contract sum. No schedule impact is expected. Please respond by end of week so we can plan the rough-in sequence."
+    }
+  ]
+}

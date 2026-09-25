@@ -1,0 +1,18 @@
+{
+  "thread_id": "dev-0020",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0020",
+  "date_submitted": "2025-10-23",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Conflicting head/jamb detail for the curtain wall panel at Gridline C/4 between Sheet",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-10-23T16:43",
+      "message_type": "initial_question",
+      "text": "The curtain wall panel detail at Gridline C/4 shown in Sheet A-301 does not match the head condition called out in Door and Window Schedule A-601. This is becoming a priority as we sequence upcoming shop drawings. No cost impact is anticipated either way. This is not holding up any current activity. A response within three calendar days would help us hold the current shop drawing schedule."
+    }
+  ]
+}

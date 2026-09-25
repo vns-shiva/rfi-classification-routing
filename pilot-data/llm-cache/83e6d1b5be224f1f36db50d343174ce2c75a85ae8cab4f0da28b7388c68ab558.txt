@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Drawing/specification conflict",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "Normal (response requested in 5 days)",
+  "question_summary": "Confirm which document governs for the Section 08 44 13 curtain wall corner mullion detail due to conflict between A-201 and Door/Window Schedule A-601 for shop drawing fabrication.",
+  "referenced_documents": ["Section 08 44 13", "Sheet A-201", "Door and Window Schedule A-601"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an architectural document coordination issue involving curtain wall details and drawing/schedule precedence.",
+  "escalation": false,
+  "confidence": 0.84
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Shop drawings for Section 08 71 00 stair enclosure interior door hardware do not match the field mockup; confirm which condition governs for submittal and installation.",
+  "referenced_documents": ["Section 08 71 00 – Door Hardware", "Shop Drawings – Door Hardware (Stair Enclosure)", "Field Mockup – Stair Enclosure Door/Hardware"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Door hardware scope and design intent for the stair enclosure fall under Architectural, and the Architect must determine whether the mockup or submittal aligns with contract requirements.",
+  "escalation": false,
+  "confidence": 0.64
+}

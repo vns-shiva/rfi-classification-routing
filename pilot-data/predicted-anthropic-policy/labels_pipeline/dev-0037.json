@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0037",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "priority",
+  "question_summary": "Sanitary vent stack detailing at Room 214 is inconsistent between Plumbing Fixture Schedule P-602 and Plumbing Riser Diagram P-501, creating uncertainty as rough-in proceeds.",
+  "referenced_documents": [
+    "Plumbing Fixture Schedule P-602",
+    "Plumbing Riser Diagram P-501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a document discrepancy in the plumbing discipline with no cost impact or urgent/critical schedule condition, it routes to the Plumbing/Fire Protection Engineer as the design professional of record.",
+  "escalation": false,
+  "confidence": 0.88,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

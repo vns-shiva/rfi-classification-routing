@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "priority",
+  "question_summary": "Detailer identified a conflict between Mechanical Detail 4/M501 and Mechanical Schedule M-601 regarding equipment clearance at RTU-2 under Section 23 74 00, and requested clarification on which document governs, plus whether the resolution applies to the whole area or just RTU-2.",
+  "referenced_documents": ["Mechanical Detail 4/M501", "Mechanical Schedule M-601", "Section 23 74 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The conflict involves mechanical equipment clearance requirements between two mechanical documents, requiring the Mechanical Engineer to confirm scope of applicability.",
+  "escalation": false,
+  "confidence": 0.85
+}

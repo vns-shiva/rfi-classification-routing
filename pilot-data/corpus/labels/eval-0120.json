@@ -1,0 +1,30 @@
+{
+  "thread_id": "eval-0120",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "Mechanical",
+    "Electrical",
+    "Plumbing"
+  ],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "critical",
+  "question_summary": "Multi-trade coordination clash: structural steel beam clashing with the mechanical ductwork routing, the electrical conduit rack, and the plumbing riser location at Gridline B/2.",
+  "referenced_documents": [
+    "Structural Detail 3/S502",
+    "Structural General Notes S-001"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within two weeks",
+  "assigned_reviewer": "Owner's Representative",
+  "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Structural Engineer looped in as technical reviewer.",
+  "escalation": true,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-07-14",
+  "deadline_resolution_status": "resolved_to_date"
+}

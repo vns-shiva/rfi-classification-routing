@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0170",
+  "rfi_type": "Compliance/Coordination Question",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Geotechnical"
+  ],
+  "csi_division": "Division 31 - Earthwork",
+  "urgency": "Low",
+  "question_summary": "Submitter asks whether the Section 31 25 00 erosion control requirement for the disturbed slope area shown on Civil Detail 2/C501 is consistent with the geotechnical report's requirements for that area.",
+  "referenced_documents": [
+    "Section 31 25 00",
+    "Civil Detail 2/C501",
+    "Geotechnical Report"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The question centers on reconciling erosion control specifications with civil grading details and geotechnical recommendations, making the Civil Engineer of Record the appropriate reviewer with geotechnical consultation.",
+  "escalation": false,
+  "confidence": 0.75,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

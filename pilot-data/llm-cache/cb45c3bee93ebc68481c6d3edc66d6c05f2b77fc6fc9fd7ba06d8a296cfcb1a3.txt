@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Structural General Notes S-001 and Foundation Plan S-101 regarding column baseplate reinforcement versus #6 dowels at 12\" o.c.; which detail governs?",
+  "referenced_documents": ["S-001", "S-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "We need direction by end of day Wednesday.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "This is a structural document conflict, so it should be resolved by the Structural Engineer of record.",
+  "escalation": false,
+  "confidence": 0.86
+}

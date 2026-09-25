@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "routine",
+  "question_summary": "Shop drawings for the entry vestibule storefront glazing system (Section 08 41 13) do not match the built field mockup; submitter asks which governs and whether this is a documentation error or requires design intent clarification.",
+  "referenced_documents": ["Section 08 41 13 storefront glazing shop drawings", "field mockup"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The discrepancy involves storefront glazing design intent versus field mockup, which falls under the Architect of Record's purview for Division 08 openings.",
+  "escalation": false,
+  "confidence": 0.85
+}

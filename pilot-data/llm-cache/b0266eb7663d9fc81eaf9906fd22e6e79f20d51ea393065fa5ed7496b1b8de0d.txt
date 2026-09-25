@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Specifications"],
+  "csi_division": "08 - Openings",
+  "urgency": "High",
+  "question_summary": "Conflict between Door & Window Schedule A-601 and Sheet A-301 for Section 08 71 00 interior door hardware at stair enclosure; confirm which document governs for fabrication and submittals.",
+  "referenced_documents": ["Section 08 71 00", "Sheet A-601 Door and Window Schedule", "Sheet A-301", "Field mockup", "Shop drawings"],
+  "proposed_solution": "Use A-601 as the governing document for the stair enclosure interior door hardware set and reconcile A-301 by addendum.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The issue is an architectural door/hardware coordination conflict requiring confirmation of governing documents and an addendum.",
+  "escalation": false,
+  "confidence": 0.8
+}

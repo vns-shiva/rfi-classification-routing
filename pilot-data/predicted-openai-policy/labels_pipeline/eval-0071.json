@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0071",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Shop drawings for Section 08 71 00 interior stair enclosure door hardware do not match the field mockup; confirm which governs for fabrication.",
+  "referenced_documents": [
+    "Section 08 71 00 Door Hardware",
+    "Door Hardware Shop Drawings",
+    "Stair Enclosure Door Field Mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an Architectural openings coordination issue between submittals and a mockup, which the Architect of Record should resolve.",
+  "escalation": false,
+  "confidence": 0.73,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0036",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0036",
+  "date_submitted": "2025-10-17",
+  "submitted_by_role": "Assistant Project Manager",
+  "subject": "Document coordination conflict on the Section 08 41 13 storefront glazing system at the",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Assistant Project Manager",
+      "sender_name": "Alicia Stone",
+      "timestamp": "2025-10-17T10:23",
+      "message_type": "initial_question",
+      "text": "Shop drawings for the Section 08 41 13 storefront glazing system at the entry vestibule are ready to submit, but what's shown doesn't match what's built out in the field mockup -- can you confirm which governs? No rush on this -- please respond when convenient. No cost impact is anticipated. No schedule impact is expected. A response within three days would be appreciated. We can't tell if this is a deliberate design call or just a coordination slip in how it was documented."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-10-21T13:04",
+      "message_type": "response",
+      "text": "Door and Window Schedule A-601 is the condition to build to for the Section 08 41 13 storefront glazing system at the entry vestibule; we'll reconcile Sheet A-201 by addendum. No cost impact is anticipated. No schedule impact is expected."
+    }
+  ]
+}

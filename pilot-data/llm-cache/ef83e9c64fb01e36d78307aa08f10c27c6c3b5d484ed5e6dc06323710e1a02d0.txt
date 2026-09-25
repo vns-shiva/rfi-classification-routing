@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "33 00 00",
+  "urgency": "priority",
+  "question_summary": "An unforeseen utility line was discovered beneath the slab at Placement Zone 2, conflicting with the planned slab layout; contractor proposes a local layout shift and requests confirmation before proceeding.",
+  "referenced_documents": ["Project Specifications Division 00"],
+  "proposed_solution": "Shift the layout locally at the conflict area and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The conflict involves an underground utility line, which falls under Civil discipline responsibility, and since no broader schedule impact was reported the GC Superintendent escalation rule does not apply.",
+  "escalation": false,
+  "confidence": 0.78
+}

@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0048",
+  "template_id": "t21_field_condition_electrical_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "field_condition_conflict",
+    "primary_discipline": "Electrical",
+    "urgency": "routine",
+    "cost_impact": false,
+    "schedule_impact": true,
+    "deadline_family": "relative_days",
+    "adversarial": "none",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 17540053409422924551,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Harborview Logistics Center",
+  "doc_a": "Sheet E-501",
+  "doc_b": "Electrical Detail 2/E502",
+  "date_submitted": "2025-08-24"
+}

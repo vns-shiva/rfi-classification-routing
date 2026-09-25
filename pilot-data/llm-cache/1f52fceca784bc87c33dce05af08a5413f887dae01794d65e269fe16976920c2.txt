@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Field Condition Conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "Division 26 - Electrical",
+  "urgency": "low",
+  "question_summary": "Junction box location logged in the field at Lobby 101 conflicts with the ceiling grid layout, which is not reflected in Electrical Detail 2/E502; requesting guidance on how to proceed.",
+  "referenced_documents": ["Electrical Detail 2/E502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The conflict involves an electrical junction box detail versus ceiling layout, requiring the Electrical EOR to confirm or revise the junction box location relative to the reflected ceiling plan.",
+  "escalation": false,
+  "confidence": 0.72
+}

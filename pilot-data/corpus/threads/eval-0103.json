@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0103",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0103",
+  "date_submitted": "2025-08-28",
+  "submitted_by_role": "Foreman",
+  "subject": "Conflicting reinforcement detail for the shear wall between Foundation Plan S-101 and",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Luis Fernandez",
+      "timestamp": "2025-08-28T16:51",
+      "message_type": "initial_question",
+      "text": "The shear wall reinforcement shown in Foundation Plan S-101 conflicts with #6 dowels at 12\" o.c. noted in Structural General Notes S-001. This is becoming a priority on our end; we'd appreciate a prompt response. We do not expect this to affect the contract sum. This is directly on the critical path for the current pour sequence. Please respond by Thursday, ahead of Friday's pour."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-08-29T13:39",
+      "message_type": "response",
+      "text": "Proceed with #6 dowels at 12\" o.c. per Structural General Notes S-001; Foundation Plan S-101 is superseded. We do not expect this to affect the contract sum. This is directly on the critical path for the current pour sequence."
+    }
+  ]
+}

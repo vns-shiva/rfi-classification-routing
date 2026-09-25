@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0009",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Shop drawings for the Section 08 71 00 interior door hardware set at the stair enclosure do not match the field mockup; submitter asks which condition governs before proceeding with fabrication.",
+  "referenced_documents": [
+    "Sheet A-201",
+    "Door and Window Schedule A-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict involves interior door hardware documentation on architectural sheets, which falls under the Architect of Record's authority to resolve.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

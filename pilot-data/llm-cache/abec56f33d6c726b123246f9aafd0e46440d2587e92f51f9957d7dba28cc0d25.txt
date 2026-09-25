@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "routine",
+  "question_summary": "Conflict between Sheet M-401 and Sequence of Operations M-701 regarding Section 23 74 00 equipment clearance near P-101 needs resolution before next submittal deadline.",
+  "referenced_documents": ["Sheet M-401", "Sequence of Operations M-701", "Section 23 74 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "As a document discrepancy in the mechanical discipline with no cost or urgent field condition triggers, it routes to the Mechanical Engineer as the design professional of record.",
+  "escalation": false,
+  "confidence": 0.85
+}

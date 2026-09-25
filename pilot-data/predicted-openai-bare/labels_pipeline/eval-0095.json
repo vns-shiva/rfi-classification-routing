@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0095",
+  "rfi_type": "Unforeseen existing condition",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "02 Existing Conditions",
+  "urgency": "High",
+  "question_summary": "Deteriorated existing structure discovered behind finish wall at Placement Zone 2; requesting approval to locally shift layout while holding all else per plan or advise if further review is required.",
+  "referenced_documents": [
+    "Project Specifications Division 00 (Assumed Existing Conditions)"
+  ],
+  "proposed_solution": "Shift the layout locally and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The issue concerns a deteriorated existing structural element and a proposed layout adjustment that may affect structural integrity, requiring SER evaluation and direction.",
+  "escalation": false,
+  "confidence": 0.74,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

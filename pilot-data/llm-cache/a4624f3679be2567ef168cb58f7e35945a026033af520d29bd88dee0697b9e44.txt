@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Design Clarification",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "Division 21 - Fire Suppression",
+  "urgency": "medium",
+  "question_summary": "FDC piping detail 3/FP502 at Mechanical Room 3B conflicts with Fire Sprinkler Riser Diagram FP-501; clarification needed before releasing sprinkler shop drawings and performing underground flush/hydrostatic test.",
+  "referenced_documents": ["Fire Protection Detail 3/FP502", "Fire Sprinkler Riser Diagram FP-501"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Fire Protection Engineer of Record",
+  "routing_rationale": "The discrepancy involves fire protection detailing between two fire suppression drawings, requiring resolution by the Fire Protection Engineer of Record.",
+  "escalation": false,
+  "confidence": 0.85
+}

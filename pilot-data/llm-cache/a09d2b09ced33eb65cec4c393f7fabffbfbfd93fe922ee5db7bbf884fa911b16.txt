@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Existing electrical conduit at Lobby 101 conflicts with new HVAC duct routing; request direction for rerouting/coordination as it is holding up work.",
+  "referenced_documents": ["E-601 Electrical Panel Schedule", "Field log entry 2025-05-23", "Attached routing sketch"],
+  "proposed_solution": "Reroute the existing conduit to clear the new duct per the attached sketch; keep the circuit locked out until revised routing is approved.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "Resolution requires approval and sketch for rerouting existing electrical conduit, which falls under the Electrical Engineer’s scope.",
+  "escalation": false,
+  "confidence": 0.78
+}

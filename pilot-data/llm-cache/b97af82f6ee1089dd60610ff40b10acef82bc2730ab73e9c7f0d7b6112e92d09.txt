@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "26 00 00",
+  "urgency": "priority",
+  "question_summary": "Field verification revealed the electrical panel location in Mechanical Room 3B conflicts with new wall framing, a condition not reflected in Electrical Panel Schedule E-601; circuit was de-energized and locked out pending a resolution before the next work sequence.",
+  "referenced_documents": ["Electrical Panel Schedule E-601"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As a field condition conflict primarily involving electrical panel routing, and not meeting the urgent/critical threshold for superintendent routing, it is directed to the Electrical Engineer of record for design resolution.",
+  "escalation": true,
+  "confidence": 0.82
+}
+```

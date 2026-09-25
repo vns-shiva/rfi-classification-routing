@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0148",
+  "rfi_type": "Document Discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "Division 08 - Openings",
+  "urgency": "low",
+  "question_summary": "Shop drawings for the curtain wall mullion detail at the building corner (Section 08 44 13) do not match the built field mockup; submitter asks which governs.",
+  "referenced_documents": [
+    "Section 08 44 13 curtain wall mullion detail",
+    "Field mockup",
+    "Shop drawings"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The discrepancy involves curtain wall detailing governed by the architectural specification section, requiring the Architect of Record to confirm which document controls.",
+  "escalation": false,
+  "confidence": 0.75,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

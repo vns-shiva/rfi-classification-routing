@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": ["Structural", "Electrical"],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "urgent",
+  "question_summary": "Unforeseen field condition where the standpipe riser conflicts with structural bracing at Electrical Closet 2A; not shown on FA-501; direction/confirmation needed to proceed.",
+  "referenced_documents": ["FA-501 Fire Alarm Riser Diagram", "Last month's inspection log"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "Issue involves fire protection standpipe routing conflicting with structural elements, requiring fire protection engineer direction and coordination with structural.",
+  "escalation": false,
+  "confidence": 0.79
+}

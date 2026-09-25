@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0043",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0043",
+  "date_submitted": "2025-07-09",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Conflicting reinforcement detail for the slab-on-deck pour strip between Structural",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Gary Owusu",
+      "timestamp": "2025-07-09T10:54",
+      "message_type": "initial_question",
+      "text": "The slab-on-deck pour strip reinforcement shown in Structural Detail 3/S502 conflicts with additional #5 ties noted in Structural General Notes S-001. This is urgent -- we need direction as soon as possible. We do not expect this to affect the contract sum. This is directly on the critical path for the current pour sequence. We need a response within one business day, if at all possible. Honestly, this could go either way on how fast it needs a response -- reasonable people on the team see it differently."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-07-10T14:55",
+      "message_type": "response",
+      "text": "Proceed with additional #5 ties per Structural General Notes S-001; Structural Detail 3/S502 is superseded. We do not expect this to affect the contract sum. This is directly on the critical path for the current pour sequence."
+    }
+  ]
+}

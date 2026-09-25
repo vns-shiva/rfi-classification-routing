@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0195",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Mechanical",
+    "Plumbing"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "urgent",
+  "question_summary": "Field team requests confirmation of scope after discovering the fire pump room clearance conflicts with the new equipment layout at Mechanical Room 3B, with work stopped pending direction; a follow-up notes nearby piping may also be affected.",
+  "referenced_documents": [],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "The conflict is a field condition issue with confirmed schedule impact and urgent priority, so per policy it routes to the GC Superintendent for immediate field direction.",
+  "escalation": true,
+  "confidence": 0.75,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

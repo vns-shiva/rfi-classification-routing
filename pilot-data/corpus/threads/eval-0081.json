@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0081",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0081",
+  "date_submitted": "2025-06-09",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Site coordination clash: grading plan conflicting with the storm drainage inlet location",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-06-09T15:20",
+      "message_type": "initial_question",
+      "text": "Coordination clash identified: grading plan conflicting with the storm drainage inlet location at Pour 3, per Grading Plan C-201 vs Sheet C-101. We would like this closed out ahead of the next site work sequence. No cost impact is anticipated. This is not holding up any current site work. Please respond Thursday so we can keep the site crew moving. For context, the separate irrigation change order under review does not affect this clash."
+    }
+  ]
+}

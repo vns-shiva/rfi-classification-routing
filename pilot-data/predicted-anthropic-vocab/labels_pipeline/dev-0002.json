@@ -1,0 +1,25 @@
+{
+  "thread_id": "dev-0002",
+  "rfi_type": "substitution_request",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Request to substitute a fan-powered VAV box in lieu of the specified single-duct VAV terminal unit per Section 23 09 00.",
+  "referenced_documents": [
+    "Section 23 09 00"
+  ],
+  "proposed_solution": "Use a fan-powered alternate VAV box in lieu of the specified single-duct VAV terminal unit.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The request involves substitution of an HVAC terminal unit specified under Division 23, requiring the Mechanical Engineer's review and approval.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "substitution_request",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00",
+  "urgency": "priority",
+  "question_summary": "Subcontractor requests approval to substitute PEX piping for the specified copper domestic water piping (Section 22 11 16), submitting cut sheet and third-party listing for review prior to fixture rough-in.",
+  "referenced_documents": ["Section 22 11 16", "PEX cut sheet", "third-party listing"],
+  "proposed_solution": "Use PEX alternate in lieu of specified copper domestic water piping, as supported by attached cut sheet and third-party listing.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response by the end of the day",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The request concerns a substitution to specified domestic water piping material, which falls under plumbing engineering review and approval authority.",
+  "escalation": false,
+  "confidence": 0.85
+}

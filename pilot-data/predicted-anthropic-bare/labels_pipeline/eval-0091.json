@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0091",
+  "rfi_type": "Document Coordination Conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Doors & Hardware"
+  ],
+  "csi_division": "Division 08 - Openings",
+  "urgency": "high",
+  "question_summary": "Shop drawings for the Section 08 71 00 interior door hardware set at the stair enclosure do not match the built field mockup; submitter requests confirmation of which governs before fabrication proceeds.",
+  "referenced_documents": [
+    "Section 08 71 00 Door Hardware Shop Drawings",
+    "Field Mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict involves discrepancies between contract documents (shop drawings) and field-built conditions for door hardware, which falls under the Architect of Record's responsibility for design intent and document coordination.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

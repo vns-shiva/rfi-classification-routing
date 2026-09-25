@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Mechanical", "Electrical", "Plumbing"],
+  "csi_division": "05 00 00",
+  "urgency": "urgent",
+  "question_summary": "Roof bracing at Gridline C/4 clashes with rooftop mechanical equipment curb, electrical conduit rack, and roof drain leader, blocking fabrication release for multiple trades.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within two weeks",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "As a multi-trade coordination conflict centered on roof structural bracing, it is routed to the Structural Engineer as design professional of record for the primary discipline.",
+  "escalation": true,
+  "confidence": 0.72
+}

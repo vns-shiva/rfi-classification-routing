@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0033",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "priority",
+  "question_summary": "Backflow preventer assembly detailing is inconsistent between Plumbing Fixture Schedule P-602 and Plumbing Detail 6/P503 at Electrical Closet 2A; clarification needed before rough-in inspection.",
+  "referenced_documents": [
+    "Plumbing Fixture Schedule P-602",
+    "Plumbing Detail 6/P503"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "ahead of the next rough-in inspection",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The Plumbing Engineer is best positioned to reconcile the conflicting detailing between the fixture schedule and construction detail for the backflow preventer assembly.",
+  "escalation": false,
+  "confidence": 0.92,
+  "status": "open",
+  "annotator": "annotator_b",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

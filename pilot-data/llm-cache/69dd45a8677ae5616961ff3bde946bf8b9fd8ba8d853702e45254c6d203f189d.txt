@@ -1,0 +1,18 @@
+{
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "31 00 00",
+  "urgency": "priority",
+  "question_summary": "Submitter requests confirmation that the excavation shoring at Pour 3 satisfies the Section 31 50 00 setback requirement near the property line, since the geotechnical report does not clearly address it, prior to the scheduled civil inspection.",
+  "referenced_documents": ["Section 31 50 00", "Geotechnical Report"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can schedule the civil inspection.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The RFI concerns an excavation setback requirement under Section 31 50 00 tied to site earthwork near the property line, which falls within the Civil Engineer's scope.",
+  "escalation": false,
+  "confidence": 0.68
+}

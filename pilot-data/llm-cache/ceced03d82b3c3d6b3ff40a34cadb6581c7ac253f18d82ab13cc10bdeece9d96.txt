@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document conflict/clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "low",
+  "question_summary": "Confirm whether the Section 08 41 13 storefront glazing shop drawings or the field mockup at the entry vestibule governs.",
+  "referenced_documents": ["Specification Section 08 41 13 Aluminum-Framed Entrances and Storefronts", "Storefront glazing shop drawings", "Field mockup at entry vestibule"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The issue concerns a conflict in architectural storefront design and mockup compliance under Section 08 41 13, which the Architect of Record must resolve.",
+  "escalation": false,
+  "confidence": 0.78
+}

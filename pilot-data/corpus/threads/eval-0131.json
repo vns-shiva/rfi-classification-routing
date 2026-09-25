@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0131",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0131",
+  "date_submitted": "2025-08-15",
+  "submitted_by_role": "Foreman",
+  "subject": "Unforeseen field condition: conflicting utility line beneath the slab area at Area C",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Bobby Kern",
+      "timestamp": "2025-08-15T17:32",
+      "message_type": "initial_question",
+      "text": "We found the conflicting utility line beneath the slab area at Area C; see Project Manual Section 01 00 00 for the assumed condition. Our proposal is to shift the layout locally and hold everything else per plan -- let us know if that works or if you need to review first. This is becoming a priority as work proceeds nearby. This condition will require a change order. This is holding up work in this area. Please respond this week so we can keep the crew moving."
+    }
+  ]
+}

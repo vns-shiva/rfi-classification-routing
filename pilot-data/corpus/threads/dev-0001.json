@@ -1,0 +1,18 @@
+{
+  "thread_id": "dev-0001",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0001",
+  "date_submitted": "2025-03-05",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Conflicting head/jamb detail for the curtain wall panel at Gridline D/7 between Detail",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-03-05T16:56",
+      "message_type": "initial_question",
+      "text": "The curtain wall panel detail at Gridline D/7 shown in Detail 5/A501 does not match the head condition called out in Sheet A-301. We would like to close this out ahead of the next submittal cycle. We do not expect this to affect the contract sum. This could affect our current fabrication schedule. No specific response date is requested."
+    }
+  ]
+}

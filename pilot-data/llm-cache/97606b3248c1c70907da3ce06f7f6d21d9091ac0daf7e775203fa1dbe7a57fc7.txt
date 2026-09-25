@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document conflict/coordination",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Controls"],
+  "csi_division": "23",
+  "urgency": "Urgent",
+  "question_summary": "Conflict between Sequence of Operations M-701 and Mechanical Detail 4/M501 regarding Section 23 74 00 equipment clearance at location P-101; requester needs direction on which to follow.",
+  "referenced_documents": ["Sequence of Operations M-701", "Mechanical Detail 4/M501", "Section 23 74 00", "Plan location P-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The issue is a design conflict within mechanical documents affecting equipment clearance and controls intent, requiring determination by the Mechanical Engineer of Record and issuance of a reconciling update.",
+  "escalation": true,
+  "confidence": 0.83
+}

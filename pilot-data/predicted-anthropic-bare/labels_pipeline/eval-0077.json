@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0077",
+  "rfi_type": "Document Discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "Division 08 - Openings",
+  "urgency": "low",
+  "question_summary": "Submitter requests clarification on which document governs for the Section 08 44 13 curtain wall mullion detail at the building corner, since the shop drawings do not match the field mockup, prior to fabrication.",
+  "referenced_documents": [
+    "Section 08 44 13 curtain wall mullion detail",
+    "field mockup",
+    "shop drawings"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The discrepancy involves curtain wall design intent under Division 08, making the Architect of Record the appropriate reviewer to confirm which document governs.",
+  "escalation": false,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

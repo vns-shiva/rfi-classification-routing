@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0040",
+  "template_id": "t09_design_clarification_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "design_clarification",
+    "primary_discipline": "Structural",
+    "urgency": "priority",
+    "cost_impact": true,
+    "schedule_impact": false,
+    "deadline_family": "weekday",
+    "adversarial": "none",
+    "thread_shape": "two_message_qa"
+  },
+  "variant_index": 0,
+  "seed": 4524801432764415042,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Northgate Mixed-Use Phase II",
+  "doc_a": "Foundation Plan S-101",
+  "doc_b": "Sheet S-301",
+  "date_submitted": "2025-09-28"
+}

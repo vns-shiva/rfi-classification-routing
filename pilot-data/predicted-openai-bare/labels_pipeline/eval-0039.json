@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0039",
+  "rfi_type": "Unforeseen existing condition/field conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "03 - Concrete",
+  "urgency": "High",
+  "question_summary": "Existing wall at Pour Sequence 4 does not match the drawings; contractor requests approval to locally shift the layout while holding all else per plan.",
+  "referenced_documents": [
+    "Project Manual Section 01 00 00",
+    "Structural drawings \u2013 Pour Sequence 4",
+    "Attached photos and field measurements"
+  ],
+  "proposed_solution": "Shift the layout locally and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving.",
+  "assigned_reviewer": "Structural Engineer of Record (SER)",
+  "routing_rationale": "The issue affects structural layout and concrete pour sequencing due to an unforeseen existing wall condition and requires structural design approval and change order direction.",
+  "escalation": false,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

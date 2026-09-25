@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Design Clarification / Field Coordination Issue",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "23 00 00 - Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "high",
+  "question_summary": "Foreman requests interim direction on an undersized mechanical shaft in the corridor chase near P-101 so work can continue while a permanent resolution/bulletin is finalized, with a follow-up question on whether the adjacent duct run also needs its own bulletin.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The issue concerns an undersized mechanical shaft requiring a design bulletin, so it should be routed to the Mechanical Engineer of Record for final resolution.",
+  "escalation": false,
+  "confidence": 0.72
+}

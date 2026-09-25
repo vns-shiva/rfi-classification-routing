@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0014",
+  "rfi_type": "Unforeseen existing condition - mechanical clearance conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [
+    "Architectural",
+    "Structural"
+  ],
+  "csi_division": "23 - Heating, Ventilating, and Air Conditioning",
+  "urgency": "High",
+  "question_summary": "Ceiling height restriction near AHU-3 extends further than anticipated; confirm whether the prior reroute sketch still resolves the duct conflict or provide revised direction for a permanent fix.",
+  "referenced_documents": [
+    "PE reroute sketch for AHU-3",
+    "Field photos of ceiling height restriction at AHU-3"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the crew moving.",
+  "assigned_reviewer": "Mechanical Engineer of Record (MEOR)",
+  "routing_rationale": "Design clarification for duct reroute and permanent resolution at AHU-3 falls under the mechanical engineer\u2019s scope.",
+  "escalation": false,
+  "confidence": 0.76,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

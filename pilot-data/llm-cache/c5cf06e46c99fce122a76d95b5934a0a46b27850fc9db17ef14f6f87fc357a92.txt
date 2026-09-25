@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Confirm whether the entry vestibule storefront glazing should follow the shop drawings or the field mockup where they do not match.",
+  "referenced_documents": ["Section 08 41 13", "Shop Drawings - Storefront Glazing System", "Field Mockup - Entry Vestibule"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict involves architectural storefront scope and requires the Architect’s direction on which standard (shop drawings vs. field mockup) governs.",
+  "escalation": false,
+  "confidence": 0.79
+}

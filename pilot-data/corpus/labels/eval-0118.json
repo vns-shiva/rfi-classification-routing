@@ -1,0 +1,23 @@
+{
+  "thread_id": "eval-0118",
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Document coordination conflict on the Section 08 41 13 storefront glazing system at the entry vestibule.",
+  "referenced_documents": [],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Default discipline routing: the Architect of Record resolves design clarifications affecting architectural work.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

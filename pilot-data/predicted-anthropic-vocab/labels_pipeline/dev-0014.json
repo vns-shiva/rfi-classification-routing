@@ -1,0 +1,25 @@
+{
+  "thread_id": "dev-0014",
+  "rfi_type": "substitution_request",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Contractor requests approval to substitute a linear slot diffuser in lieu of the specified perforated face diffuser under Section 23 30 00 due to lead time concerns.",
+  "referenced_documents": [
+    "Section 23 30 00"
+  ],
+  "proposed_solution": "Substitute linear slot alternate diffuser for the specified perforated face diffuser.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The request involves a substitution of HVAC diffuser equipment specified in Section 23 30 00, requiring review by the Mechanical Engineer.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-08-01",
+  "deadline_resolution_status": "resolved_to_date"
+}

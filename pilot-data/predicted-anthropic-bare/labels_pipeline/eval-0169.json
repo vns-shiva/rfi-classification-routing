@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0169",
+  "rfi_type": "design conflict / clarification",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "high",
+  "question_summary": "Field asked whether the revised bar splice detail in 3/S502 (which conflicts with baseplate reinforcement shown on S-301) should be used, and follow-up asks whether this revised splice applies to all column baseplates on the level, not just the one originally flagged, ahead of a scheduled concrete pour.",
+  "referenced_documents": [
+    "S-301",
+    "3/S502"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by Thursday, ahead of Friday's pour.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The conflict involves structural reinforcement detailing at a column baseplate and requires confirmation from the Structural EOR on scope of applicability across the level.",
+  "escalation": true,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

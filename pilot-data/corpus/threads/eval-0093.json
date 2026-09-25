@@ -1,0 +1,34 @@
+{
+  "thread_id": "eval-0093",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0093",
+  "date_submitted": "2025-06-10",
+  "submitted_by_role": "Foreman",
+  "subject": "Direction requested on unforeseen underground obstruction near Mechanical Room 3B",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Luis Fernandez",
+      "timestamp": "2025-06-10T14:55",
+      "message_type": "initial_question",
+      "text": "We found the unforeseen underground obstruction near Mechanical Room 3B and need your sign-off before we commit to a permanent fix. This is becoming a priority as work proceeds nearby. A response next week would still let us stay on track."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-06-11T15:05",
+      "message_type": "response",
+      "text": "Your proposed workaround at Mechanical Room 3B is close, but we'd want it field-verified against General Conditions Article 3 before sign-off."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Gary Owusu",
+      "timestamp": "2025-06-14T12:08",
+      "message_type": "clarification",
+      "text": "Following up on the workaround at Mechanical Room 3B -- can we get a decision so the crew isn't idle much longer?"
+    }
+  ]
+}

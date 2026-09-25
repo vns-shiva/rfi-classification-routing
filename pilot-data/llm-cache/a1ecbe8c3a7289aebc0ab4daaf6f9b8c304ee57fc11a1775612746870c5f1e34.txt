@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Electrical"],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen existing electrical conduit is conflicting with the new HVAC duct routing at Lobby 101; contractor requests approval/confirmation of reroute per attached sketch.",
+  "referenced_documents": ["E-601 Electrical Panel Schedule", "Attached routing sketch for existing conduit at Lobby 101"],
+  "proposed_solution": "Approve the attached sketch to reroute the existing conduit to clear the new duct at Lobby 101.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "This is a field conflict involving new duct routing, so it is routed to the Mechanical Engineer as the design professional of record.",
+  "escalation": false,
+  "confidence": 0.78
+}

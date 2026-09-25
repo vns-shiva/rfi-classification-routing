@@ -1,0 +1,18 @@
+{
+  "thread_id": "dev-0008",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0008",
+  "date_submitted": "2025-08-14",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Inconsistent detailing of the fire department connection (FDC) piping at Mechanical Room",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-08-14T15:40",
+      "message_type": "initial_question",
+      "text": "The fire department connection (FDC) piping shown in Fire Protection Detail 3/FP502 at Mechanical Room 3B isn't detailed consistently with Fire Sprinkler Riser Diagram FP-501 -- need direction before we release the sprinkler shop drawings. We would like this closed out ahead of the underground flush and hydrostatic test. No cost impact is anticipated. This is holding up the hydrostatic test in this area. There's no hard deadline on this, but a timely response is appreciated."
+    }
+  ]
+}

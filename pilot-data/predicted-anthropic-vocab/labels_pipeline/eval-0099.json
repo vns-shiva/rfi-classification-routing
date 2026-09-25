@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0099",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Mismatch found between One-Line Diagram E-002 and Electrical Panel Schedule E-601 regarding Section 26 27 26 receptacle mounting height; submitter requests confirmation of correct value before fabrication.",
+  "referenced_documents": [
+    "One-Line Diagram E-002",
+    "Electrical Panel Schedule E-601",
+    "Section 26 27 26"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond before the electrical rough-in inspection.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The discrepancy involves electrical documentation (one-line diagram vs panel schedule) under CSI 26 00 00, requiring the Electrical Engineer's clarification.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

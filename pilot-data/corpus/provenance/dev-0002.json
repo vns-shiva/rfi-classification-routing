@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0002",
+  "template_id": "t04_substitution_mechanical_dev",
+  "cell": {
+    "split": "dev",
+    "rfi_type": "substitution_request",
+    "primary_discipline": "Mechanical",
+    "urgency": "priority",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "business_days",
+    "adversarial": "distractor_cost_language",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 6437196773063102991,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Riverside Medical Office Building",
+  "doc_a": "Mechanical Schedule M-601",
+  "doc_b": "Sheet M-401",
+  "date_submitted": "2025-06-19"
+}

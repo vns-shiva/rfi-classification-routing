@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Coordination/Conflict with Geotechnical Report",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Geotechnical"],
+  "csi_division": "31",
+  "urgency": "Medium",
+  "question_summary": "Confirm whether the minimum cover requirement for underground utility trench backfill per Section 31 23 00 and shown on Sheet C-101 is acceptable and consistent with the geotechnical report for this area.",
+  "referenced_documents": ["Section 31 23 00 Excavation and Fill", "Sheet C-101", "Geotechnical Report"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within five days",
+  "assigned_reviewer": "Civil Engineer of Record (Site/Civil)",
+  "routing_rationale": "The inquiry concerns site utility trench cover shown on civil drawings and specified in Division 31, requiring the Civil EOR to confirm compliance and coordinate with the Geotechnical engineer.",
+  "escalation": false,
+  "confidence": 0.73
+}

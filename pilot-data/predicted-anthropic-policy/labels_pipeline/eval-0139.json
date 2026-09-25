@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0139",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Junction box location in Mechanical Room 3B conflicts with ceiling grid layout, discrepancy not reflected in Sheet E-501; work is halted pending resolution.",
+  "referenced_documents": [
+    "Sheet E-501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within five days",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "Since urgency is priority (not urgent/critical), rule 3 does not apply, so the RFI routes to the Electrical Engineer as the design professional of record for the electrical discipline.",
+  "escalation": true,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-04-21",
+  "deadline_resolution_status": "resolved_to_date"
+}

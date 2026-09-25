@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "template_id": "t12_coordination_conflict_multidiscipline_eval",
+  "pool": "eval",
+  "axes": {
+    "rfi_type": ["coordination_conflict"],
+    "primary_discipline": ["Structural"],
+    "urgency": ["priority", "critical"],
+    "cost_impact": [true],
+    "schedule_impact": [true],
+    "deadline_family": ["relative_weeks"],
+    "adversarial": ["multi_discipline"],
+    "thread_shape": ["two_message_qa", "resubmittal"]
+  },
+  "csi_by_discipline": {
+    "Structural": "03 00 00 (Concrete)"
+  },
+  "secondary_by_adversarial": {
+    "multi_discipline": ["Mechanical", "Electrical", "Plumbing"]
+  },
+  "slots": {
+    "coordination_clash": [
+      "structural steel beam clashing with the mechanical ductwork routing, the electrical conduit rack, and the plumbing riser location",
+      "concrete grade beam clashing with the underground electrical duct bank, the plumbing sanitary main, and the mechanical condensate drain routing",
+      "structural column clashing with the plumbing riser location, an adjacent electrical conduit run, and the mechanical chilled water piping",
+      "roof structure bracing clashing with the rooftop mechanical equipment curb, the adjacent electrical conduit rack, and the roof drain plumbing leader"
+    ]
+  },
+  "urgency_phrasing": {
+    "priority": [
+      "We would like this resolved ahead of the next fabrication release.",
+      "This is becoming a priority as steel fabrication proceeds."
+    ],
+    "critical": [
+      "This is critical -- fabrication is stopped pending resolution.",
+      "This needs immediate attention; multiple trades are blocked."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "There will be a cost impact to resolve this coordination clash.",
+      "This clash will require a change order to resolve."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up fabrication release in this area.",
+      "This is affecting the steel erection schedule."
+    ]
+  },
+  "deadline_phrasing": {
+    "relative_weeks": [
+      "Please respond within two weeks so we can keep fabrication on track.",
+      "A response within three weeks would be appreciated."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Detailer/BIM Coordinator", "Project Engineer"],
+      "shapes": ["two_message_qa", "resubmittal"],
+      "body_variants": [
+        "Coordination clash identified: {coordination_clash} at {gridline}, per {doc_a} vs {doc_b}. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase}",
+        "The {coordination_clash} at {gridline} needs resolution before we can release for fabrication. {urgency_phrase} {deadline_phrase}",
+        "Please advise on resolving the {coordination_clash} shown at {gridline}. {cost_phrase} {schedule_phrase}",
+        "We have a coordination clash: {coordination_clash} at {gridline}. {urgency_phrase} {cost_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa", "resubmittal"],
+      "body_variants": [
+        "Revise per the attached coordination sketch resolving the {coordination_clash} at {gridline}. {cost_phrase} {schedule_phrase}",
+        "Hold fabrication release at {gridline} pending a coordination sketch for the {coordination_clash}.",
+        "Confirmed -- proceed per the coordination sketch for the {coordination_clash} at {gridline}. {schedule_phrase}"
+      ]
+    },
+    {
+      "message_type": "resubmittal",
+      "sender_role_pool": ["Detailer/BIM Coordinator", "Project Engineer"],
+      "shapes": ["resubmittal"],
+      "body_variants": [
+        "Resubmitting after coordination review: the {coordination_clash} at {gridline} is resolved per the attached sketch. {deadline_phrase}",
+        "Revised model attached reflecting resolution of the {coordination_clash} at {gridline}.",
+        "Coordination is now resolved -- {coordination_clash} at {gridline} is clash-free; requesting sign-off. {cost_phrase}"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "03 00 00 (Concrete)",
+    "question_summary_variants": [
+      "Multi-trade coordination clash: {coordination_clash} at {gridline}.",
+      "Conflict involving {coordination_clash} at {gridline} between {doc_a} and {doc_b}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend a coordination sketch resolving the {coordination_clash}."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {},
+      "assigned_reviewer": "Owner's Representative",
+      "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Structural Engineer looped in as technical reviewer.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "Default discipline routing would keep this with the Structural Engineer; this project's delegation letter pulls the owner's rep in whenever both cost and schedule are affected, regardless of discipline."
+    }
+  ]
+}

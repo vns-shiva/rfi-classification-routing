@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0075",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "32 00 00 (Exterior Improvements)",
+  "urgency": "priority",
+  "question_summary": "Site coordination clash: paving layout conflicting with the fire lane turning radius at Pour Sequence 4.",
+  "referenced_documents": [
+    "Civil Detail 2/C501",
+    "Utility Plan C-301"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Friday",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "Default discipline routing: the Civil Engineer resolves site coordination clashes affecting civil work.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-08-01",
+  "deadline_resolution_status": "resolved_to_date"
+}

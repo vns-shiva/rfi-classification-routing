@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0021",
+  "rfi_type": "Conflict between drawings/specifications",
+  "primary_discipline": "Mechanical (HVAC)",
+  "secondary_disciplines": [
+    "Controls/ATC"
+  ],
+  "csi_division": "23",
+  "urgency": "High",
+  "question_summary": "Conflict between Sequence of Operations M-701 and Mechanical Detail 4/M501 regarding Section 23 07 00 piping insulation type at EF-4; requester needs direction for installation.",
+  "referenced_documents": [
+    "Sequence of Operations M-701",
+    "Mechanical Detail 4/M501",
+    "Section 23 07 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The conflict involves HVAC insulation requirements and drawing/spec coordination, which the Mechanical Engineer of Record must resolve and document via addendum.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

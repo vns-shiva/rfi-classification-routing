@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Building Envelope/Glazing"],
+  "csi_division": "08 - Openings",
+  "urgency": "low",
+  "question_summary": "Conflict between Section 08 51 13 aluminum window corner detail shown in shop drawings and what was built in the field mockup; confirm which governs.",
+  "referenced_documents": ["Section 08 51 13 Aluminum Windows", "Shop Drawings – Aluminum Window Corner Detail", "Field Mockup – Corner Window"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No rush on this -- please respond when convenient. No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The Architect of Record is responsible for Division 08 window details and must resolve conflicts between design documents, shop drawings, and the approved mockup.",
+  "escalation": false,
+  "confidence": 0.68
+}

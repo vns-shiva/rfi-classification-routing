@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0197",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Foundation Plan S-101 conflicts with Structural Detail 3/S502 regarding slab-on-deck pour strip reinforcement (dowel spacing/size); field asked which detail governs and whether the directive applies to all pour strips on the level.",
+  "referenced_documents": [
+    "Foundation Plan S-101",
+    "Structural Detail 3/S502"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "respond by Thursday, ahead of Friday's pour",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The discrepancy is a structural reinforcement detail conflict, so it is routed to the Structural Engineer of record per the default design-professional routing rule.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0159",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0159",
+  "date_submitted": "2025-10-15",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Confirmation requested on the Section 31 23 00 minimum cover requirement for the",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-10-15T10:24",
+      "message_type": "initial_question",
+      "text": "At Pour Sequence 4, the geotechnical report doesn't clearly speak to the Section 31 23 00 minimum cover requirement for the underground utility trench backfill -- can the civil inspector sign off on it as shown? This is becoming more pressing as backfill work approaches. A response within three days would help us stay ahead of the compaction testing."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-10-16T13:44",
+      "message_type": "response",
+      "text": "The geotechnical report already covers this -- see Detail 6/C-601 for the Section 31 23 00 minimum cover requirement for the underground utility trench backfill. No further action needed."
+    }
+  ]
+}

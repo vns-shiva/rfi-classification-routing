@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0122",
+  "rfi_type": "Document Discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Glazing/Curtain Wall"
+  ],
+  "csi_division": "Division 08 - Openings",
+  "urgency": "low",
+  "question_summary": "Shop drawings for the Section 08 51 13 aluminum window frame detail at the corner window conflict with the built field mockup; submitter requests confirmation of which governs.",
+  "referenced_documents": [
+    "Section 08 51 13 aluminum window frame detail",
+    "Shop drawings",
+    "Field mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Project Architect",
+  "routing_rationale": "The conflict involves aluminum window frame detailing under Division 08, which falls under the Project Architect's responsibility for design intent and detail coordination.",
+  "escalation": false,
+  "confidence": 0.8,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Sheet A-201 and Sheet A-301 for Section 08 44 13 curtain wall mullion detail at the building corner; confirm which detail governs for fabrication.",
+  "referenced_documents": ["Sheet A-201", "Sheet A-301", "Section 08 44 13"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is a discrepancy between architectural drawings, so it should be resolved by the Architect of Record.",
+  "escalation": false,
+  "confidence": 0.77
+}

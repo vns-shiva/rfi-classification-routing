@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0193",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0193",
+  "date_submitted": "2025-04-27",
+  "submitted_by_role": "Assistant Project Manager",
+  "subject": "Document coordination conflict on the Section 08 51 13 aluminum window frame detail at",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Assistant Project Manager",
+      "sender_name": "Kevin Cho",
+      "timestamp": "2025-04-27T07:57",
+      "message_type": "initial_question",
+      "text": "Shop drawings for the Section 08 51 13 aluminum window frame detail at the corner window are ready to submit, but what's shown doesn't match what's built out in the field mockup -- can you confirm which governs? This is routine and can be worked into the normal submittal cycle. No cost impact is anticipated. This is holding up fabrication in this area. A response within three days would be appreciated. We can't tell if this is a deliberate design call or just a coordination slip in how it was documented."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-05-01T09:14",
+      "message_type": "response",
+      "text": "Detail 5/A501 is the condition to build to for the Section 08 51 13 aluminum window frame detail at the corner window; we'll reconcile Door and Window Schedule A-601 by addendum. No cost impact is anticipated. This is holding up fabrication in this area."
+    }
+  ]
+}

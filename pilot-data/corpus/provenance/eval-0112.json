@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0112",
+  "template_id": "t17_field_condition_mechanical_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "field_condition_conflict",
+    "primary_discipline": "Mechanical",
+    "urgency": "critical",
+    "cost_impact": true,
+    "schedule_impact": false,
+    "deadline_family": "weekday",
+    "adversarial": "none",
+    "thread_shape": "multi_turn_clarification"
+  },
+  "variant_index": 1,
+  "seed": 3836597673450893141,
+  "body_variant_index": {
+    "initial_question": 1,
+    "response": 1,
+    "clarification": 1
+  },
+  "question_summary_variant_index": 1,
+  "proposed_solution_variant_index": 1,
+  "project": "Harborview Logistics Center",
+  "doc_a": "Mechanical Detail 4/M501",
+  "doc_b": "Sheet M-401",
+  "date_submitted": "2025-08-25"
+}

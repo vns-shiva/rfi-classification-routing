@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "05 00 00 (Metals)",
+  "urgency": "urgent",
+  "question_summary": "Unforeseen deteriorated existing structure behind the finish wall at Placement Zone 2; requesting approval to shift the layout locally while holding all else per plan.",
+  "referenced_documents": ["General Conditions Article 3"],
+  "proposed_solution": "Shift the layout locally and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The issue concerns deterioration of existing structural elements and requires structural evaluation and approval of the proposed layout shift.",
+  "escalation": false,
+  "confidence": 0.66
+}

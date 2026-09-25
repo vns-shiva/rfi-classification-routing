@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "template_id": "t02_coordination_structural_dev",
+  "pool": "dev",
+  "axes": {
+    "rfi_type": ["coordination_conflict"],
+    "primary_discipline": ["Structural"],
+    "urgency": ["priority", "critical"],
+    "cost_impact": [false, true],
+    "schedule_impact": [false, true],
+    "deadline_family": ["relative_weeks", "event_anchored"],
+    "adversarial": ["multi_discipline"],
+    "thread_shape": ["two_message_qa", "multi_turn_clarification"]
+  },
+  "csi_by_discipline": {
+    "Structural": "05 00 00 (Metals)"
+  },
+  "secondary_by_adversarial": {
+    "multi_discipline": ["Architectural", "Mechanical"]
+  },
+  "slots": {
+    "structural_element": ["embed plate", "moment connection baseplate", "shear wall hold-down", "cast-in anchor bolt group"],
+    "detail_ref": ["Detail 7/S301", "Detail 4/S302", "Detail 2/S401"]
+  },
+  "urgency_phrasing": {
+    "priority": [
+      "We would like this closed out ahead of the next fabrication release.",
+      "This is becoming a priority as steel detailing proceeds."
+    ],
+    "critical": [
+      "This is critical -- we need immediate direction to keep fabrication moving.",
+      "This needs immediate attention -- please prioritize a response."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "This may affect the contract sum depending on the resolution.",
+      "There could be a cost impact if rework of embedded items is required."
+    ],
+    "false": [
+      "No cost impact is anticipated either way.",
+      "We do not expect this to affect the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up steel fabrication release.",
+      "This could affect the erection sequence schedule."
+    ],
+    "false": [
+      "This is not holding up any current fabrication activity.",
+      "No schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "relative_weeks": [
+      "Please respond within two weeks so we can hold the fabrication release date.",
+      "A response within three weeks would let us keep the erection sequence on track."
+    ],
+    "event_anchored": [
+      "We need this resolved before the next steel erection mobilization.",
+      "Please respond before the fabricator's shop drawing cutoff."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Project Engineer", "Detailer/BIM Coordinator"],
+      "shapes": ["two_message_qa", "multi_turn_clarification"],
+      "body_variants": [
+        "The {structural_element} location shown in {doc_a} at {gridline} conflicts with the mechanical ductwork and architectural ceiling framing routing shown in {doc_b}. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase}",
+        "We cannot proceed with fabrication of the {structural_element} near {gridline} until the conflict between {doc_a} and {doc_b}, which affects both the mechanical ductwork and the architectural ceiling grid, is resolved. {urgency_phrase} {deadline_phrase}",
+        "Per {detail_ref}, the {structural_element} at {gridline} interferes with adjacent architectural and mechanical trade work shown in {doc_b}. {cost_phrase} {schedule_phrase}",
+        "Coordination between {doc_a} and {doc_b} shows two different {structural_element} positions at {gridline}, affecting both the mechanical and architectural trades; please advise which governs. {urgency_phrase} {cost_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa", "multi_turn_clarification"],
+      "body_variants": [
+        "Revise the {structural_element} per {doc_b}; coordinate final dimensions with the affected trades before fabrication. {cost_phrase} {schedule_phrase}",
+        "Hold the {structural_element} as shown in {doc_a} at {gridline}; the conflicting routing in {doc_b} will be relocated instead.",
+        "Confirmed conflict -- see {detail_ref} for the resolved condition at {gridline}. {schedule_phrase}"
+      ]
+    },
+    {
+      "message_type": "clarification",
+      "sender_role_pool": ["Project Engineer", "Detailer/BIM Coordinator"],
+      "shapes": ["multi_turn_clarification"],
+      "body_variants": [
+        "To confirm, should the {structural_element} at {gridline} remain per {doc_a}, or do we wait for a revised {doc_b}? {deadline_phrase}",
+        "The response references {detail_ref}, but that detail does not show the {structural_element} condition at {gridline} -- please clarify.",
+        "Following up: {cost_phrase} Can you confirm whether the resequencing affects other gridlines besides {gridline}?"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "05 00 00 (Metals)",
+    "question_summary_variants": [
+      "Conflict between {doc_a} and {doc_b} over the {structural_element} location at {gridline}.",
+      "Fabrication of the {structural_element} near {gridline} is blocked by a coordination conflict between {doc_a} and {doc_b}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend relocating the conflicting routing per {doc_b} and reissuing {detail_ref}."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"cost_impact": true, "schedule_impact": true},
+      "assigned_reviewer": "Owner's Representative",
+      "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Structural Engineer looped in as technical reviewer.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "Default discipline routing would keep this with the Structural Engineer; this project's delegation letter pulls the owner's rep in whenever both cost and schedule are affected, regardless of discipline."
+    },
+    {
+      "when": {"urgency": "critical"},
+      "assigned_reviewer": "Structural Engineer",
+      "routing_rationale": "Default discipline routing: the Structural Engineer resolves this coordination conflict; critical urgency escalates the review but does not change who owns it.",
+      "escalation": true,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Structural Engineer",
+      "routing_rationale": "Default discipline routing: the Structural Engineer resolves coordination conflicts affecting structural framing.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "design conflict",
+  "primary_discipline": "structural",
+  "secondary_disciplines": ["mechanical", "architectural"],
+  "csi_division": "Division 05 - Metals",
+  "urgency": "high",
+  "question_summary": "Cast-in anchor bolt group location at Gridline B/2 in Foundation Plan S-101 conflicts with mechanical ductwork and architectural ceiling framing routing shown in Structural Detail 3/S502, holding up steel fabrication release.",
+  "referenced_documents": ["Foundation Plan S-101", "Structural Detail 3/S502"],
+  "proposed_solution": "Revise the cast-in anchor bolt group per Structural Detail 3/S502; coordinate final dimensions with the affected trades before fabrication.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "We need this resolved before the next steel erection mobilization.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The conflict centers on structural anchor bolt placement conflicting with other trades, requiring the structural engineer to resolve the discrepancy and coordinate with mechanical and architectural teams.",
+  "escalation": true,
+  "confidence": 0.82
+}

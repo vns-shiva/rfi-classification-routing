@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Architectural", "Structural"],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen low ceiling/plenum height is restricting duct routing at AHU-3; confirm whether the previously issued reroute sketch still resolves the now larger conflict.",
+  "referenced_documents": ["Attached reroute sketch for AHU-3", "Field photos of ceiling height restriction at AHU-3"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the crew moving.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "Ductwork reroute and clearance confirmation at AHU-3 are mechanical scope decisions best directed by the Mechanical Engineer.",
+  "escalation": false,
+  "confidence": 0.77
+}

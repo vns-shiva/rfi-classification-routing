@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "33 00 00",
+  "urgency": "routine",
+  "question_summary": "Retaining wall elevation near Pour 3 differs between Utility Plan C-301 and Sheet C-101, requiring clarification on which elevation governs.",
+  "referenced_documents": ["Utility Plan C-301", "Sheet C-101"],
+  "proposed_solution": "Use the elevation shown on Sheet C-101; C-301 to be corrected by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would be appreciated.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This is a document discrepancy involving site/civil utility and grading plans, so it is routed to the Civil Engineer of record.",
+  "escalation": false,
+  "confidence": 0.85
+}

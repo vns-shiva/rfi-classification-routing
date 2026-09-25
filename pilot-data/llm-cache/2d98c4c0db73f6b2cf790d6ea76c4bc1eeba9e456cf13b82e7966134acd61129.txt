@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "32 00 00 (Exterior Improvements)",
+  "urgency": "routine",
+  "question_summary": "Retaining wall footing at Pour Sequence 4 conflicts with the underground utility corridor per C-101 and Detail 2/C501; request direction to resolve.",
+  "referenced_documents": ["Sheet C-101", "Detail 2/C501", "Site coordination sketch (attached)"],
+  "proposed_solution": "Revise per the attached site coordination sketch to resolve the retaining wall footing conflict with the underground utility corridor.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The clash occurs between site utilities and a retaining wall shown on civil sheets, requiring the Civil Engineer to issue/confirm the coordination revision.",
+  "escalation": false,
+  "confidence": 0.79
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen junction box in Mechanical Room 3B conflicts with ceiling grid; location not shown on E-501 and is holding up work—request direction on relocation/resolution.",
+  "referenced_documents": ["Sheet E-501", "Field log dated 2025-04-16"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "This is an electrical field condition conflict affecting ceiling coordination; route to the Electrical Engineer as the design professional of record.",
+  "escalation": true,
+  "confidence": 0.84
+}

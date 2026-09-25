@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0174",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Mechanical"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "priority",
+  "question_summary": "Existing sprinkler main conflicts with new duct routing at Lobby 101, a condition not shown on Fire Alarm Riser Diagram FA-501; original direction was given but the conflict extent is now larger than initially reported, requiring confirmation that the prior resolution still applies.",
+  "referenced_documents": [
+    "Fire Alarm Riser Diagram FA-501",
+    "Inspection Log (prior month)"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within three business days",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The conflict centers on the existing sprinkler main routing, which falls under fire suppression scope best evaluated by the Plumbing/Fire Protection Engineer, with mechanical coordination as secondary.",
+  "escalation": true,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-04-03",
+  "deadline_resolution_status": "resolved_to_date"
+}

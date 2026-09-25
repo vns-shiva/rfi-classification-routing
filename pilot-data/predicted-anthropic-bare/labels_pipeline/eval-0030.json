@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0030",
+  "rfi_type": "Document Coordination Conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 08 - Openings",
+  "urgency": "medium",
+  "question_summary": "Shop drawings for the Section 08 71 00 interior door hardware set at the stair enclosure conflict with the built field mockup; submitter asks which condition governs.",
+  "referenced_documents": [
+    "Sheet A-201",
+    "Sheet A-301",
+    "Section 08 71 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "no specific deadline for this, but a timely response is appreciated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict involves reconciling architectural drawings governing door hardware conditions, requiring the Architect of Record to confirm which sheet controls.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,23 @@
+{
+  "thread_id": "eval-0185",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "critical",
+  "question_summary": "Unforeseen mechanical field condition: unforeseen ceiling height restriction affecting the ductwork routing at RTU-2.",
+  "referenced_documents": [],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Thursday",
+  "assigned_reviewer": "Owner's Representative",
+  "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Mechanical Engineer looped in as technical reviewer.",
+  "escalation": true,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-04-03",
+  "deadline_resolution_status": "resolved_to_date"
+}

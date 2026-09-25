@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0006",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Field-discovered conduit routing conflict at Electrical Closet 2A not shown on Sheet E-501 or Panel Schedule E-601; contractor requests direction on reroute and whether E-501 needs revision.",
+  "referenced_documents": [
+    "Sheet E-501",
+    "Electrical Panel Schedule E-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by end of week so we can plan the rough-in sequence.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The conflict involves conduit routing and electrical drawings, requiring the Electrical Engineer to confirm the reroute and determine if E-501 needs revision.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

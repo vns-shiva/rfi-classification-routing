@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "template_id": "t15_substitution_plumbing_eval",
+  "pool": "eval",
+  "axes": {
+    "rfi_type": ["substitution_request"],
+    "primary_discipline": ["Plumbing"],
+    "urgency": ["routine", "priority"],
+    "cost_impact": [false, true],
+    "schedule_impact": [false],
+    "deadline_family": ["end_of"],
+    "adversarial": ["none", "distractor_cost_language"],
+    "thread_shape": ["single_message", "two_message_qa"]
+  },
+  "csi_by_discipline": {
+    "Plumbing": "22 00 00 (Plumbing)"
+  },
+  "secondary_by_adversarial": {
+    "none": [],
+    "distractor_cost_language": []
+  },
+  "slots": {
+    "plumbing_substitution": [
+      "a PEX alternate in lieu of the copper domestic water piping specified in Section 22 11 16",
+      "an ABS DWV alternate in lieu of the no-hub cast-iron soil piping specified in Section 22 13 16",
+      "a tankless alternate in lieu of the storage-type water heater specified in Section 22 34 00",
+      "a PVC alternate in lieu of the cast-iron roof drain leader specified in Section 22 14 00"
+    ]
+  },
+  "decoy_phrasing": [
+    "Note: the unrelated water-meter billing dispute from last month does not apply to this substitution.",
+    "For reference, the separate plumbing change-order log entry for unrelated fixture work does not affect this request.",
+    "This RFI is unrelated to the pending material cost-escalation claim submitted separately."
+  ],
+  "urgency_phrasing": {
+    "routine": [
+      "This is routine and can wait for the next scheduled submittal review.",
+      "No rush -- please take a look whenever it's convenient."
+    ],
+    "priority": [
+      "We would like this reviewed before the fixture rough-in gets underway.",
+      "This is becoming a priority given current supplier lead times."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "The substitution may affect the plumbing fixture budget depending on the manufacturer.",
+      "There could be a cost adjustment tied to this substitution."
+    ],
+    "false": [
+      "No impact to the plumbing fixture budget is anticipated.",
+      "This substitution is cost-neutral."
+    ]
+  },
+  "schedule_phrasing": {
+    "false": [
+      "No schedule impact is anticipated from this substitution.",
+      "This substitution will not affect the domestic water pressure test date."
+    ]
+  },
+  "deadline_phrasing": {
+    "end_of": [
+      "Please respond by the end of the week so we can place the order.",
+      "A response by the end of the day would let us keep the order on track."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Project Engineer", "Subcontractor PM"],
+      "shapes": ["single_message", "two_message_qa"],
+      "body_variants": [
+        "We're proposing {plumbing_substitution} and want sign-off before we order material. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase} {decoy_phrase}",
+        "Attached is the cut sheet and third-party listing for {plumbing_substitution} -- please confirm it's acceptable. {urgency_phrase} {deadline_phrase} {decoy_phrase}",
+        "Our supplier can no longer meet the lead time on the base-spec product, so we're requesting {plumbing_substitution}. {cost_phrase} {decoy_phrase}",
+        "Requesting sign-off on {plumbing_substitution} before we release the material order. {urgency_phrase} {cost_phrase} {schedule_phrase} {decoy_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa"],
+      "body_variants": [
+        "The submittal for {plumbing_substitution} is acceptable provided it shows equivalent performance data and code-compliance listings for the assembly it replaces. {cost_phrase}",
+        "The substitution -- {plumbing_substitution} -- does not meet the specified performance requirements; please resubmit with a compliant option. {schedule_phrase}",
+        "No objection -- proceed with {plumbing_substitution} as submitted. {cost_phrase} {schedule_phrase}"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "22 00 00 (Plumbing)",
+    "question_summary_variants": [
+      "Request to substitute {plumbing_substitution}.",
+      "Substitution approval requested: {plumbing_substitution}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend approval contingent on submitted performance data matching code requirements."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"cost_impact": true},
+      "assigned_reviewer": "Cost/Change-Order Manager",
+      "routing_rationale": "Substitution requests with a cost impact route to the Cost/Change-Order Manager to evaluate the effect on the plumbing fixture budget before technical approval.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+      "routing_rationale": "Default discipline routing: the Plumbing/Fire Protection Engineer evaluates substitution requests with no cost impact.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

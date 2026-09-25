@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0179",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0179",
+  "date_submitted": "2025-07-01",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Conflicting document coordination on the Section 23 37 00 diffuser layout at RTU-2",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Chris Boone",
+      "timestamp": "2025-07-01T15:14",
+      "message_type": "initial_question",
+      "text": "Coordination between Sequence of Operations M-701 and Sheet M-401 breaks down for the Section 23 37 00 diffuser layout near RTU-2. This needs a quick turnaround; please prioritize a response. No cost impact is anticipated. No schedule impact is expected. Please respond within five business days so we can keep installation moving."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-07-02T17:41",
+      "message_type": "response",
+      "text": "Follow Sheet M-401 for the Section 23 37 00 diffuser layout near RTU-2; we'll issue an addendum to reconcile Sequence of Operations M-701. No cost impact is anticipated. No schedule impact is expected."
+    }
+  ]
+}

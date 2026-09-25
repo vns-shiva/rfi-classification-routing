@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0011",
+  "rfi_type": "Drawing discrepancy - curtain wall detail",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "normal",
+  "question_summary": "Conflicting curtain wall head/jamb detail at Gridline E/9 between Sheets A-201 and A-301; which detail governs?",
+  "referenced_documents": [
+    "Sheet A-201",
+    "Sheet A-301"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Respond whenever convenient.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an architectural drawing conflict for a curtain wall detail that must be resolved and formally documented by the AOR.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

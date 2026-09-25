@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Mechanical", "Architectural"],
+  "csi_division": "05 00 00",
+  "urgency": "urgent",
+  "question_summary": "Cast-in anchor bolt group location at Gridline E/9 shown on Foundation Plan S-101 conflicts with mechanical ductwork and architectural ceiling framing routing shown on Sheet S-301, holding up steel fabrication release.",
+  "referenced_documents": ["S-101", "S-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "before the next steel erection mobilization",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The conflict centers on the cast-in anchor bolt group tied to the foundation and steel erection sequence, making the Structural Engineer the appropriate reviewer to resolve the discrepancy with MEP/architectural coordination.",
+  "escalation": true,
+  "confidence": 0.78
+}

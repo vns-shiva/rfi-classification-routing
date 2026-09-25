@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Field Condition/Unforeseen Condition",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": ["Electrical", "Mechanical"],
+  "csi_division": "Division 21 - Fire Suppression",
+  "urgency": "high",
+  "question_summary": "Sprinkler head spacing at Electrical Closet 2A conflicts with the ceiling grid layout and is not shown on Fire Sprinkler Riser Diagram FP-501, halting fire protection work in the area.",
+  "referenced_documents": ["Fire Sprinkler Riser Diagram FP-501", "Inspection log (prior month)"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Fire Protection Engineer",
+  "routing_rationale": "The conflict involves sprinkler head layout and clearance, which falls under fire protection design and requires review by the fire protection engineer of record.",
+  "escalation": true,
+  "confidence": 0.82
+}

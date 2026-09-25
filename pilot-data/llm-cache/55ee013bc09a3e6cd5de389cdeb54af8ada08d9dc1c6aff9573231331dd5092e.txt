@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "Medium",
+  "question_summary": "Conflict between Sheet A-301 and Sheet A-201 for the Section 08 51 13 aluminum window corner detail; confirm which sheet governs for shop drawings and mockup alignment.",
+  "referenced_documents": ["Section 08 51 13", "Sheet A-301", "Sheet A-201", "Field mockup", "Shop drawings"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict is between architectural sheets for the aluminum window detail and requires architect direction and addendum coordination.",
+  "escalation": false,
+  "confidence": 0.84
+}

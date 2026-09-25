@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0072",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Mechanical"
+  ],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen existing electrical conduit conflicts with new duct routing at Electrical Closet 2A; request direction to resolve and confirmation of reroute per attached sketch.",
+  "referenced_documents": [
+    "Electrical Detail 2/E502",
+    "Field log 2025-06-29",
+    "Attached revised routing sketch"
+  ],
+  "proposed_solution": "Reroute existing conduit per attached sketch.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The conflict resolution requires engineering approval for rerouting existing conduit, which falls under the Electrical Engineer\u2019s scope.",
+  "escalation": false,
+  "confidence": 0.76,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

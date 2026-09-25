@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0083",
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "Normal",
+  "question_summary": "Confirm which condition governs for the curtain wall mullion at the building corner due to a conflict between Detail 5/A501, Sheet A-301, and the field mockup.",
+  "referenced_documents": [
+    "Spec Section 08 44 13",
+    "Detail 5/A501",
+    "Sheet A-301",
+    "Field mockup",
+    "Shop drawings"
+  ],
+  "proposed_solution": "Use Detail 5/A501 as governing and reconcile Sheet A-301 by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Project Architect (AOR)",
+  "routing_rationale": "The issue is an architectural curtain wall detail discrepancy that requires design clarification and an addendum to reconcile Sheet A-301.",
+  "escalation": false,
+  "confidence": 0.83,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

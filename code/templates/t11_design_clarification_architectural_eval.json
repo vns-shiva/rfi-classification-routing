@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "template_id": "t11_design_clarification_architectural_eval",
+  "pool": "eval",
+  "axes": {
+    "rfi_type": ["design_clarification"],
+    "primary_discipline": ["Architectural"],
+    "urgency": ["routine", "priority"],
+    "cost_impact": [false, true],
+    "schedule_impact": [false, true],
+    "deadline_family": ["none", "relative_days"],
+    "adversarial": ["none", "type_ambiguity"],
+    "thread_shape": ["single_message", "two_message_qa"]
+  },
+  "csi_by_discipline": {
+    "Architectural": "08 00 00 (Openings)"
+  },
+  "secondary_by_adversarial": {
+    "none": [],
+    "type_ambiguity": []
+  },
+  "slots": {
+    "arch_item": [
+      "Section 08 41 13 storefront glazing system at the entry vestibule",
+      "Section 08 71 00 interior door hardware set at the stair enclosure",
+      "Section 08 44 13 curtain wall mullion detail at the building corner",
+      "Section 08 51 13 aluminum window frame detail at the corner window"
+    ]
+  },
+  "urgency_phrasing": {
+    "routine": [
+      "This is routine and can be worked into the normal submittal cycle.",
+      "No rush on this -- please respond when convenient."
+    ],
+    "priority": [
+      "We would like this closed out ahead of the next submittal deadline.",
+      "This is becoming a priority as fabrication approaches."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "There may be a cost impact if a change to the specified material is required.",
+      "This could affect the contract sum depending on the resolution."
+    ],
+    "false": [
+      "No cost impact is anticipated.",
+      "We do not expect this to affect the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up fabrication in this area.",
+      "This could affect the submittal review schedule."
+    ],
+    "false": [
+      "This is not holding up any current work.",
+      "No schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "none": [
+      "There is no specific deadline for this, but a timely response is appreciated.",
+      "No hard deadline, just would like to keep this moving."
+    ],
+    "relative_days": [
+      "Please respond within five days so we can proceed with fabrication.",
+      "A response within three days would be appreciated."
+    ]
+  },
+  "boundary_phrasing": [],
+  "ambiguity_phrasing": [
+    "It is not clear whether this reflects a real design decision that needs interpreting, or just a documentation error that should be corrected without changing intent.",
+    "We can't tell if this is a deliberate design call or just a coordination slip in how it was documented.",
+    "It is not clear whether this needs Architect interpretation of what was intended, or just confirmation that the documentation has an error.",
+    "This could go either way -- treat it as a design decision that needs direction, or as a documentation error that just needs correcting."
+  ],
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Project Engineer", "Assistant Project Manager"],
+      "shapes": ["single_message", "two_message_qa"],
+      "body_variants": [
+        "Shop drawings for the {arch_item} are ready to submit, but what's shown doesn't match what's built out in the field mockup -- can you confirm which governs? {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase} {ambiguity_phrase}",
+        "The design intent for the {arch_item} isn't clear from the drawing set -- {doc_a} and {doc_b} show two different conditions. {urgency_phrase} {deadline_phrase} {ambiguity_phrase}",
+        "Fabricator flagged that the {arch_item} can't be built exactly as detailed in {doc_b} without a change to the adjacent construction -- how would you like this resolved? {cost_phrase} {schedule_phrase} {ambiguity_phrase}",
+        "Before we release the {arch_item} for fabrication, we need direction on the intended condition -- the current drawings leave it open to interpretation. {urgency_phrase} {cost_phrase} {ambiguity_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa"],
+      "body_variants": [
+        "{doc_b} is the condition to build to for the {arch_item}; we'll reconcile {doc_a} by addendum. {cost_phrase} {schedule_phrase}",
+        "Hold fabrication of the {arch_item} -- we'll issue a revised detail confirming {doc_b} governs.",
+        "{doc_b} is the governing document for the {arch_item} going forward. {schedule_phrase}"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "08 00 00 (Openings)",
+    "question_summary_variants": [
+      "Document coordination conflict on the {arch_item}.",
+      "Intended condition of the {arch_item} is unclear across the referenced documents."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend {doc_b} govern going forward; coordinate any necessary shop drawing or field revisions before fabrication proceeds."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"cost_impact": true, "schedule_impact": true},
+      "assigned_reviewer": "Owner's Representative",
+      "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Architect of Record looped in as technical reviewer.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "Absent the delegation letter, this Architectural design clarification would stay with the Architect of Record; the letter reassigns it to the owner's rep whenever cost and schedule are both in play, on any discipline."
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Architect of Record",
+      "routing_rationale": "Default discipline routing: the Architect of Record resolves design clarifications affecting architectural work.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

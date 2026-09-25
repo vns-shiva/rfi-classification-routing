@@ -1,0 +1,27 @@
+{
+  "thread_id": "dev-0029",
+  "template_id": "t04_substitution_mechanical_dev",
+  "cell": {
+    "split": "dev",
+    "rfi_type": "substitution_request",
+    "primary_discipline": "Mechanical",
+    "urgency": "priority",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "business_days",
+    "adversarial": "distractor_cost_language",
+    "thread_shape": "two_message_qa"
+  },
+  "variant_index": 0,
+  "seed": 15550899751609755696,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Harborview Logistics Center",
+  "doc_a": "Sheet M-401",
+  "doc_b": "Sequence of Operations M-701",
+  "date_submitted": "2025-03-22"
+}

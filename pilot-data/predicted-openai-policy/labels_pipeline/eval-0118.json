@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0118",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Storefront glazing at entry vestibule: shop drawings differ from the field mockup; confirm which should govern for submittal approval.",
+  "referenced_documents": [
+    "Section 08 41 13 storefront glazing",
+    "Shop drawings for storefront system",
+    "Field mockup at entry vestibule"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As an Architectural openings coordination issue without urgency, it should be clarified by the Architect of Record.",
+  "escalation": false,
+  "confidence": 0.77,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

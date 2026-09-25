@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0130",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "32 00 00 (Exterior Improvements)",
+  "urgency": "routine",
+  "question_summary": "Site coordination clash: retaining wall footing conflicting with the underground utility corridor at Pour Sequence 4.",
+  "referenced_documents": [
+    "Sheet C-101",
+    "Civil Detail 2/C501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Friday",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "Default discipline routing: the Civil Engineer resolves site coordination clashes affecting civil work.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-05-09",
+  "deadline_resolution_status": "resolved_to_date"
+}

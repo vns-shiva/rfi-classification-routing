@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0174",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Mechanical"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen existing sprinkler main conflicts with new duct routing at Lobby 101; extent is greater than first reported\u2014confirm whether the prior reroute direction and sketch still resolve the condition.",
+  "referenced_documents": [
+    "FA-501 Fire Alarm Riser Diagram",
+    "Inspection log (last month)",
+    "Attached reroute sketch for Lobby 101"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "This is a fire protection field conflict requiring confirmation of reroute scope, so it should be reviewed by the Plumbing/Fire Protection Engineer of record.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

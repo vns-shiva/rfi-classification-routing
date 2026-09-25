@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0086",
+  "rfi_type": "Unforeseen field condition",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "23 - Heating, Ventilating, and Air Conditioning",
+  "urgency": "Normal",
+  "question_summary": "Unforeseen ceiling height restriction at EF-4 is impacting ductwork routing; request direction for a permanent reroute fix before the next work sequence.",
+  "referenced_documents": [
+    "Attached sketch for reroute at EF-4"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record (Design Team)",
+  "routing_rationale": "Mechanical reroute due to ceiling height conflict at EF-4 requires design approval by the Mechanical Engineer of Record.",
+  "escalation": false,
+  "confidence": 0.79,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

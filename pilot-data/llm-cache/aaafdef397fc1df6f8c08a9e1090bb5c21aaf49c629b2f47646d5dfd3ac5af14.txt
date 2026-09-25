@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "routine",
+  "question_summary": "Shop drawings for the curtain wall mullion detail at the building corner (Section 08 44 13) do not match the built field mockup; submitter asks which should govern.",
+  "referenced_documents": ["Section 08 44 13 curtain wall mullion detail", "Curtain wall shop drawings", "Field mockup"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict concerns an architectural curtain wall detail (Division 08), so the Architect of Record must confirm which configuration governs.",
+  "escalation": false,
+  "confidence": 0.85
+}

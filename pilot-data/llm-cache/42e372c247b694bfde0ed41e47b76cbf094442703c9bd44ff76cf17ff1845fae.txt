@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Conflict between storefront glazing shop drawings and the built field mockup at the entry vestibule; confirm which governs for fabrication.",
+  "referenced_documents": ["Section 08 41 13 Storefront Glazing System", "Shop Drawings - Storefront Glazing", "Field Mockup - Entry Vestibule"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "We would like this closed out ahead of the next submittal deadline. No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As an architectural storefront coordination issue between mockup and submittals, the Architect of Record should determine the governing design intent.",
+  "escalation": false,
+  "confidence": 0.77
+}

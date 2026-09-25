@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0108",
+  "rfi_type": "Document conflict/clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 \u2013 Openings",
+  "urgency": "Medium",
+  "question_summary": "Confirm whether the entry vestibule storefront glazing shop drawings or the field mockup/specs govern where they conflict for Section 08 41 13.",
+  "referenced_documents": [
+    "Section 08 41 13 Storefronts",
+    "Storefront shop drawings",
+    "Field mockup (entry vestibule)"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The storefront glazing specification and mockup conformance are architectural scope items requiring Architect of Record direction.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,25 @@
+{
+  "thread_id": "dev-0040",
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "General",
+  "secondary_disciplines": [],
+  "csi_division": "\u2014",
+  "urgency": "priority",
+  "question_summary": "Whether the occupancy separation rating shown in Project Manual Section 01 00 00 complies with the adopted code.",
+  "referenced_documents": [
+    "Project Manual Section 01 00 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Code Official/AHJ Liaison",
+  "routing_rationale": "All code compliance questions route to the Code Official/AHJ Liaison regardless of discipline.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

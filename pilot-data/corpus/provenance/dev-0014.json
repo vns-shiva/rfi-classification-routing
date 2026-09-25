@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0014",
+  "template_id": "t04_substitution_mechanical_dev",
+  "cell": {
+    "split": "dev",
+    "rfi_type": "substitution_request",
+    "primary_discipline": "Mechanical",
+    "urgency": "priority",
+    "cost_impact": true,
+    "schedule_impact": false,
+    "deadline_family": "business_days",
+    "adversarial": "none",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 5950190050131564845,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Northgate Mixed-Use Phase II",
+  "doc_a": "Mechanical Schedule M-601",
+  "doc_b": "Mechanical Detail 4/M501",
+  "date_submitted": "2025-07-27"
+}

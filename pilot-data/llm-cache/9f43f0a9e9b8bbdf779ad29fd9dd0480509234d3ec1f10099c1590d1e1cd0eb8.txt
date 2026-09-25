@@ -1,0 +1,18 @@
+{
+  "rfi_type": "design conflict / clarification",
+  "primary_discipline": "structural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 03 - Concrete",
+  "urgency": "high",
+  "question_summary": "Conflict between Sheet S-301 and Foundation Plan S-101 regarding slab-on-deck pour strip reinforcement (#5 ties); follow-up asks whether the directed fix applies to all pour strips on the level, not just the one shown on S-301.",
+  "referenced_documents": ["Sheet S-301", "Sheet S-101 (Foundation Plan)"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "respond by Thursday, ahead of Friday's pour",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The conflict involves structural reinforcement details across two structural drawings and requires the Structural EOR to confirm scope of applicability before further concrete placement.",
+  "escalation": true,
+  "confidence": 0.78
+}

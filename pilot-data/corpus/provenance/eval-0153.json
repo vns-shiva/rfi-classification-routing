@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0153",
+  "template_id": "t12_coordination_conflict_multidiscipline_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "coordination_conflict",
+    "primary_discipline": "Structural",
+    "urgency": "critical",
+    "cost_impact": true,
+    "schedule_impact": true,
+    "deadline_family": "relative_weeks",
+    "adversarial": "multi_discipline",
+    "thread_shape": "two_message_qa"
+  },
+  "variant_index": 0,
+  "seed": 10869768983605284839,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Cedar Grove Elementary Addition",
+  "doc_a": "Structural General Notes S-001",
+  "doc_b": "Sheet S-301",
+  "date_submitted": "2025-10-22"
+}

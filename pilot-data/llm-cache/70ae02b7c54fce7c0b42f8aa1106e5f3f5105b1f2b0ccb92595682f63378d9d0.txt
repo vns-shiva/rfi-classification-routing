@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "priority",
+  "question_summary": "Mechanical Detail 4/M501 and Mechanical Schedule M-601 conflict on the piping insulation type required near RTU-2 under Section 23 07 00, requiring clarification on which document governs and whether the resolution applies beyond the RTU-2 condition.",
+  "referenced_documents": ["Mechanical Detail 4/M501", "Mechanical Schedule M-601", "Section 23 07 00"],
+  "proposed_solution": "Follow Mechanical Schedule M-601 for the piping insulation type near RTU-2; an addendum will be issued to reconcile Mechanical Detail 4/M501.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "As a document_discrepancy involving mechanical insulation coordination with no cost or urgent schedule triggers, it routes to the Mechanical Engineer as the design professional of record.",
+  "escalation": false,
+  "confidence": 0.75
+}

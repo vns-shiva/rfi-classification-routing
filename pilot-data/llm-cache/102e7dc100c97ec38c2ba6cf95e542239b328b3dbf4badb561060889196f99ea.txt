@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Design conflict/inconsistency",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 - Plumbing",
+  "urgency": "Medium",
+  "question_summary": "Clarify the correct sanitary vent stack configuration for Room 214 due to conflicting information between Plumbing Fixture Schedule P-602 and Plumbing Riser Diagram P-501.",
+  "referenced_documents": ["P-602 Plumbing Fixture Schedule", "P-501 Plumbing Riser Diagram"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Plumbing Engineer of Record",
+  "routing_rationale": "The issue is a plumbing design discrepancy between the fixture schedule and riser diagram that the Plumbing Engineer of Record must resolve.",
+  "escalation": false,
+  "confidence": 0.77
+}

@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0129",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Mechanical"
+  ],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Unforeseen existing electrical conduit in Room 214 conflicts with the new duct routing not shown on 2/E502; request direction/approval for rerouting (sketch provided).",
+  "referenced_documents": [
+    "Electrical Detail 2/E502",
+    "Field log (Room 214, 2025-08-30)",
+    "Attached sketch (conduit reroute at Room 214)"
+  ],
+  "proposed_solution": "Reroute the existing conduit per the attached sketch for Room 214.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "This is an electrical field conflict requiring approval of a conduit reroute, which falls under the Electrical Engineer\u2019s purview.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

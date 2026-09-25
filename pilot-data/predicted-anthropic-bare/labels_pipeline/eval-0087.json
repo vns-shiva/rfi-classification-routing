@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0087",
+  "rfi_type": "Document Coordination Conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "08 - Openings",
+  "urgency": "low",
+  "question_summary": "Shop drawings for the curtain wall mullion detail at the building corner (Section 08 44 13) do not match the built field mockup; submitter asks which should govern before finalizing shop drawing submittal.",
+  "referenced_documents": [
+    "Section 08 44 13 Curtain Wall Shop Drawings",
+    "Field Mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "no specific deadline for this, but a timely response is appreciated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict involves an architectural building envelope detail (curtain wall mullion) governed by Division 08 specifications, making the Architect of Record the appropriate reviewer to resolve the discrepancy between shop drawings and field conditions.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

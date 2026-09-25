@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Conflict between transfer beam reinforcement shown on Structural General Notes S-001 and revised bar splice on Sheet S-301; requesting which detail governs ahead of upcoming concrete work.",
+  "referenced_documents": ["Structural General Notes S-001", "Sheet S-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "by end of day Wednesday",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The issue concerns conflicting structural reinforcement and splice details that require the Structural Engineer’s direction.",
+  "escalation": false,
+  "confidence": 0.9
+}

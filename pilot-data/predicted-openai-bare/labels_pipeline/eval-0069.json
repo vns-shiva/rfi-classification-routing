@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0069",
+  "rfi_type": "Conflict between documents",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Geotechnical"
+  ],
+  "csi_division": "31 - Earthwork",
+  "urgency": "Normal",
+  "question_summary": "Confirm whether the minimum cover for underground utility trench backfill per Spec Section 31 23 00 and shown on Grading Plan C-201 complies with the geotechnical report requirements for this area.",
+  "referenced_documents": [
+    "Specification Section 31 23 00",
+    "Grading Plan C-201",
+    "Geotechnical Report"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The civil engineer owns trench cover and grading requirements on C-201 and can coordinate concurrence with the geotechnical recommendations.",
+  "escalation": false,
+  "confidence": 0.76,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "Design Clarification",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 03 - Concrete",
+  "urgency": "low",
+  "question_summary": "Submitter asked whether the minimum reinforcing lap length for the shear wall assembly on Foundation Plan S-101 meets the code edition referenced in Section 03 20 00.",
+  "referenced_documents": ["Foundation Plan S-101", "Section 03 20 00", "Detail 7/S301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "Please respond within five days so we can proceed with the inspection.",
+  "assigned_reviewer": "Project Engineer",
+  "routing_rationale": "The question concerns structural reinforcing details tied to Division 03 concrete specifications, which falls under the Project Engineer's structural review responsibility.",
+  "escalation": false,
+  "confidence": 0.85
+}
+```

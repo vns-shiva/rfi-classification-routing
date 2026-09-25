@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Conflict between drawings/specs",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 - Concrete",
+  "urgency": "Medium",
+  "question_summary": "Conflict between Structural General Notes S-001 and Sheet S-301 regarding transfer beam reinforcement splice; need confirmation on which detail governs.",
+  "referenced_documents": ["Structural General Notes S-001", "Sheet S-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "We need direction by end of day Wednesday.",
+  "assigned_reviewer": "Structural Engineer of Record (SER)",
+  "routing_rationale": "The issue concerns conflicting structural reinforcement and splice details that require confirmation from the structural designer of record.",
+  "escalation": false,
+  "confidence": 0.84
+}

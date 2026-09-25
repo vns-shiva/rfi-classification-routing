@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "32 00 00 (Exterior Improvements)",
+  "urgency": "routine",
+  "question_summary": "Grading Plan C-201 elevation for the site retaining wall at Pour 3 conflicts with Utility Plan C-301; clarification requested on which elevation governs.",
+  "referenced_documents": ["Grading Plan C-201", "Utility Plan C-301"],
+  "proposed_solution": "Use the elevation shown on Utility Plan C-301; Grading Plan C-201 to be corrected, and with the corrected survey benchmark the wall matches C-301.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond at your earliest convenience.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This is a discrepancy between civil plans, so it should be resolved by the Civil Engineer of record.",
+  "escalation": false,
+  "confidence": 0.86
+}

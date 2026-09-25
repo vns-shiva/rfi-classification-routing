@@ -1,0 +1,18 @@
+{
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "routine",
+  "question_summary": "Confirm whether Section 31 25 00 erosion control requirements for the disturbed slope at Placement Zone 2 are satisfied as shown and if the civil inspector can sign off accordingly.",
+  "referenced_documents": ["Section 31 25 00", "Civil Detail 2/C501", "Geotechnical Report"],
+  "proposed_solution": "Civil inspector to sign off on the disturbed slope erosion control as shown.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "Please respond within five days so we can schedule the civil inspection.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "Erosion control for sitework falls under Civil scope and is detailed on C501 with Section 31 25 00 requirements.",
+  "escalation": false,
+  "confidence": 0.79
+}

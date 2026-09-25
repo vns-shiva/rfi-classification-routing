@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Conflict between Sheet A-301 and Detail 5/A501 for Section 08 44 13 curtain wall corner mullion; confirm which detail governs in relation to field mockup and shop drawings.",
+  "referenced_documents": ["Section 08 44 13", "Detail 5/A501", "Sheet A-301", "Field mockup"],
+  "proposed_solution": "Use Detail 5/A501 as governing; reconcile Sheet A-301 by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an inconsistency within the architectural drawings for the curtain wall detail and requires the Architect of Record to confirm the governing detail and issue an addendum.",
+  "escalation": false,
+  "confidence": 0.9
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "substitution_request",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "priority",
+  "question_summary": "Contractor requests approval to substitute a linear slot diffuser in place of the specified perforated face diffuser per Section 23 82 00, citing lead-time concerns.",
+  "referenced_documents": ["Section 23 82 00"],
+  "proposed_solution": "Substitute a linear slot alternate diffuser in lieu of the specified perforated face diffuser.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "Since this substitution request has no cost impact, it defaults to the Mechanical Engineer as the design professional of record for HVAC diffuser specifications.",
+  "escalation": false,
+  "confidence": 0.85
+}

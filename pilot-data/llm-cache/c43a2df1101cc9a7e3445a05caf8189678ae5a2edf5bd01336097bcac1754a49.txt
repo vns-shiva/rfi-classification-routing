@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00",
+  "urgency": "priority",
+  "question_summary": "Reinforcement detail for shear wall conflicts between Sheet S-301 and Foundation Plan S-101; field is asking whether the revised bar splice applies to all shear walls on the level, not just the one referenced.",
+  "referenced_documents": ["Sheet S-301", "Foundation Plan S-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within one business day",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The conflict involves shear wall reinforcement and bar splice details, which fall under structural design responsibility.",
+  "escalation": true,
+  "confidence": 0.78
+}

@@ -1,0 +1,34 @@
+{
+  "thread_id": "eval-0085",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0085",
+  "date_submitted": "2025-09-25",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Site coordination clash: grading plan conflicting with the storm drainage inlet location",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Tom Reilly",
+      "timestamp": "2025-09-25T12:34",
+      "message_type": "initial_question",
+      "text": "Coordination clash identified: grading plan conflicting with the storm drainage inlet location at Placement Zone 2, per Utility Plan C-301 vs Sheet C-101. No rush on this -- please respond when convenient. We do not expect this to affect the contract sum. This could affect the site work schedule. A response Friday would be appreciated. For context, the separate irrigation change order under review does not affect this clash."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-09-29T10:22",
+      "message_type": "response",
+      "text": "Revise per the attached site coordination sketch resolving the grading plan conflicting with the storm drainage inlet location at Placement Zone 2. We do not expect this to affect the contract sum. This could affect the site work schedule."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Tom Reilly",
+      "timestamp": "2025-10-03T14:07",
+      "message_type": "resubmittal",
+      "text": "Resubmitting after coordination review: the grading plan conflicting with the storm drainage inlet location at Placement Zone 2 is resolved per the attached sketch. A response Friday would be appreciated."
+    }
+  ]
+}

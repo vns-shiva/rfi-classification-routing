@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Contract document conflict/clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "Low",
+  "question_summary": "Conflict between A-201 and Door/Window Schedule A-601 for the Section 08 41 13 storefront glazing at the entry vestibule; confirm which document governs.",
+  "referenced_documents": ["Section 08 41 13", "Sheet A-601 Door and Window Schedule", "Sheet A-201", "Shop Drawings", "Field Mockup"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The issue is an architectural document coordination conflict between drawings and schedules for the storefront system, which the Architect of Record must resolve.",
+  "escalation": false,
+  "confidence": 0.77
+}

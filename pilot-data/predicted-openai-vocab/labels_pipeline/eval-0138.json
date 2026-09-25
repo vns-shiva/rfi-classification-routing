@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0138",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen clearance conflict in the fire pump room at Room 214 not shown on Detail 3/FP502; request direction to resolve prior to next work sequence.",
+  "referenced_documents": [
+    "Fire Protection Detail 3/FP502",
+    "Attached sketch from Project Engineer (2025-04-12)"
+  ],
+  "proposed_solution": "Reroute to clear the conflict at Room 214 per the attached sketch; proceed once clearance is confirmed.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The issue concerns fire pump room clearance and modifications to fire protection layout not covered by FP detail, requiring FP engineering direction and approval.",
+  "escalation": false,
+  "confidence": 0.83,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

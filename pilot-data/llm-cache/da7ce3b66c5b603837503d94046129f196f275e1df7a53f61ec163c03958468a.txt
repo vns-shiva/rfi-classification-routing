@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "priority",
+  "question_summary": "Piping insulation type for Section 23 07 00 near P-101 conflicts between Sequence of Operations M-701 and Sheet M-401; clarification requested on whether the directed resolution (follow M-401) applies area-wide or only at P-101.",
+  "referenced_documents": ["M-701", "M-401"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The conflict involves HVAC piping insulation specifications, which falls under mechanical engineering scope and CSI Division 23.",
+  "escalation": false,
+  "confidence": 0.82
+}

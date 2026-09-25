@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00",
+  "urgency": "priority",
+  "question_summary": "Field team flagged a conflict between column baseplate reinforcement shown on Foundation Plan S-101 and additional #5 ties called out on Sheet S-301, and after being told to follow S-301, asked whether that direction applies to all baseplates on the level or just the one originally referenced.",
+  "referenced_documents": ["Foundation Plan S-101", "Sheet S-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "by end of day Wednesday",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The discrepancy involves conflicting structural reinforcement details between two structural drawings, requiring the Structural Engineer to confirm scope of applicability.",
+  "escalation": false,
+  "confidence": 0.82
+}

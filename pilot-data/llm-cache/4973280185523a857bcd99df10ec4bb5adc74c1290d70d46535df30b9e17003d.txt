@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Coordination/Clash",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "26 — Electrical",
+  "urgency": "Medium",
+  "question_summary": "Unforeseen conduit routing conflict in Mechanical Room 3B not shown on Detail 2/E502 or One-Line E-002; requesting direction for revised conduit routing/coordination.",
+  "referenced_documents": ["Electrical Detail 2/E502", "One-Line Diagram E-002"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "by end of week",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "Electrical EOR should provide revised routing and coordinate with mechanical systems since the conflict concerns electrical conduit shown on the cited electrical drawings.",
+  "escalation": false,
+  "confidence": 0.74
+}

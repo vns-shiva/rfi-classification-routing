@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "21 00 00",
+  "urgency": "priority",
+  "question_summary": "Existing sprinkler main conflicts with new duct routing at Room 214, not shown on Fire Alarm Riser Diagram FA-501; extent of conflict now appears greater than originally reported, requiring confirmation that prior rerouting direction still applies.",
+  "referenced_documents": ["Fire Alarm Riser Diagram FA-501"],
+  "proposed_solution": "Reroute sprinkler main to clear conflict at Room 214 per attached sketch; proceed once clearance confirmed.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The conflict centers on the fire protection sprinkler main and its coordination with mechanical ductwork, making the Plumbing/Fire Protection Engineer the appropriate reviewer to confirm or revise the reroute direction.",
+  "escalation": true,
+  "confidence": 0.78
+}

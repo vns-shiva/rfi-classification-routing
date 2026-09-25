@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [],
+  "csi_division": "21 00 00",
+  "urgency": "priority",
+  "question_summary": "FDC piping detail at Mechanical Room 3B (FP502 Detail 3) conflicts with the Fire Sprinkler Riser Diagram (FP-501); clarification needed before releasing sprinkler shop drawings and performing underground flush/hydrostatic test.",
+  "referenced_documents": ["Fire Protection Detail 3/FP502", "Fire Sprinkler Riser Diagram FP-501"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "There's no hard deadline on this, but a timely response is appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The discrepancy concerns fire sprinkler/FDC piping details, which falls under the Plumbing/Fire Protection Engineer's scope for design clarification.",
+  "escalation": false,
+  "confidence": 0.85
+}

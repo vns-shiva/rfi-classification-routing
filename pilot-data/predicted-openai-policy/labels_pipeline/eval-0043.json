@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0043",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "urgent",
+  "question_summary": "Conflict between Structural Detail 3/S502 pour strip reinforcement and additional #5 ties required by Structural General Notes S-001; which governs for slab-on-deck pour strip?",
+  "referenced_documents": [
+    "Structural Detail 3/S502",
+    "Structural General Notes S-001"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "We need a response within one business day, if at all possible.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "This is a structural document conflict, so it should be resolved by the Structural Engineer of Record.",
+  "escalation": true,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

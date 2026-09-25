@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0038",
+  "rfi_type": "Drawing conflict/clarification",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 - Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "High",
+  "question_summary": "Conflict between Mechanical Detail 4/M501 and Sheet M-401 on Section 23 07 00 piping insulation type at AHU-3; direction needed on which to follow.",
+  "referenced_documents": [
+    "Detail 4/M501",
+    "Sheet M-401",
+    "Section 23 07 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep installation moving.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The conflict is between mechanical drawings and concerns HVAC piping insulation, requiring the Mechanical EOR to resolve and issue an addendum.",
+  "escalation": true,
+  "confidence": 0.83,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

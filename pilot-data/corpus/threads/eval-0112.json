@@ -1,0 +1,34 @@
+{
+  "thread_id": "eval-0112",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0112",
+  "date_submitted": "2025-08-25",
+  "submitted_by_role": "Foreman",
+  "subject": "Direction requested on undersized mechanical shaft in the corridor chase near P-101",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Luis Fernandez",
+      "timestamp": "2025-08-25T13:11",
+      "message_type": "initial_question",
+      "text": "Can we get interim direction on the undersized mechanical shaft in the corridor chase near P-101 so the crew isn't fully stopped while you finalize the resolution? This needs immediate attention; please respond as soon as possible. A response Friday would be appreciated."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-08-26T08:48",
+      "message_type": "response",
+      "text": "Hold work at P-101 -- we'll issue a bulletin addressing the undersized mechanical shaft in the corridor chase by end of day. This is not holding up other work currently."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Foreman",
+      "sender_name": "Bobby Kern",
+      "timestamp": "2025-08-29T17:59",
+      "message_type": "clarification",
+      "text": "Also worth noting -- the undersized mechanical shaft in the corridor chase near P-101 looks like it's affecting the adjacent duct run too; will that need its own bulletin?"
+    }
+  ]
+}

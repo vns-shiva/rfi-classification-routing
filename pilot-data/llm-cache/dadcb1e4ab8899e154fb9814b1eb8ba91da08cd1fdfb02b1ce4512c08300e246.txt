@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Coordination/Conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Mechanical", "Architectural"],
+  "csi_division": "05 - Metals",
+  "urgency": "High",
+  "question_summary": "Conflict at Grid B/2 between Foundation Plan S-101 and Detail 3/S502 regarding cast-in anchor bolt group location interfering with mechanical ductwork and architectural ceiling framing; direction needed to proceed for steel fabrication.",
+  "referenced_documents": ["Foundation Plan S-101", "Detail 3/S502"],
+  "proposed_solution": "Revise the cast-in anchor bolt group per Structural Detail 3/S502; coordinate final dimensions with the affected trades before fabrication.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "We need this resolved before the next steel erection mobilization.",
+  "assigned_reviewer": "Structural Engineer of Record (SER)",
+  "routing_rationale": "The issue concerns structural anchor bolt placement and a conflict between a structural plan and detail, which is the SER’s responsibility to resolve and coordinate with MEP/Architectural constraints.",
+  "escalation": false,
+  "confidence": 0.73
+}

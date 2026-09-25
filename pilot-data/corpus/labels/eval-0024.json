@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0024",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "General",
+  "secondary_disciplines": [],
+  "csi_division": "\u2014",
+  "urgency": "urgent",
+  "question_summary": "Unforeseen field condition: conflicting utility line beneath the slab area at Pour 3.",
+  "referenced_documents": [
+    "General Conditions Article 3"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "next week",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Urgent field conditions without a schedule impact still escalate directly to the Architect of Record for a quick call.",
+  "escalation": true,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-03-21",
+  "deadline_resolution_status": "resolved_to_date"
+}

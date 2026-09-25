@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0026",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "urgent",
+  "question_summary": "Standpipe riser at Room 214 conflicts with structural bracing; extent is greater than first reported\u2014does prior direction to reroute per sketch still apply and what routing/clearances are acceptable?",
+  "referenced_documents": [
+    "Fire Protection Sheet FP-101",
+    "last month's inspection log",
+    "PE attached reroute sketch"
+  ],
+  "proposed_solution": "Reroute the standpipe to clear the conflict at Room 214 per the attached sketch and proceed once clearance is confirmed.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The issue centers on rerouting a standpipe (fire suppression) around structural bracing, requiring Fire Protection design guidance and coordination with Structural.",
+  "escalation": false,
+  "confidence": 0.84,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

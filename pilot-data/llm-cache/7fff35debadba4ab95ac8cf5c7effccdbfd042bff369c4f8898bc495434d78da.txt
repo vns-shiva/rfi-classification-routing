@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "unforeseen field condition",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "medium",
+  "question_summary": "Ductwork routing at EF-4 conflicts with an unforeseen ceiling height restriction; crew requests direction on a permanent fix ahead of the next work sequence.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The issue involves ductwork routing and clearance at EF-4, which falls under mechanical (HVAC) design authority and requires engineering sign-off on the reroute solution.",
+  "escalation": false,
+  "confidence": 0.82
+}
+```

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document coordination/discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "low",
+  "question_summary": "Discrepancy between Sheet M-401 and Sequence of Operations M-701 regarding required equipment clearance for Section 23 74 00 packaged equipment near P-101 needs resolution.",
+  "referenced_documents": ["Sheet M-401", "Sequence of Operations M-701", "Section 23 74 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The conflict involves mechanical equipment clearance requirements referenced in mechanical drawings and sequence of operations, requiring the Mechanical Engineer of Record to reconcile the documents.",
+  "escalation": false,
+  "confidence": 0.85
+}

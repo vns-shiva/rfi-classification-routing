@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0184",
+  "rfi_type": "Clarification",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Geotechnical"
+  ],
+  "csi_division": "31 \u2014 Earthwork",
+  "urgency": "High",
+  "question_summary": "Request confirmation of minimum cover requirement for underground utility trench backfill at Placement Zone 2 per Section 31 23 00 and whether civil inspector can sign off as shown.",
+  "referenced_documents": [
+    "Section 31 23 00 Excavation and Fill",
+    "Geotechnical Report",
+    "Grading Plan C-201"
+  ],
+  "proposed_solution": "The compaction and cover requirements are satisfied as shown in Grading Plan C-201; no design change is needed for the Section 31 23 00 minimum cover requirement for the underground utility trench backfill.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "a response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The question concerns earthwork and trench backfill cover per Division 31 and civil grading plans, which fall under the Civil Engineer of Record\u2019s responsibility.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

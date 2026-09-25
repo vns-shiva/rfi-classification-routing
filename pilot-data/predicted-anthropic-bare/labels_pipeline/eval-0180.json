@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0180",
+  "rfi_type": "unforeseen field condition",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "21 00 00 \u2013 Fire Suppression",
+  "urgency": "high",
+  "question_summary": "Sprinkler crew discovered that fire pump room clearance conflicts with the new equipment layout at Lobby 101; this condition is not shown on Fire Protection Detail 3/FP502 and is impacting adjacent work.",
+  "referenced_documents": [
+    "Fire Protection Detail 3/FP502",
+    "last month's inspection log"
+  ],
+  "proposed_solution": "Reroute to clear the conflict at Lobby 101 per the attached sketch; proceed once clearance is confirmed.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Fire Protection Engineer",
+  "routing_rationale": "The issue centers on fire pump room clearance and sprinkler routing, which falls under fire protection engineering scope.",
+  "escalation": true,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-08-20",
+  "deadline_resolution_status": "resolved_to_date"
+}

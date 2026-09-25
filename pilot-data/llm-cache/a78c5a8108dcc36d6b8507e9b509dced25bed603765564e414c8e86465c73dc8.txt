@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination clash",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Mechanical", "Electrical", "Plumbing"],
+  "csi_division": "05 00 00 - Metals",
+  "urgency": "high",
+  "question_summary": "Structural steel beam at Gridline C/4 clashes with mechanical ductwork, electrical conduit rack, and plumbing riser, blocking multiple trades and steel erection.",
+  "referenced_documents": ["Structural General Notes S-001", "Sheet S-301"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three weeks would be appreciated.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The clash centers on the structural steel beam location and requires the structural engineer to lead resolution with MEP coordination via the attached sketch.",
+  "escalation": true,
+  "confidence": 0.82
+}

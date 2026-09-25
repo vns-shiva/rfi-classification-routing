@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Design Clarification",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Geotechnical"],
+  "csi_division": "31 00 00 - Earthwork",
+  "urgency": "low",
+  "question_summary": "Submitter asks whether the minimum cover requirement for underground utility trench backfill per Section 31 23 00 and Grading Plan C-201 is consistent with the geotechnical report's requirements for this area.",
+  "referenced_documents": ["Section 31 23 00", "Grading Plan C-201", "Geotechnical Report"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The question involves reconciling utility trench backfill cover requirements between the civil specification/plan and the geotechnical report, making the civil engineer the appropriate reviewer with geotechnical input.",
+  "escalation": false,
+  "confidence": 0.75
+}

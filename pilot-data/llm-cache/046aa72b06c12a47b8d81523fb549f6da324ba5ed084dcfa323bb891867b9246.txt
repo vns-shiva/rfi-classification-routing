@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Substitution Request",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": ["Electrical", "Mechanical"],
+  "csi_division": "22 - Plumbing",
+  "urgency": "urgent",
+  "question_summary": "Request approval to substitute a tankless water heater in place of the specified storage-type unit in Spec Section 22 34 00 before material ordering and fixture rough-in.",
+  "referenced_documents": ["Spec Section 22 34 00 - Domestic Water Heaters"],
+  "proposed_solution": "Substitute a tankless water heater in lieu of the specified storage-type unit.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response by the end of the day",
+  "assigned_reviewer": "Plumbing Engineer of Record",
+  "routing_rationale": "This is a Division 22 plumbing equipment substitution that requires the Plumbing EOR’s review for capacity, code compliance, venting/fuel, and coordination with electrical/mechanical.",
+  "escalation": false,
+  "confidence": 0.78
+}

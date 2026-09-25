@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Coordination - Electrical routing conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 — Electrical",
+  "urgency": "urgent",
+  "question_summary": "Unforeseen conduit routing conflict in Lobby 101 not shown on E-002 or Detail 2/E502; confirmation requested whether reroute requires a revised Electrical Detail 2/E502.",
+  "referenced_documents": ["Electrical Detail 2/E502", "One-Line Diagram E-002", "Attached sketch (reroute)"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response by end of day would be much appreciated.",
+  "assigned_reviewer": "Electrical Engineer of Record (EOR)",
+  "routing_rationale": "Requires electrical design direction and determination if Detail 2/E502 must be revised to reflect the reroute.",
+  "escalation": false,
+  "confidence": 0.78
+}

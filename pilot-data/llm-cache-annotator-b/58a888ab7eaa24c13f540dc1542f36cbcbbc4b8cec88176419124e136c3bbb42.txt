@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Curtain wall panel head/jamb detail at Gridline C/4 differs between Detail 5/A501 and Sheet A-201; clarification needed on correct condition.",
+  "referenced_documents": ["Detail 5/A501", "Sheet A-201"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Respond whenever convenient",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Document discrepancy in curtain wall details requires the Architect of Record to reconcile conflicting conditions between construction documents.",
+  "escalation": false,
+  "confidence": 0.92
+}
+```

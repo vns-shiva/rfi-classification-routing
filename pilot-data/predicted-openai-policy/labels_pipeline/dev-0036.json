@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0036",
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Confirm whether the minimum reinforcing lap length for the shear wall assembly on S-001 complies with the code edition referenced in Section 03 15 00.",
+  "referenced_documents": [
+    "Structural General Notes S-001",
+    "Section 03 15 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Code Official/AHJ Liaison",
+  "routing_rationale": "As a code compliance question, it should be routed to the Code Official/AHJ Liaison per routing policy.",
+  "escalation": false,
+  "confidence": 0.77,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

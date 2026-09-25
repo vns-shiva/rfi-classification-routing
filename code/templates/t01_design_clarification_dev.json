@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "template_id": "t01_design_clarification_dev",
+  "pool": "dev",
+  "axes": {
+    "rfi_type": ["design_clarification"],
+    "primary_discipline": ["Architectural"],
+    "urgency": ["routine", "priority"],
+    "cost_impact": [false, true],
+    "schedule_impact": [false, true],
+    "deadline_family": ["none", "relative_days"],
+    "adversarial": ["none"],
+    "thread_shape": ["single_message", "two_message_qa"]
+  },
+  "csi_by_discipline": {
+    "Architectural": "08 00 00 (Openings)"
+  },
+  "secondary_by_adversarial": {
+    "none": []
+  },
+  "slots": {
+    "opening_type": ["storefront glazing system", "hollow metal door assembly", "curtain wall panel"],
+    "finish_type": ["porcelain tile", "quarry tile", "sealed concrete"]
+  },
+  "urgency_phrasing": {
+    "routine": [
+      "This is not time-critical; please respond at your convenience.",
+      "No particular urgency on this one."
+    ],
+    "priority": [
+      "We would like to close this out ahead of the next submittal cycle.",
+      "This is becoming a priority as we sequence upcoming shop drawings."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "This may affect the contract sum depending on the direction taken.",
+      "There could be a cost impact if the resolution requires additional material."
+    ],
+    "false": [
+      "No cost impact is anticipated either way.",
+      "We do not expect this to affect the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up release of the affected shop drawings.",
+      "This could affect our current fabrication schedule."
+    ],
+    "false": [
+      "This is not holding up any current activity.",
+      "No schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "none": [
+      "No specific response date is requested.",
+      "Respond whenever convenient."
+    ],
+    "relative_days": [
+      "Please respond within five days so we can stay on schedule.",
+      "A response within three calendar days would help us hold the current shop drawing schedule."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Project Engineer", "Detailer/BIM Coordinator"],
+      "shapes": ["single_message", "two_message_qa"],
+      "body_variants": [
+        "The {opening_type} detail at {gridline} shown in {doc_a} does not match the head condition called out in {doc_b}. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase}",
+        "We are ready to submit shop drawings for the {opening_type} assembly near {gridline}, but {doc_a} and {doc_b} show two different jamb conditions. {urgency_phrase} {deadline_phrase}",
+        "Per {detail_ref}, the {finish_type} transition at {gridline} is not detailed. {doc_a} shows a control joint there but {doc_b} omits it. {cost_phrase} {schedule_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa"],
+      "body_variants": [
+        "Use the condition shown in {doc_b}; {doc_a} will be superseded by an upcoming addendum. Proceed with the {opening_type} detail as revised. {cost_phrase} {schedule_phrase}",
+        "Confirmed — {doc_b} governs at {gridline}. {cost_phrase} {schedule_phrase}",
+        "The intended condition is per {detail_ref}; disregard the conflicting note in {doc_a}. Proceed with {finish_type} as shown in {doc_b}."
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "08 00 00 (Openings)",
+    "question_summary_variants": [
+      "Conflicting head/jamb detail for the {opening_type} at {gridline} between {doc_a} and {doc_b}.",
+      "Shop drawing submission for {opening_type} near {gridline} blocked by a detail conflict between {doc_a} and {doc_b}.",
+      "{doc_a} and {doc_b} disagree on the {finish_type} transition detail at {gridline}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend following {doc_b} and issuing an addendum to correct {doc_a}.",
+      "Recommend field-verifying {detail_ref} before proceeding."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"cost_impact": true, "schedule_impact": true},
+      "assigned_reviewer": "Owner's Representative",
+      "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Architect of Record looped in as technical reviewer.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "AIA A201 default routing would keep this with the Architect of Record; this project's delegation letter pulls the owner's rep in whenever both cost and schedule are affected, regardless of discipline."
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Architect of Record",
+      "routing_rationale": "Default discipline routing: the Architect of Record interprets and clarifies the Contract Documents for this Architectural-discipline design clarification.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

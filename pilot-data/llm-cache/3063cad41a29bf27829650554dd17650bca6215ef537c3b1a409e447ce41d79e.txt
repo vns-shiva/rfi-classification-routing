@@ -1,0 +1,18 @@
+{
+  "rfi_type": "design conflict",
+  "primary_discipline": "structural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 03 - Concrete",
+  "urgency": "high",
+  "question_summary": "Field asked which reinforcement detail governs at column baseplates given conflict between Foundation Plan S-101 and Sheet S-301 (additional #5 ties), then sought confirmation whether the direction to follow S-301 applies to all column baseplates on the level, ahead of concrete pour.",
+  "referenced_documents": ["Foundation Plan S-101", "Sheet S-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "end of day Wednesday",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The conflict involves structural reinforcement details between drawings, requiring the Structural Engineer of Record to confirm scope of the corrected detail across all baseplates.",
+  "escalation": false,
+  "confidence": 0.75
+}

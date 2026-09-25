@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "routine",
+  "question_summary": "Shop drawings for the entry vestibule storefront glazing system (Section 08 41 13) do not match the built field mockup; submitter asks which condition governs before submitting shop drawings.",
+  "referenced_documents": ["Section 08 41 13", "Sheet A-301", "Detail 5/A501"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "ahead of the next submittal deadline",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As a document discrepancy in an architectural glazing detail, it is routed to the Architect of Record who owns the conflicting details.",
+  "escalation": false,
+  "confidence": 0.88
+}

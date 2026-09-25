@@ -1,0 +1,34 @@
+{
+  "thread_id": "eval-0005",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0005",
+  "date_submitted": "2025-09-15",
+  "submitted_by_role": "Foreman",
+  "subject": "Unforeseen mechanical field condition: existing ductwork conflicting with the new",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Luis Fernandez",
+      "timestamp": "2025-09-15T09:38",
+      "message_type": "initial_question",
+      "text": "Our crew hit the existing ductwork conflicting with the new structural beam at P-101 and need your call on the permanent fix. This is critical -- please treat this as a top priority. This condition will require a change order. No broader schedule impact is expected. A response Friday would be appreciated."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-09-20T09:55",
+      "message_type": "response",
+      "text": "Reroute to clear the conflict at P-101 per the attached sketch; proceed once you've confirmed clearance. This condition will require a change order."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Foreman",
+      "sender_name": "Bobby Kern",
+      "timestamp": "2025-09-24T14:14",
+      "message_type": "clarification",
+      "text": "Photos show the existing ductwork conflicting with the new structural beam at P-101 goes further than we first thought -- does your direction still cover it? A response Friday would be appreciated."
+    }
+  ]
+}

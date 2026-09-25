@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "31 00 00",
+  "urgency": "routine",
+  "question_summary": "Submitter asks whether the Section 31 25 00 erosion control requirement for the disturbed slope shown on Civil Detail 2/C501 is consistent with the geotechnical report's requirements for that area.",
+  "referenced_documents": ["Section 31 25 00", "Civil Detail 2/C501", "Geotechnical Report"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The question concerns erosion control specifications and geotechnical alignment for a slope detail, which falls under civil engineering scope and requires the civil engineer's review.",
+  "escalation": false,
+  "confidence": 0.78
+}

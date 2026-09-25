@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "critical",
+  "question_summary": "Unforeseen ceiling height restriction is conflicting with ductwork routing at RTU-2; superintendent requests direction on a permanent fix as it is blocking work.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the crew moving.",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "Per policy, a field_condition_conflict with schedule_impact true and urgency critical routes to the GC Superintendent to manage the field resolution.",
+  "escalation": true,
+  "confidence": 0.82
+}

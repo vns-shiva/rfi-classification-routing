@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0065",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Resolve conflict between Sequence of Operations M-701 and Sheet M-401 for Section 23 31 00 ductwork routing near T-1, and confirm whether the direction to follow M-401 applies throughout the area, not only at T-1.",
+  "referenced_documents": [
+    "Sheet M-401",
+    "Sequence of Operations M-701",
+    "Section 23 31 00 (Ductwork)"
+  ],
+  "proposed_solution": "Follow Sheet M-401 for the Section 23 31 00 ductwork routing near T-1; issue an addendum to reconcile Sequence of Operations M-701.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The issue is a conflict within mechanical documents (SOO vs. duct routing plan) requiring mechanical design direction and addendum.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

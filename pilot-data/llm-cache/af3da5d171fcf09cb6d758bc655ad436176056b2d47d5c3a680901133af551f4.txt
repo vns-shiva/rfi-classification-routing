@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "33 00 00",
+  "urgency": "routine",
+  "question_summary": "Storm drainage inlet elevation shown on Sheet C-101 conflicts with the elevation shown on Utility Plan C-301 near Pour 3.",
+  "referenced_documents": ["Sheet C-101", "Utility Plan C-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "No rush on this -- please respond when convenient.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The discrepancy involves storm drainage utility elevations, which falls under civil site utility design.",
+  "escalation": false,
+  "confidence": 0.9
+}

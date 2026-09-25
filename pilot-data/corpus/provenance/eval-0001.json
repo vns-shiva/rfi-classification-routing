@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0001",
+  "template_id": "t20_design_clarification_mechanical_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "design_clarification",
+    "primary_discipline": "Mechanical",
+    "urgency": "urgent",
+    "cost_impact": true,
+    "schedule_impact": false,
+    "deadline_family": "business_days",
+    "adversarial": "none",
+    "thread_shape": "multi_turn_clarification"
+  },
+  "variant_index": 0,
+  "seed": 248473606566742378,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0,
+    "clarification": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Harborview Logistics Center",
+  "doc_a": "Sequence of Operations M-701",
+  "doc_b": "Sheet M-401",
+  "date_submitted": "2025-03-22"
+}

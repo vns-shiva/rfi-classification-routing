@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Civil", "Plumbing"],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Direction requested for addressing an unforeseen underground obstruction near Mechanical Room 3B and approval of a permanent fix/workaround.",
+  "referenced_documents": ["General Conditions Article 3"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "As a field condition affecting mechanical work near Mechanical Room 3B, the Mechanical Engineer should issue the design direction.",
+  "escalation": false,
+  "confidence": 0.62
+}

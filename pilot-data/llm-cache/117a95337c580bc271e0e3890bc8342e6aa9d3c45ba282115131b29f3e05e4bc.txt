@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document conflict (drawing discrepancy)",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 - Electrical",
+  "urgency": "low",
+  "question_summary": "Confirm which document governs for Section 26 05 33 conduit routing near LP-1 due to mismatch between One-Line Diagram E-002 and Electrical Detail 2/E502.",
+  "referenced_documents": ["One-Line Diagram E-002", "Electrical Detail 2/E502", "Section 26 05 33"],
+  "proposed_solution": "One-Line Diagram E-002 governs for the conduit routing near LP-1; update Electrical Detail 2/E502 accordingly.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No rush on this -- please respond when convenient.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The discrepancy is between electrical drawings and affects conduit routing, which the Electrical EOR must clarify and revise.",
+  "escalation": false,
+  "confidence": 0.86
+}

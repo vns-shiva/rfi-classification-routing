@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0064",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Mismatch between panel schedule circuit assignments on Sheet E-501 and Detail 2 on E-502; confirm which is correct prior to fabrication.",
+  "referenced_documents": [
+    "Specification Section 26 24 00",
+    "Sheet E-501",
+    "Sheet E-502 (Detail 2)"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond at your earliest convenience.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As an electrical document discrepancy, the Electrical Engineer of record should resolve conflicting circuit assignments between sheets.",
+  "escalation": false,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Sheet S-301 and Detail 3/S502 regarding column baseplate reinforcement (#6 dowels at 12\" o.c.), and clarification whether this applies to every column baseplate on the level.",
+  "referenced_documents": ["Sheet S-301", "Detail 3/S502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within two business days ahead of the scheduled pour.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "This is a conflict between structural drawings/details requiring the structural engineer to confirm the governing detail and its extent across all columns.",
+  "escalation": false,
+  "confidence": 0.88
+}

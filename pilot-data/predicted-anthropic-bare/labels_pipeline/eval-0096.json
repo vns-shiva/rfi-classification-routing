@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0096",
+  "rfi_type": "Document Coordination Conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Curtain Wall/Glazing"
+  ],
+  "csi_division": "Division 08 - Openings",
+  "urgency": "high",
+  "question_summary": "Submitter requests clarification on which document governs for the Section 08 44 13 curtain wall mullion detail at the building corner, as the shop drawings do not match the field mockup, prior to fabrication.",
+  "referenced_documents": [
+    "Section 08 44 13",
+    "Sheet A-201",
+    "Sheet A-301"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within five days",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict involves discrepancies between architectural drawings governing the curtain wall mullion detail, requiring the Architect of Record to resolve via addendum.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-05-15",
+  "deadline_resolution_status": "resolved_to_date"
+}

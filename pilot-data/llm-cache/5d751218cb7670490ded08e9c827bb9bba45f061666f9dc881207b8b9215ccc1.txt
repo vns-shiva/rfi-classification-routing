@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Existing condition conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Structural", "Electrical"],
+  "csi_division": "09 - Finishes",
+  "urgency": "Medium",
+  "question_summary": "Existing wall near Electrical Closet 2A does not match the drawings; requester needs direction and sign-off on a permanent fix.",
+  "referenced_documents": ["Contract Drawings"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The Architect is responsible for wall layouts and finishes and can coordinate required input from Structural and Electrical due to the closet location.",
+  "escalation": false,
+  "confidence": 0.66
+}

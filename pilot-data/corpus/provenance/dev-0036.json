@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0036",
+  "template_id": "t08_code_compliance_structural_aid_dev",
+  "cell": {
+    "split": "dev",
+    "rfi_type": "code_compliance_question",
+    "primary_discipline": "Structural",
+    "urgency": "priority",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "relative_days",
+    "adversarial": "answer_in_documents",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 17955087729489538720,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Riverside Medical Office Building",
+  "doc_a": "Structural General Notes S-001",
+  "doc_b": "Sheet S-301",
+  "date_submitted": "2025-10-27"
+}

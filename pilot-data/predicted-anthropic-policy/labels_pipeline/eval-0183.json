@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0183",
+  "rfi_type": "substitution_request",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "routine",
+  "question_summary": "Request for approval to substitute a tankless water heater in lieu of the storage-type water heater specified in Section 22 34 00 prior to ordering material.",
+  "referenced_documents": [
+    "Section 22 34 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response by the end of the day would let us keep the order on track.",
+  "assigned_reviewer": "Cost/Change-Order Manager",
+  "routing_rationale": "This is a substitution request with a potential cost impact on the plumbing fixture budget, so per policy it routes to the Cost/Change-Order Manager.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

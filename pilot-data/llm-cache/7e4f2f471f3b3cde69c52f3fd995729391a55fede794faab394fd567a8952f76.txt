@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Unforeseen existing electrical conduit in Room 214 conflicts with the new duct routing; request direction/approval for reroute.",
+  "referenced_documents": ["Electrical Detail 2/E502", "Attached sketch – conduit reroute at Room 214"],
+  "proposed_solution": "Reroute the existing conduit per the attached sketch to clear the new duct path.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The issue concerns rerouting existing electrical conduit and references Electrical Detail 2/E502, requiring Electrical Engineer approval and coordination with Mechanical.",
+  "escalation": false,
+  "confidence": 0.77
+}

@@ -1,0 +1,18 @@
+{
+  "thread_id": "dev-0037",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0037",
+  "date_submitted": "2025-07-12",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Inconsistent detailing of the sanitary vent stack at Room 214 between Plumbing Fixture",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-07-12T15:14",
+      "message_type": "initial_question",
+      "text": "The sanitary vent stack shown in Plumbing Fixture Schedule P-602 at Room 214 is not detailed consistently with Plumbing Riser Diagram P-501. This is becoming a priority as rough-in proceeds. We do not expect this to affect the contract sum. This could affect the rough-in inspection schedule. No hard deadline, just would like to keep this moving."
+    }
+  ]
+}

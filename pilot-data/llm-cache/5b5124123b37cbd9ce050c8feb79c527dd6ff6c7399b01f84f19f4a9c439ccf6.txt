@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Unforeseen Field Condition",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "Division 26 - Electrical",
+  "urgency": "low",
+  "question_summary": "Field crew discovered that an existing panel location conflicts with new wall framing at Room 214, a condition not reflected on Sheet E-501; requests direction on how to proceed.",
+  "referenced_documents": ["Sheet E-501", "Today's field log"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The conflict involves an electrical panel's location and its coordination with wall framing, which falls under the Electrical Engineer of Record's scope for the E-series drawings.",
+  "escalation": false,
+  "confidence": 0.78
+}

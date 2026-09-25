@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0018",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0018",
+  "date_submitted": "2025-03-17",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Document coordination conflict on the Section 08 41 13 storefront glazing system at the",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-03-17T11:36",
+      "message_type": "initial_question",
+      "text": "Shop drawings for the Section 08 41 13 storefront glazing system at the entry vestibule are ready to submit, but what's shown doesn't match what's built out in the field mockup -- can you confirm which governs? This is becoming a priority as fabrication approaches. There may be a cost impact if a change to the specified material is required. This is not holding up any current work. There is no specific deadline for this, but a timely response is appreciated."
+    }
+  ]
+}

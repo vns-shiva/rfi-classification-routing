@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document conflict - architectural details",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "08 - Openings",
+  "urgency": "medium",
+  "question_summary": "Detail 5/A501 shows a different curtain wall head/jamb condition than the head condition indicated on Sheet A-301 at Gridline D/7; confirm which detail governs.",
+  "referenced_documents": ["Detail 5/A501", "Sheet A-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No specific response date is requested.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The discrepancy is between architectural curtain wall details and must be resolved by the Architect of Record, with structural coordination as needed.",
+  "escalation": false,
+  "confidence": 0.76
+}

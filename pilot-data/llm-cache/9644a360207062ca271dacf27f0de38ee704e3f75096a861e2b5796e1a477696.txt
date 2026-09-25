@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document conflict/coordination",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Controls/Building Automation"],
+  "csi_division": "23 - Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "High",
+  "question_summary": "Conflicting direction between Sequence of Operations M-701 and Sheet M-401 for Section 23 07 00 piping insulation near P-101; requester seeks confirmation to follow M-401 and whether this applies throughout the area, not just at P-101.",
+  "referenced_documents": ["Sequence of Operations M-701", "Sheet M-401", "Section 23 07 00"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep installation moving.",
+  "assigned_reviewer": "Mechanical Engineer of Record (MEOR)",
+  "routing_rationale": "The issue is a Mechanical insulation specification conflict between M-701 and M-401 requiring design clarification and potential addendum by the MEOR.",
+  "escalation": false,
+  "confidence": 0.79
+}

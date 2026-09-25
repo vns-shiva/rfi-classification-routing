@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0101",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Mechanical"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "urgent",
+  "question_summary": "Fire pump room clearance conflicts with new equipment layout at Mechanical Room 3B, a condition not shown on Fire Protection Detail 3/FP502, and later found to be more extensive than first reported; work is stopped pending direction.",
+  "referenced_documents": [
+    "Fire Protection Detail 3/FP502"
+  ],
+  "proposed_solution": "Reroute to clear the conflict at Mechanical Room 3B per the attached sketch; proceed once clearance is confirmed.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The conflict involves fire pump room clearance requirements, making it a Fire Protection engineering issue best resolved by the Plumbing/Fire Protection Engineer.",
+  "escalation": true,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-04-18",
+  "deadline_resolution_status": "resolved_to_date"
+}

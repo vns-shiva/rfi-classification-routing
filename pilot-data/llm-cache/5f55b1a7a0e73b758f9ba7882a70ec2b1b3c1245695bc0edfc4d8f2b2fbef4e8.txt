@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "priority",
+  "question_summary": "Shop drawings for the Section 08 71 00 interior door hardware set at the stair enclosure do not match the built field mockup; submitter asks which should govern.",
+  "referenced_documents": ["Section 08 71 00 shop drawings", "field mockup"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Door hardware discrepancies fall under the Architect of Record's design authority for Division 08 openings and finish hardware sets.",
+  "escalation": false,
+  "confidence": 0.85
+}

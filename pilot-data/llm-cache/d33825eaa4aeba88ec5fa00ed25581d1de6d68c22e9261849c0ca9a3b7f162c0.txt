@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Drawing coordination discrepancy",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 — Plumbing",
+  "urgency": "High",
+  "question_summary": "Backflow preventer assembly in Room 214 is detailed differently on Sheet P-601 versus Plumbing Riser Diagram P-501; requester needs direction on the correct configuration/routing for rough-in.",
+  "referenced_documents": ["Sheet P-601", "Sheet P-501", "Room 214"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Plumbing Engineer of Record (MEP)",
+  "routing_rationale": "Resolution requires designer’s intent to reconcile conflicting plumbing detail and riser diagram for the backflow preventer.",
+  "escalation": false,
+  "confidence": 0.78
+}

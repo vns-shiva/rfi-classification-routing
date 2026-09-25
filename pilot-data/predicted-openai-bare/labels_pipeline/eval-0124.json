@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0124",
+  "rfi_type": "Field condition / coordination conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Mechanical (HVAC)"
+  ],
+  "csi_division": "26 - Electrical",
+  "urgency": "Response requested within three days",
+  "question_summary": "Existing electrical conduit in Lobby 101 conflicts with new duct routing; direction requested and approval of attached reroute sketch to resolve the conflict and release the area for work.",
+  "referenced_documents": [
+    "Electrical Panel Schedule E-601",
+    "Attached routing sketch"
+  ],
+  "proposed_solution": "Approve rerouting of the existing conduit per the attached sketch to clear the new duct path.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer of Record (EOR)",
+  "routing_rationale": "The resolution requires approval and potential redesign of existing conduit routing, which falls under the Electrical EOR\u2019s responsibility.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

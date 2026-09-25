@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0133",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0133",
+  "date_submitted": "2025-09-29",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Document coordination conflict on the Section 08 51 13 aluminum window frame detail at",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-09-29T15:07",
+      "message_type": "initial_question",
+      "text": "Shop drawings for the Section 08 51 13 aluminum window frame detail at the corner window are ready to submit, but what's shown doesn't match what's built out in the field mockup -- can you confirm which governs? This is routine and can be worked into the normal submittal cycle. This could affect the contract sum depending on the resolution. This is holding up fabrication in this area. No hard deadline, just would like to keep this moving. It is not clear whether this needs Architect interpretation of what was intended, or just confirmation that the documentation has an error."
+    }
+  ]
+}

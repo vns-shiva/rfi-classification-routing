@@ -1,0 +1,18 @@
+{
+  "thread_id": "dev-0030",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0030",
+  "date_submitted": "2025-08-14",
+  "submitted_by_role": "Assistant Project Manager",
+  "subject": "Whether the occupancy separation rating shown in Project Specifications Division 00",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Assistant Project Manager",
+      "sender_name": "Kevin Cho",
+      "timestamp": "2025-08-14T09:40",
+      "message_type": "initial_question",
+      "text": "We need confirmation on whether the occupancy separation rating shown in Project Specifications Division 00 complies with the adopted code edition referenced in Section 07 92 00, though this may simply come down to what the design intended rather than a strict code reading. This needs immediate attention -- please prioritize a response. We do not expect this to affect the contract sum. No schedule impact is expected. No hard deadline, just would like to keep this moving."
+    }
+  ]
+}

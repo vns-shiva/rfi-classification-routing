@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "Document Discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Glazing/Curtain Wall"],
+  "csi_division": "Division 08 - Openings",
+  "urgency": "medium",
+  "question_summary": "Submitter requests clarification on whether the shop drawings or the field mockup governs for the Section 08 41 13 storefront glazing system at the entry vestibule, as they do not match.",
+  "referenced_documents": ["Section 08 41 13 storefront glazing shop drawings", "field mockup"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Project Architect",
+  "routing_rationale": "The discrepancy involves storefront glazing design intent versus field-built conditions, which falls under the Project Architect's authority to interpret and resolve.",
+  "escalation": false,
+  "confidence": 0.75
+}
+```

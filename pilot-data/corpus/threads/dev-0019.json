@@ -1,0 +1,18 @@
+{
+  "thread_id": "dev-0019",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0019",
+  "date_submitted": "2025-04-15",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Request to substitute a linear slot alternate diffuser in lieu of the specified",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-04-15T09:15",
+      "message_type": "initial_question",
+      "text": "We would like to substitute a linear slot alternate diffuser in lieu of the specified perforated face diffuser, per Section 23 82 00. This is becoming a priority given current lead times. This substitution is cost-neutral. This substitution will not affect the equipment delivery schedule. A response within three business days would be appreciated."
+    }
+  ]
+}

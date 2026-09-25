@@ -1,0 +1,18 @@
+{
+  "rfi_type": "substitution_request",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "priority",
+  "question_summary": "Request approval to substitute a tankless water heater in lieu of the specified storage-type unit in Spec Section 22 34 00; cost-neutral and needed before fixture rough-in/material order.",
+  "referenced_documents": ["Section 22 34 00"],
+  "proposed_solution": "Approve a tankless water heater alternate in lieu of the specified storage-type water heater.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by the end of the week so we can place the order.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a cost-neutral substitution affecting domestic hot water, this should be reviewed by the Plumbing/Fire Protection Engineer of record.",
+  "escalation": false,
+  "confidence": 0.86
+}

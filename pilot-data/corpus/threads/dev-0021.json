@@ -1,0 +1,34 @@
+{
+  "thread_id": "dev-0021",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0021",
+  "date_submitted": "2025-03-06",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Unforeseen conduit routing conflict at Lobby 101 conflicting with Electrical Detail",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Tom Reilly",
+      "timestamp": "2025-03-06T16:11",
+      "message_type": "initial_question",
+      "text": "Field investigation at Lobby 101 revealed a field condition -- conduit routing conflict -- not shown on Electrical Detail 2/E502 or One-Line Diagram E-002. We'd treat this as urgent on our end, though it's admittedly a judgment call. We do not expect this to affect the contract sum. This could affect the rough-in inspection schedule. A response by end of day would be much appreciated."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-03-11T12:58",
+      "message_type": "response",
+      "text": "Reroute per the attached sketch to clear the conduit routing conflict at Lobby 101. We do not expect this to affect the contract sum. This could affect the rough-in inspection schedule."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Foreman",
+      "sender_name": "Luis Fernandez",
+      "timestamp": "2025-03-13T08:43",
+      "message_type": "clarification",
+      "text": "To confirm, does the reroute around the conduit routing conflict at Lobby 101 require a revised Electrical Detail 2/E502? A response by end of day would be much appreciated."
+    }
+  ]
+}

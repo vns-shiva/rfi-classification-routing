@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0143",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "priority",
+  "question_summary": "Retaining wall footing at Pour 3 conflicts with the underground utility corridor per Utility Plan C-301 versus Civil Detail 2/C501, requiring coordination resolution before site work can continue.",
+  "referenced_documents": [
+    "Utility Plan C-301",
+    "Civil Detail 2/C501",
+    "Site coordination sketch"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the site crew moving",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "As a coordination_conflict primarily involving civil utility and retaining wall footing documents, it routes to the Civil Engineer as design professional of record.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

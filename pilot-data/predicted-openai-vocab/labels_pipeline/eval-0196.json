@@ -1,0 +1,31 @@
+{
+  "thread_id": "eval-0196",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "Electrical",
+    "Plumbing",
+    "Mechanical"
+  ],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Grade beam at Gridline D/7 conflicts with underground electrical duct bank, plumbing sanitary main, and mechanical condensate drain; request resolution ahead of fabrication release.",
+  "referenced_documents": [
+    "Structural Detail 3/S502",
+    "Structural General Notes S-001",
+    "Attached coordination sketch"
+  ],
+  "proposed_solution": "Revise per the attached coordination sketch to resolve the grade beam and underground utilities clash.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three weeks would be appreciated.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The clash centers on the concrete grade beam geometry, requiring structural modification and coordination with MEP utilities.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

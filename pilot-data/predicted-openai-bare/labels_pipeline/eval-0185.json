@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0185",
+  "rfi_type": "Unforeseen field condition \u2013 mechanical/coordination conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "23 \u2013 Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "urgent",
+  "question_summary": "Unforeseen ceiling height restriction is obstructing ductwork routing at RTU-2; guidance requested for a permanent reroute solution to clear the conflict.",
+  "referenced_documents": [
+    "Attached sketch \u2013 duct reroute at RTU-2"
+  ],
+  "proposed_solution": "Reroute ductwork to clear the conflict at RTU-2 per the attached sketch and proceed once field clearance is confirmed.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the crew moving.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The conflict involves duct routing at RTU-2 and requires mechanical design direction and approval for the permanent reroute.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

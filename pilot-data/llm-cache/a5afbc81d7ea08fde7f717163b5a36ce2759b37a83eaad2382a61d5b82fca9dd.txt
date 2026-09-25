@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Unforeseen field condition: junction box location conflicts with Lobby 101 ceiling grid and is not shown on Electrical Detail 2/E502; guidance needed on acceptable location/adjustment.",
+  "referenced_documents": ["Electrical Detail 2/E502", "Field log entry dated 2025-04-16"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As a routine field condition affecting electrical work, it should be resolved by the Electrical Engineer of record.",
+  "escalation": false,
+  "confidence": 0.86
+}

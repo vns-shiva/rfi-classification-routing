@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0079",
+  "rfi_type": "Specification interpretation/approval",
+  "primary_discipline": "Geotechnical",
+  "secondary_disciplines": [
+    "Civil",
+    "Structural"
+  ],
+  "csi_division": "31 \u2014 Earthwork",
+  "urgency": "Response needed within 5 days (before next civil inspection)",
+  "question_summary": "Confirm whether the excavation shoring setback near the property line complies with Section 31 50 00 and whether the civil inspector can sign off as shown for Pour 3.",
+  "referenced_documents": [
+    "Section 31 50 00 Excavation Support and Protection",
+    "Geotechnical Report"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can schedule the civil inspection.",
+  "assigned_reviewer": "Geotechnical Engineer of Record (GEOR)",
+  "routing_rationale": "Shoring setbacks and approval criteria under Section 31 50 00 fall under the geotechnical engineer\u2019s purview, with civil inspection dependent on their confirmation.",
+  "escalation": false,
+  "confidence": 0.71,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

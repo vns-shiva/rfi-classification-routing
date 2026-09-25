@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "31 00 00",
+  "urgency": "routine",
+  "question_summary": "Submitter asks whether Section 31 20 00 required compaction density for structural fill under the building pad matches the geotechnical report requirements, ahead of the civil inspection.",
+  "referenced_documents": ["Section 31 20 00", "Grading Plan C-201", "Geotechnical Report", "Detail 6/C-601"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "within five days",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The question concerns compaction density requirements for structural fill under grading plans, which falls under civil engineering scope.",
+  "escalation": false,
+  "confidence": 0.85
+}

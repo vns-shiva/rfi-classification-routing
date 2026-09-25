@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Specification clarification",
+  "primary_discipline": "Geotechnical",
+  "secondary_disciplines": ["Civil", "Structural"],
+  "csi_division": "31 - Earthwork",
+  "urgency": "High",
+  "question_summary": "Request confirmation of required setback for excavation shoring near the property line at Placement Zone 2 per Section 31 50 00 and whether the civil inspector can approve the configuration as shown.",
+  "referenced_documents": ["Section 31 50 00 Excavation Support and Protection", "Geotechnical Report"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Geotechnical Engineer of Record (Geotech EOR)",
+  "routing_rationale": "The setback for excavation support near a property line and related approval aligns with geotechnical design responsibility under Section 31 50 00.",
+  "escalation": false,
+  "confidence": 0.66
+}

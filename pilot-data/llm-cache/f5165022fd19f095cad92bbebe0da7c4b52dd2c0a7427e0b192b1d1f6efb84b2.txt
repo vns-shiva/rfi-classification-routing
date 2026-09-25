@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Conflicting callouts between Sheet S-301 and Structural Detail 3/S502 for column baseplate reinforcement; confirm that #6 dowels at 12\" o.c. per 3/S502 supersede S-301 and whether this applies to all column baseplates at this level.",
+  "referenced_documents": ["Sheet S-301", "Structural Detail 3/S502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within two business days ahead of the scheduled pour.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The discrepancy and clarification concern structural reinforcement details for column baseplates, which fall under the Structural Engineer’s scope.",
+  "escalation": false,
+  "confidence": 0.9
+}

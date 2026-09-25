@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0103",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Shear wall reinforcement conflict between Foundation Plan S-101 and Structural General Notes S-001 regarding #6 dowels at 12\" o.c., needing resolution before Friday's pour.",
+  "referenced_documents": [
+    "Foundation Plan S-101",
+    "Structural General Notes S-001"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": true,
+  "deadline_text": "Please respond by Thursday, ahead of Friday's pour.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The conflict involves structural reinforcement details, requiring review by the Structural Engineer to confirm which document governs.",
+  "escalation": false,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

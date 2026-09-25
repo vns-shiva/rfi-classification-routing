@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0183",
+  "template_id": "t15_substitution_plumbing_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "substitution_request",
+    "primary_discipline": "Plumbing",
+    "urgency": "routine",
+    "cost_impact": true,
+    "schedule_impact": false,
+    "deadline_family": "end_of",
+    "adversarial": "none",
+    "thread_shape": "two_message_qa"
+  },
+  "variant_index": 0,
+  "seed": 17305884169193423247,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Northgate Mixed-Use Phase II",
+  "doc_a": "Sheet P-601",
+  "doc_b": "Plumbing Detail 6/P503",
+  "date_submitted": "2025-04-18"
+}

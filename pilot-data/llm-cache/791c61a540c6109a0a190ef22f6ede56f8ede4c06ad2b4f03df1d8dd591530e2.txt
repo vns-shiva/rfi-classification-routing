@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "urgent",
+  "question_summary": "Conflicting reinforcement details between Sheet S-301 and Foundation Plan S-101 for slab-on-deck pour strip; confirmation requested whether additional #5 ties per S-101 apply at all pour strips on this level.",
+  "referenced_documents": ["Sheet S-301", "Foundation Plan S-101"],
+  "proposed_solution": "Proceed with additional #5 ties per Foundation Plan S-101; Sheet S-301 is superseded.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by Thursday, ahead of Friday's pour.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "This is a discrepancy between structural drawings affecting slab reinforcement, so the Structural Engineer must clarify and confirm scope across pour strips.",
+  "escalation": true,
+  "confidence": 0.86
+}

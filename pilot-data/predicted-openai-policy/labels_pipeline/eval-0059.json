@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0059",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen field condition: junction box in Lobby 101 conflicts with ceiling grid layout; clarification/approval needed for revised routing not shown on One-Line Diagram E-002.",
+  "referenced_documents": [
+    "One-Line Diagram E-002",
+    "Attached routing sketch",
+    "Field log entry for Lobby 101"
+  ],
+  "proposed_solution": "Relocate/re-route the junction box per the attached sketch resolving the ceiling grid conflict.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As a field condition affecting electrical work without schedule emergency, the Electrical Engineer of record should review and approve the revised junction box routing.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

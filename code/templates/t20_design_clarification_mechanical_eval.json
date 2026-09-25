@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "template_id": "t20_design_clarification_mechanical_eval",
+  "pool": "eval",
+  "axes": {
+    "rfi_type": ["design_clarification"],
+    "primary_discipline": ["Mechanical"],
+    "urgency": ["priority", "urgent"],
+    "cost_impact": [false, true],
+    "schedule_impact": [false, true],
+    "deadline_family": ["weekday", "business_days"],
+    "adversarial": ["none"],
+    "thread_shape": ["two_message_qa", "multi_turn_clarification"]
+  },
+  "csi_by_discipline": {
+    "Mechanical": "23 00 00 (HVAC)"
+  },
+  "secondary_by_adversarial": {
+    "none": []
+  },
+  "slots": {
+    "mechanical_item": [
+      "Section 23 31 00 ductwork routing",
+      "Section 23 74 00 equipment clearance",
+      "Section 23 07 00 piping insulation type",
+      "Section 23 37 00 diffuser layout"
+    ]
+  },
+  "urgency_phrasing": {
+    "priority": [
+      "We would like this closed out ahead of the next submittal deadline.",
+      "This is becoming a priority as installation approaches."
+    ],
+    "urgent": [
+      "This is urgent -- please treat this as a priority.",
+      "This needs a quick turnaround; please prioritize a response."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "There may be a cost impact if a change is required.",
+      "This could affect the contract sum depending on the resolution."
+    ],
+    "false": [
+      "No cost impact is anticipated.",
+      "We do not expect this to affect the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up installation in this area.",
+      "This could affect the installation schedule."
+    ],
+    "false": [
+      "This is not holding up any current work.",
+      "No schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "weekday": [
+      "Please respond Thursday so we can keep installation moving.",
+      "A response Friday would be appreciated."
+    ],
+    "business_days": [
+      "Please respond within five business days so we can keep installation moving.",
+      "A response within three business days would be appreciated."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Project Engineer", "Detailer/BIM Coordinator"],
+      "shapes": ["two_message_qa", "multi_turn_clarification"],
+      "body_variants": [
+        "Coordination between {doc_a} and {doc_b} breaks down for the {mechanical_item} near {equipment_tag}. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase}",
+        "Please clarify the {mechanical_item} near {equipment_tag} -- {doc_a} and {doc_b} disagree. {urgency_phrase} {deadline_phrase}",
+        "The {mechanical_item} at {equipment_tag} is unclear relative to {doc_b}. {cost_phrase} {schedule_phrase}",
+        "Crew is holding off on the {mechanical_item} near {equipment_tag} until we get clarification on which document to follow. {urgency_phrase} {cost_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa", "multi_turn_clarification"],
+      "body_variants": [
+        "Follow {doc_b} for the {mechanical_item} near {equipment_tag}; we'll issue an addendum to reconcile {doc_a}. {cost_phrase} {schedule_phrase}",
+        "The discrepancy isn't resolved by either document -- hold installation of the {mechanical_item} near {equipment_tag} until we issue a revised detail.",
+        "Go with {doc_b} for the {mechanical_item} near {equipment_tag}; it's cleared for installation. {schedule_phrase}"
+      ]
+    },
+    {
+      "message_type": "clarification",
+      "sender_role_pool": ["Project Engineer", "Detailer/BIM Coordinator"],
+      "shapes": ["multi_turn_clarification"],
+      "body_variants": [
+        "To confirm before we proceed with installation: does your direction apply throughout the area, not just the condition at {equipment_tag}?",
+        "One follow-up -- does your direction on the {mechanical_item} also cover the area adjacent to {equipment_tag}? {deadline_phrase}",
+        "Before we release for fabrication, can you confirm the {mechanical_item} at {equipment_tag} won't require a separate coordination sketch? {cost_phrase}"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "23 00 00 (HVAC)",
+    "question_summary_variants": [
+      "Conflicting document coordination on the {mechanical_item} at {equipment_tag}.",
+      "Clarification needed on the {mechanical_item} near {equipment_tag}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend {doc_b} govern and reissue the affected detail with the condition resolved."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"urgency": "urgent"},
+      "assigned_reviewer": "Mechanical Engineer",
+      "routing_rationale": "Urgent design clarifications escalate directly to the Mechanical Engineer for a fast resolution.",
+      "escalation": true,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    },
+    {
+      "when": {"cost_impact": true, "schedule_impact": true},
+      "assigned_reviewer": "Cost/Change-Order Manager",
+      "routing_rationale": "Simultaneous cost and schedule impact routes to the Cost/Change-Order Manager to evaluate the change before technical resolution.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "This project's change-order protocol pulls the cost manager in whenever a Mechanical design clarification carries both cost and schedule impact at priority urgency; other discipline/RFI-type combinations on this project route the same cost-and-schedule condition to the Owner's Representative instead. At urgent urgency, this template routes directly to the Mechanical Engineer regardless of cost/schedule, matching this project's urgent-escalation convention."
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Mechanical Engineer",
+      "routing_rationale": "Default discipline routing: the Mechanical Engineer resolves design clarifications affecting mechanical work.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

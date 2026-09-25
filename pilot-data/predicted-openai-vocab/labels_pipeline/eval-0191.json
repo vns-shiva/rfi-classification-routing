@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0191",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Unforeseen field condition where a junction box location in Lobby 101 conflicts with the ceiling grid and is not shown on Electrical Detail 2/E502; requesting direction on resolution/relocation.",
+  "referenced_documents": [
+    "Electrical Detail 2/E502",
+    "Field Log (2025-04-16)"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The issue concerns an electrical junction box location not coordinated with the ceiling grid and not reflected on E502, requiring the Electrical Engineer\u2019s direction and coordination with the Architect.",
+  "escalation": false,
+  "confidence": 0.89,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

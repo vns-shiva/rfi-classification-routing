@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "priority",
+  "question_summary": "Standpipe riser at Room 214 conflicts with structural bracing; detail 3/FP502 does not show this condition—request direction to resolve.",
+  "referenced_documents": ["Fire Protection Detail 3/FP502", "Inspection log (last month)", "Attached sketch (reroute)"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a fire protection field conflict without urgent escalation, it should be resolved by the Fire Protection engineer of record.",
+  "escalation": false,
+  "confidence": 0.78
+}

@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0111",
+  "rfi_type": "Document Coordination Conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 \u2013 Openings",
+  "urgency": "low",
+  "question_summary": "Shop drawings for the entry vestibule storefront glazing system (Section 08 41 13) do not match the field mockup, and confirmation is needed on which governs.",
+  "referenced_documents": [
+    "Section 08 41 13 shop drawings",
+    "Field mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The discrepancy involves storefront glazing shop drawings versus an approved field mockup, which falls under the Architect's design intent and coordination responsibility.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

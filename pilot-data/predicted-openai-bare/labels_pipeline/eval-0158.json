@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0158",
+  "rfi_type": "Coordination conflict (unforeseen existing condition)",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Mechanical (HVAC)"
+  ],
+  "csi_division": "26 \u2014 Electrical",
+  "urgency": "medium",
+  "question_summary": "Direction requested to resolve conflict between an existing electrical conduit and the new HVAC duct routing at Room 214; existing conduit not shown on One-Line Diagram E-002.",
+  "referenced_documents": [
+    "E-002 One-Line Diagram",
+    "Field Log 2025-10-06"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer of Record (EOR)",
+  "routing_rationale": "The issue concerns an existing electrical conduit not reflected on E-002 and requires electrical design direction, with mechanical coordination for duct routing.",
+  "escalation": false,
+  "confidence": 0.76,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

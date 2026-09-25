@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Existing Condition Discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Structural", "Mechanical"],
+  "csi_division": "02 - Existing Conditions",
+  "urgency": "high",
+  "question_summary": "Field crew discovered that the existing wall condition near Mechanical Room 3B does not match the contract drawings and is requesting direction/sign-off before proceeding with a permanent fix ahead of the next work sequence.",
+  "referenced_documents": ["Architectural Drawings"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Project Architect",
+  "routing_rationale": "The discrepancy concerns an existing wall assembly versus the design drawings, so the architect of record must verify actual conditions and issue direction before work proceeds.",
+  "escalation": false,
+  "confidence": 0.65
+}

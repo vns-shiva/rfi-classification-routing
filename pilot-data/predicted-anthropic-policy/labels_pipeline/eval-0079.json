@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0079",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "priority",
+  "question_summary": "Submitter requests confirmation on whether the excavation shoring setback near the property line at Pour 3 meets the Section 31 50 00 requirement, since the geotechnical report doesn't clearly address it, ahead of the next civil inspection.",
+  "referenced_documents": [
+    "Section 31 50 00",
+    "Geotechnical Report"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can schedule the civil inspection.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The RFI concerns an excavation setback/shoring condition governed by Civil discipline documents, and since schedule impact exists but urgency is only priority (not urgent/critical), it routes to the Civil Engineer as design professional of record.",
+  "escalation": false,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

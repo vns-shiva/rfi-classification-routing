@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0062",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Conflict between Sheet A-301 and Sheet A-201 for Section 08 41 13 storefront glazing at entry vestibule; confirm which detail governs relative to shop drawings and field mockup.",
+  "referenced_documents": [
+    "Section 08 41 13 Storefront Glazing",
+    "Sheet A-301",
+    "Sheet A-201",
+    "Storefront glazing shop drawings",
+    "Field mockup at entry vestibule"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an architectural drawing discrepancy within Division 08 storefront details, which the Architect of Record must resolve and document via addendum.",
+  "escalation": false,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

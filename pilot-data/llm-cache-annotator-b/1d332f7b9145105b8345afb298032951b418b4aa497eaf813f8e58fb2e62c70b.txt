@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "31 00 00",
+  "urgency": "routine",
+  "question_summary": "Discrepancy between Grading Plan C-201 and Utility Plan C-301 regarding site retaining wall elevation at Pour 3; field verification confirms C-301 is correct pending survey benchmark correction.",
+  "referenced_documents": ["C-201", "C-301"],
+  "proposed_solution": "Use elevation shown in Utility Plan C-301; Grading Plan C-201 to be corrected by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "at your earliest convenience",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "Civil Engineer is the primary discipline for earthwork and grading plans (31 00 00), and must verify which plan is authoritative and issue corrective addendum.",
+  "escalation": false,
+  "confidence": 0.88
+}
+```

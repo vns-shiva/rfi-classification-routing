@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Design Clarification / Conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 03 - Concrete",
+  "urgency": "high",
+  "question_summary": "Conflict between column baseplate reinforcement on Sheet S-301 and #6 dowels at 12\" o.c. detailed in Structural Detail 3/S502, holding up concrete placement for scheduled pour.",
+  "referenced_documents": ["Sheet S-301", "Structural Detail 3/S502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within two business days ahead of the scheduled pour",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The conflict involves structural reinforcement details requiring interpretation and resolution by the Structural Engineer of Record who authored the conflicting sheets.",
+  "escalation": true,
+  "confidence": 0.9
+}

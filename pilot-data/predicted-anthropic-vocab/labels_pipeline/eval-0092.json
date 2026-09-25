@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0092",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Field verification revealed the new panel location at Electrical Closet 2A conflicts with new wall framing, not reflected in One-Line Diagram E-002; circuit was locked out pending resolution.",
+  "referenced_documents": [
+    "One-Line Diagram E-002"
+  ],
+  "proposed_solution": "Resolved per attached revised routing sketch relocating the panel to avoid the wall conflict.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within five days",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The conflict involves electrical panel placement and one-line diagram coordination, requiring the Electrical Engineer's sign-off on the revised routing.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-03-14",
+  "deadline_resolution_status": "resolved_to_date"
+}

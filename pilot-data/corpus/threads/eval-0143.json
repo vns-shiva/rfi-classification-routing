@@ -1,0 +1,34 @@
+{
+  "thread_id": "eval-0143",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0143",
+  "date_submitted": "2025-09-05",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Site coordination clash: retaining wall footing conflicting with the underground utility",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Tom Reilly",
+      "timestamp": "2025-09-05T11:24",
+      "message_type": "initial_question",
+      "text": "Coordination clash identified: retaining wall footing conflicting with the underground utility corridor at Pour 3, per Utility Plan C-301 vs Civil Detail 2/C501. This is becoming a priority as site work proceeds. No cost impact is anticipated. This is holding up site work in this area. Please respond Thursday so we can keep the site crew moving. Note: the unrelated paving cost estimate circulated last week does not apply to this coordination item."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-09-08T07:30",
+      "message_type": "response",
+      "text": "Revise per the attached site coordination sketch resolving the retaining wall footing conflicting with the underground utility corridor at Pour 3. No cost impact is anticipated. This is holding up site work in this area."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-09-09T07:52",
+      "message_type": "resubmittal",
+      "text": "Resubmitting after coordination review: the retaining wall footing conflicting with the underground utility corridor at Pour 3 is resolved per the attached sketch. Please respond Thursday so we can keep the site crew moving."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "32 00 00",
+  "urgency": "priority",
+  "question_summary": "Utility trench at Pour 3 conflicts with proposed landscaping layout per Grading Plan C-201 vs Civil Detail 2/C501, requiring coordination resolution.",
+  "referenced_documents": ["Grading Plan C-201", "Civil Detail 2/C501", "site coordination sketch"],
+  "proposed_solution": "Revise per attached site coordination sketch resolving trench/landscaping conflict at Pour 3.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the site crew moving.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "As a coordination_conflict involving civil site utilities and landscaping, it routes to the Civil Engineer as the design professional of record for the primary discipline.",
+  "escalation": true,
+  "confidence": 0.75
+}

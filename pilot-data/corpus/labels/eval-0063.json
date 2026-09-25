@@ -1,0 +1,23 @@
+{
+  "thread_id": "eval-0063",
+  "rfi_type": "substitution_request",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "priority",
+  "question_summary": "Request to substitute a PVC alternate in lieu of the cast-iron roof drain leader specified in Section 22 14 00.",
+  "referenced_documents": [],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "by the end of the week",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "Default discipline routing: the Plumbing/Fire Protection Engineer evaluates substitution requests with no cost impact.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-06-06",
+  "deadline_resolution_status": "resolved_to_date"
+}

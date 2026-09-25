@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0023",
+  "rfi_type": "Product Substitution",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 \u2014 Plumbing",
+  "urgency": "Normal",
+  "question_summary": "Request approval to substitute PEX for specified copper domestic water piping per Section 22 11 16 and confirm submittal requirements for equivalency and code compliance.",
+  "referenced_documents": [
+    "Specification Section 22 11 16 \u2013 Domestic Water Piping"
+  ],
+  "proposed_solution": "Use PEX piping in lieu of specified copper for domestic water, with equivalent performance and code-compliance; no budget or schedule impact anticipated.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response by the end of the day would let us keep the order on track.",
+  "assigned_reviewer": "Plumbing Engineer of Record (MEP)",
+  "routing_rationale": "Material substitution for domestic water piping requires the plumbing design professional\u2019s review for equivalency and code compliance under Division 22.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

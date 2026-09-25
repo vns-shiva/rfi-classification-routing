@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0179",
+  "rfi_type": "Document conflict/coordination",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [
+    "Controls/BAS"
+  ],
+  "csi_division": "23 - Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "High",
+  "question_summary": "Conflict between Sequence of Operations M-701 and Sheet M-401 regarding Section 23 37 00 diffuser layout near RTU-2; clarification on which to follow requested.",
+  "referenced_documents": [
+    "Section 23 37 00",
+    "Sheet M-401",
+    "Sequence of Operations M-701"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep installation moving.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The diffuser layout and sequence coordination fall under mechanical design authority, requiring the Mechanical EOR to resolve and issue the addendum.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

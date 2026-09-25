@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "Coordination Clash",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Site Work"],
+  "csi_division": "Division 33 - Utilities",
+  "urgency": "Low",
+  "question_summary": "Grading plan conflicts with storm drainage inlet location at Placement Zone 2, per Utility Plan C-301 vs Sheet C-101.",
+  "referenced_documents": ["Utility Plan C-301", "Sheet C-101", "site coordination sketch"],
+  "proposed_solution": "Revise per the attached site coordination sketch resolving the grading plan conflict with the storm drainage inlet location.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The clash involves grading and storm drainage inlet coordination, which falls under civil engineering design responsibility.",
+  "escalation": false,
+  "confidence": 0.85
+}
+```

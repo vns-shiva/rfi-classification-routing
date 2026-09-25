@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0148",
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "Normal",
+  "question_summary": "Confirm whether the contract documents or the field mockup govern the Section 08 44 13 curtain wall corner mullion detail for shop drawings.",
+  "referenced_documents": [
+    "Section 08 44 13 Glazed Aluminum Curtain Walls",
+    "Curtain wall corner mullion detail",
+    "Field mockup",
+    "Curtain wall shop drawings"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record (AOR)",
+  "routing_rationale": "Curtain wall detailing and mockup conformance are under the Architect\u2019s scope per Division 08, requiring AOR direction on what governs.",
+  "escalation": false,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

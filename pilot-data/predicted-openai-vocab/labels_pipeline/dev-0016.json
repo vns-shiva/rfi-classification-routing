@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0016",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Detail 5/A501 and Sheet A-201 show conflicting head/jamb conditions for the hollow metal door assembly at Gridline D/7; clarification is needed on which detail governs.",
+  "referenced_documents": [
+    "Detail 5/A501",
+    "Sheet A-201"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "please respond at your convenience",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an architectural detail discrepancy for a door assembly, which should be resolved by the Architect of Record.",
+  "escalation": false,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

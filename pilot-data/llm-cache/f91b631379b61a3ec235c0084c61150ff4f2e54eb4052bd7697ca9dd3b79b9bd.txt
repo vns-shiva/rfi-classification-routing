@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "routine",
+  "question_summary": "Plumbing Fixture Schedule P-602 and Plumbing Detail 6/P503 show inconsistent detailing for the backflow preventer assembly at Electrical Closet 2A; clarification is needed on which depiction governs.",
+  "referenced_documents": ["P-602 (Plumbing Fixture Schedule)", "Detail 6/P503"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The issue is a discrepancy within plumbing documents concerning a backflow preventer assembly, which should be resolved by the Plumbing/Fire Protection Engineer.",
+  "escalation": false,
+  "confidence": 0.86
+}

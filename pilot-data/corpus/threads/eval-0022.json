@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0022",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0022",
+  "date_submitted": "2025-03-05",
+  "submitted_by_role": "Foreman",
+  "subject": "Unforeseen mechanical field condition: undersized mechanical shaft in the corridor chase",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Luis Fernandez",
+      "timestamp": "2025-03-05T11:27",
+      "message_type": "initial_question",
+      "text": "Our crew hit the undersized mechanical shaft in the corridor chase at P-101 and need your call on the permanent fix. This needs immediate attention; please respond as soon as possible. There will be a cost impact to address this condition. This is not holding up other work currently. Please respond Thursday so we can keep the crew moving."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-03-06T17:02",
+      "message_type": "response",
+      "text": "Reroute to clear the conflict at P-101 per the attached sketch; proceed once you've confirmed clearance. There will be a cost impact to address this condition."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00",
+  "urgency": "urgent",
+  "question_summary": "Shear wall reinforcement detail in Structural General Notes S-001 conflicts with revised bar splice shown on Foundation Plan S-101; resolution needed before next concrete pour.",
+  "referenced_documents": ["Structural General Notes S-001", "Foundation Plan S-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within two business days ahead of the scheduled pour",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "This is a document discrepancy in structural documents affecting critical-path work, so it is routed to the Structural Engineer of record rather than the GC Superintendent per policy since rfi_type is not field_condition_conflict.",
+  "escalation": true,
+  "confidence": 0.85
+}

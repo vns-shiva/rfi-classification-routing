@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0159",
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "priority",
+  "question_summary": "Submitter asks whether the civil inspector can sign off on Pour Sequence 4 utility trench backfill given that the geotechnical report does not clearly address the Section 31 23 00 minimum cover requirement.",
+  "referenced_documents": [
+    "Geotechnical Report",
+    "Section 31 23 00",
+    "Detail 6/C-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": true,
+  "deadline_text": "within three days",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The question concerns earthwork/trench backfill cover requirements under Section 31 23 00, which falls under Civil Engineer review.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-10-18",
+  "deadline_resolution_status": "resolved_to_date"
+}

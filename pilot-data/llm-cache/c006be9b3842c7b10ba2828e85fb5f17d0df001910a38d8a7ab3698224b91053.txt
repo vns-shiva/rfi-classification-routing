@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Mechanical Detail 4/M501 and Sheet M-401 on Section 23 07 00 piping insulation type at/near T-1; confirm which governs and whether direction applies across the area.",
+  "referenced_documents": ["Section 23 07 00", "Sheet M-401", "Detail 4/M501"],
+  "proposed_solution": "Follow Sheet M-401 for the piping insulation type; issue an addendum to reconcile Detail 4/M501.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep installation moving.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "This is a Mechanical drawing/spec conflict on piping insulation, so the Mechanical Engineer of record should resolve and issue clarifying documents.",
+  "escalation": false,
+  "confidence": 0.86
+}

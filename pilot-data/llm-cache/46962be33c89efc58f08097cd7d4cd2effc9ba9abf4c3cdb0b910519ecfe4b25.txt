@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Drawing conflict/coordination",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Mechanical", "Architectural"],
+  "csi_division": "05 — Metals",
+  "urgency": "High",
+  "question_summary": "Clarify which governs for the shear wall hold-down at Gridline B/2—Sheet S-301 or Detail 3/S502—and whether to revise now per 3/S502 or wait for a revised detail to avoid conflict with ductwork and ceiling framing.",
+  "referenced_documents": ["Sheet S-301", "Detail 3/S502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three weeks would let us keep the erection sequence on track.",
+  "assigned_reviewer": "Structural Engineer of Record (SEOR)",
+  "routing_rationale": "The issue is a structural hold-down location conflict between structural sheets that requires design direction and potential detail revision by the SEOR.",
+  "escalation": true,
+  "confidence": 0.76
+}

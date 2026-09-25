@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0031",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Electrical"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "priority",
+  "question_summary": "Fire pump discharge piping detailing is inconsistent between Fire Protection Detail 3/FP502 and Fire Alarm Riser Diagram FA-501 at Electrical Closet 2A; clarification needed before sprinkler shop drawing release.",
+  "referenced_documents": [
+    "Fire Protection Detail 3/FP502",
+    "Fire Alarm Riser Diagram FA-501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The primary issue concerns fire protection system detailing and coordination; the Plumbing/Fire Protection Engineer must reconcile the conflicting fire pump discharge piping details and coordinate with the electrical riser diagram.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "annotator_b",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

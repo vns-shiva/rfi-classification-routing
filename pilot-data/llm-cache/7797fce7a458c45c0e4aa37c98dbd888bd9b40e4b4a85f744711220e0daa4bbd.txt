@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00",
+  "urgency": "routine",
+  "question_summary": "Conduit routing per Section 26 05 33 differs between Panel Schedule E-601 and Sheet E-501; submitter requests confirmation of the correct routing before fabrication release.",
+  "referenced_documents": ["Sheet E-501", "Panel Schedule E-601", "Section 26 05 33"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond before the electrical rough-in inspection",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As a document discrepancy in electrical conduit routing with no cost or urgent schedule impact, it routes to the Electrical Engineer as design professional of record.",
+  "escalation": false,
+  "confidence": 0.85
+}

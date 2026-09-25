@@ -1,0 +1,34 @@
+{
+  "thread_id": "eval-0150",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0150",
+  "date_submitted": "2025-08-28",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Unforeseen field condition: unforeseen underground obstruction at Placement Zone 2",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Gary Owusu",
+      "timestamp": "2025-08-28T11:27",
+      "message_type": "initial_question",
+      "text": "We found the unforeseen underground obstruction at Placement Zone 2; see General Conditions Article 3 for the assumed condition. Our proposal is to shift the layout locally and hold everything else per plan -- let us know if that works or if you need to review first. This is becoming a priority as work proceeds nearby. There will be a cost impact to address this condition. This could affect the overall schedule. A response next week would still let us stay on track."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-08-29T09:14",
+      "message_type": "response",
+      "text": "We'll need photos and measurements of the unforeseen underground obstruction at Placement Zone 2 before we can evaluate the workaround. There will be a cost impact to address this condition."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Foreman",
+      "sender_name": "Bobby Kern",
+      "timestamp": "2025-08-30T07:03",
+      "message_type": "clarification",
+      "text": "Attached photos show that the condition at Placement Zone 2 is more extensive than first reported; our workaround proposal still holds otherwise. A response next week would still let us stay on track."
+    }
+  ]
+}

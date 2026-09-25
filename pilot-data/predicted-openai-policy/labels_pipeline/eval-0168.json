@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0168",
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "routine",
+  "question_summary": "Clarify required compaction density for structural fill under the building pad per Section 31 20 00 and confirm whether the civil inspector can sign off as shown.",
+  "referenced_documents": [
+    "Section 31 20 00 - Earth Moving",
+    "Geotechnical Report"
+  ],
+  "proposed_solution": "Allow civil inspector to sign off on the compaction as shown for the structural fill under the building pad.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This is a civil earthwork specification clarification, so it should be answered by the Civil Engineer of record.",
+  "escalation": false,
+  "confidence": 0.73,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

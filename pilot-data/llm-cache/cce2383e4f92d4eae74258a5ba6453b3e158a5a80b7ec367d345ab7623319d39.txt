@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document Coordination / Discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Glazing/Curtain Wall"],
+  "csi_division": "08 - Openings",
+  "urgency": "Routine",
+  "question_summary": "Shop drawings for the curtain wall mullion detail at the building corner conflict with the field mockup and the contract documents; submitter asks which condition governs (A-201 vs A-601) before submitting shop drawings.",
+  "referenced_documents": ["Section 08 44 13", "Sheet A-201", "Door and Window Schedule A-601"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Project Architect",
+  "routing_rationale": "The conflict involves reconciling architectural drawings (A-201 vs A-601) governing curtain wall mullion details, which falls under the Project Architect's authority.",
+  "escalation": false,
+  "confidence": 0.78
+}

@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0061",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0061",
+  "date_submitted": "2025-04-04",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Document coordination conflict on the Section 08 44 13 curtain wall mullion detail at the",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-04-04T16:24",
+      "message_type": "initial_question",
+      "text": "Shop drawings for the Section 08 44 13 curtain wall mullion detail at the building corner are ready to submit, but what's shown doesn't match what's built out in the field mockup -- can you confirm which governs? This is becoming a priority as fabrication approaches. We do not expect this to affect the contract sum. This is holding up fabrication in this area. Please respond within five days so we can proceed with fabrication."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-04-05T16:15",
+      "message_type": "response",
+      "text": "Sheet A-201 is the condition to build to for the Section 08 44 13 curtain wall mullion detail at the building corner; we'll reconcile Detail 5/A501 by addendum. We do not expect this to affect the contract sum. This is holding up fabrication in this area."
+    }
+  ]
+}

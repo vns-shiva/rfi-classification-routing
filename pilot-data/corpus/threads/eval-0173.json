@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0173",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0173",
+  "date_submitted": "2025-09-05",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Field direction requested: existing sprinkler main conflicting with the new duct routing",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Gary Owusu",
+      "timestamp": "2025-09-05T07:16",
+      "message_type": "initial_question",
+      "text": "We've got the existing sprinkler main conflicting with the new duct routing at Electrical Closet 2A -- can you confirm the scope of work before we proceed? This needs a quick turnaround; work is stopped pending direction. Please respond within five business days so we can keep the crew moving."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-09-09T12:43",
+      "message_type": "response",
+      "text": "Hold work at Electrical Closet 2A -- we'll issue a bulletin addressing the existing sprinkler main conflicting with the new duct routing by end of day. This is holding up work in this area."
+    }
+  ]
+}

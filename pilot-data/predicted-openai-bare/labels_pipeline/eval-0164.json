@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0164",
+  "rfi_type": "Coordination conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "33 - Utilities",
+  "urgency": "High",
+  "question_summary": "Retaining wall footing at Placement Zone 2 conflicts with the underground utility corridor per C-301 vs C-201; guidance needed on how to resolve the clash.",
+  "referenced_documents": [
+    "Utility Plan C-301",
+    "Grading Plan C-201"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The clash involves site utilities and grading layouts, which fall under the civil engineer\u2019s scope, with structural input as needed for the retaining wall footing.",
+  "escalation": true,
+  "confidence": 0.83,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

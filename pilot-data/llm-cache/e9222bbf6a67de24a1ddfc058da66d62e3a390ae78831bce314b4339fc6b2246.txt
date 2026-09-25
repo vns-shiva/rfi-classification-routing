@@ -1,0 +1,24 @@
+{
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "Normal",
+  "question_summary": "Shop drawings for the entry vestibule storefront (08 41 13) conflict with the field mockup and drawings; confirm which document governs for fabrication.",
+  "referenced_documents": [
+    "Specification Section 08 41 13",
+    "Sheet A-201",
+    "Detail 5/A501",
+    "Shop Drawings",
+    "Field Mockup"
+  ],
+  "proposed_solution": "Use Sheet A-201 as governing for the storefront at the entry vestibule; reconcile Detail 5/A501 by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The issue is a conflict between architectural plan and detail for the storefront system, which the Architect of Record must resolve and issue by addendum.",
+  "escalation": false,
+  "confidence": 0.86
+}

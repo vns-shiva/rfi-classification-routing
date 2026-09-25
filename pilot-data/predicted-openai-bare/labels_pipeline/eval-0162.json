@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0162",
+  "rfi_type": "Field condition/coordination",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Architecture"
+  ],
+  "csi_division": "26 \u2014 Electrical",
+  "urgency": "Normal",
+  "question_summary": "Junction box in Electrical Closet 2A conflicts with ceiling grid; not reflected on One-Line Diagram E-002. Request confirmation/approval of revised routing per attached sketch.",
+  "referenced_documents": [
+    "One-Line Diagram E-002",
+    "Revised routing sketch (attached)"
+  ],
+  "proposed_solution": "Approve the attached revised routing sketch relocating the junction box to clear the ceiling grid; maintain circuit lockout until approval.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "Requires electrical design approval for revised junction box routing and coordination with ceiling layout.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

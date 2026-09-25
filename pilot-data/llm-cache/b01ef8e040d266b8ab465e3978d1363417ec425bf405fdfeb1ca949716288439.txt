@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Mechanical Detail 4/M501 and Sequence of Operations M-701 regarding Section 23 31 00 ductwork routing near P-101; request direction on which governs.",
+  "referenced_documents": ["Section 23 31 00", "Mechanical Detail 4/M501", "Sequence of Operations M-701"],
+  "proposed_solution": "Follow Sequence of Operations M-701 for duct routing and issue an addendum to reconcile Detail 4/M501.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep installation moving.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "Mechanical discipline documents are in conflict and require the Mechanical Engineer’s direction to resolve.",
+  "escalation": false,
+  "confidence": 0.86
+}

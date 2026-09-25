@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0018",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0018",
+  "date_submitted": "2025-07-24",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Inconsistent detailing of the domestic water riser at Room 214 between Plumbing Fixture",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Chris Boone",
+      "timestamp": "2025-07-24T15:19",
+      "message_type": "initial_question",
+      "text": "The domestic water riser shown in Plumbing Fixture Schedule P-602 at Room 214 is not detailed consistently with Plumbing Detail 6/P503. This is becoming a priority as rough-in proceeds. No cost impact is anticipated. This is not holding up any current rough-in work. There is no specific deadline for this, but a timely response is appreciated."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-07-29T17:39",
+      "message_type": "response",
+      "text": "Locate the domestic water riser per Plumbing Detail 6/P503; disregard the conflicting note in Plumbing Fixture Schedule P-602. No cost impact is anticipated. This is not holding up any current rough-in work."
+    }
+  ]
+}

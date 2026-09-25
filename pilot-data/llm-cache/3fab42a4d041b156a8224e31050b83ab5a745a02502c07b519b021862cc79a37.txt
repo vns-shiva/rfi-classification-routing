@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Unforeseen field condition",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Plumbing", "Architecture"],
+  "csi_division": "23 — Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "High",
+  "question_summary": "Crew encountered an undersized mechanical shaft in the corridor chase at P-101 and requests direction for a permanent fix.",
+  "referenced_documents": ["Attached sketch (reroute at P-101)"],
+  "proposed_solution": "Reroute to clear the conflict at P-101 per the attached sketch, proceed after confirming clearance.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the crew moving.",
+  "assigned_reviewer": "Mechanical Engineer of Record (MEP)",
+  "routing_rationale": "Mechanical design authority is required to approve rerouting and confirm shaft/clearance impacts, with coordination to plumbing and architectural shaft size.",
+  "escalation": false,
+  "confidence": 0.79
+}

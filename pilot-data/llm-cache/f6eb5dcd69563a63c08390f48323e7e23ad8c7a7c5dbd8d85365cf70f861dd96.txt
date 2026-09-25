@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Field condition/conflict",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": ["Mechanical (HVAC)"],
+  "csi_division": "21 - Fire Suppression",
+  "urgency": "High",
+  "question_summary": "Existing sprinkler main conflicts with new duct routing at Room 214; confirm whether the prior reroute direction and sketch still apply given a larger-than-expected extent, and provide final direction to resolve the clash.",
+  "referenced_documents": ["Fire Alarm Riser Diagram FA-501", "Last month's inspection log", "Attached reroute sketch for Room 214"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep the crew moving.",
+  "assigned_reviewer": "Fire Protection Engineer of Record",
+  "routing_rationale": "Rerouting an existing sprinkler main is a Fire Protection design issue requiring FP engineering and coordination with HVAC.",
+  "escalation": false,
+  "confidence": 0.8
+}

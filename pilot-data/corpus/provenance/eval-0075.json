@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0075",
+  "template_id": "t18_coordination_civil_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "coordination_conflict",
+    "primary_discipline": "Civil",
+    "urgency": "priority",
+    "cost_impact": true,
+    "schedule_impact": false,
+    "deadline_family": "weekday",
+    "adversarial": "none",
+    "thread_shape": "resubmittal"
+  },
+  "variant_index": 0,
+  "seed": 2055167457875270786,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0,
+    "resubmittal": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Northgate Mixed-Use Phase II",
+  "doc_a": "Civil Detail 2/C501",
+  "doc_b": "Utility Plan C-301",
+  "date_submitted": "2025-07-27"
+}

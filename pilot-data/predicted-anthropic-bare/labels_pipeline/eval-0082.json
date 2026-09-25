@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0082",
+  "rfi_type": "document conflict / coordination",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "Division 23 - HVAC",
+  "urgency": "high",
+  "question_summary": "Ductwork routing near P-101 (Section 23 31 00) conflicts between Mechanical Detail 4/M501 and Sequence of Operations M-701; clarification needed before installation proceeds.",
+  "referenced_documents": [
+    "Mechanical Detail 4/M501",
+    "Sequence of Operations M-701"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The conflict involves HVAC ductwork routing details and sequence documents, requiring resolution and addendum issuance by the Mechanical Engineer of Record rather than the submitting project engineer.",
+  "escalation": true,
+  "confidence": 0.65,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-09-05",
+  "deadline_resolution_status": "resolved_to_date"
+}

@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0099",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0099",
+  "date_submitted": "2025-06-26",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Discrepancy in the Section 26 27 26 receptacle mounting height between Electrical Panel",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-06-26T16:04",
+      "message_type": "initial_question",
+      "text": "Coordination review turned up a mismatch on the Section 26 27 26 receptacle mounting height between One-Line Diagram E-002 and Electrical Panel Schedule E-601 -- can you confirm which is correct before we release for fabrication? No rush on this -- please respond when convenient. No cost impact is anticipated. This is holding up rough-in in this area. Please respond before the electrical rough-in inspection."
+    }
+  ]
+}

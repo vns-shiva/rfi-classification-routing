@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Discrepancy/Conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 - Electrical",
+  "urgency": "medium",
+  "question_summary": "Detailer identified a mismatch in the Section 26 24 00 panel schedule circuit assignment between Sheet E-501 and Electrical Panel Schedule E-601 near J-Box 4, requesting confirmation of which document governs before fabrication release.",
+  "referenced_documents": ["Sheet E-501", "Electrical Panel Schedule E-601", "Section 26 24 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond before the panel energization walkthrough.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The conflict involves panel schedule circuit assignments governed by Division 26, requiring the Electrical EOR to confirm which drawing controls and issue an updated document.",
+  "escalation": false,
+  "confidence": 0.85
+}

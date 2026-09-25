@@ -1,0 +1,34 @@
+{
+  "thread_id": "dev-0009",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0009",
+  "date_submitted": "2025-09-14",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Discrepancy between Grading Plan C-201 and Utility Plan C-301 on the site retaining wall",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-09-14T13:16",
+      "message_type": "initial_question",
+      "text": "The site retaining wall shown in Grading Plan C-201 does not match the elevation called out in Utility Plan C-301 near Pour 3. No rush on this -- please respond when convenient. We do not expect this to affect the contract sum. This is not holding up any current site work. Please respond at your earliest convenience."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-09-17T13:02",
+      "message_type": "response",
+      "text": "Use the elevation shown in Utility Plan C-301 for the site retaining wall at Pour 3; Grading Plan C-201 will be corrected by addendum. We do not expect this to affect the contract sum. This is not holding up any current site work."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Gary Owusu",
+      "timestamp": "2025-09-18T09:24",
+      "message_type": "resubmittal",
+      "text": "Resubmitting after field verification: the site retaining wall at Pour 3 matches Utility Plan C-301 once the survey benchmark is corrected. Please respond at your earliest convenience."
+    }
+  ]
+}

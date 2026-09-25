@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "33 00 00",
+  "urgency": "urgent",
+  "question_summary": "Foreman discovered a conflicting utility line beneath the slab area at Pour 3 and requests confirmation on whether to proceed with a local layout shift or await design review.",
+  "referenced_documents": ["General Conditions Article 3"],
+  "proposed_solution": "Shift the layout locally and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "Since this is a field condition conflict involving a utility line (Civil discipline) without a broader schedule impact, it is routed to the Civil Engineer as the design professional of record.",
+  "escalation": true,
+  "confidence": 0.78
+}

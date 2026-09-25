@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "Field Conflict / Unforeseen Condition",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "Division 21 - Fire Suppression",
+  "urgency": "high",
+  "question_summary": "Existing sprinkler main conflicts with new duct routing at Lobby 101, a condition not shown on Fire Protection Sheet FP-101; crew needs direction to proceed.",
+  "referenced_documents": ["FP-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Fire Protection Engineer",
+  "routing_rationale": "The conflict involves an existing fire sprinkler main and requires fire protection engineering judgment to resolve the reroute.",
+  "escalation": false,
+  "confidence": 0.72
+}
+```

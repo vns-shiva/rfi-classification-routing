@@ -1,0 +1,18 @@
+{
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "General",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "—",
+  "urgency": "priority",
+  "question_summary": "Confirm whether the egress width requirement in Project Specifications Division 00 complies with the adopted code edition referenced in Section 23 05 00.",
+  "referenced_documents": ["Project Specifications Division 00", "Section 23 05 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Code Official/AHJ Liaison",
+  "routing_rationale": "As a code compliance question regarding egress widths, it is routed to the AHJ liaison per policy.",
+  "escalation": false,
+  "confidence": 0.76
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document coordination conflict (drawings vs schedule)",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": ["Building Envelope"],
+  "csi_division": "08 - Openings",
+  "urgency": "normal",
+  "question_summary": "Conflict between Sheet A-201 corner curtain wall mullion detail and Door/Window Schedule A-601 versus the field mockup; confirm which governs for shop drawings.",
+  "referenced_documents": ["Sheet A-201", "Door and Window Schedule A-601", "Section 08 44 13"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an architectural coordination issue between plan/detail and schedule for the curtain wall that requires design direction and an addendum.",
+  "escalation": false,
+  "confidence": 0.78
+}

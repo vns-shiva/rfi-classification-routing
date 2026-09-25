@@ -1,0 +1,34 @@
+{
+  "thread_id": "eval-0141",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0141",
+  "date_submitted": "2025-06-12",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Conflicting document coordination on the Section 23 07 00 piping insulation type at T-1",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Wendy Sato",
+      "timestamp": "2025-06-12T10:31",
+      "message_type": "initial_question",
+      "text": "Coordination between Mechanical Detail 4/M501 and Sheet M-401 breaks down for the Section 23 07 00 piping insulation type near T-1. This is becoming a priority as installation approaches. This could affect the contract sum depending on the resolution. No schedule impact is expected. Please respond within five business days so we can keep installation moving."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-06-14T09:45",
+      "message_type": "response",
+      "text": "Follow Sheet M-401 for the Section 23 07 00 piping insulation type near T-1; we'll issue an addendum to reconcile Mechanical Detail 4/M501. This could affect the contract sum depending on the resolution. No schedule impact is expected."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-06-16T07:00",
+      "message_type": "clarification",
+      "text": "To confirm before we proceed with installation: does your direction apply throughout the area, not just the condition at T-1?"
+    }
+  ]
+}

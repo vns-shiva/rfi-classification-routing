@@ -1,0 +1,23 @@
+```json
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00",
+  "urgency": "priority",
+  "question_summary": "Backflow preventer assembly detailing in Sheet P-601 Room 214 is inconsistent with Plumbing Riser Diagram P-501; clarification needed before rough-in proceeds.",
+  "referenced_documents": [
+    "Sheet P-601",
+    "Plumbing Riser Diagram P-501"
+  ],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "Backflow preventer assembly conflicts require the plumbing design engineer to reconcile sheet details with riser diagrams and confirm constructability before rough-in proceeds.",
+  "escalation": false,
+  "confidence": 0.92
+}
+```

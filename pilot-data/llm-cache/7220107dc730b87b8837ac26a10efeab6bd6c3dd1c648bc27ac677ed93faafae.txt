@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "General",
+  "secondary_disciplines": [],
+  "csi_division": "—",
+  "urgency": "priority",
+  "question_summary": "Foreman reports that the existing wall condition near Mechanical Room 3B does not match the drawings and is requesting direction/sign-off before proceeding with a permanent fix ahead of the next work sequence.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "As a field-discovered discrepancy affecting an upcoming work sequence, the GC Superintendent should first assess and coordinate the condition before looping in a design discipline if needed.",
+  "escalation": false,
+  "confidence": 0.55
+}

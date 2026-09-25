@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Coordination/Clash",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "32 - Exterior Improvements",
+  "urgency": "High",
+  "question_summary": "Resolve a site coordination clash at Pour 3 where the retaining wall footing conflicts with the underground utility corridor per Utility Plan C-301 and Civil Detail 2/C501.",
+  "referenced_documents": ["Utility Plan C-301", "Civil Detail 2/C501", "Site coordination sketch (attached)"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the site crew moving.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "Conflict involves site utilities and retaining wall layout governed by civil plans, requiring civil design direction/approval of the coordination sketch.",
+  "escalation": false,
+  "confidence": 0.78
+}

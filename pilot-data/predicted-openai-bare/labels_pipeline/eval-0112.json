@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0112",
+  "rfi_type": "Design conflict/clarification (undersized shaft)",
+  "primary_discipline": "Mechanical (HVAC)",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "23 - Heating, Ventilating, and Air Conditioning",
+  "urgency": "urgent",
+  "question_summary": "Requesting interim direction for an undersized mechanical shaft in the corridor chase near P-101 and whether the affected adjacent duct run will require a separate bulletin.",
+  "referenced_documents": [],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "This needs immediate attention; please respond as soon as possible. A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The issue concerns shaft sizing affecting HVAC distribution and requires mechanical design coordination and bulletin issuance.",
+  "escalation": false,
+  "confidence": 0.73,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

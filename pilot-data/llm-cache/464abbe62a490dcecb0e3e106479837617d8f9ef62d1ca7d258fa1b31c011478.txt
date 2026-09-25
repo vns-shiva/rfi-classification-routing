@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Conflict between Sheet A-201 and Detail 5/A501 for Section 08 41 13 storefront glazing at the entry vestibule versus field mockup; confirm which governs for fabrication.",
+  "referenced_documents": ["Section 08 41 13 Storefront Glazing", "Sheet A-201", "Detail 5/A501", "Storefront glazing shop drawings", "Field mockup"],
+  "proposed_solution": "Build to Sheet A-201; Detail 5/A501 will be reconciled by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an architectural document discrepancy for storefront glazing, so it should be resolved by the Architect of Record.",
+  "escalation": false,
+  "confidence": 0.84
+}

@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0035",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0035",
+  "date_submitted": "2025-08-11",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Conflicting reinforcement detail for the shear wall between Structural General Notes",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Gary Owusu",
+      "timestamp": "2025-08-11T09:37",
+      "message_type": "initial_question",
+      "text": "The shear wall reinforcement shown in Structural General Notes S-001 conflicts with a revised bar splice noted in Foundation Plan S-101. We would like this resolved ahead of the next concrete pour. No cost impact is anticipated from this clarification. This is directly on the critical path for the current pour sequence. Please respond within two business days ahead of the scheduled pour."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-08-12T15:59",
+      "message_type": "response",
+      "text": "Proceed with a revised bar splice per Foundation Plan S-101; Structural General Notes S-001 is superseded. No cost impact is anticipated from this clarification. This is directly on the critical path for the current pour sequence."
+    }
+  ]
+}

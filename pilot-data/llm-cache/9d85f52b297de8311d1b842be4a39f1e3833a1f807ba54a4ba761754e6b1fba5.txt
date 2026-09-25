@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Mismatch in Section 26 05 33 conduit routing between Sheet E-501 and Panel Schedule E-601; requester needs confirmation of the correct routing before fabrication.",
+  "referenced_documents": ["Section 26 05 33", "Sheet E-501", "Sheet E-601 (Panel Schedule)"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond before the electrical rough-in inspection. There isn't a real deadline we can set from here; it's contingent on the coordination model update, which doesn't have a scheduled release.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The discrepancy is between electrical drawings and schedules, requiring the Electrical Engineer to determine the correct conduit routing.",
+  "escalation": false,
+  "confidence": 0.82
+}

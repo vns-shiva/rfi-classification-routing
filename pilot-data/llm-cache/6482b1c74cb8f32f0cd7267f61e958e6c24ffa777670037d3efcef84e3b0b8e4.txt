@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [],
+  "csi_division": "21 00 00",
+  "urgency": "routine",
+  "question_summary": "Standpipe connection detailing at Lobby 101 differs between Fire Sprinkler Riser Diagram FP-501 and Fire Protection Detail 3/FP502; direction needed before releasing sprinkler shop drawings.",
+  "referenced_documents": ["Fire Sprinkler Riser Diagram FP-501", "Fire Protection Detail 3/FP502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There's no hard deadline on this, but a timely response is appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a document discrepancy within the Fire Protection discipline with no code, cost, or urgent field-condition triggers, it is routed to the Plumbing/Fire Protection Engineer as design professional of record.",
+  "escalation": false,
+  "confidence": 0.9
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Mechanical", "Architectural"],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "critical",
+  "question_summary": "Conflict between Structural General Notes S-001 and Foundation Plan S-101 regarding the embed plate at Gridline C/4, which also clashes with mechanical ductwork and architectural ceiling framing; direction needed for fabrication.",
+  "referenced_documents": ["S-001 Structural General Notes", "S-101 Foundation Plan"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond before the fabricator's shop drawing cutoff.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The discrepancy involves structural embeds in the foundation plan and notes, requiring structural design resolution and coordination with affected trades.",
+  "escalation": true,
+  "confidence": 0.78
+}

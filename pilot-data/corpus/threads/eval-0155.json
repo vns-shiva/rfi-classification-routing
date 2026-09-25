@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0155",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0155",
+  "date_submitted": "2025-05-22",
+  "submitted_by_role": "Foreman",
+  "subject": "Conflicting reinforcement detail for the slab-on-deck pour strip between Structural",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Bobby Kern",
+      "timestamp": "2025-05-22T14:20",
+      "message_type": "initial_question",
+      "text": "The slab-on-deck pour strip reinforcement shown in Structural General Notes S-001 conflicts with #6 dowels at 12\" o.c. noted in Foundation Plan S-101. We need an urgent response on this; please treat it as time-sensitive. This may generate a change order depending on the direction taken. This is not holding any current pour. We need direction by end of day Wednesday."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-05-23T15:08",
+      "message_type": "response",
+      "text": "Proceed with #6 dowels at 12\" o.c. per Foundation Plan S-101; Structural General Notes S-001 is superseded. This may generate a change order depending on the direction taken. This is not holding any current pour."
+    }
+  ]
+}

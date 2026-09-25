@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0063",
+  "rfi_type": "substitution_request",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "priority",
+  "question_summary": "Subcontractor requests approval to substitute PVC piping for the specified cast-iron roof drain leader (Section 22 14 00) prior to ordering material, citing supplier lead times.",
+  "referenced_documents": [
+    "Section 22 14 00"
+  ],
+  "proposed_solution": "Use a PVC alternate in lieu of cast-iron roof drain leader; submitter states this is cost-neutral and will not affect the domestic water pressure test date.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by the end of the week so we can place the order",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a substitution request without an associated cost impact, it defaults to the design professional of record for the Plumbing discipline.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

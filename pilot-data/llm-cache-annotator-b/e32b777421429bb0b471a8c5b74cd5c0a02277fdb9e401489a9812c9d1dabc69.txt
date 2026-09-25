@@ -1,0 +1,23 @@
+```json
+{
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "07 00 00",
+  "urgency": "priority",
+  "question_summary": "Confirmation needed on whether the occupancy separation rating in Project Specifications Division 00 complies with the adopted code edition referenced in Section 07 92 00.",
+  "referenced_documents": [
+    "Project Specifications Division 00",
+    "Section 07 92 00"
+  ],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The Architect of Record must verify occupancy separation ratings against building code compliance and confirm design intent, as this is a fundamental code-driven architectural specification.",
+  "escalation": false,
+  "confidence": 0.82
+}
+```

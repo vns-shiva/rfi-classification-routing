@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "32 00 00 (Exterior Improvements)",
+  "urgency": "routine",
+  "question_summary": "Elevation for the site retaining wall at Pour 3 conflicts between Utility Plan C-301 and Sheet C-101; clarification requested on which elevation governs, noting survey benchmark correction.",
+  "referenced_documents": ["Utility Plan C-301", "Sheet C-101"],
+  "proposed_solution": "Use the elevation shown in Sheet C-101; correct Utility Plan C-301 by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would be appreciated.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This is a discrepancy between civil site drawings affecting wall elevation, best resolved by the Civil Engineer with coordination to Structural as needed.",
+  "escalation": false,
+  "confidence": 0.78
+}

@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0146",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0146",
+  "date_submitted": "2025-04-18",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Discrepancy in the Section 26 51 00 light fixture type between Electrical Panel Schedule",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-04-18T17:02",
+      "message_type": "initial_question",
+      "text": "Coordination review turned up a mismatch on the Section 26 51 00 light fixture type between Electrical Detail 2/E502 and Electrical Panel Schedule E-601 -- can you confirm which is correct before we release for fabrication? This is routine and can be worked into the normal submittal cycle. We do not expect this to affect the contract sum. No schedule impact is expected. Please respond before the electrical rough-in inspection."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-04-21T14:29",
+      "message_type": "response",
+      "text": "Electrical Detail 2/E502 governs for the Section 26 51 00 light fixture type near LP-1; Electrical Panel Schedule E-601 will be superseded by an updated drawing. We do not expect this to affect the contract sum. No schedule impact is expected."
+    }
+  ]
+}

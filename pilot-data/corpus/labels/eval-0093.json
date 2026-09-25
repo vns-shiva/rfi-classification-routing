@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0093",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "General",
+  "secondary_disciplines": [],
+  "csi_division": "\u2014",
+  "urgency": "priority",
+  "question_summary": "Direction requested on unforeseen underground obstruction near Mechanical Room 3B.",
+  "referenced_documents": [
+    "General Conditions Article 3"
+  ],
+  "proposed_solution": "Recommend a change order to address unforeseen underground obstruction.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "next week",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Default discipline routing: with no discipline-specific trade implicated, the Architect of Record fields the field condition.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-06-20",
+  "deadline_resolution_status": "resolved_to_date"
+}

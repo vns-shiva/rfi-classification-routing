@@ -1,0 +1,34 @@
+{
+  "thread_id": "eval-0092",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0092",
+  "date_submitted": "2025-03-09",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Unforeseen electrical field condition: panel location conflicting with the new wall",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Gary Owusu",
+      "timestamp": "2025-03-09T11:22",
+      "message_type": "initial_question",
+      "text": "We de-energized the circuit and logged the panel location conflicting with the new wall framing at Electrical Closet 2A in today's field log; this isn't reflected in One-Line Diagram E-002. This is routine and can be worked into the normal schedule. We do not expect this to affect the contract sum. This is holding up work in this area. Please respond within five days so we can proceed."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-03-10T08:12",
+      "message_type": "response",
+      "text": "Keep the circuit locked out at Electrical Closet 2A -- we'll send a revised routing sketch for the panel location conflicting with the new wall framing once engineering signs off. We do not expect this to affect the contract sum."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Tom Reilly",
+      "timestamp": "2025-03-12T09:51",
+      "message_type": "resubmittal",
+      "text": "Resubmitting after field verification: the panel location conflicting with the new wall framing at Electrical Closet 2A is resolved per the attached sketch. Please respond within five days so we can proceed."
+    }
+  ]
+}

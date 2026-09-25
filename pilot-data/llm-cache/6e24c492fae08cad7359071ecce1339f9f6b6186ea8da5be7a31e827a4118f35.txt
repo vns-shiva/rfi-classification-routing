@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "09 00 00 (Finishes)",
+  "urgency": "priority",
+  "question_summary": "Existing wall near Mechanical Room 3B does not match drawings; contractor requests direction and sign-off for a permanent fix.",
+  "referenced_documents": ["Contract Drawings"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is a field condition conflict involving an architectural wall; default routing is to the Architect of Record.",
+  "escalation": false,
+  "confidence": 0.68
+}

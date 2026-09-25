@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0121",
+  "rfi_type": "Document Conflict/Discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Geotechnical"
+  ],
+  "csi_division": "Division 31 - Earthwork",
+  "urgency": "medium",
+  "question_summary": "Submitter asks whether the minimum cover requirement for underground utility trench backfill per Section 31 23 00 and Sheet C-101 is consistent with the geotechnical report's requirements for this area, requesting confirmation ahead of the next civil inspection.",
+  "referenced_documents": [
+    "Section 31 23 00",
+    "Sheet C-101",
+    "Geotechnical Report"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can schedule the civil inspection.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The question involves reconciling trench backfill cover requirements between the civil specification/drawing and the geotechnical report, which falls under the Civil Engineer's responsibility with geotechnical input.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

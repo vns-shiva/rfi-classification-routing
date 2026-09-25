@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0115",
+  "template_id": "t12_coordination_conflict_multidiscipline_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "coordination_conflict",
+    "primary_discipline": "Structural",
+    "urgency": "critical",
+    "cost_impact": true,
+    "schedule_impact": true,
+    "deadline_family": "relative_weeks",
+    "adversarial": "multi_discipline",
+    "thread_shape": "resubmittal"
+  },
+  "variant_index": 1,
+  "seed": 9830647396746829682,
+  "body_variant_index": {
+    "initial_question": 1,
+    "response": 1,
+    "resubmittal": 1
+  },
+  "question_summary_variant_index": 1,
+  "proposed_solution_variant_index": 1,
+  "project": "Northgate Mixed-Use Phase II",
+  "doc_a": "Sheet S-301",
+  "doc_b": "Structural Detail 3/S502",
+  "date_submitted": "2025-09-18"
+}

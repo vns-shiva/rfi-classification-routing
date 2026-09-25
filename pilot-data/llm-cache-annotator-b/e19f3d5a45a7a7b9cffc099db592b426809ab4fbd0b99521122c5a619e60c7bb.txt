@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["General"],
+  "csi_division": "26 00 00",
+  "urgency": "priority",
+  "question_summary": "Conduit routing conflict discovered in field at Lobby 101 not shown on Electrical Detail 2/E502 or One-Line Diagram E-002; clarification needed on whether reroute requires revised electrical detail.",
+  "referenced_documents": ["Electrical Detail 2/E502", "One-Line Diagram E-002"],
+  "proposed_solution": "Reroute per attached sketch to clear the conduit routing conflict at Lobby 101",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "end of day",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "Electrical Engineer must review the proposed conduit reroute sketch, confirm routing feasibility, and determine if design documentation updates are required for compliance and future reference.",
+  "escalation": false,
+  "confidence": 0.92
+}
+```

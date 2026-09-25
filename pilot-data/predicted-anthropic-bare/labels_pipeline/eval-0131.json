@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0131",
+  "rfi_type": "unforeseen field condition",
+  "primary_discipline": "civil",
+  "secondary_disciplines": [
+    "structural",
+    "mechanical"
+  ],
+  "csi_division": "Division 33 - Utilities",
+  "urgency": "high",
+  "question_summary": "Foreman discovered a conflicting utility line beneath the slab in Area C, differing from the assumed condition in the Project Manual, and proposes shifting the layout locally while holding all other work per plan.",
+  "referenced_documents": [
+    "Project Manual Section 01 00 00"
+  ],
+  "proposed_solution": "Shift the layout locally at the conflict point and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The issue involves an underground utility conflict, which falls under civil/site utility engineering responsibility for verifying actual conditions against design and approving a rerouting solution.",
+  "escalation": true,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,30 @@
+{
+  "thread_id": "eval-0069",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Plumbing",
+    "Electrical"
+  ],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "routine",
+  "question_summary": "Confirm whether the Section 31 23 00 minimum cover for underground utility trench backfill on Grading Plan C-201 complies with the geotechnical report requirements for this area.",
+  "referenced_documents": [
+    "Section 31 23 00",
+    "Grading Plan C-201",
+    "Geotechnical Report"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This concerns earthwork backfill cover on a civil grading plan versus geotechnical criteria, which the Civil Engineer should resolve.",
+  "escalation": false,
+  "confidence": 0.73,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

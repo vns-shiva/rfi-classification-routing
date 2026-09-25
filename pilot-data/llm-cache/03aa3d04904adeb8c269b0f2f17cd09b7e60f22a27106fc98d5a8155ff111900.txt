@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Coordination/Clash",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": ["Mechanical (HVAC)"],
+  "csi_division": "Division 21 — Fire Suppression",
+  "urgency": "Urgent",
+  "question_summary": "Existing sprinkler main conflicts with new duct routing at Lobby 101; confirm if previously issued reroute sketch and direction still apply given the conflict is more extensive than first reported.",
+  "referenced_documents": ["Fire Alarm Riser Diagram FA-501", "PE reroute sketch (attached)"],
+  "proposed_solution": "Reroute the sprinkler main to clear the conflict at Lobby 101 per the attached sketch; proceed once required clearances are confirmed.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep the crew moving.",
+  "assigned_reviewer": "Fire Protection Engineer of Record",
+  "routing_rationale": "The issue centers on rerouting an existing sprinkler main, which requires fire protection design approval and coordination with HVAC.",
+  "escalation": false,
+  "confidence": 0.77
+}

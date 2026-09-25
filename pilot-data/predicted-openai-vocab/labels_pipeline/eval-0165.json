@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0165",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Conflict between Sheet A-201 and Detail 5/A501 for the entry vestibule storefront glazing; confirm which detail governs for fabrication.",
+  "referenced_documents": [
+    "Sheet A-201",
+    "Detail 5/A501",
+    "Section 08 41 13",
+    "Storefront shop drawings",
+    "Entry vestibule field mockup"
+  ],
+  "proposed_solution": "Use Sheet A-201 as governing for the storefront at the entry vestibule; reconcile Detail 5/A501 by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is a Division 08 architectural detail conflict between drawing sheets that requires the Architect\u2019s direction and addendum.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

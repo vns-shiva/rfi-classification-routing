@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Sheet M-401 and Mechanical Schedule M-601 for Section 23 37 00 diffuser layout near AHU-3; confirm which to follow and whether the direction applies throughout the area, not just at AHU-3.",
+  "referenced_documents": ["Sheet M-401", "Mechanical Schedule M-601", "Section 23 37 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "As a discrepancy between a mechanical sheet and schedule, the Mechanical Engineer of record should clarify and issue corrective documentation.",
+  "escalation": false,
+  "confidence": 0.84
+}

@@ -1,0 +1,30 @@
+{
+  "thread_id": "dev-0032",
+  "rfi_type": "Code compliance clarification",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": [
+    "Structural",
+    "Fire Protection"
+  ],
+  "csi_division": "Division 07 - Thermal and Moisture Protection",
+  "urgency": "medium",
+  "question_summary": "Confirm whether the fire-rated assembly listing in Project Specifications Division 00 complies with the adopted code edition referenced in Section 03 30 00.",
+  "referenced_documents": [
+    "Project Specifications Division 00",
+    "Section 03 30 00",
+    "Adopted Building Code (edition referenced)"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Architect of Record is responsible for fire-resistance assembly selections and overall code compliance across specifications.",
+  "escalation": false,
+  "confidence": 0.64,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

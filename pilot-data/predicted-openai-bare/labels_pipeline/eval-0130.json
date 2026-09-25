@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0130",
+  "rfi_type": "Coordination/Clash Resolution",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "33 - Utilities",
+  "urgency": "Routine",
+  "question_summary": "Coordination clash between retaining wall footing and underground utility corridor at Pour Sequence 4 per Sheet C-101 vs Detail 2/C501; need direction to resolve.",
+  "referenced_documents": [
+    "Sheet C-101",
+    "Detail 2/C501",
+    "Site coordination sketch (attached)"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "Conflict involves site utilities and retaining wall layout on civil sheets requiring civil design approval of the coordination sketch.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00",
+  "urgency": "priority",
+  "question_summary": "Field-discovered panel clearance obstruction at Electrical Closet 2A conflicts with One-Line Diagram E-002 and Panel Schedule E-601; contractor asks whether the proposed reroute requires a revised One-Line Diagram.",
+  "referenced_documents": ["One-Line Diagram E-002", "Electrical Panel Schedule E-601"],
+  "proposed_solution": "Reroute per the attached sketch to clear the panel clearance obstruction at Electrical Closet 2A.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by end of week so we can plan the rough-in sequence.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As a field condition conflict without confirmed schedule impact, it is routed to the Electrical Engineer, the design professional of record for the electrical system involved.",
+  "escalation": false,
+  "confidence": 0.75
+}

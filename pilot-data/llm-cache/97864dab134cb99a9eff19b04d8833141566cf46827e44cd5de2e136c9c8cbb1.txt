@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Design clarification - conflicting details",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 - Concrete",
+  "urgency": "urgent",
+  "question_summary": "Resolve conflict between Sheet S-301 and Detail 3/S502 for transfer beam reinforcement and confirm if revised bar splice applies to all transfer beams at this level.",
+  "referenced_documents": ["Sheet S-301", "Structural Detail 3/S502"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by Thursday, ahead of Friday's pour.",
+  "assigned_reviewer": "Structural Engineer of Record (SER)",
+  "routing_rationale": "Requires structural design clarification on reinforcement and scope of applicability across all transfer beams, which is the SER’s purview.",
+  "escalation": true,
+  "confidence": 0.77
+}

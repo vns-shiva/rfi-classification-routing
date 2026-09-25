@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0107",
+  "rfi_type": "substitution_request",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [
+    "Mechanical",
+    "Electrical"
+  ],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "urgent",
+  "question_summary": "Request approval to substitute a tankless water heater for the specified storage-type unit in Spec 22 34 00 prior to ordering; confirm acceptability and any related requirements.",
+  "referenced_documents": [
+    "Section 22 34 00"
+  ],
+  "proposed_solution": "Approve tankless water heater alternate in lieu of storage-type; cost-neutral and no impact to domestic water pressure test date.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "by the end of the day",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a cost-neutral plumbing substitution, it should be reviewed by the Plumbing/Fire Protection Engineer as the design professional of record.",
+  "escalation": true,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-08-15",
+  "deadline_resolution_status": "resolved_to_date"
+}

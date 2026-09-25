@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Existing electrical panel location in Electrical Closet 2A conflicts with new wall framing; request direction/approval of revised routing per sketch and update to one-line E-002.",
+  "referenced_documents": ["One-Line Diagram E-002", "attached sketch"],
+  "proposed_solution": "Relocate/re-route the panel to clear the new wall per the attached sketch.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "Electrical Engineer must approve the revised panel location/routing and update the electrical design and one-line diagram.",
+  "escalation": false,
+  "confidence": 0.82
+}

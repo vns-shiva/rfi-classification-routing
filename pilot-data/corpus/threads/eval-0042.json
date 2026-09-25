@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0042",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0042",
+  "date_submitted": "2025-09-18",
+  "submitted_by_role": "Foreman",
+  "subject": "Conflicting reinforcement detail for the shear wall between Sheet S-301 and Foundation",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Bobby Kern",
+      "timestamp": "2025-09-18T14:38",
+      "message_type": "initial_question",
+      "text": "The shear wall reinforcement shown in Sheet S-301 conflicts with #6 dowels at 12\" o.c. noted in Foundation Plan S-101. This is urgent -- we need direction as soon as possible. No cost impact is anticipated from this clarification. No schedule impact is expected from this clarification. We need a response within one business day, if at all possible. This sits right on the edge, timeline-wise; hard to say for certain how quickly this really needs to move."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-09-19T12:12",
+      "message_type": "response",
+      "text": "Proceed with #6 dowels at 12\" o.c. per Foundation Plan S-101; Sheet S-301 is superseded. No cost impact is anticipated from this clarification. No schedule impact is expected from this clarification."
+    }
+  ]
+}

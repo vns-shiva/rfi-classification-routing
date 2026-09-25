@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0044",
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "urgent",
+  "question_summary": "Conflicting document coordination on the Section 23 07 00 piping insulation type at EF-4.",
+  "referenced_documents": [
+    "Mechanical Detail 4/M501",
+    "Mechanical Schedule M-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Friday",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "Urgent design clarifications escalate directly to the Mechanical Engineer for a fast resolution.",
+  "escalation": true,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-05-02",
+  "deadline_resolution_status": "resolved_to_date"
+}

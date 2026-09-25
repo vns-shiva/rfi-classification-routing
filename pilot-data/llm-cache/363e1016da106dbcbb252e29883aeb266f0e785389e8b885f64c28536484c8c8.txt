@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document Discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Glazing/Storefront Contractor"],
+  "csi_division": "08 - Openings",
+  "urgency": "medium",
+  "question_summary": "Submitter requests clarification on which document governs for the Section 08 41 13 storefront glazing system at the entry vestibule, as the shop drawings do not match the built field mockup, prior to submitting shop drawings for the next deadline.",
+  "referenced_documents": ["Section 08 41 13 storefront glazing specification", "Shop drawings", "Field mockup"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Project Architect",
+  "routing_rationale": "The conflict involves interpretation of architectural specifications versus field-built conditions for a storefront glazing assembly, which falls under the Project Architect's design authority.",
+  "escalation": false,
+  "confidence": 0.75
+}

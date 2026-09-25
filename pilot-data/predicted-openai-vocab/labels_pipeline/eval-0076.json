@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0076",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Conflict between Door and Window Schedule A-601 and Detail 5/A501 for Section 08 44 13 curtain wall corner mullion; confirm which governs relative to field mockup and shop drawings.",
+  "referenced_documents": [
+    "Specification Section 08 44 13",
+    "Door and Window Schedule A-601",
+    "Detail 5/A501",
+    "Curtain Wall Shop Drawings",
+    "Field Mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The discrepancy is between architectural schedule and detail for the curtain wall; the Architect of Record must determine the governing intent and issue an addendum/revision.",
+  "escalation": false,
+  "confidence": 0.84,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

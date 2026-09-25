@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0005",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Mechanical"
+  ],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen conduit routing conflict discovered in Mechanical Room 3B; routing not accommodated by Electrical Detail 2/E502 or One-Line Diagram E-002 and guidance is needed for revised conduit path.",
+  "referenced_documents": [
+    "Detail 2/E502",
+    "One-Line Diagram E-002"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by end of week so we can plan the rough-in sequence.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "Primary issue is electrical conduit routing and required adjustments fall under the Electrical Engineer\u2019s design scope, with coordination to Mechanical as needed.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

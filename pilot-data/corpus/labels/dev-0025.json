@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0025",
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "priority",
+  "question_summary": "Inconsistent detailing of the backflow preventer assembly at Room 214 between Sheet P-601 and Plumbing Riser Diagram P-501.",
+  "referenced_documents": [
+    "Sheet P-601",
+    "Plumbing Riser Diagram P-501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Owner's Representative",
+  "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Plumbing/Fire Protection Engineer looped in as technical reviewer.",
+  "escalation": true,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

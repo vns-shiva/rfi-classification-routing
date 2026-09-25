@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "33 00 00",
+  "urgency": "priority",
+  "question_summary": "Foreman discovered a conflicting utility line beneath the slab area at Area C, differing from the assumed condition in the project manual, and is requesting direction on whether to shift the layout locally to resolve the conflict.",
+  "referenced_documents": ["Project Manual Section 01 00 00"],
+  "proposed_solution": "Shift the layout locally at the conflict point and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The RFI concerns an unforeseen underground utility conflict, which falls under civil engineering's purview for site utilities, and since urgency is priority rather than urgent/critical, it routes to the design professional of record rather than the superintendent.",
+  "escalation": true,
+  "confidence": 0.75
+}

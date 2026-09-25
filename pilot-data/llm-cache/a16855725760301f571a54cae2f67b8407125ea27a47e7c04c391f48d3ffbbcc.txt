@@ -1,0 +1,18 @@
+{
+  "rfi_type": "substitution_request",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Request approval to substitute a linear slot diffuser in place of the specified perforated face diffuser per Section 23 30 00 due to lead times.",
+  "referenced_documents": ["Specification Section 23 30 00"],
+  "proposed_solution": "Approve use of a linear slot alternate diffuser in lieu of the specified perforated face diffuser.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can place the order.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "This is a Division 23 HVAC equipment substitution that requires the Mechanical Engineer’s review for airflow, performance, and compatibility.",
+  "escalation": false,
+  "confidence": 0.86
+}

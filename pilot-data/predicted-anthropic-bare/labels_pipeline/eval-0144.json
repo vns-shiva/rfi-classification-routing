@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0144",
+  "rfi_type": "Discrepancy/Conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 - Electrical",
+  "urgency": "Low",
+  "question_summary": "Detailer identified a conflict in Section 26 05 33 conduit routing between Electrical Panel Schedule E-601 and Electrical Detail 2/E502, requesting confirmation of the correct routing before fabrication release.",
+  "referenced_documents": [
+    "Electrical Panel Schedule E-601",
+    "Electrical Detail 2/E502",
+    "Section 26 05 33"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond before the panel energization walkthrough.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The discrepancy involves conflicting electrical conduit routing information between a panel schedule and a detail drawing, requiring clarification from the Electrical Engineer of Record.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

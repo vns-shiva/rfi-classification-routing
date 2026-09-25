@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0005",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen conduit routing conflict at Mechanical Room 3B conflicting with Electrical Detail 2/E502 and One-Line Diagram E-002.",
+  "referenced_documents": [
+    "Electrical Detail 2/E502",
+    "One-Line Diagram E-002"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "by end of week",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "Default discipline routing: the Electrical Engineer resolves field condition conflicts affecting electrical work.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-03-14",
+  "deadline_resolution_status": "resolved_to_date"
+}

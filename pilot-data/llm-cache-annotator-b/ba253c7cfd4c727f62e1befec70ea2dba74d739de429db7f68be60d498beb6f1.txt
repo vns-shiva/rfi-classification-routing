@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "31 00 00",
+  "urgency": "routine",
+  "question_summary": "Discrepancy between Utility Plan C-301 and Sheet C-101 regarding site retaining wall elevation at Pour 3; field verification confirms C-101 is correct pending survey benchmark correction.",
+  "referenced_documents": ["Utility Plan C-301", "Sheet C-101"],
+  "proposed_solution": "Use the elevation shown in Sheet C-101; Utility Plan C-301 will be corrected by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would be appreciated.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The discrepancy involves site retaining wall elevations and survey benchmarks, which are primary civil engineering concerns; Structural coordination is secondary.",
+  "escalation": false,
+  "confidence": 0.92
+}
+```

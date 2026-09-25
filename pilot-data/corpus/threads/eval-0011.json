@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0011",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0011",
+  "date_submitted": "2025-09-18",
+  "submitted_by_role": "Assistant Project Manager",
+  "subject": "Document coordination conflict on the Section 08 51 13 aluminum window frame detail at",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Assistant Project Manager",
+      "sender_name": "Alicia Stone",
+      "timestamp": "2025-09-18T17:50",
+      "message_type": "initial_question",
+      "text": "Shop drawings for the Section 08 51 13 aluminum window frame detail at the corner window are ready to submit, but what's shown doesn't match what's built out in the field mockup -- can you confirm which governs? This is becoming a priority as fabrication approaches. There may be a cost impact if a change to the specified material is required. This is not holding up any current work. There is no specific deadline for this, but a timely response is appreciated. It is not clear whether this needs Architect interpretation of what was intended, or just confirmation that the documentation has an error."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-09-20T17:55",
+      "message_type": "response",
+      "text": "Sheet A-301 is the condition to build to for the Section 08 51 13 aluminum window frame detail at the corner window; we'll reconcile Sheet A-201 by addendum. There may be a cost impact if a change to the specified material is required. This is not holding up any current work."
+    }
+  ]
+}

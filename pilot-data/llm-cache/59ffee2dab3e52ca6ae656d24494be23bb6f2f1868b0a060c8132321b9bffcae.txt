@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document coordination conflict",
+  "primary_discipline": "architectural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 08 - Openings",
+  "urgency": "medium",
+  "question_summary": "Submitter identified a discrepancy between shop drawings and the field mockup for the Section 08 71 00 interior door hardware set at the stair enclosure and asked which document governs before submitting.",
+  "referenced_documents": ["Section 08 71 00", "Door and Window Schedule A-601", "Sheet A-301"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "no specific deadline for this, but a timely response is appreciated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict involves door hardware documentation and schedule discrepancies, which fall under architectural scope requiring the Architect of Record to confirm governing document and issue an addendum.",
+  "escalation": false,
+  "confidence": 0.83
+}

@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0105",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Foundation Plan S-101 and Structural General Notes S-001 regarding column baseplate reinforcement (#6 dowels at 12\" o.c.) and whether this requirement applies to all column baseplates on the level.",
+  "referenced_documents": [
+    "Foundation Plan S-101",
+    "Structural General Notes S-001"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within two business days ahead of the scheduled pour.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "This is a structural drawing vs. general notes conflict requiring direction from the Structural Engineer of record.",
+  "escalation": false,
+  "confidence": 0.76,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

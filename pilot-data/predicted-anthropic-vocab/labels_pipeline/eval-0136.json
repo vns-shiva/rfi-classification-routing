@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0136",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Mechanical Detail 4/M501 and Sequence of Operations M-701 regarding piping insulation type near AHU-3 is holding up installation; clarification requested on whether direction applies throughout the area or just at AHU-3.",
+  "referenced_documents": [
+    "Mechanical Detail 4/M501",
+    "Sequence of Operations M-701"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The conflict involves mechanical piping insulation specifications (Section 23 07 00) requiring resolution by the Mechanical Engineer of record.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

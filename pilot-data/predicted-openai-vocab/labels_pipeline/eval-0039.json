@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0039",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Existing wall condition at Pour Sequence 4 does not match drawings; requesting approval to locally shift layout and keep all else per plan or advise if further review is needed.",
+  "referenced_documents": [
+    "Project Manual Section 01 00 00",
+    "Construction Drawings \u2013 Pour Sequence 4 area"
+  ],
+  "proposed_solution": "Shift the layout locally at the affected area and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "Condition affects concrete pour layout and structural alignment, requiring structural evaluation and direction for the change order.",
+  "escalation": false,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

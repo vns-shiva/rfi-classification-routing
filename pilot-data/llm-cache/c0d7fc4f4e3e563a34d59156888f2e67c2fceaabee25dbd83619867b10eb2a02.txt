@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Fire_Protection"],
+  "csi_division": "23 00 00",
+  "urgency": "urgent",
+  "question_summary": "Existing fire sprinkler main physically conflicts with new ductwork routing at Electrical Closet 2A; field crew has stopped work pending direction on how to resolve the clash.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "Per policy, a field_condition_conflict with schedule impact and urgent status is routed to the GC Superintendent to direct field crews while a bulletin is prepared.",
+  "escalation": true,
+  "confidence": 0.78
+}

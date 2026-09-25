@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Shop drawings for Section 08 41 13 storefront at entry vestibule do not match the field mockup; which condition governs?",
+  "referenced_documents": ["Section 08 41 13 storefront glazing system", "Shop drawings", "Field mockup"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Architect of Record must determine design intent for storefront and resolve discrepancies between mockup and shop drawings.",
+  "escalation": false,
+  "confidence": 0.78
+}

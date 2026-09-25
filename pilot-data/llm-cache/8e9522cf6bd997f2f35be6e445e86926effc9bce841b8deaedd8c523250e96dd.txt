@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Architectural", "Structural"],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "critical",
+  "question_summary": "Requesting interim direction for unforeseen ceiling height restriction impacting ductwork routing near T-1 to avoid crew stoppage; response needed by Thursday.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the crew moving.",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "This is an urgent field condition conflict with schedule impact, so it is routed to the GC Superintendent per policy.",
+  "escalation": true,
+  "confidence": 0.74
+}

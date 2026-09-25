@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "urgent",
+  "question_summary": "Field conflict in Mechanical Room 3B: required fire pump room clearance interferes with new equipment layout; confirmation of scope/direction requested and potential impact to adjacent piping noted.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "This is an urgent field conflict stopping work with schedule impact, so per policy it is routed to the GC Superintendent for immediate coordination while design issues a bulletin.",
+  "escalation": true,
+  "confidence": 0.8
+}

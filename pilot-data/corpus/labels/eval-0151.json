@@ -1,0 +1,23 @@
+{
+  "thread_id": "eval-0151",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "critical",
+  "question_summary": "Direction requested on unforeseen ceiling height restriction affecting the ductwork routing near T-1.",
+  "referenced_documents": [],
+  "proposed_solution": "Recommend a change order and revised routing sketch to address unforeseen ceiling height restriction affecting the ductwork routing.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Thursday",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "Critical urgency without a schedule impact still escalates directly to the Mechanical Engineer for immediate evaluation.",
+  "escalation": true,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-07-24",
+  "deadline_resolution_status": "resolved_to_date"
+}

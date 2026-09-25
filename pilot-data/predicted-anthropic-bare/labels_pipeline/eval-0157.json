@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0157",
+  "rfi_type": "unforeseen field condition",
+  "primary_discipline": "mechanical",
+  "secondary_disciplines": [
+    "structural"
+  ],
+  "csi_division": "Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "high",
+  "question_summary": "Field crew encountered an undersized mechanical shaft in the corridor chase at T-1, larger in extent than initially discovered, and needs confirmation on whether prior reroute direction still applies given the expanded scope.",
+  "referenced_documents": [
+    "attached sketch"
+  ],
+  "proposed_solution": "Reroute to clear the conflict at T-1 per the attached sketch; proceed once clearance is confirmed.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The issue concerns a mechanical shaft sizing conflict requiring engineering confirmation on whether the original reroute solution still applies to the expanded field condition.",
+  "escalation": true,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

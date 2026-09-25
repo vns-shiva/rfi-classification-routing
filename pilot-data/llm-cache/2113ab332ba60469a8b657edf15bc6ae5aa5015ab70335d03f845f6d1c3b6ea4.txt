@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Structural", "Facade/Envelope"],
+  "csi_division": "08 - Openings",
+  "urgency": "High",
+  "question_summary": "Conflict between Sheet A-201 and Sheet A-301 for Section 08 44 13 curtain wall corner mullion detail—confirm which drawing governs for fabrication.",
+  "referenced_documents": ["Sheet A-201", "Sheet A-301", "Section 08 44 13", "Shop Drawings", "Field Mockup"],
+  "proposed_solution": "Build per Sheet A-201; reconcile Sheet A-301 by addendum.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Architect of Record (AOR)",
+  "routing_rationale": "An architectural drawing conflict needs AOR confirmation and issuance of an addendum to reconcile documents.",
+  "escalation": false,
+  "confidence": 0.78
+}

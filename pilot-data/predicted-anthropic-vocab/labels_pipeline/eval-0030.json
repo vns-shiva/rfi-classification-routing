@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0030",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Shop drawings for the Section 08 71 00 interior door hardware set at the stair enclosure do not match the field mockup; submitter asks which document governs before submittal.",
+  "referenced_documents": [
+    "Section 08 71 00",
+    "Sheet A-201",
+    "Sheet A-301"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "no specific deadline for this, but a timely response is appreciated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict concerns interior door hardware documentation under Section 08 71 00, which falls under the Architect of Record's purview for resolving drawing discrepancies.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

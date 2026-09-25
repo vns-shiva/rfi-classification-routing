@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Coordination Clash",
+  "primary_discipline": "Civil/Site Utilities",
+  "secondary_disciplines": ["Landscape Architecture"],
+  "csi_division": "Division 33 - Utilities",
+  "urgency": "medium",
+  "question_summary": "Field superintendent identified a conflict between the site utility trench alignment and the proposed landscaping layout near Pour Sequence 4, referencing Sheet C-101 versus the Grading Plan C-201, and requests resolution before the next site work sequence.",
+  "referenced_documents": ["Sheet C-101", "Grading Plan C-201"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The clash involves underground utility routing conflicting with landscaping design, which falls under the civil engineer's scope for site utility coordination.",
+  "escalation": false,
+  "confidence": 0.78
+}

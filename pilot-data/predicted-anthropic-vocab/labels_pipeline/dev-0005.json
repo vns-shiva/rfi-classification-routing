@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0005",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Mechanical"
+  ],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Field investigation at Mechanical Room 3B found a conduit routing conflict not depicted on Electrical Detail 2/E502 or One-Line Diagram E-002; superintendent requests prompt guidance to plan rough-in sequencing.",
+  "referenced_documents": [
+    "Electrical Detail 2/E502",
+    "One-Line Diagram E-002"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "by end of week",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The conflict involves conduit routing shown on electrical detail and one-line drawings, making the Electrical Engineer the appropriate reviewer to resolve the discrepancy.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-03-14",
+  "deadline_resolution_status": "resolved_to_date"
+}

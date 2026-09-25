@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "priority",
+  "question_summary": "Backflow preventer assembly for Room 214 is detailed differently on Sheet P-601 versus Plumbing Riser Diagram P-501; request clarification on correct configuration/routing.",
+  "referenced_documents": ["Sheet P-601", "Plumbing Riser Diagram P-501"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "Discrepancy between plumbing detail and riser diagram requires direction from the plumbing engineer of record.",
+  "escalation": false,
+  "confidence": 0.83
+}

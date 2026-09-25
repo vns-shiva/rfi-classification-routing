@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "Expedited (3 days)",
+  "question_summary": "Conflict between shop drawings per Spec 08 71 00 and the built field mockup for stair enclosure interior door hardware; requester asks which condition governs for the upcoming submittal.",
+  "referenced_documents": ["Specification Section 08 71 00 – Door Hardware", "Shop Drawings – Stair Enclosure Door Hardware Set", "Field Mockup – Stair Enclosure Door Hardware"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As the hardware set is an architectural scope item with potential life-safety implications, the Architect of Record should determine whether the mockup or contract documents govern and coordinate with the hardware consultant as needed.",
+  "escalation": false,
+  "confidence": 0.73
+}

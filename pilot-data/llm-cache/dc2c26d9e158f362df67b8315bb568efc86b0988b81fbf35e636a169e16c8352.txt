@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Mechanical Detail 4/M501 and Mechanical Schedule M-601 regarding Section 23 07 00 piping insulation type at/near RTU-2; confirmation requested whether schedule direction applies throughout the area, not just at RTU-2.",
+  "referenced_documents": ["Mechanical Detail 4/M501", "Mechanical Schedule M-601", "Specification Section 23 07 00"],
+  "proposed_solution": "Follow Mechanical Schedule M-601 for piping insulation type and issue an addendum to reconcile Detail 4/M501.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The issue is a conflict within mechanical documents concerning piping insulation and requires mechanical design clarification and addendum.",
+  "escalation": false,
+  "confidence": 0.86
+}

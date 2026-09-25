@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0064",
+  "template_id": "t13_document_discrepancy_electrical_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "document_discrepancy",
+    "primary_discipline": "Electrical",
+    "urgency": "routine",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "ambiguous",
+    "adversarial": "unresolvable_deadline",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 16708506576797200167,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Northgate Mixed-Use Phase II",
+  "doc_a": "Electrical Detail 2/E502",
+  "doc_b": "Sheet E-501",
+  "date_submitted": "2025-05-13"
+}

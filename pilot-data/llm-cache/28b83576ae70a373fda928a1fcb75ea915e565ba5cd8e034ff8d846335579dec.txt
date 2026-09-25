@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Conflict between Detail 5/A501 and Door and Window Schedule A-601 for Section 08 51 13 aluminum window frame at the corner window; requester asks which document governs for shop fabrication versus field mockup.",
+  "referenced_documents": ["Detail 5/A501", "Door and Window Schedule A-601", "Section 08 51 13"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The Architect of Record controls window details and schedules and can designate the governing document and issue an addendum.",
+  "escalation": false,
+  "confidence": 0.82
+}

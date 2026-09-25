@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "conflicting documents",
+  "primary_discipline": "structural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 03 - Concrete",
+  "urgency": "high",
+  "question_summary": "Reinforcement detail for slab-on-deck pour strip conflicts between Structural General Notes S-001 and Foundation Plan S-101 (#6 dowels at 12\" o.c.), requiring clarification on which governs.",
+  "referenced_documents": ["Structural General Notes S-001", "Foundation Plan S-101"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "by end of day Wednesday",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The conflict involves structural reinforcement details across two structural drawings, requiring the Structural Engineer of Record to confirm which document governs.",
+  "escalation": true,
+  "confidence": 0.85
+}
+```

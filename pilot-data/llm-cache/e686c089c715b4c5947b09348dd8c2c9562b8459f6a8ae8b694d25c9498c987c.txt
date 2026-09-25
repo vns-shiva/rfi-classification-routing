@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document coordination/clarification",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "medium",
+  "question_summary": "Conflict between Section 08 41 13 storefront shop drawings and the field mockup at the entry vestibule; request direction on which condition governs for fabrication.",
+  "referenced_documents": ["Section 08 41 13", "Shop Drawings – Storefront Glazing System", "Field Mockup – Entry Vestibule Storefront"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The Architect of Record must resolve design intent and clarify whether the specified storefront or the approved mockup governs.",
+  "escalation": false,
+  "confidence": 0.82
+}

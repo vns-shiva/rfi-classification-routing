@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0164",
+  "template_id": "t18_coordination_civil_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "coordination_conflict",
+    "primary_discipline": "Civil",
+    "urgency": "priority",
+    "cost_impact": true,
+    "schedule_impact": true,
+    "deadline_family": "weekday",
+    "adversarial": "none",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 9234422220228187663,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Cedar Grove Elementary Addition",
+  "doc_a": "Utility Plan C-301",
+  "doc_b": "Grading Plan C-201",
+  "date_submitted": "2025-09-03"
+}

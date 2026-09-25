@@ -1,0 +1,23 @@
+{
+  "thread_id": "eval-0003",
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "priority",
+  "question_summary": "Confirmation requested on the Section 31 50 00 setback requirement for the excavation shoring near the property line at Placement Zone 2.",
+  "referenced_documents": [],
+  "proposed_solution": "Civil Detail 2/C501 / Detail 2/C-502 already satisfies the Section 31 50 00 setback requirement for the excavation shoring near the property line; no design change is needed.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "within three days",
+  "assigned_reviewer": "Code Official/AHJ Liaison",
+  "routing_rationale": "All code compliance questions route to the Code Official/AHJ Liaison regardless of discipline; the answer is already present in the referenced documents.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-08-28",
+  "deadline_resolution_status": "resolved_to_date"
+}

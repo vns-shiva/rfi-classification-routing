@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "21 00 00",
+  "urgency": "urgent",
+  "question_summary": "Standpipe riser location conflicts with structural bracing at Room 214, a condition not shown on FP-101 and now found to be more extensive than initially reported, holding up sprinkler crew work.",
+  "referenced_documents": ["FP-101"],
+  "proposed_solution": "Reroute the standpipe to clear the conflict at Room 214 per the attached sketch and proceed once clearance is confirmed.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "This is a field condition conflict causing schedule impact with urgent urgency, so per policy it routes to the GC Superintendent to manage the field resolution.",
+  "escalation": true,
+  "confidence": 0.78
+}

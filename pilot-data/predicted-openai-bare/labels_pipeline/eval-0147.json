@@ -1,0 +1,30 @@
+{
+  "thread_id": "eval-0147",
+  "rfi_type": "Specification/Criteria Clarification",
+  "primary_discipline": "Geotechnical",
+  "secondary_disciplines": [
+    "Civil"
+  ],
+  "csi_division": "31 - Earthwork",
+  "urgency": "normal",
+  "question_summary": "Confirm whether Section 31 20 00 compaction density for structural fill under the building pad matches the geotechnical report requirements shown on Civil Detail 2/C501.",
+  "referenced_documents": [
+    "Section 31 20 00 - Earth Moving",
+    "Civil Detail 2/C501",
+    "Geotechnical Report",
+    "Detail 6/C-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "Please respond within five days so we can schedule the civil inspection.",
+  "assigned_reviewer": "Geotechnical Engineer of Record",
+  "routing_rationale": "Compaction criteria under the building pad are governed by the geotechnical report and should be confirmed by the Geotechnical EOR.",
+  "escalation": false,
+  "confidence": 0.83,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

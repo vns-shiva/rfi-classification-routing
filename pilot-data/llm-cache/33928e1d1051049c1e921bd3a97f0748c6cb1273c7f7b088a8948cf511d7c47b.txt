@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Electrical panel in Closet 2A conflicts with new wall framing; One-Line E-002 does not show this—request confirmation/approval of revised routing/location per attached sketch.",
+  "referenced_documents": ["One-Line Diagram E-002", "Attached sketch resolving panel conflict"],
+  "proposed_solution": "Relocate/reroute panel per attached sketch to clear the new wall framing.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As an electrical field condition affecting panel routing, the Electrical Engineer of record should review and approve the resolution sketch.",
+  "escalation": false,
+  "confidence": 0.83
+}

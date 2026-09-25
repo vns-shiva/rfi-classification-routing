@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0025",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "priority",
+  "question_summary": "Backflow preventer assembly detailing at Room 214 differs between Sheet P-601 and Plumbing Riser Diagram P-501, creating uncertainty for rough-in installation.",
+  "referenced_documents": [
+    "Sheet P-601",
+    "Plumbing Riser Diagram P-501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a document discrepancy in plumbing scope with no code, substitution, or field-condition schedule urgency triggers, it defaults to the Plumbing/Fire Protection Engineer of record.",
+  "escalation": true,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

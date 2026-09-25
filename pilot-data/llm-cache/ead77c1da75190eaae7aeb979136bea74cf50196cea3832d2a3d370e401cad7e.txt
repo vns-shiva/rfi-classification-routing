@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "33 00 00",
+  "urgency": "priority",
+  "question_summary": "Grading plan (Civil Detail 2/C501) conflicts with the storm drainage inlet location shown on Utility Plan C-301 at Pour Sequence 4; field wants clash resolved before proceeding with site work.",
+  "referenced_documents": ["Civil Detail 2/C501", "Utility Plan C-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The conflict involves grading and storm drainage design details, which fall under the Civil Engineer's scope for site utility and grading plans.",
+  "escalation": false,
+  "confidence": 0.82
+}

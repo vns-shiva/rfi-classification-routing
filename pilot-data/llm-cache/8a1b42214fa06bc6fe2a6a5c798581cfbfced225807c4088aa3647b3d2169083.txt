@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document conflict/clarification",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": ["Electrical (Fire Alarm)"],
+  "csi_division": "21 - Fire Suppression",
+  "urgency": "High",
+  "question_summary": "Clarify inconsistent detailing of the sprinkler branch line at Mechanical Room 3B between FA-501 Fire Alarm Riser Diagram and FP-101 before releasing sprinkler shop drawings.",
+  "referenced_documents": ["FA-501", "FP-101"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "There's no hard deadline on this, but a timely response is appreciated.",
+  "assigned_reviewer": "Fire Protection Engineer of Record",
+  "routing_rationale": "The discrepancy concerns sprinkler branch line detailing, which is the responsibility of the Fire Protection EOR, who can coordinate with the fire alarm designer as needed.",
+  "escalation": false,
+  "confidence": 0.71
+}

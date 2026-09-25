@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "template_id": "t14_field_condition_general_eval",
+  "pool": "eval",
+  "axes": {
+    "rfi_type": ["field_condition_conflict"],
+    "primary_discipline": ["General"],
+    "urgency": ["priority", "urgent"],
+    "cost_impact": [true],
+    "schedule_impact": [true, false],
+    "deadline_family": ["this_next_week"],
+    "adversarial": ["none"],
+    "thread_shape": ["multi_turn_clarification", "single_message"]
+  },
+  "csi_by_discipline": {
+    "General": "—"
+  },
+  "secondary_by_adversarial": {
+    "none": []
+  },
+  "slots": {
+    "field_condition": [
+      "unforeseen underground obstruction",
+      "existing wall condition inconsistent with the drawings",
+      "conflicting utility line beneath the slab area",
+      "deteriorated existing structure behind the finish wall"
+    ]
+  },
+  "urgency_phrasing": {
+    "priority": [
+      "We would like this resolved ahead of the next work sequence.",
+      "This is becoming a priority as work proceeds nearby."
+    ],
+    "urgent": [
+      "This is urgent -- crews are standing by pending direction.",
+      "This needs a quick turnaround -- please advise as soon as possible."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "There will be a cost impact to address this condition.",
+      "This condition will require a change order."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up work in this area.",
+      "This could affect the overall schedule."
+    ],
+    "false": [
+      "This is not holding up other work currently.",
+      "No broader schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "this_next_week": [
+      "Please respond this week so we can keep the crew moving.",
+      "A response next week would still let us stay on track."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Field Superintendent", "Foreman"],
+      "shapes": ["multi_turn_clarification", "single_message"],
+      "body_variants": [
+        "We found the {field_condition} at {pour_or_area}; see {doc_a} for the assumed condition. Our proposal is to shift the layout locally and hold everything else per plan -- let us know if that works or if you need to review first. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase}",
+        "We found the {field_condition} near {room_name} and need your sign-off before we commit to a permanent fix. {urgency_phrase} {deadline_phrase}",
+        "Logged the {field_condition} at {pour_or_area} in today's daily report; awaiting your review before proceeding. {cost_phrase} {schedule_phrase}",
+        "We'd like to propose a field workaround for the {field_condition} near {room_name} rather than wait on a full redesign -- can you take a look before we proceed? {urgency_phrase} {cost_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["multi_turn_clarification"],
+      "body_variants": [
+        "We'll need photos and measurements of the {field_condition} at {pour_or_area} before we can evaluate the workaround. {cost_phrase}",
+        "Your proposed workaround at {room_name} is close, but we'd want it field-verified against {doc_a} before sign-off.",
+        "The daily report entry for the {field_condition} at {pour_or_area} is noted; hold off on a permanent fix until we've reviewed. {schedule_phrase}"
+      ]
+    },
+    {
+      "message_type": "clarification",
+      "sender_role_pool": ["Field Superintendent", "Foreman"],
+      "shapes": ["multi_turn_clarification"],
+      "body_variants": [
+        "Attached photos show that the condition at {pour_or_area} is more extensive than first reported; our workaround proposal still holds otherwise. {deadline_phrase}",
+        "Following up on the workaround at {room_name} -- can we get a decision so the crew isn't idle much longer?",
+        "Confirming extent of the {field_condition} at {pour_or_area} as requested; ready to proceed once we hear back. {cost_phrase}"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "—",
+    "question_summary_variants": [
+      "Unforeseen field condition: {field_condition} at {pour_or_area}.",
+      "Direction requested on {field_condition} near {room_name}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend a change order to address {field_condition}."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"schedule_impact": true},
+      "assigned_reviewer": "Owner's Representative",
+      "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Architect of Record looped in as technical reviewer.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "Default discipline routing would keep this with the Architect of Record; this project's delegation letter pulls the owner's rep in whenever both cost and schedule are affected, regardless of discipline. Every cell in this template carries a cost impact, so any schedule impact triggers the override."
+    },
+    {
+      "when": {"urgency": "urgent"},
+      "assigned_reviewer": "Architect of Record",
+      "routing_rationale": "Urgent field conditions without a schedule impact still escalate directly to the Architect of Record for a quick call.",
+      "escalation": true,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Architect of Record",
+      "routing_rationale": "Default discipline routing: with no discipline-specific trade implicated, the Architect of Record fields the field condition.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

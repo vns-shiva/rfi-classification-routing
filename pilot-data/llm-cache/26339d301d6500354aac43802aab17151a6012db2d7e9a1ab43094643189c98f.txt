@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Drawing/Spec Conflict Clarification",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 - Concrete",
+  "urgency": "urgent",
+  "question_summary": "Resolve conflict between S-001 general notes and S-101 foundation plan regarding slab-on-deck pour strip reinforcement (#5 ties) and confirm if the added ties apply to all pour strips on this level.",
+  "referenced_documents": ["Structural General Notes S-001", "Foundation Plan S-101"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "We need a response within one business day, if at all possible.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "This is a structural reinforcement conflict requiring the SER to confirm intent and applicability across all pour strips.",
+  "escalation": false,
+  "confidence": 0.82
+}

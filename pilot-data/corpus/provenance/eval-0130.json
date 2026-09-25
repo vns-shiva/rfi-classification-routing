@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0130",
+  "template_id": "t18_coordination_civil_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "coordination_conflict",
+    "primary_discipline": "Civil",
+    "urgency": "routine",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "weekday",
+    "adversarial": "none",
+    "thread_shape": "resubmittal"
+  },
+  "variant_index": 0,
+  "seed": 11220235266056292356,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0,
+    "resubmittal": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Riverside Medical Office Building",
+  "doc_a": "Sheet C-101",
+  "doc_b": "Civil Detail 2/C501",
+  "date_submitted": "2025-05-06"
+}

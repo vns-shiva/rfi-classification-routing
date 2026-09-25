@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0094",
+  "rfi_type": "Drawing/schedule conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 - Electrical",
+  "urgency": "Normal",
+  "question_summary": "Confirm correct receptacle mounting height where Sheet E-501 and Electrical Panel Schedule E-601 conflict.",
+  "referenced_documents": [
+    "Section 26 27 26",
+    "Sheet E-501",
+    "Sheet E-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond at your earliest convenience.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The discrepancy is between electrical drawings and schedules, so the Electrical EOR should clarify the governing mounting height.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

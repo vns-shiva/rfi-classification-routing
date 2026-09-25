@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 Openings",
+  "urgency": "High",
+  "question_summary": "Confirm whether the Section 08 51 13 aluminum corner window detail or the field mockup governs for fabrication, as the shop drawings do not match the mockup.",
+  "referenced_documents": ["Section 08 51 13 Aluminum Windows", "Corner window frame detail", "Glazing shop drawings", "Field mockup"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict concerns the aluminum window detail under Division 08 and requires the Architect of Record to resolve governing design intent between contract documents and the field mockup.",
+  "escalation": false,
+  "confidence": 0.74
+}

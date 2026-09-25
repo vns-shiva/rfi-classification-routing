@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Conflict in Contract Documents",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": ["Electrical"],
+  "csi_division": "22 — Plumbing",
+  "urgency": "Normal",
+  "question_summary": "Backflow preventer assembly at Electrical Closet 2A is shown differently between Plumbing Fixture Schedule P-602 and Plumbing Detail 6/P503; which detail governs and clarify required configuration.",
+  "referenced_documents": ["Plumbing Fixture Schedule P-602", "Plumbing Detail 6/P503"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Plumbing Engineer of Record (Design Consultant)",
+  "routing_rationale": "The issue is a plumbing detail conflict that requires clarification of design intent by the plumbing engineer of record.",
+  "escalation": false,
+  "confidence": 0.77
+}

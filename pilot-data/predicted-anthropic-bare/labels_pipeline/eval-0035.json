@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0035",
+  "rfi_type": "Design Clarification",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 03 - Concrete",
+  "urgency": "high",
+  "question_summary": "Field Superintendent identified a conflict between shear wall reinforcement shown in Structural General Notes S-001 and a revised bar splice noted in Foundation Plan S-101, requesting resolution ahead of the next concrete pour.",
+  "referenced_documents": [
+    "Structural General Notes S-001",
+    "Foundation Plan S-101"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within two business days ahead of the scheduled pour",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The conflict involves structural reinforcement details across two structural drawings, requiring the Structural Engineer of Record to confirm which detail governs.",
+  "escalation": true,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-08-13",
+  "deadline_resolution_status": "resolved_to_date"
+}

@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0011",
+  "rfi_type": "Design Clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Curtain Wall/Glazing"
+  ],
+  "csi_division": "Division 08 - Openings",
+  "urgency": "medium",
+  "question_summary": "Detailer identified a conflict between curtain wall head/jamb details at Gridline E/9 as shown in Sheet A-201 versus Sheet A-301, requesting clarification for shop drawing sequencing.",
+  "referenced_documents": [
+    "Sheet A-201",
+    "Sheet A-301"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Project Architect",
+  "routing_rationale": "The discrepancy involves conflicting architectural detail sheets for curtain wall head/jamb conditions, requiring the Project Architect to confirm which detail governs.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

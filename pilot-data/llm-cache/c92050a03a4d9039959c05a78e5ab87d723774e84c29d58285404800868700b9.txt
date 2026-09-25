@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "Document Conflict / Coordination",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "high",
+  "question_summary": "Detailer identified a coordination conflict between Mechanical Detail 4/M501 and Mechanical Schedule M-601 for the diffuser layout near RTU-2, seeking direction on which document governs; follow-up asks if the resolution applies to the broader area beyond RTU-2.",
+  "referenced_documents": ["Mechanical Detail 4/M501", "Mechanical Schedule M-601"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The conflict involves mechanical drawings and schedules under Division 23, requiring the Mechanical EOR to confirm the governing document and scope of applicability, and to formalize the resolution via addendum.",
+  "escalation": true,
+  "confidence": 0.82
+}
+```

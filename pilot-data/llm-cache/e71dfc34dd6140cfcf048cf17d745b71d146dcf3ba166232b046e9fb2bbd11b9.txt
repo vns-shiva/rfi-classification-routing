@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "priority",
+  "question_summary": "Detail 3/FP502 for the Mechanical Room 3B FDC piping conflicts with the Fire Sprinkler Riser Diagram FP-501; need direction to align the FDC piping layout before releasing sprinkler shop drawings.",
+  "referenced_documents": ["Detail 3/FP502", "FP-501 Fire Sprinkler Riser Diagram"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "There's no hard deadline on this, but a timely response is appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The discrepancy is within fire protection drawings and concerns FDC piping, which falls under the fire protection designer’s scope to resolve.",
+  "escalation": false,
+  "confidence": 0.78
+}

@@ -1,0 +1,24 @@
+```json
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00",
+  "urgency": "priority",
+  "question_summary": "Existing electrical feeder condition at Electrical Closet 2A not shown on design documents (E-601, E-501) conflicts with planned work; clarification needed on whether reroute requires revised panel schedule.",
+  "referenced_documents": [
+    "Electrical Panel Schedule E-601",
+    "Sheet E-501",
+    "Project Engineer sketch (attachment)"
+  ],
+  "proposed_solution": "Reroute per attached sketch to clear the existing feeder condition at Electrical Closet 2A",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "Electrical Engineer must confirm whether the proposed reroute requires formal documentation updates to the panel schedule and validate the reroute solution against electrical code and design standards.",
+  "escalation": false,
+  "confidence": 0.92
+}
+```

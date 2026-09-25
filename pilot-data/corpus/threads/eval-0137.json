@@ -1,0 +1,34 @@
+{
+  "thread_id": "eval-0137",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0137",
+  "date_submitted": "2025-04-10",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Unforeseen electrical field condition: junction box location conflicting with the ceiling",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Tom Reilly",
+      "timestamp": "2025-04-10T14:02",
+      "message_type": "initial_question",
+      "text": "We de-energized the circuit and logged the junction box location conflicting with the ceiling grid layout at Lobby 101 in today's field log; this isn't reflected in Electrical Panel Schedule E-601. No rush on this -- please respond when convenient. There will be a cost impact to address this condition. This is not holding up other work currently. Please respond within five days so we can proceed."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-04-11T08:22",
+      "message_type": "response",
+      "text": "Keep the circuit locked out at Lobby 101 -- we'll send a revised routing sketch for the junction box location conflicting with the ceiling grid layout once engineering signs off. There will be a cost impact to address this condition."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Foreman",
+      "sender_name": "Bobby Kern",
+      "timestamp": "2025-04-12T10:40",
+      "message_type": "resubmittal",
+      "text": "Resubmitting after field verification: the junction box location conflicting with the ceiling grid layout at Lobby 101 is resolved per the attached sketch. Please respond within five days so we can proceed."
+    }
+  ]
+}

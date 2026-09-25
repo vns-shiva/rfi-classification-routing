@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0160",
+  "template_id": "t09_design_clarification_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "design_clarification",
+    "primary_discipline": "Structural",
+    "urgency": "priority",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "business_days",
+    "adversarial": "boundary_urgency",
+    "thread_shape": "two_message_qa"
+  },
+  "variant_index": 0,
+  "seed": 11981220220985023600,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Cedar Grove Elementary Addition",
+  "doc_a": "Structural Detail 3/S502",
+  "doc_b": "Foundation Plan S-101",
+  "date_submitted": "2025-05-11"
+}

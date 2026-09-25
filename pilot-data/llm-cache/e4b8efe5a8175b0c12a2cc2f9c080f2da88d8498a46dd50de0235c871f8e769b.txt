@@ -1,0 +1,18 @@
+{
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Fire_Protection"],
+  "csi_division": "07 00 00 (Thermal and Moisture Protection)",
+  "urgency": "priority",
+  "question_summary": "Confirm whether the occupancy separation rating in Project Manual Section 01 00 00 complies with the adopted code edition referenced in Section 26 05 00.",
+  "referenced_documents": ["Project Manual Section 01 00 00", "Section 26 05 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Occupancy separation compliance and life-safety intent are the Architect of Record’s responsibility under code and architectural scope.",
+  "escalation": false,
+  "confidence": 0.72
+}

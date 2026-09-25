@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0026",
+  "template_id": "t05_field_condition_electrical_dev",
+  "cell": {
+    "split": "dev",
+    "rfi_type": "field_condition_conflict",
+    "primary_discipline": "Electrical",
+    "urgency": "urgent",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "end_of",
+    "adversarial": "boundary_urgency",
+    "thread_shape": "multi_turn_clarification"
+  },
+  "variant_index": 0,
+  "seed": 10272343605547413106,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0,
+    "clarification": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Harborview Logistics Center",
+  "doc_a": "One-Line Diagram E-002",
+  "doc_b": "Electrical Panel Schedule E-601",
+  "date_submitted": "2025-04-28"
+}

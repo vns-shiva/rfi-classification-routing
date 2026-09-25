@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0050",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0050",
+  "date_submitted": "2025-04-22",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Request to substitute a PEX alternate in lieu of the copper domestic water piping",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-04-22T10:03",
+      "message_type": "initial_question",
+      "text": "We're proposing a PEX alternate in lieu of the copper domestic water piping specified in Section 22 11 16 and want sign-off before we order material. No rush -- please take a look whenever it's convenient. No impact to the plumbing fixture budget is anticipated. This substitution will not affect the domestic water pressure test date. Please respond by the end of the week so we can place the order."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0036",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Conflict between Door and Window Schedule A-601 and Sheet A-201 for Section 08 41 13 storefront glazing at entry vestibule\u2014requesting which document governs.",
+  "referenced_documents": [
+    "Section 08 41 13",
+    "A-601 Door and Window Schedule",
+    "A-201",
+    "Shop Drawings",
+    "Entry Vestibule Field Mockup"
+  ],
+  "proposed_solution": "Build to Door and Window Schedule A-601; reconcile Sheet A-201 by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Storefront glazing coordination is architectural and the Architect must resolve the discrepancy and issue an addendum.",
+  "escalation": false,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

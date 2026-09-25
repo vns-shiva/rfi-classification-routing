@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Conflict between S-101 and S-301 on column baseplate reinforcement (#5 ties) and confirmation whether additional #5 ties apply at every column baseplate on this level.",
+  "referenced_documents": ["Foundation Plan S-101", "Sheet S-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "end of day Wednesday",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The issue is a conflict between structural sheets and requires structural engineering direction on global applicability of added ties.",
+  "escalation": false,
+  "confidence": 0.86
+}

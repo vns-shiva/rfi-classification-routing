@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0007",
+  "rfi_type": "Code compliance clarification",
+  "primary_discipline": "Architecture (Life Safety)",
+  "secondary_disciplines": [
+    "Fire Protection/Life Safety"
+  ],
+  "csi_division": "00",
+  "urgency": "High",
+  "question_summary": "Confirm whether the egress width requirement shown in Division 00 complies with the adopted code edition referenced in Section 23 05 00.",
+  "referenced_documents": [
+    "Project Specifications Division 00",
+    "Section 23 05 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Egress width and code compliance fall under architectural life-safety, for which the Architect of Record is responsible.",
+  "escalation": false,
+  "confidence": 0.69,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

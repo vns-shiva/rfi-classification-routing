@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Electrical", "Plumbing", "Mechanical"],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Grade beam at Gridline B/2 conflicts with underground electrical duct bank, plumbing sanitary main, and mechanical condensate drain per S-101 vs Detail 3/S502; direction needed to resolve for steel fabrication schedule.",
+  "referenced_documents": ["Foundation Plan S-101", "Structural Detail 3/S502", "Attached coordination sketch"],
+  "proposed_solution": "Revise per the attached coordination sketch resolving the concrete grade beam clashing with the underground electrical duct bank, the plumbing sanitary main, and the mechanical condensate drain routing at Gridline B/2.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within two weeks so we can keep fabrication on track.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The conflict centers on the structural grade beam, requiring the Structural Engineer to approve modifications and coordinate with MEP reroutes.",
+  "escalation": true,
+  "confidence": 0.78
+}

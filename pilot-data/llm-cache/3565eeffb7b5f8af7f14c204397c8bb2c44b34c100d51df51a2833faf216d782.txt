@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Conflicting documents (plans vs sequence of operations)",
+  "primary_discipline": "Mechanical (HVAC)",
+  "secondary_disciplines": ["Controls"],
+  "csi_division": "23",
+  "urgency": "normal",
+  "question_summary": "Conflict between Sequence of Operations M-701 and Sheet M-401 for Section 23 31 00 duct routing near T-1; request confirmation to follow M-401 and whether that direction applies to the entire area around T-1.",
+  "referenced_documents": ["Section 23 31 00", "Sheet M-401", "M-701 Sequence of Operations"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "Resolution requires mechanical design clarification and addendum to reconcile M-701 with M-401 for duct routing.",
+  "escalation": false,
+  "confidence": 0.8
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Corner window aluminum frame detail in Section 08 51 13 conflicts with the field mockup and pending shop drawings; confirm which condition governs for fabrication.",
+  "referenced_documents": ["Section 08 51 13 Aluminum Windows", "Corner window detail (Drawings)", "Field mockup", "Window shop drawings (pending)"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As an Architectural openings/detail coordination issue not meeting other routing exceptions, it should be answered by the Architect of Record.",
+  "escalation": true,
+  "confidence": 0.72
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "urgent",
+  "question_summary": "Conflict between Structural General Notes S-001 and Detail 3/S502 on shear wall reinforcement (#6 dowels at 12\" o.c.), and clarification whether the detail applies to all shear walls on this level.",
+  "referenced_documents": ["Structural General Notes S-001", "Structural Detail 3/S502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "We need a response within one business day, if at all possible.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "As a discrepancy within structural documents affecting reinforcement, it should be resolved by the Structural Engineer of record.",
+  "escalation": true,
+  "confidence": 0.86
+}

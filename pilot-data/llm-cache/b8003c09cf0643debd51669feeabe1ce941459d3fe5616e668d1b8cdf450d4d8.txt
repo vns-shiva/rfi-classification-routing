@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Confirm which governs for the Section 08 51 13 aluminum corner window frame: Detail 5/A501 or Door and Window Schedule A-601, given mismatch with shop drawings and field mockup.",
+  "referenced_documents": ["Section 08 51 13 Aluminum Windows", "Detail 5/A501", "Door and Window Schedule A-601", "Shop Drawings - Aluminum Windows", "Field Mockup - Corner Window"],
+  "proposed_solution": "Detail 5/A501 is the condition to build to for the corner window; reconcile Door and Window Schedule A-601 by addendum.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an architectural openings detail vs. schedule discrepancy that requires the Architect to determine governing detail and issue an addendum.",
+  "escalation": false,
+  "confidence": 0.9
+}

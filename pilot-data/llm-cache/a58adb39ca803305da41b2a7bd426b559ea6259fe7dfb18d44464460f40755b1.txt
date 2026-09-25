@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Life Safety/Code"],
+  "csi_division": "08 - Openings",
+  "urgency": "Medium",
+  "question_summary": "Shop drawings for Section 08 71 00 interior door hardware at the stair enclosure conflict with the field mockup; confirm which governs for fabrication.",
+  "referenced_documents": ["Section 08 71 00 – Door Hardware", "Shop Drawings – Interior Door Hardware (Stair Enclosure)", "Field Mockup – Stair Enclosure Door/Hardware"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The Architect of Record should resolve conflicts between shop drawings, the field mockup, and specification Section 08 71 00, coordinating with the hardware consultant as needed.",
+  "escalation": false,
+  "confidence": 0.78
+}

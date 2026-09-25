@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0141",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Mechanical Detail 4/M501 and Sheet M-401 conflict on the Section 23 07 00 piping insulation type near T-1, and the submitter needs confirmation on which document governs and whether the direction applies beyond the T-1 condition before installation proceeds.",
+  "referenced_documents": [
+    "Mechanical Detail 4/M501",
+    "Sheet M-401"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The RFI concerns a mechanical piping insulation specification conflict, so it is routed to the Mechanical Engineer as the design professional of record for this discipline.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-06-19",
+  "deadline_resolution_status": "resolved_to_date"
+}

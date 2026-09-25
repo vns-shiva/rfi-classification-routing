@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0027",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "urgent",
+  "question_summary": "Mechanical Schedule M-601 and Sheet M-401 conflict on required equipment clearance for Section 23 74 00 equipment near column/gridline T-1, requiring clarification before installation proceeds.",
+  "referenced_documents": [
+    "Mechanical Schedule M-601",
+    "Sheet M-401",
+    "Section 23 74 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "As a document discrepancy in the Mechanical discipline (not code, substitution, or urgent field-condition schedule case), it routes to the Mechanical Engineer of record.",
+  "escalation": true,
+  "confidence": 0.83,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-08-06",
+  "deadline_resolution_status": "resolved_to_date"
+}

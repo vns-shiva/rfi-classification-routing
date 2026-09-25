@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0082",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0082",
+  "date_submitted": "2025-08-29",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Conflicting document coordination on the Section 23 31 00 ductwork routing at P-101",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-08-29T13:01",
+      "message_type": "initial_question",
+      "text": "Coordination between Mechanical Detail 4/M501 and Sequence of Operations M-701 breaks down for the Section 23 31 00 ductwork routing near P-101. This is becoming a priority as installation approaches. There may be a cost impact if a change is required. No schedule impact is expected. Please respond within five business days so we can keep installation moving."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-09-01T13:03",
+      "message_type": "response",
+      "text": "Follow Sequence of Operations M-701 for the Section 23 31 00 ductwork routing near P-101; we'll issue an addendum to reconcile Mechanical Detail 4/M501. There may be a cost impact if a change is required. No schedule impact is expected."
+    }
+  ]
+}

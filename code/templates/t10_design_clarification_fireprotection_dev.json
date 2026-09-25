@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "template_id": "t10_design_clarification_fireprotection_dev",
+  "pool": "dev",
+  "axes": {
+    "rfi_type": ["design_clarification"],
+    "primary_discipline": ["Fire_Protection"],
+    "urgency": ["routine", "priority"],
+    "cost_impact": [false, true],
+    "schedule_impact": [false, true],
+    "deadline_family": ["none"],
+    "adversarial": ["none"],
+    "thread_shape": ["single_message", "two_message_qa"]
+  },
+  "csi_by_discipline": {
+    "Fire_Protection": "21 00 00 (Fire Suppression)"
+  },
+  "secondary_by_adversarial": {
+    "none": []
+  },
+  "slots": {
+    "fp_item": ["sprinkler branch line", "standpipe connection", "fire pump discharge piping", "fire department connection (FDC) piping"],
+    "spec_section": ["Section 21 05 00", "Section 21 13 00", "Section 21 30 00"]
+  },
+  "urgency_phrasing": {
+    "routine": [
+      "This is routine and can be worked into the normal submittal cycle.",
+      "No rush on this -- respond whenever it's convenient."
+    ],
+    "priority": [
+      "We would like this closed out ahead of the underground flush and hydrostatic test.",
+      "This is becoming a priority as sprinkler rough-in proceeds toward the fire marshal walkthrough."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "There may be a cost impact if repiping or additional fittings are required.",
+      "This could affect the contract sum depending on how it's resolved."
+    ],
+    "false": [
+      "No cost impact is anticipated.",
+      "We don't expect this to affect the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up the hydrostatic test in this area.",
+      "This could affect the fire marshal walkthrough schedule."
+    ],
+    "false": [
+      "This isn't holding up any current sprinkler work.",
+      "No schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "none": [
+      "There's no hard deadline on this, but a timely response is appreciated.",
+      "No fixed deadline, just want to keep the inspection sequence on track."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Project Engineer", "Detailer/BIM Coordinator"],
+      "shapes": ["single_message", "two_message_qa"],
+      "body_variants": [
+        "The {fp_item} shown in {doc_a} at {room_name} isn't detailed consistently with {doc_b} -- need direction before we release the sprinkler shop drawings. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase}",
+        "Please confirm the intended layout of the {fp_item} near {room_name} -- {doc_a} and {doc_b} show conflicting elevations. {urgency_phrase} {deadline_phrase}",
+        "Per {spec_section}, the {fp_item} at {room_name} is unclear relative to the ceiling condition shown in {doc_b}. {cost_phrase} {schedule_phrase}",
+        "We need clarification on the {fp_item} at {room_name} before we can proceed with hanger placement and installation. {urgency_phrase} {cost_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa"],
+      "body_variants": [
+        "Layout the {fp_item} per {doc_b}; disregard the conflicting note in {doc_a}. {cost_phrase} {schedule_phrase}",
+        "The intended condition for the {fp_item} at {room_name} is per {spec_section}; proceed accordingly.",
+        "Confirmed -- {doc_b} governs for the {fp_item} near {room_name}. {schedule_phrase}"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "21 00 00 (Fire Suppression)",
+    "question_summary_variants": [
+      "Inconsistent detailing of the {fp_item} at {room_name} between {doc_a} and {doc_b}.",
+      "Layout of the {fp_item} near {room_name} is unclear between {doc_a} and {doc_b}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend {doc_b} govern and issue a coordination sketch reflecting the resolved condition."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"cost_impact": true, "schedule_impact": true},
+      "assigned_reviewer": "Owner's Representative",
+      "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Plumbing/Fire Protection Engineer looped in as technical reviewer.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "Default discipline routing would keep this with the Plumbing/Fire Protection Engineer; this project's delegation letter pulls the owner's rep in whenever both cost and schedule are affected, regardless of discipline."
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+      "routing_rationale": "Default discipline routing: the Plumbing/Fire Protection Engineer resolves design clarifications affecting fire protection work.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

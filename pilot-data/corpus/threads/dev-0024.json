@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0024",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0024",
+  "date_submitted": "2025-08-07",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Discrepancy between Sheet C-101 and Utility Plan C-301 on the storm drainage inlet",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Gary Owusu",
+      "timestamp": "2025-08-07T15:31",
+      "message_type": "initial_question",
+      "text": "The storm drainage inlet shown in Sheet C-101 does not match the elevation called out in Utility Plan C-301 near Pour 3. No rush on this -- please respond when convenient. We do not expect this to affect the contract sum. This is not holding up any current site work. Let us know when you expect to have an answer on this."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-08-12T09:57",
+      "message_type": "response",
+      "text": "Use the elevation shown in Utility Plan C-301 for the storm drainage inlet at Pour 3; Sheet C-101 will be corrected by addendum. We do not expect this to affect the contract sum. This is not holding up any current site work."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Unforeseen existing condition - coordination conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "26 — Electrical",
+  "urgency": "Expedited (3 days)",
+  "question_summary": "Existing electrical conduit conflicts with new HVAC duct routing at Electrical Closet 2A; request direction to reroute and approve change order.",
+  "referenced_documents": ["Electrical Detail 2/E502", "Field log (2025-06-29)", "Routing sketch (attached)"],
+  "proposed_solution": "Reroute the existing conduit per the attached sketch to clear the new duct.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "Conflict requires approval of an electrical conduit reroute, which falls under the Electrical EOR with mechanical coordination.",
+  "escalation": false,
+  "confidence": 0.85
+}

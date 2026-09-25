@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Existing feeder in Electrical Closet 2A conflicts with new equipment pad; not shown on Sheet E-501. Guidance needed to resolve.",
+  "referenced_documents": ["Sheet E-501"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "This is an unforeseen field condition affecting electrical work, so it should be reviewed by the Electrical Engineer of record.",
+  "escalation": false,
+  "confidence": 0.88
+}

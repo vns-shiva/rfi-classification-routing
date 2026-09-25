@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0151",
+  "rfi_type": "Unforeseen field condition impacting ductwork routing",
+  "primary_discipline": "Mechanical (HVAC)",
+  "secondary_disciplines": [
+    "Architecture"
+  ],
+  "csi_division": "23 \u2014 Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "urgent",
+  "question_summary": "Requesting interim direction for rerouting/adjusting ductwork near T-1 due to an unforeseen ceiling height restriction so the crew can continue work.",
+  "referenced_documents": [],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the crew moving.",
+  "assigned_reviewer": "Mechanical Engineer of Record (HVAC)",
+  "routing_rationale": "The ductwork routing and clearance issue requires design direction from the Mechanical Engineer of Record with architectural coordination on ceiling heights.",
+  "escalation": true,
+  "confidence": 0.74,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0171",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "priority",
+  "question_summary": "Sprinkler head spacing in Lobby 101 conflicts with the ceiling grid layout and is not addressed on Detail 3/FP502; direction needed to resolve before next work sequence.",
+  "referenced_documents": [
+    "Fire Protection Detail 3/FP502",
+    "Attached sketch (reroute at Lobby 101)"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a field conflict impacting fire protection layout, it should be answered by the Fire Protection engineer of record.",
+  "escalation": false,
+  "confidence": 0.77,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

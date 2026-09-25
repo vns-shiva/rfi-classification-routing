@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0033",
+  "template_id": "t20_design_clarification_mechanical_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "design_clarification",
+    "primary_discipline": "Mechanical",
+    "urgency": "priority",
+    "cost_impact": true,
+    "schedule_impact": true,
+    "deadline_family": "business_days",
+    "adversarial": "none",
+    "thread_shape": "multi_turn_clarification"
+  },
+  "variant_index": 0,
+  "seed": 2186784621673734617,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0,
+    "clarification": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Northgate Mixed-Use Phase II",
+  "doc_a": "Mechanical Detail 4/M501",
+  "doc_b": "Mechanical Schedule M-601",
+  "date_submitted": "2025-08-09"
+}

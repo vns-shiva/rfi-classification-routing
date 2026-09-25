@@ -1,0 +1,24 @@
+{
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "Normal",
+  "question_summary": "Clarify which document governs the curtain wall corner mullion detail where A-601 schedule conflicts with Detail 5/A501 and the field mockup.",
+  "referenced_documents": [
+    "A-601 Door and Window Schedule",
+    "Detail 5/A501",
+    "Section 08 44 13 Curtain Wall",
+    "Curtain wall shop drawings",
+    "Field mockup"
+  ],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Conflict is between architectural schedule A-601 and architectural detail 5/A501 for curtain wall; AoR must confirm design intent and issue addendum.",
+  "escalation": false,
+  "confidence": 0.84
+}

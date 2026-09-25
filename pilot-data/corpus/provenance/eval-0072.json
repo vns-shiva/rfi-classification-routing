@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0072",
+  "template_id": "t21_field_condition_electrical_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "field_condition_conflict",
+    "primary_discipline": "Electrical",
+    "urgency": "priority",
+    "cost_impact": true,
+    "schedule_impact": false,
+    "deadline_family": "relative_days",
+    "adversarial": "none",
+    "thread_shape": "resubmittal"
+  },
+  "variant_index": 0,
+  "seed": 18146557292065888846,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0,
+    "resubmittal": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Riverside Medical Office Building",
+  "doc_a": "Electrical Detail 2/E502",
+  "doc_b": "Electrical Panel Schedule E-601",
+  "date_submitted": "2025-06-29"
+}

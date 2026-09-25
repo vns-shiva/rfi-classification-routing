@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0077",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Curtain wall corner mullion detail in Section 08 44 13 and shop drawings do not match what was built in the field mockup; confirm which condition/design governs before fabrication.",
+  "referenced_documents": [
+    "Section 08 44 13",
+    "Curtain wall corner mullion detail",
+    "Shop drawings",
+    "Field mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The curtain wall mullion detail is an architectural element and requires the Architect of Record to confirm design intent versus the field mockup.",
+  "escalation": false,
+  "confidence": 0.69,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

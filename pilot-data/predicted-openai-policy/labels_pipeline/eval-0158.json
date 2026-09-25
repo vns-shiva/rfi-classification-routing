@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0158",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Mechanical"
+  ],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Existing electrical conduit discovered in Room 214 conflicts with the new duct routing and is not shown on One-Line Diagram E-002; requesting direction to resolve the conflict.",
+  "referenced_documents": [
+    "One-Line Diagram E-002"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As a field condition conflict primarily involving existing electrical conduit and the electrical design documents, the Electrical Engineer is the appropriate design professional of record to direct resolution.",
+  "escalation": false,
+  "confidence": 0.76,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

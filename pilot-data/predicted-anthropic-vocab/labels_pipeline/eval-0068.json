@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0068",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Mismatch identified between One-Line Diagram E-002 and Electrical Detail 2/E502 regarding Section 26 05 33 conduit routing near LP-1; requested confirmation of which document governs before fabrication.",
+  "referenced_documents": [
+    "One-Line Diagram E-002",
+    "Electrical Detail 2/E502",
+    "Section 26 05 33"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "no rush on this -- please respond when convenient",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The discrepancy involves electrical conduit routing details governed by Section 26 05 33, requiring the Electrical Engineer to confirm which drawing controls.",
+  "escalation": false,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

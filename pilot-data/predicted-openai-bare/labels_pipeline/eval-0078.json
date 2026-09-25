@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0078",
+  "rfi_type": "Document coordination conflict (detail vs schedule)",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "normal",
+  "question_summary": "Clarify which governs for the Section 08 51 13 aluminum corner window frame condition\u2014Detail 5/A501, the Door and Window Schedule A-601, or the field mockup\u2014for shop drawing preparation.",
+  "referenced_documents": [
+    "Section 08 51 13",
+    "Detail 5/A501",
+    "Door and Window Schedule A-601",
+    "Field Mockup",
+    "Shop Drawings"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an architectural detail-versus-schedule conflict for aluminum windows that requires design direction and an addendum.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

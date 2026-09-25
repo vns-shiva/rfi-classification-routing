@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0200",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Discrepancy in the Section 26 05 33 conduit routing between Sheet E-501 and Electrical Panel Schedule E-601.",
+  "referenced_documents": [
+    "Sheet E-501",
+    "Electrical Panel Schedule E-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond before the electrical rough-in inspection.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "Default discipline routing: the Electrical Engineer resolves document discrepancies affecting electrical work.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

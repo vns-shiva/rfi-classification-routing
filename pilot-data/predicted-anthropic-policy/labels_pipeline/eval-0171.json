@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0171",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "urgent",
+  "question_summary": "Sprinkler head spacing conflicts with the ceiling grid layout at Lobby 101, a condition not shown on Fire Protection Detail 3/FP502, and is holding up work ahead of the next sequence.",
+  "referenced_documents": [
+    "Fire Protection Detail 3/FP502"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "This is a field condition conflict causing an active schedule impact with urgent priority, so per routing policy it is directed to the GC Superintendent for immediate field resolution.",
+  "escalation": true,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

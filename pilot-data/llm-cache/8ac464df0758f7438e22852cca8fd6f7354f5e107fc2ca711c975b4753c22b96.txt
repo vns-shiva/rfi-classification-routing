@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen ceiling height restriction at EF-4 is obstructing ductwork routing; guidance needed on a permanent reroute fix before the next work sequence.",
+  "referenced_documents": ["Attached sketch for reroute at EF-4"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "As a mechanical field condition affecting duct routing at EF-4 without schedule hold, it should be reviewed by the Mechanical Engineer of record.",
+  "escalation": false,
+  "confidence": 0.77
+}

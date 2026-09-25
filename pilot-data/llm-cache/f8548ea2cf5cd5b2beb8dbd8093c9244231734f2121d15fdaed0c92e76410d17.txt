@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Mechanical Detail 4/M501 conflicts with Mechanical Schedule M-601 regarding Section 23 07 00 piping insulation type at EF-4; clarification needed on which to follow.",
+  "referenced_documents": ["Mechanical Detail 4/M501", "Mechanical Schedule M-601", "Section 23 07 00", "EF-4"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The discrepancy is within mechanical drawings and specifications for insulation near EF-4, requiring the Mechanical Engineer’s direction.",
+  "escalation": false,
+  "confidence": 0.86
+}

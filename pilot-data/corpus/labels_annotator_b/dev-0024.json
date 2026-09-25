@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0024",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "32 00 00 (Exterior Improvements)",
+  "urgency": "routine",
+  "question_summary": "Storm drainage inlet elevation discrepancy between Sheet C-101 and Utility Plan C-301 near Pour 3 requires clarification on which elevation is correct.",
+  "referenced_documents": [
+    "Sheet C-101",
+    "Utility Plan C-301"
+  ],
+  "proposed_solution": "Use the elevation shown in Utility Plan C-301; Sheet C-101 to be corrected by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "Civil Engineer must resolve the utility/drainage elevation discrepancy between the two construction documents and issue corrective addendum.",
+  "escalation": false,
+  "confidence": 0.92,
+  "status": "open",
+  "annotator": "annotator_b",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

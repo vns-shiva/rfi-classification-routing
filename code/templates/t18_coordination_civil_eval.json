@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "template_id": "t18_coordination_civil_eval",
+  "pool": "eval",
+  "axes": {
+    "rfi_type": ["coordination_conflict"],
+    "primary_discipline": ["Civil"],
+    "urgency": ["routine", "priority"],
+    "cost_impact": [false, true],
+    "schedule_impact": [false, true],
+    "deadline_family": ["weekday"],
+    "adversarial": ["none", "distractor_cost_language"],
+    "thread_shape": ["resubmittal", "single_message"]
+  },
+  "csi_by_discipline": {
+    "Civil": "32 00 00 (Exterior Improvements)"
+  },
+  "secondary_by_adversarial": {
+    "none": [],
+    "distractor_cost_language": []
+  },
+  "slots": {
+    "civil_coordination_clash": [
+      "site utility trench conflicting with the proposed landscaping layout",
+      "grading plan conflicting with the storm drainage inlet location",
+      "retaining wall footing conflicting with the underground utility corridor",
+      "paving layout conflicting with the fire lane turning radius"
+    ]
+  },
+  "urgency_phrasing": {
+    "routine": [
+      "This is routine and can be worked into the normal submittal cycle.",
+      "No rush on this -- please respond when convenient."
+    ],
+    "priority": [
+      "We would like this closed out ahead of the next site work sequence.",
+      "This is becoming a priority as site work proceeds."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "There may be a cost impact if rework is required.",
+      "This could affect the contract sum depending on the resolution."
+    ],
+    "false": [
+      "No cost impact is anticipated.",
+      "We do not expect this to affect the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up site work in this area.",
+      "This could affect the site work schedule."
+    ],
+    "false": [
+      "This is not holding up any current site work.",
+      "No schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "weekday": [
+      "Please respond Thursday so we can keep the site crew moving.",
+      "A response Friday would be appreciated."
+    ]
+  },
+  "decoy_phrasing": [
+    "Note: the unrelated paving cost estimate circulated last week does not apply to this coordination item.",
+    "For context, the separate irrigation change order under review does not affect this clash.",
+    "This RFI is unrelated to the landscaping allowance reconciliation under separate cover."
+  ],
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Project Engineer", "Field Superintendent"],
+      "shapes": ["resubmittal", "single_message"],
+      "body_variants": [
+        "Coordination clash identified: {civil_coordination_clash} at {pour_or_area}, per {doc_a} vs {doc_b}. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase} {decoy_phrase}",
+        "The {civil_coordination_clash} at {pour_or_area} needs resolution before we can proceed. {urgency_phrase} {deadline_phrase} {decoy_phrase}",
+        "Please advise on resolving the {civil_coordination_clash} shown in the site plan at {pour_or_area}. {cost_phrase} {schedule_phrase} {decoy_phrase}",
+        "We have a site coordination clash: {civil_coordination_clash} at {pour_or_area}. {urgency_phrase} {cost_phrase} {decoy_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["resubmittal"],
+      "body_variants": [
+        "Revise per the attached site coordination sketch resolving the {civil_coordination_clash} at {pour_or_area}. {cost_phrase} {schedule_phrase}",
+        "Hold site work at {pour_or_area} pending a coordination sketch for the {civil_coordination_clash}.",
+        "Confirmed -- proceed per the coordination sketch for the {civil_coordination_clash} at {pour_or_area}. {schedule_phrase}"
+      ]
+    },
+    {
+      "message_type": "resubmittal",
+      "sender_role_pool": ["Project Engineer", "Field Superintendent"],
+      "shapes": ["resubmittal"],
+      "body_variants": [
+        "Resubmitting after coordination review: the {civil_coordination_clash} at {pour_or_area} is resolved per the attached sketch. {deadline_phrase}",
+        "Revised site plan attached reflecting resolution of the {civil_coordination_clash} at {pour_or_area}.",
+        "Coordination is now resolved -- {civil_coordination_clash} at {pour_or_area} is clash-free; requesting sign-off. {cost_phrase}"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "32 00 00 (Exterior Improvements)",
+    "question_summary_variants": [
+      "Site coordination clash: {civil_coordination_clash} at {pour_or_area}.",
+      "Conflict involving {civil_coordination_clash} at {pour_or_area}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend a coordination sketch resolving the {civil_coordination_clash}."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"cost_impact": true, "schedule_impact": true},
+      "assigned_reviewer": "Owner's Representative",
+      "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Civil Engineer looped in as technical reviewer.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "Default discipline routing would keep this with the Civil Engineer; this project's delegation letter pulls the owner's rep in whenever both cost and schedule are affected, regardless of discipline."
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Civil Engineer",
+      "routing_rationale": "Default discipline routing: the Civil Engineer resolves site coordination clashes affecting civil work.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

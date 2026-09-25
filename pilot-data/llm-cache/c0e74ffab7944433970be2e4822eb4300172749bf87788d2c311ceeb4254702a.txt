@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "priority",
+  "question_summary": "Sprinkler head spacing in Lobby 101 conflicts with ceiling grid layout; condition not shown on Detail 3/FP502; requesting direction to resolve and maintain clearances.",
+  "referenced_documents": ["Detail 3/FP502", "Attached sketch (reroute - Lobby 101)"],
+  "proposed_solution": "Reroute sprinkler to clear the conflict at Lobby 101 per the attached sketch and proceed once clearance is confirmed.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The issue concerns sprinkler head spacing and routing, which falls under fire protection design and coordination.",
+  "escalation": false,
+  "confidence": 0.86
+}

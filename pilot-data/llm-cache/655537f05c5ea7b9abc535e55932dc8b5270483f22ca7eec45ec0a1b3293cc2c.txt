@@ -1,0 +1,18 @@
+{
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "routine",
+  "question_summary": "Confirm whether Section 31 20 00 compaction density for structural fill under the building pad matches geotechnical report requirements shown on Grading Plan C-201.",
+  "referenced_documents": ["Section 31 20 00", "Grading Plan C-201", "Geotechnical Report", "Detail 6/C-601"],
+  "proposed_solution": "Detail 6/C-601 confirms the Section 31 20 00 compaction density for structural fill under the building pad per the geotechnical review; civil inspector can sign off as documented.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This concerns earthwork compaction criteria and civil drawings/details under Division 31, which are the Civil Engineer’s responsibility.",
+  "escalation": false,
+  "confidence": 0.9
+}

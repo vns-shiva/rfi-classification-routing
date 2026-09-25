@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "priority",
+  "question_summary": "Submitter requests confirmation of which governs—the shop drawings or the field mockup—for the Section 08 41 13 storefront glazing system at the entry vestibule, since they do not match and this is holding up fabrication.",
+  "referenced_documents": ["Section 08 41 13 storefront glazing shop drawings", "Field mockup (entry vestibule)"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "ahead of the next submittal deadline",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict concerns storefront glazing design intent versus field mockup, which falls under the Architect of Record's purview for Division 08 openings.",
+  "escalation": false,
+  "confidence": 0.85
+}

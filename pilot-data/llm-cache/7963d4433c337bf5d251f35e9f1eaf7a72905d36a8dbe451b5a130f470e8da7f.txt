@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Shop drawings for Section 08 41 13 storefront at entry vestibule do not match the field mockup; confirm which governs for fabrication.",
+  "referenced_documents": ["Section 08 41 13 Storefront Glazing", "Shop Drawings", "Field Mockup (Entry Vestibule)"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The issue concerns Architectural storefront openings and requires direction from the Architect of Record on which standard (mockup vs. shop drawings) governs.",
+  "escalation": false,
+  "confidence": 0.76
+}

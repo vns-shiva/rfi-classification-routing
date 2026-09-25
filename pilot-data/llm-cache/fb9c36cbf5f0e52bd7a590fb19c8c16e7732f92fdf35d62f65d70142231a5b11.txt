@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Shop drawings for Section 08 41 13 storefront at the entry vestibule do not match the field mockup; confirm which condition/details govern for fabrication.",
+  "referenced_documents": ["Section 08 41 13 – Storefront Glazing System", "Shop Drawings – Storefront Glazing at Entry Vestibule", "Field Mockup – Storefront Glazing at Entry Vestibule"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The Architect of Record is responsible for resolving architectural storefront system coordination and determining governing details.",
+  "escalation": false,
+  "confidence": 0.76
+}

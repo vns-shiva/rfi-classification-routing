@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0181",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "urgent",
+  "question_summary": "Sprinkler head spacing at Electrical Closet 2A conflicts with the ceiling grid layout; condition not shown on FP-501 and requires direction to clear the conflict so work can proceed.",
+  "referenced_documents": [
+    "FP-501 Fire Sprinkler Riser Diagram",
+    "PE sketch dated 2025-03-24"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "Conflict involves sprinkler head spacing and rerouting within the fire protection system, requiring FP engineering direction.",
+  "escalation": false,
+  "confidence": 0.74,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

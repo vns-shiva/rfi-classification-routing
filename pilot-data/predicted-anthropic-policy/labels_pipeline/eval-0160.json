@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0160",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Conflict between column baseplate reinforcement shown in Structural Detail 3/S502 and additional #5 ties noted in Foundation Plan S-101, needing resolution before scheduled pour.",
+  "referenced_documents": [
+    "Structural Detail 3/S502",
+    "Foundation Plan S-101"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within two business days ahead of the scheduled pour",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "This is a document discrepancy in the structural discipline, so it routes to the Structural Engineer of record.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-05-13",
+  "deadline_resolution_status": "resolved_to_date"
+}

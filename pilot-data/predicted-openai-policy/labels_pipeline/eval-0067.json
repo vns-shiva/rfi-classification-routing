@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0067",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Sheet A-301 and Door and Window Schedule A-601 for Section 08 71 00 interior door hardware set at the stair enclosure; confirm which document governs to proceed with fabrication and submittal.",
+  "referenced_documents": [
+    "Section 08 71 00",
+    "Sheet A-301",
+    "Door and Window Schedule A-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an architectural document conflict regarding door hardware, so it should be resolved by the Architect of Record.",
+  "escalation": true,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

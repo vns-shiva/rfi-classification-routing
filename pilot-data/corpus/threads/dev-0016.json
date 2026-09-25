@@ -1,0 +1,18 @@
+{
+  "thread_id": "dev-0016",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0016",
+  "date_submitted": "2025-08-29",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Conflicting head/jamb detail for the hollow metal door assembly at Gridline D/7 between",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-08-29T15:05",
+      "message_type": "initial_question",
+      "text": "The hollow metal door assembly detail at Gridline D/7 shown in Detail 5/A501 does not match the head condition called out in Sheet A-201. This is not time-critical; please respond at your convenience. No cost impact is anticipated either way. No schedule impact is expected. No specific response date is requested."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0198",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Conflicting information between Sheet A-201 and Sheet A-301 for the Section 08 51 13 aluminum corner window frame detail; confirm which detail governs for shop drawings versus field mockup.",
+  "referenced_documents": [
+    "Section 08 51 13",
+    "Sheet A-201",
+    "Sheet A-301"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is a conflict between architectural sheets for a window detail, which should be resolved by the Architect of Record and issued by addendum.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

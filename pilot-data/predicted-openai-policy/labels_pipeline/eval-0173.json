@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0173",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [
+    "Fire_Protection"
+  ],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "urgent",
+  "question_summary": "Existing sprinkler main conflicts with new HVAC duct routing at Electrical Closet 2A; request confirmation of scope/direction to proceed.",
+  "referenced_documents": [],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep the crew moving.",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "As an urgent field condition conflict impacting schedule, it is routed to the GC Superintendent for immediate field direction.",
+  "escalation": true,
+  "confidence": 0.74,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Shop drawings for the stair enclosure interior door hardware (08 71 00) do not match the field mockup and drawings; confirm which document governs (A-601 vs A-301) for the hardware set.",
+  "referenced_documents": ["Section 08 71 00 Interior Door Hardware", "Door and Window Schedule A-601", "Sheet A-301", "Field Mockup", "Shop Drawings"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an architectural document discrepancy involving door hardware and conflicting drawings, so it should be decided by the Architect of Record.",
+  "escalation": true,
+  "confidence": 0.86
+}

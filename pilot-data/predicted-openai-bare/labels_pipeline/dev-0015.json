@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0015",
+  "rfi_type": "Document discrepancy/conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "32 - Exterior Improvements",
+  "urgency": "urgent",
+  "question_summary": "Conflicting elevations for the site retaining wall at Placement Zone 2 between Grading Plan C-201 and Sheet C-101; confirm which elevation governs.",
+  "referenced_documents": [
+    "Grading Plan C-201",
+    "Sheet C-101"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "This is urgent -- please treat this as a top priority.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The issue concerns conflicting civil site plan elevations for the retaining wall, which the civil engineer must resolve and document via addendum.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

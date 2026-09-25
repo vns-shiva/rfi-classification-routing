@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0018",
+  "rfi_type": "Design Clarification/Conflict",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "Division 22 - Plumbing",
+  "urgency": "low",
+  "question_summary": "Detailer identified inconsistent detailing of the domestic water riser at Room 214 between Plumbing Fixture Schedule P-602 and Plumbing Detail 6/P503.",
+  "referenced_documents": [
+    "Plumbing Fixture Schedule P-602",
+    "Plumbing Detail 6/P503"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "no specific deadline for this, but a timely response is appreciated",
+  "assigned_reviewer": "Plumbing Engineer of Record",
+  "routing_rationale": "The discrepancy concerns plumbing riser detailing between a plumbing schedule and plumbing detail, requiring the plumbing engineer to confirm which document governs.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

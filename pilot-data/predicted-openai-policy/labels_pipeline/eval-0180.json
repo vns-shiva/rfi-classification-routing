@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0180",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen conflict at Lobby 101 where fire pump room required clearances interfere with new equipment layout; detail 3/FP502 does not show this condition and direction is needed to resolve without delaying adjacent work.",
+  "referenced_documents": [
+    "Fire Protection Detail 3/FP502",
+    "Inspection log (last month)",
+    "Attached sketch from M02 response"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a fire protection field conflict, the Plumbing/Fire Protection Engineer of record should provide resolution and approval.",
+  "escalation": true,
+  "confidence": 0.74,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

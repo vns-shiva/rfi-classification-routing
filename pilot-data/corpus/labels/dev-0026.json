@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0026",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "urgent",
+  "question_summary": "Unforeseen panel clearance obstruction at Electrical Closet 2A conflicting with One-Line Diagram E-002 and Electrical Panel Schedule E-601.",
+  "referenced_documents": [
+    "One-Line Diagram E-002",
+    "Electrical Panel Schedule E-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "by end of week",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "Default discipline routing: the Electrical Engineer resolves this field condition; urgent status escalates the review but does not change who owns it since there is no schedule impact.",
+  "escalation": true,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-05-02",
+  "deadline_resolution_status": "resolved_to_date"
+}

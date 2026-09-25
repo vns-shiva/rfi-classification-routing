@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "template_id": "t08_code_compliance_structural_aid_dev",
+  "pool": "dev",
+  "axes": {
+    "rfi_type": ["code_compliance_question"],
+    "primary_discipline": ["Structural"],
+    "urgency": ["routine", "priority"],
+    "cost_impact": [false],
+    "schedule_impact": [false],
+    "deadline_family": ["relative_days"],
+    "adversarial": ["answer_in_documents"],
+    "thread_shape": ["single_message", "two_message_qa"]
+  },
+  "csi_by_discipline": {
+    "Structural": "03 00 00 (Concrete)"
+  },
+  "secondary_by_adversarial": {
+    "answer_in_documents": []
+  },
+  "slots": {
+    "code_requirement": ["minimum reinforcing lap length for the shear wall assembly", "minimum embedment for the anchor rods cast into the footing", "concrete cover requirement at the footing"],
+    "spec_section": ["Section 03 30 00", "Section 03 20 00", "Section 03 15 00"],
+    "detail_ref": ["Detail 7/S301", "Detail 3/S303", "Detail 5/S401"]
+  },
+  "urgency_phrasing": {
+    "routine": [
+      "This is routine and can be worked into the normal submittal cycle.",
+      "No rush on this -- please respond when convenient."
+    ],
+    "priority": [
+      "We would like this closed out ahead of the next inspection.",
+      "This is becoming a priority as the affected work proceeds."
+    ]
+  },
+  "cost_phrasing": {
+    "false": [
+      "No cost impact is anticipated.",
+      "We do not expect this to affect the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "false": [
+      "This is not holding up any current work.",
+      "No schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "relative_days": [
+      "Please respond within five days so we can proceed with the inspection.",
+      "A response within three days would be appreciated."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Project Engineer", "Assistant Project Manager"],
+      "shapes": ["single_message", "two_message_qa"],
+      "body_variants": [
+        "Does the {code_requirement} shown in {doc_a} meet the code edition referenced in {spec_section}? {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase}",
+        "Please confirm the {code_requirement} at {gridline} complies with code -- we could not locate a direct statement in {doc_a}. {urgency_phrase} {deadline_phrase}",
+        "Can you confirm the {code_requirement} referenced in {detail_ref} satisfies the applicable code section in {spec_section}? {cost_phrase} {schedule_phrase}",
+        "We want to confirm the {code_requirement} noted at {gridline} is code-compliant per {spec_section}. {urgency_phrase} {cost_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa"],
+      "body_variants": [
+        "This is already addressed in {doc_a}; see {detail_ref}, which states the {code_requirement} directly. No further action needed.",
+        "Per {spec_section}, referenced directly in {doc_a}, the {code_requirement} is compliant as shown -- no revision required.",
+        "The {code_requirement} is called out explicitly in {doc_a} at {detail_ref}; the documents already answer this question."
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "03 00 00 (Concrete)",
+    "question_summary_variants": [
+      "Whether the {code_requirement} shown in {doc_a} meets the applicable code.",
+      "Confirmation requested on the {code_requirement} at {gridline} per {spec_section}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Per {doc_a} / {detail_ref}, the {code_requirement} already complies; no design change needed."
+    ],
+    "answer_in_documents": true
+  },
+  "gold_routing_table": [
+    {
+      "when": {},
+      "assigned_reviewer": "Code Official/AHJ Liaison",
+      "routing_rationale": "All code compliance questions route to the Code Official/AHJ Liaison regardless of discipline; the answer is already present in the referenced documents.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

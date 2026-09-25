@@ -1,0 +1,23 @@
+```json
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "priority",
+  "question_summary": "Domestic water riser detailing at Room 214 conflicts between Plumbing Fixture Schedule P-602 and Plumbing Detail 6/P503; clarification needed on which document governs the rough-in installation.",
+  "referenced_documents": [
+    "Plumbing Fixture Schedule P-602",
+    "Plumbing Detail 6/P503"
+  ],
+  "proposed_solution": "Locate the domestic water riser per Plumbing Detail 6/P503; disregard the conflicting note in Plumbing Fixture Schedule P-602.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The Plumbing/Fire Protection Engineer is responsible for resolving conflicts between plumbing construction documents and approving which detail governs installation before field rough-in proceeds.",
+  "escalation": false,
+  "confidence": 0.92
+}
+```

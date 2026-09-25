@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Confirm whether the contract detail or the field mockup governs for the Section 08 44 13 curtain wall corner mullion prior to shop drawing submission.",
+  "referenced_documents": ["Section 08 44 13 Curtain Wall Mullion Detail (Building Corner)", "Curtain Wall Shop Drawings", "Field Mockup"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The curtain wall mullion detail is an architectural openings item, and the Architect of Record must determine whether the mockup or the contract detail governs.",
+  "escalation": false,
+  "confidence": 0.74
+}

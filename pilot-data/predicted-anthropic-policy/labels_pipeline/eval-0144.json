@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0144",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Mismatch identified between conduit routing shown on Electrical Panel Schedule E-601 and Electrical Detail 2/E502 under Section 26 05 33; requesting confirmation of which document is correct prior to fabrication release.",
+  "referenced_documents": [
+    "Electrical Panel Schedule E-601",
+    "Electrical Detail 2/E502",
+    "Section 26 05 33"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "before the panel energization walkthrough",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As a document discrepancy in electrical conduit routing with no cost or urgent schedule impact, it routes to the Electrical Engineer, the design professional of record for this discipline.",
+  "escalation": false,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

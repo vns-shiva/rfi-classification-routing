@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "33 00 00",
+  "urgency": "priority",
+  "question_summary": "Retaining wall footing at Placement Zone 2 conflicts with the underground utility corridor as shown between Civil Detail 2/C501 and Sheet C-101; field team requests resolution to keep site work moving.",
+  "referenced_documents": ["Civil Detail 2/C501", "Sheet C-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the site crew moving.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The clash involves the underground utility corridor layout shown on civil drawings, making the Civil Engineer the appropriate party to confirm and finalize the coordination fix.",
+  "escalation": false,
+  "confidence": 0.78
+}

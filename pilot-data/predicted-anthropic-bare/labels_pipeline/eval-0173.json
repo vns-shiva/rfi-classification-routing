@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0173",
+  "rfi_type": "Field Conflict / Coordination",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [
+    "Fire Protection",
+    "Electrical"
+  ],
+  "csi_division": "Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "high",
+  "question_summary": "Field team reports a physical conflict between the existing sprinkler main and newly routed ductwork at Electrical Closet 2A, and is requesting direction on scope before continuing work, which is currently stopped.",
+  "referenced_documents": [],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Mechanical Engineer (HVAC) in coordination with Fire Protection Engineer",
+  "routing_rationale": "The conflict centers on new ductwork routing (mechanical scope) interfering with an existing fire protection sprinkler main, so the mechanical engineer should lead resolution with fire protection input.",
+  "escalation": false,
+  "confidence": 0.68,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-09-12",
+  "deadline_resolution_status": "resolved_to_date"
+}

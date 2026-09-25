@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Plumbing"],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen utility line beneath slab at Placement Zone 2 conflicts with planned work; contractor proposes a local layout shift and requests approval to proceed.",
+  "referenced_documents": ["Project Specifications Division 00", "Attached photos of Placement Zone 2"],
+  "proposed_solution": "Shift the layout locally and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "Civil Engineer is responsible for site/utilities and is best suited to evaluate and approve adjustments to address the unforeseen utility conflict under the slab.",
+  "escalation": false,
+  "confidence": 0.67
+}

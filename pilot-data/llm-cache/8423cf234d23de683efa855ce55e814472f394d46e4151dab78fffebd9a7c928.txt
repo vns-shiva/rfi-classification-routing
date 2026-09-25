@@ -1,0 +1,24 @@
+{
+  "rfi_type": "Document coordination/conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "normal",
+  "question_summary": "Confirm which document governs for the corner aluminum window frame condition where Detail 5/A501 conflicts with Door and Window Schedule A-601.",
+  "referenced_documents": [
+    "Section 08 51 13 Aluminum Windows",
+    "Detail 5/A501",
+    "Door and Window Schedule A-601",
+    "Shop Drawings",
+    "Field Mockup"
+  ],
+  "proposed_solution": "Detail 5/A501 governs for the corner window condition; reconcile Schedule A-601 by addendum.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Conflict between architectural detail and schedule for windows requires design direction and potential addendum by the Architect.",
+  "escalation": false,
+  "confidence": 0.84
+}

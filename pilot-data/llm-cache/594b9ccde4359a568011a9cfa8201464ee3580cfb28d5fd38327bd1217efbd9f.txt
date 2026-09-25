@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "routine",
+  "question_summary": "Shop drawings for the Section 08 44 13 curtain wall mullion detail at the building corner do not match the built field mockup; submitter requests confirmation of which condition governs before finalizing the shop drawing submittal.",
+  "referenced_documents": ["Section 08 44 13", "Sheet A-201", "Door and Window Schedule A-601", "Curtain wall shop drawings", "Field mockup"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As the design professional of record for architectural openings/curtain wall systems, the Architect of Record must resolve the discrepancy between the shop drawing, field mockup, and contract documents A-201/A-601.",
+  "escalation": false,
+  "confidence": 0.87
+}

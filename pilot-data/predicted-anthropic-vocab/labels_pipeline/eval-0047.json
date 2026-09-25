@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0047",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Fire_Protection"
+  ],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Shop drawings for the Section 08 71 00 interior door hardware set at the stair enclosure do not match the built field mockup; submitter asks which should govern before finalizing the submittal.",
+  "referenced_documents": [
+    "Section 08 71 00 interior door hardware set",
+    "field mockup",
+    "shop drawings"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Door hardware specification and shop drawing conflicts fall under the Architect of Record's responsibility for Division 08 openings coordination.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

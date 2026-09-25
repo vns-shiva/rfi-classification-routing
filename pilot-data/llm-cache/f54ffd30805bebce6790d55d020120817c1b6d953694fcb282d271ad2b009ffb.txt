@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "urgent",
+  "question_summary": "Crew encountered an undersized mechanical shaft in the corridor chase at T-1 that extends further than initially identified, and needs confirmation whether the original reroute direction still resolves the conflict.",
+  "referenced_documents": ["attached sketch", "field photos"],
+  "proposed_solution": "Reroute to clear the conflict at T-1 per the attached sketch; proceed once clearance is confirmed.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "This is a field condition conflict with confirmed cost and schedule impact and urgent status, so per policy it routes to the GC Superintendent to manage the active field issue.",
+  "escalation": true,
+  "confidence": 0.82
+}

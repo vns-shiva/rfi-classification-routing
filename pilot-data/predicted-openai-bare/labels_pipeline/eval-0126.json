@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0126",
+  "rfi_type": "Conflicting documents",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 - Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "high",
+  "question_summary": "Resolve conflict between Mechanical Detail 4/M501 and Schedule M-601 for Section 23 07 00 piping insulation at/near RTU-2 and confirm whether the direction to follow M-601 applies throughout the area, not only at RTU-2.",
+  "referenced_documents": [
+    "Section 23 07 00",
+    "Mechanical Detail 4/M501",
+    "Mechanical Schedule M-601"
+  ],
+  "proposed_solution": "Follow Mechanical Schedule M-601 for the insulation type; issue an addendum to reconcile Detail 4/M501.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "Design clarification is required to resolve a conflict between a mechanical detail and schedule and to confirm area-wide applicability, which is the MEOR\u2019s responsibility.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

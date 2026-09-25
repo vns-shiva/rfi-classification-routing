@@ -1,0 +1,30 @@
+{
+  "thread_id": "eval-0147",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "priority",
+  "question_summary": "Submitter asks whether the Section 31 20 00 compaction density requirement for structural fill under the building pad (Civil Detail 2/C501) matches the geotechnical report's requirements before backfill work proceeds.",
+  "referenced_documents": [
+    "Section 31 20 00",
+    "Civil Detail 2/C501",
+    "Geotechnical Report",
+    "Detail 6/C-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "Please respond within five days so we can schedule the civil inspection.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "As a document discrepancy concerning earthwork compaction requirements, it is routed to the Civil Engineer, the design professional of record for this discipline.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

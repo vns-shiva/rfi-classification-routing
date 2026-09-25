@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0046",
+  "rfi_type": "design conflict/clarification",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 - Concrete",
+  "urgency": "high",
+  "question_summary": "Conflict between column baseplate reinforcement shown on Foundation Plan S-101 and revised bar splice detail on Sheet S-301 needs resolution.",
+  "referenced_documents": [
+    "Foundation Plan S-101",
+    "Sheet S-301"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within one business day, if at all possible",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The conflict involves structural reinforcement and splice details, requiring the Structural EOR to confirm which detail governs.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-10-29",
+  "deadline_resolution_status": "resolved_to_date"
+}

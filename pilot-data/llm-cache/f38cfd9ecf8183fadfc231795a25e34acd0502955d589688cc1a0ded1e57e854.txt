@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Conflict/Discrepancy Resolution",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 - Concrete",
+  "urgency": "High",
+  "question_summary": "Conflict between Structural General Notes S-001 and Foundation Plan S-101 regarding shear wall reinforcement bar splice; which detail governs for the upcoming pour?",
+  "referenced_documents": ["Structural General Notes S-001", "Foundation Plan S-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within two business days ahead of the scheduled pour.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "Requires the Structural Engineer of Record to resolve conflicting reinforcement/splice details between structural notes and the foundation plan prior to concrete placement.",
+  "escalation": true,
+  "confidence": 0.86
+}

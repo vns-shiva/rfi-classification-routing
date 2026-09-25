@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0091",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Shop drawings for the stair enclosure interior door hardware conflict with the field mockup; confirm which condition governs for fabrication.",
+  "referenced_documents": [
+    "Section 08 71 00 Interior Door Hardware",
+    "Door Hardware Shop Drawings",
+    "Stair Enclosure Door Field Mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Door hardware scope and mockup/submittal coordination fall under architectural purview and the Architect must determine governing intent.",
+  "escalation": false,
+  "confidence": 0.77,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

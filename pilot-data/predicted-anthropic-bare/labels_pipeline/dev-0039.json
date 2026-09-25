@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0039",
+  "rfi_type": "Design Clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Curtain Wall/Glazing"
+  ],
+  "csi_division": "08 - Openings",
+  "urgency": "Low",
+  "question_summary": "Curtain wall head/jamb detail at Gridline C/4 in Detail 5/A501 conflicts with the head condition shown on Sheet A-201; submitter requests clarification on which detail governs.",
+  "referenced_documents": [
+    "Detail 5/A501",
+    "Sheet A-201"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Respond whenever convenient.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The discrepancy is between two architectural drawings governing curtain wall head/jamb conditions, so the Architect of Record must resolve which detail controls.",
+  "escalation": false,
+  "confidence": 0.75,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

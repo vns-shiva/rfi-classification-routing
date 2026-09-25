@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Mismatch between Sheet E-501 and Electrical Panel Schedule E-601 for Section 26 24 00 panel schedule circuit assignment near J-Box 4; confirm which governs prior to fabrication/energization.",
+  "referenced_documents": ["Section 26 24 00", "Sheet E-501", "Sheet E-601"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond before the panel energization walkthrough.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As an electrical document discrepancy between drawings E-501 and E-601, the Electrical Engineer of record should confirm the governing circuit assignment.",
+  "escalation": false,
+  "confidence": 0.86
+}

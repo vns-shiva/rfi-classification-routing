@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "priority",
+  "question_summary": "Submitter asks whether the shop drawings, Door and Window Schedule A-601, or the field-built mockup governs for the Section 08 71 00 interior door hardware set at the stair enclosure, since the documents and field condition do not match.",
+  "referenced_documents": ["Section 08 71 00", "Door and Window Schedule A-601", "Sheet A-301"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict concerns door hardware documentation (CSI 08 71 00) and schedule discrepancies between architectural drawings, which falls under the Architect of Record's authority to resolve.",
+  "escalation": false,
+  "confidence": 0.88
+}

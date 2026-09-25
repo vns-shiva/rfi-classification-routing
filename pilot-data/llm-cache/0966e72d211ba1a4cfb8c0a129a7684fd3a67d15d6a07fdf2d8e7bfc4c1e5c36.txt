@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "priority",
+  "question_summary": "Shop drawings for the Section 08 51 13 aluminum window frame corner detail do not match the built field mockup, and the submitter needs confirmation of which document governs before fabrication.",
+  "referenced_documents": ["Section 08 51 13", "Sheet A-301", "Sheet A-201"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict involves an architectural detail (Section 08 51 13 window framing) and requires the Architect of Record to determine which drawing governs and issue an addendum.",
+  "escalation": false,
+  "confidence": 0.88
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Mismatch in Section 26 05 33 conduit routing between Electrical Panel Schedule E-601 and Electrical Detail 2/E502; which governs for fabrication?",
+  "referenced_documents": ["Section 26 05 33", "Electrical Panel Schedule E-601", "Electrical Detail 2/E502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond before the panel energization walkthrough.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As this is a discrepancy within electrical documents, the Electrical Engineer should determine the governing conduit routing.",
+  "escalation": false,
+  "confidence": 0.9
+}

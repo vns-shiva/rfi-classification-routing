@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Detail discrepancy / document conflict",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": [],
+  "csi_division": "08 — Openings",
+  "urgency": "low",
+  "question_summary": "Detail 5/A501 for the hollow metal door at Gridline D/7 conflicts with the head condition shown on Sheet A-201; clarification is needed on the correct head/jamb detail.",
+  "referenced_documents": ["Detail 5/A501", "Sheet A-201"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No specific response date is requested.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Conflict is between architectural details for a door assembly, which falls under the Architect of Record’s scope to resolve.",
+  "escalation": false,
+  "confidence": 0.78
+}

@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0089",
+  "rfi_type": "existing conditions / unforeseen condition",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "05 00 00 - Metals",
+  "urgency": "high",
+  "question_summary": "Field team discovered deteriorated existing structural framing behind the finish wall near Lobby 101 and is requesting engineering sign-off on a proposed repair before proceeding, as nearby work and crew productivity are being held up.",
+  "referenced_documents": [
+    "General Conditions Article 3"
+  ],
+  "proposed_solution": "Field-proposed workaround for repairing/addressing the deteriorated structure at Lobby 101 (specific details not included in thread), pending field verification and sign-off.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "Deteriorated existing structural elements require assessment and sign-off from the Structural Engineer of Record before any permanent repair can proceed.",
+  "escalation": true,
+  "confidence": 0.6,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

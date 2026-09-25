@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "priority",
+  "question_summary": "Mechanical Detail 4/M501 and Sequence of Operations M-701 conflict on required equipment clearance near P-101 for Section 23 74 00 equipment, holding up installation; clarification requested on whether resolution applies area-wide.",
+  "referenced_documents": ["Mechanical Detail 4/M501", "Sequence of Operations M-701"],
+  "proposed_solution": "Follow Sequence of Operations M-701 for the clearance near P-101; an addendum will be issued to reconcile Detail 4/M501.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The conflict involves mechanical equipment clearance details and sequence of operations, requiring the Mechanical Engineer to reconcile the documents.",
+  "escalation": false,
+  "confidence": 0.82
+}

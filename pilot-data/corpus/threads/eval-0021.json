@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0021",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0021",
+  "date_submitted": "2025-04-06",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Conflicting document coordination on the Section 23 07 00 piping insulation type at EF-4",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Chris Boone",
+      "timestamp": "2025-04-06T14:53",
+      "message_type": "initial_question",
+      "text": "Coordination between Sequence of Operations M-701 and Mechanical Detail 4/M501 breaks down for the Section 23 07 00 piping insulation type near EF-4. This is becoming a priority as installation approaches. We do not expect this to affect the contract sum. This is holding up installation in this area. A response within three business days would be appreciated."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-04-11T08:17",
+      "message_type": "response",
+      "text": "Follow Mechanical Detail 4/M501 for the Section 23 07 00 piping insulation type near EF-4; we'll issue an addendum to reconcile Sequence of Operations M-701. We do not expect this to affect the contract sum. This is holding up installation in this area."
+    }
+  ]
+}

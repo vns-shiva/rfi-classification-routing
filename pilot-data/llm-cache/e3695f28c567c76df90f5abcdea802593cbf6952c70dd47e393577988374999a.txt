@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document coordination/clarification",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": ["Building Envelope/Waterproofing"],
+  "csi_division": "08 - Openings",
+  "urgency": "normal",
+  "question_summary": "Corner aluminum window detail shown in Section 08 51 13 and associated drawings conflicts with the field mockup; confirm which condition/detail governs for shop fabrication.",
+  "referenced_documents": ["Section 08 51 13 – Aluminum Windows", "Corner window detail", "Window shop drawings", "Field mockup"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The architect must resolve the design intent and detail conflict for the aluminum window corner condition and coordinate with the envelope requirements.",
+  "escalation": false,
+  "confidence": 0.69
+}

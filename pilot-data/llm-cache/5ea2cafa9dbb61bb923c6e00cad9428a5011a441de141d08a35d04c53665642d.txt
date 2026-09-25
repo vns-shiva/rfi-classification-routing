@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "urgent",
+  "question_summary": "Grading plan elevations conflict with the storm drainage inlet location at Pour Sequence 4 between Civil Detail 2/C501 and Utility Plan C-301; direction needed to reconcile.",
+  "referenced_documents": ["Civil Detail 2/C501", "Utility Plan C-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the site crew moving.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This is a discrepancy between civil grading and utility plan sheets and should be resolved by the Civil Engineer of record.",
+  "escalation": true,
+  "confidence": 0.78
+}

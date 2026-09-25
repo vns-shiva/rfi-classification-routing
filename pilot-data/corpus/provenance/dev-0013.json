@@ -1,0 +1,27 @@
+{
+  "thread_id": "dev-0013",
+  "template_id": "t10_design_clarification_fireprotection_dev",
+  "cell": {
+    "split": "dev",
+    "rfi_type": "design_clarification",
+    "primary_discipline": "Fire_Protection",
+    "urgency": "priority",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "none",
+    "adversarial": "none",
+    "thread_shape": "two_message_qa"
+  },
+  "variant_index": 0,
+  "seed": 7288193621476423885,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Riverside Medical Office Building",
+  "doc_a": "Fire Sprinkler Riser Diagram FP-501",
+  "doc_b": "Fire Protection Detail 3/FP502",
+  "date_submitted": "2025-09-08"
+}

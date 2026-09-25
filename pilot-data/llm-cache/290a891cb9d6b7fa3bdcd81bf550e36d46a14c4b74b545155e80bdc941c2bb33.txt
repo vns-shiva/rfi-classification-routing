@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Design Clarification",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": [],
+  "csi_division": "Division 21 - Fire Suppression",
+  "urgency": "Low",
+  "question_summary": "Detailer identified inconsistent detailing of the standpipe connection at Lobby 101 between Fire Sprinkler Riser Diagram FP-501 and Fire Protection Detail 3/FP502, requesting direction before releasing sprinkler shop drawings.",
+  "referenced_documents": ["FP-501", "3/FP502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "no hard deadline on this, but a timely response is appreciated",
+  "assigned_reviewer": "Project Engineer",
+  "routing_rationale": "The discrepancy is between fire protection drawings and requires design direction, which the Project Engineer resolved directly by designating the governing detail.",
+  "escalation": false,
+  "confidence": 0.9
+}

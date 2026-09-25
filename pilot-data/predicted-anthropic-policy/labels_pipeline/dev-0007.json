@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0007",
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Mechanical"
+  ],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Submitter requests confirmation that the egress width requirement stated in Division 00 specifications complies with the adopted code edition referenced in Section 23 05 00.",
+  "referenced_documents": [
+    "Project Specifications Division 00",
+    "Section 23 05 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Code Official/AHJ Liaison",
+  "routing_rationale": "Per policy, code compliance questions are routed to the Code Official/AHJ Liaison regardless of discipline.",
+  "escalation": false,
+  "confidence": 0.68,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

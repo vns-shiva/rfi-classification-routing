@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "Coordination/Clash",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Landscape"],
+  "csi_division": "Division 33 - Utilities",
+  "urgency": "high",
+  "question_summary": "Field superintendent identifies a conflict between the site utility trench routing shown on Utility Plan C-301 and the proposed landscaping layout on Sheet C-101 at Area C, requesting resolution before the next site work sequence proceeds.",
+  "referenced_documents": ["Utility Plan C-301", "Sheet C-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The clash centers on utility trench routing shown on the civil utility plan, so the civil engineer of record should lead resolution in coordination with the landscape architect.",
+  "escalation": true,
+  "confidence": 0.78
+}
+```

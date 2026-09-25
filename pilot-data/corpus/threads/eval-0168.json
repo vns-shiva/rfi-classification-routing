@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0168",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0168",
+  "date_submitted": "2025-04-05",
+  "submitted_by_role": "Assistant Project Manager",
+  "subject": "Confirmation requested on the Section 31 20 00 required compaction density for the",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Assistant Project Manager",
+      "sender_name": "Alicia Stone",
+      "timestamp": "2025-04-05T17:07",
+      "message_type": "initial_question",
+      "text": "At Pour 3, the geotechnical report doesn't clearly speak to the Section 31 20 00 required compaction density for the structural fill under the building pad -- can the civil inspector sign off on it as shown? No particular urgency here -- please review at your convenience. A response within three days would help us stay ahead of the compaction testing."
+    }
+  ]
+}

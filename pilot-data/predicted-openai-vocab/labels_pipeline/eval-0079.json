@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0079",
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "routine",
+  "question_summary": "Confirm whether the excavation shoring near the property line meets Section 31 50 00 setback requirements and can be accepted by the civil inspector at Pour 3.",
+  "referenced_documents": [
+    "Specification Section 31 50 00",
+    "Geotechnical Report"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can schedule the civil inspection.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The question concerns earthwork/shoring setback compliance per Division 31 and upcoming civil inspection, which falls under the Civil Engineer\u2019s scope.",
+  "escalation": false,
+  "confidence": 0.74,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

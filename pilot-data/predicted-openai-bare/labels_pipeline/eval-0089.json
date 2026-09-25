@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0089",
+  "rfi_type": "Existing condition/field conflict requiring direction",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "\u2014",
+  "urgency": "Medium \u2013 response requested next week to avoid idle crew",
+  "question_summary": "Contractor discovered deteriorated existing structure behind the finish wall at Lobby 101 and requests direction/sign-off on a permanent repair approach.",
+  "referenced_documents": [
+    "General Conditions Article 3"
+  ],
+  "proposed_solution": "Contractor proposed a workaround/repair for the deteriorated structure at Lobby 101 pending field verification for compliance with General Conditions Article 3.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The condition involves deterioration of an existing structural element requiring engineering evaluation and repair details by the Structural EOR.",
+  "escalation": false,
+  "confidence": 0.71,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

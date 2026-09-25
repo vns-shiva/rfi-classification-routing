@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0178",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0178",
+  "date_submitted": "2025-09-27",
+  "submitted_by_role": "Foreman",
+  "subject": "Unforeseen fire protection field condition: existing sprinkler main conflicting with the",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Luis Fernandez",
+      "timestamp": "2025-09-27T17:38",
+      "message_type": "initial_question",
+      "text": "Sprinkler crew found the existing sprinkler main conflicting with the new duct routing at Lobby 101; it's similar to the condition noted in last month's inspection log, but this one isn't shown on Fire Protection Sheet FP-101. This is becoming a priority as work proceeds nearby. No cost impact is anticipated for this condition. No broader schedule impact is expected. Please respond within five business days so we can keep the crew moving."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-10-02T14:33",
+      "message_type": "response",
+      "text": "Reroute to clear the conflict at Lobby 101 per the attached sketch; proceed once clearance is confirmed. No cost impact is anticipated for this condition."
+    }
+  ]
+}

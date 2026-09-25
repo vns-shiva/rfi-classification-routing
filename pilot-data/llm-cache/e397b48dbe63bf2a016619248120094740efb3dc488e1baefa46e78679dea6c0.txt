@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00",
+  "urgency": "priority",
+  "question_summary": "Field reports a conflict between column baseplate reinforcement on Sheet S-301 and a revised bar splice shown in Structural Detail 3/S502; after being told to follow the detail, the field team is now asking whether that direction applies to all baseplates on the level or only the one originally called out.",
+  "referenced_documents": ["Sheet S-301", "Structural Detail 3/S502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by Thursday, ahead of Friday's pour.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The discrepancy concerns column baseplate reinforcement and bar splice details, which falls squarely within the structural engineer's scope for verification and clarification.",
+  "escalation": true,
+  "confidence": 0.78
+}

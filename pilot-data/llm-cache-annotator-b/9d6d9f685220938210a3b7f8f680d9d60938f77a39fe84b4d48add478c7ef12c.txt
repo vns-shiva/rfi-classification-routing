@@ -1,0 +1,24 @@
+```json
+{
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00",
+  "urgency": "routine",
+  "question_summary": "Verification that the minimum reinforcing lap length for the shear wall assembly in Foundation Plan S-101 complies with the code edition referenced in Section 03 20 00.",
+  "referenced_documents": [
+    "Foundation Plan S-101",
+    "Detail 7/S301",
+    "Section 03 20 00"
+  ],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "within five days",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The Structural Engineer must verify code compliance for reinforcing lap lengths in shear wall design and confirm that the existing detail meets applicable building code requirements.",
+  "escalation": false,
+  "confidence": 0.92
+}
+```

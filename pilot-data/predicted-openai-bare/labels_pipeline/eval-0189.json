@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0189",
+  "rfi_type": "Substitution Request",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 \u2014 Plumbing",
+  "urgency": "High",
+  "question_summary": "Request approval to substitute ABS DWV piping in lieu of specified no-hub cast-iron soil piping per Spec 22 13 16 due to lead times.",
+  "referenced_documents": [
+    "Specification Section 22 13 16 \u2013 Sanitary Waste and Vent Piping"
+  ],
+  "proposed_solution": "Approve ABS DWV alternate in lieu of no-hub cast-iron soil piping.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by the end of the week so we can place the order.",
+  "assigned_reviewer": "Plumbing Engineer of Record",
+  "routing_rationale": "Material substitution for sanitary waste and vent piping per Spec 22 13 16 requires review by the Plumbing Engineer for equivalency and code compliance.",
+  "escalation": false,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

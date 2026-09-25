@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0149",
+  "rfi_type": "document coordination conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "General Contractor Coordination"
+  ],
+  "csi_division": "08 - Openings",
+  "urgency": "high",
+  "question_summary": "Submitter requests confirmation of which document governs for the Section 08 71 00 interior door hardware set at the stair enclosure, since the shop drawings about to be submitted do not match what is already built in the field mockup.",
+  "referenced_documents": [
+    "Section 08 71 00 Door Hardware Specification",
+    "Interior Door Hardware Shop Drawings",
+    "Field Mockup (stair enclosure)"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Door hardware sets and their conformance with design intent fall under the Architect's specification authority, making them the appropriate party to determine whether the mockup or shop drawings govern.",
+  "escalation": false,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

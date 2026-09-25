@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": ["Electrical"],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen existing electrical conduit in Room 214 conflicts with the new HVAC duct routing; not shown on One-Line Diagram E-002. Request direction on rerouting duct and/or addressing conduit.",
+  "referenced_documents": ["One-Line Diagram E-002", "Field Log 2025-10-06"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The conflict affects HVAC duct routing, which is under Mechanical design; ME should direct duct adjustments and coordinate with Electrical regarding the existing conduit.",
+  "escalation": false,
+  "confidence": 0.73
+}

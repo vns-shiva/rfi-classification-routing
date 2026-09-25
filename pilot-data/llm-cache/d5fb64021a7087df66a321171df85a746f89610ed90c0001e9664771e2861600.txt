@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "urgent",
+  "question_summary": "Foreman requests interim direction on an undersized mechanical shaft in the corridor chase near P-101, noting the condition may also affect an adjacent duct run.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The issue concerns an undersized mechanical shaft and duct routing conflict, which falls under mechanical engineering scope.",
+  "escalation": true,
+  "confidence": 0.75
+}

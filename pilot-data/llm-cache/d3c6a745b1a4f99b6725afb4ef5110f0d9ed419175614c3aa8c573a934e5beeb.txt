@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Design Discrepancy / Drawing Coordination",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 - Plumbing",
+  "urgency": "medium",
+  "question_summary": "Sanitary vent stack detailing at Room 214 differs between Plumbing Fixture Schedule P-602 and Plumbing Riser Diagram P-501, creating uncertainty for rough-in as work proceeds.",
+  "referenced_documents": ["Plumbing Fixture Schedule P-602", "Plumbing Riser Diagram P-501"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Plumbing Engineer of Record",
+  "routing_rationale": "The discrepancy is between two plumbing documents (fixture schedule and riser diagram), so the Plumbing Engineer of Record must reconcile and clarify the correct detail.",
+  "escalation": false,
+  "confidence": 0.85
+}

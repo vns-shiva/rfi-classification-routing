@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0136",
+  "rfi_type": "Coordination/Conflict Clarification",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [
+    "Controls/Building Automation"
+  ],
+  "csi_division": "23 - Heating, Ventilating, and Air Conditioning",
+  "urgency": "High",
+  "question_summary": "Resolve conflict between Detail 4/M501 and Sequence of Operations M-701 for Section 23 07 00 piping insulation near AHU-3 and confirm if the M-701 direction applies throughout the area, not just at AHU-3.",
+  "referenced_documents": [
+    "Section 23 07 00",
+    "Mechanical Detail 4/M501",
+    "Sequence of Operations M-701"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The issue is a Division 23 insulation conflict requiring design clarification and addendum issuance, best resolved by the Mechanical Engineer of Record in coordination with controls as needed.",
+  "escalation": false,
+  "confidence": 0.8,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

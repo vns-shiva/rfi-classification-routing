@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0131",
+  "rfi_type": "Unforeseen existing condition - utility conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Structural",
+    "MEP"
+  ],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "High",
+  "question_summary": "Conflicting existing utility line found beneath slab at Area C; requesting approval to locally shift layout and maintain rest per plan, and confirmation on change order handling to avoid delaying work.",
+  "referenced_documents": [
+    "Project Manual Section 01 00 00"
+  ],
+  "proposed_solution": "Shift the layout locally and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The conflict involves existing site utilities under the slab, which falls under the Civil scope for resolution and relocation design.",
+  "escalation": true,
+  "confidence": 0.79,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

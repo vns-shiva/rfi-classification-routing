@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "26 00 00",
+  "urgency": "routine",
+  "question_summary": "Existing electrical conduit at Room 214 was found conflicting with new duct routing, not shown on Electrical Detail 2/E502, requiring the circuit to be de-energized and locked out until a revised routing is issued.",
+  "referenced_documents": ["Electrical Detail 2/E502"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As a field condition conflict not meeting the urgent/critical + schedule threshold for GC routing, it defaults to the design professional of record for the primary discipline, Electrical.",
+  "escalation": true,
+  "confidence": 0.82
+}

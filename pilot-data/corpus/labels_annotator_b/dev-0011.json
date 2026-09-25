@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0011",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Curtain wall panel head/jamb detail at Gridline E/9 differs between Sheet A-201 and Sheet A-301; clarification needed for shop drawing sequencing.",
+  "referenced_documents": [
+    "Sheet A-201",
+    "Sheet A-301"
+  ],
+  "proposed_solution": "Use the condition shown in Sheet A-301; Sheet A-201 will be superseded by upcoming addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Respond whenever convenient",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Architectural drawing discrepancy requiring clarification of curtain wall detail hierarchy and confirmation of which sheet governs; Architect of Record must resolve conflicting documentation and confirm addendum status.",
+  "escalation": false,
+  "confidence": 0.92,
+  "status": "open",
+  "annotator": "annotator_b",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

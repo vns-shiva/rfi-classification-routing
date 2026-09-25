@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0127",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Discrepancy identified between Electrical Panel Schedule E-601 and Sheet E-501 regarding the Section 26 51 00 light fixture type; requested confirmation of which document governs before fabrication release.",
+  "referenced_documents": [
+    "Electrical Panel Schedule E-601",
+    "Sheet E-501",
+    "Section 26 51 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "at your earliest convenience",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "This is a document discrepancy within the Electrical discipline, so it is routed to the Electrical Engineer as the design professional of record.",
+  "escalation": false,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

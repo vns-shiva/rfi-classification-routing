@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0104",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Discrepancy in the Section 26 51 00 light fixture type between Electrical Detail 2/E502 and Sheet E-501.",
+  "referenced_documents": [
+    "Electrical Detail 2/E502",
+    "Sheet E-501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond at your earliest convenience.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "Default discipline routing: the Electrical Engineer resolves document discrepancies affecting electrical work.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

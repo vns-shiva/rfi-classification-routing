@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Mechanical Detail 4/M501 and Mechanical Schedule M-601 regarding Section 23 74 00 equipment clearance at RTU-2; requester needs direction on which governs.",
+  "referenced_documents": ["Mechanical Detail 4/M501", "Mechanical Schedule M-601", "Specification Section 23 74 00"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The issue is an HVAC clearance conflict between mechanical schedule and detail, requiring the Mechanical Engineer’s clarification and revision.",
+  "escalation": false,
+  "confidence": 0.86
+}

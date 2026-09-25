@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Fire_Protection"],
+  "csi_division": "32 00 00",
+  "urgency": "priority",
+  "question_summary": "Paving layout shown in Civil Detail 2/C501 conflicts with the fire lane turning radius depicted on Utility Plan C-301 at Pour Sequence 4, requiring resolution before the next site work sequence.",
+  "referenced_documents": ["Civil Detail 2/C501", "Utility Plan C-301", "Site coordination sketch"],
+  "proposed_solution": "Revise the paving layout per the attached site coordination sketch to resolve the conflict with the fire lane turning radius at Pour Sequence 4.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "As a coordination_conflict involving site paving and fire lane geometry, it is routed to the Civil Engineer as the design professional of record for the affected civil site plan.",
+  "escalation": false,
+  "confidence": 0.78
+}

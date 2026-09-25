@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Conflict/Clarification",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00",
+  "urgency": "High",
+  "question_summary": "Clarify which detail governs for column baseplate reinforcement where S-101 conflicts with S-001, and confirm if #6 dowels at 12\" o.c. apply to every column baseplate on this level.",
+  "referenced_documents": ["Foundation Plan S-101", "Structural General Notes S-001"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within two business days ahead of the scheduled pour.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The issue is a conflict between structural plan and general notes and requires the SER to confirm governing reinforcement and its applicability to all column baseplates.",
+  "escalation": false,
+  "confidence": 0.78
+}

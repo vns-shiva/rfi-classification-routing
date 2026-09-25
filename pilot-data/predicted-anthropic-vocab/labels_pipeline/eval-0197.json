@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0197",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "urgent",
+  "question_summary": "Reinforcement detail for slab-on-deck pour strip conflicts between Foundation Plan S-101 and Structural Detail 3/S502, with follow-up asking if the resolution applies to all pour strips on the level.",
+  "referenced_documents": [
+    "Foundation Plan S-101",
+    "Structural Detail 3/S502"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by Thursday, ahead of Friday's pour.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The conflict involves structural reinforcement details across foundation and structural drawings, requiring the Structural Engineer's authority to confirm scope of application.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

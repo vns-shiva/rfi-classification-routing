@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Code compliance clarification",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 20 00",
+  "urgency": "normal",
+  "question_summary": "Confirm whether the footing concrete cover shown in Structural Detail 3/S502 complies with the code edition referenced in Section 03 20 00.",
+  "referenced_documents": ["Structural Detail 3/S502", "Section 03 20 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The question concerns structural concrete cover compliance with the referenced code and specs, which is the Structural Engineer of Record’s responsibility to confirm.",
+  "escalation": false,
+  "confidence": 0.86
+}

@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0003",
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "priority",
+  "question_summary": "Submitter asks whether the civil inspector can approve the excavation shoring setback at Placement Zone 2 near the property line, since the geotechnical report does not clearly address the Section 31 50 00 setback requirement, before backfill and compaction testing proceed.",
+  "referenced_documents": [
+    "Section 31 50 00",
+    "Geotechnical Report"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The question concerns an excavation shoring setback requirement under Section 31 50 00, which falls under civil earthwork scope and requires the Civil Engineer's confirmation before inspector sign-off.",
+  "escalation": false,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

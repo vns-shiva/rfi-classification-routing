@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0054",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0054",
+  "date_submitted": "2025-05-11",
+  "submitted_by_role": "Assistant Project Manager",
+  "subject": "Document coordination conflict on the Section 08 41 13 storefront glazing system at the",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Assistant Project Manager",
+      "sender_name": "Alicia Stone",
+      "timestamp": "2025-05-11T11:42",
+      "message_type": "initial_question",
+      "text": "Shop drawings for the Section 08 41 13 storefront glazing system at the entry vestibule are ready to submit, but what's shown doesn't match what's built out in the field mockup -- can you confirm which governs? We would like this closed out ahead of the next submittal deadline. No cost impact is anticipated. No schedule impact is expected. There is no specific deadline for this, but a timely response is appreciated. This could go either way -- treat it as a design decision that needs direction, or as a documentation error that just needs correcting."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-05-14T07:33",
+      "message_type": "response",
+      "text": "Sheet A-301 is the condition to build to for the Section 08 41 13 storefront glazing system at the entry vestibule; we'll reconcile Detail 5/A501 by addendum. No cost impact is anticipated. No schedule impact is expected."
+    }
+  ]
+}

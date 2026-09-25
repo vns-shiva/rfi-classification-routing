@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "31 00 00",
+  "urgency": "routine",
+  "question_summary": "Submitter asks whether the Section 31 20 00 required compaction density for structural fill under the building pad (Sheet C-101) is consistent with the geotechnical report's requirements.",
+  "referenced_documents": ["Section 31 20 00", "Sheet C-101", "Geotechnical Report", "Detail 6/C-601"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "As a document consistency question about earthwork compaction requirements not tied to code compliance, substitution, or urgent field conflict, it is routed to the Civil Engineer as design professional of record for the earthwork discipline.",
+  "escalation": false,
+  "confidence": 0.82
+}

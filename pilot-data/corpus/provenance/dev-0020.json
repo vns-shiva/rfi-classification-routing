@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0020",
+  "template_id": "t01_design_clarification_dev",
+  "cell": {
+    "split": "dev",
+    "rfi_type": "design_clarification",
+    "primary_discipline": "Architectural",
+    "urgency": "priority",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "relative_days",
+    "adversarial": "none",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 305539397580000709,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Riverside Medical Office Building",
+  "doc_a": "Sheet A-301",
+  "doc_b": "Door and Window Schedule A-601",
+  "date_submitted": "2025-10-23"
+}

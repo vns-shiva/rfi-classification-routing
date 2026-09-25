@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0109",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Detailer identifies a conflict between Mechanical Detail 4/M501 and Sequence of Operations M-701 regarding equipment clearance near P-101, and asks whether the resolution applies throughout the area or only at P-101.",
+  "referenced_documents": [
+    "Mechanical Detail 4/M501",
+    "Sequence of Operations M-701"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "As a document_discrepancy in the Mechanical discipline with no cost impact triggering other rules, it is routed to the Mechanical Engineer as design professional of record.",
+  "escalation": false,
+  "confidence": 0.75,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

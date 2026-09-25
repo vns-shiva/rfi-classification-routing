@@ -1,0 +1,170 @@
+{
+  "corpus_dir": "pilot-data\\corpus",
+  "n_threads": 240,
+  "sections": {
+    "rule_inventory_and_reachability": {
+      "name": "rule_inventory_and_reachability",
+      "summary": {
+        "n_cells": 768,
+        "rule_fire_counts": {
+          "R4_discipline_default": 544,
+          "R3_field_condition_schedule_urgent": 32,
+          "R1_code_compliance": 128,
+          "R2_substitution_cost": 64
+        },
+        "unreachable_rules": [],
+        "n_reachable_reviewers": 9,
+        "reachable_reviewers": [
+          "Architect of Record",
+          "Civil Engineer",
+          "Code Official/AHJ Liaison",
+          "Cost/Change-Order Manager",
+          "Electrical Engineer",
+          "GC Superintendent",
+          "Mechanical Engineer",
+          "Plumbing/Fire Protection Engineer",
+          "Structural Engineer"
+        ]
+      },
+      "details": {
+        "reviewers_by_rule": {
+          "R1_code_compliance": [
+            "Code Official/AHJ Liaison"
+          ],
+          "R2_substitution_cost": [
+            "Cost/Change-Order Manager"
+          ],
+          "R3_field_condition_schedule_urgent": [
+            "GC Superintendent"
+          ],
+          "R4_discipline_default": [
+            "Architect of Record",
+            "Civil Engineer",
+            "Electrical Engineer",
+            "Mechanical Engineer",
+            "Plumbing/Fire Protection Engineer",
+            "Structural Engineer"
+          ]
+        }
+      }
+    },
+    "rule_hit_counts": {
+      "name": "rule_hit_counts",
+      "summary": {
+        "n_threads": 240,
+        "rule_fire_counts": {
+          "R4_discipline_default": 203,
+          "R1_code_compliance": 22,
+          "R2_substitution_cost": 5,
+          "R3_field_condition_schedule_urgent": 10
+        }
+      },
+      "details": {
+        "rule_fire_counts_by_rfi_type": {
+          "field_condition_conflict": {
+            "R4_discipline_default": 45,
+            "R3_field_condition_schedule_urgent": 10
+          },
+          "document_discrepancy": {
+            "R4_discipline_default": 20
+          },
+          "design_clarification": {
+            "R4_discipline_default": 98
+          },
+          "code_compliance_question": {
+            "R1_code_compliance": 22
+          },
+          "substitution_request": {
+            "R4_discipline_default": 15,
+            "R2_substitution_cost": 5
+          },
+          "coordination_conflict": {
+            "R4_discipline_default": 25
+          }
+        }
+      }
+    },
+    "escalation_consistency": {
+      "name": "escalation_consistency",
+      "summary": {
+        "n_threads": 240,
+        "n_match": 240,
+        "n_mismatch": 0,
+        "match_rate": 1.0
+      },
+      "details": {
+        "mismatches": []
+      }
+    },
+    "rule_contribution": {
+      "name": "rule_contribution",
+      "summary": {
+        "n_threads": 240,
+        "min_rule_support": 10
+      },
+      "details": {
+        "per_rule": {
+          "R1_code_compliance": {
+            "n_support": 22,
+            "n_changed_if_removed": 22,
+            "n_unroutable_if_removed": 0,
+            "meets_min_support": true
+          },
+          "R2_substitution_cost": {
+            "n_support": 5,
+            "n_changed_if_removed": 5,
+            "n_unroutable_if_removed": 0,
+            "meets_min_support": false
+          },
+          "R3_field_condition_schedule_urgent": {
+            "n_support": 10,
+            "n_changed_if_removed": 10,
+            "n_unroutable_if_removed": 0,
+            "meets_min_support": true
+          },
+          "R4_discipline_default": {
+            "n_support": 203,
+            "n_changed_if_removed": 203,
+            "n_unroutable_if_removed": 203,
+            "meets_min_support": true
+          }
+        }
+      }
+    },
+    "divergence_census": {
+      "name": "divergence_census",
+      "summary": {
+        "n_threads": 240,
+        "n_unresolvable": 0,
+        "n_agrees_with_policy": 208,
+        "n_diverges_from_policy": 32,
+        "policy_agreement_rate": 0.8666666666666667,
+        "n_template_declares_divergence": 32,
+        "n_consistent_with_template_flag": 240,
+        "n_false_positive": 0,
+        "n_missed": 0
+      },
+      "details": {}
+    },
+    "gate_interaction": {
+      "name": "gate_interaction",
+      "summary": {
+        "n_threads": 240,
+        "n_flagged": 71,
+        "n_flagged_for_escalation": 71,
+        "n_escalated": 71,
+        "n_escalated_and_flagged": 71,
+        "escalated_but_not_flagged": 0
+      },
+      "details": {
+        "flagged_rule_counts": {
+          "R4_discipline_default": 60,
+          "R3_field_condition_schedule_urgent": 10,
+          "R1_code_compliance": 1
+        }
+      }
+    }
+  },
+  "divergence_cases": [],
+  "strict_failures": []
+}

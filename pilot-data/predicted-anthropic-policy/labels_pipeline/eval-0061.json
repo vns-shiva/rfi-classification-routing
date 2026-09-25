@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0061",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Shop drawings for the curtain wall corner mullion detail (Section 08 44 13) conflict with the built field mockup; submitter asks which governs before proceeding with fabrication.",
+  "referenced_documents": [
+    "Section 08 44 13",
+    "Sheet A-201",
+    "Detail 5/A501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As a document discrepancy in an architectural detail (curtain wall mullion), it is routed to the Architect of Record who is responsible for resolving conflicting design documents.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

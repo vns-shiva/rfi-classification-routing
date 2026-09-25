@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "priority",
+  "question_summary": "Mechanical Detail 4/M501 and Sequence of Operations M-701 specify conflicting piping insulation types for Section 23 07 00 near AHU-3, and installation is being held up pending clarification on which document governs and whether the direction applies beyond the AHU-3 condition.",
+  "referenced_documents": ["Mechanical Detail 4/M501", "Sequence of Operations M-701"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "As a document discrepancy within mechanical scope with no cost impact or urgent field-driven schedule escalation, it is routed to the Mechanical Engineer as design professional of record.",
+  "escalation": false,
+  "confidence": 0.78
+}

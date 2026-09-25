@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0028",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0028",
+  "date_submitted": "2025-06-03",
+  "submitted_by_role": "Foreman",
+  "subject": "Direction requested on existing wall condition inconsistent with the drawings near",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Bobby Kern",
+      "timestamp": "2025-06-03T07:54",
+      "message_type": "initial_question",
+      "text": "We found the existing wall condition inconsistent with the drawings near Electrical Closet 2A and need your sign-off before we commit to a permanent fix. We would like this resolved ahead of the next work sequence. A response next week would still let us stay on track."
+    }
+  ]
+}

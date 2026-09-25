@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0094",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Confirm correct receptacle mounting height due to mismatch between Sheet E-501 and Panel Schedule E-601 for Section 26 27 26.",
+  "referenced_documents": [
+    "Section 26 27 26",
+    "Sheet E-501",
+    "Sheet E-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond at your earliest convenience.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As an Electrical document discrepancy, it should be resolved by the Electrical Engineer of record.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

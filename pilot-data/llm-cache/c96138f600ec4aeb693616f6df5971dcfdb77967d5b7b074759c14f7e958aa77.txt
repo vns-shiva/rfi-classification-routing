@@ -1,0 +1,18 @@
+{
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Fire_Protection"],
+  "csi_division": "07 00 00 (Thermal and Moisture Protection)",
+  "urgency": "priority",
+  "question_summary": "Confirm whether the specified fire-rated assembly listing complies with the adopted code edition referenced in Section 03 30 00.",
+  "referenced_documents": ["Project Specifications Division 00", "Section 03 30 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The Architect of Record is responsible for code compliance of assemblies and specification intent and can confirm conformance of the listed fire-rated assembly with the adopted code.",
+  "escalation": false,
+  "confidence": 0.64
+}

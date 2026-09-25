@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0021",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "urgent",
+  "question_summary": "Unforeseen conduit routing conflict at Lobby 101 conflicting with Electrical Detail 2/E502 and One-Line Diagram E-002.",
+  "referenced_documents": [
+    "Electrical Detail 2/E502",
+    "One-Line Diagram E-002"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "by end of day",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "Field condition conflicts that are both urgent and schedule-impacting route directly to the GC Superintendent for immediate field resolution, unless the delegation-of-authority letter already pulled this to the Owner's Representative for a simultaneous cost impact.",
+  "escalation": true,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-03-06",
+  "deadline_resolution_status": "resolved_to_date"
+}

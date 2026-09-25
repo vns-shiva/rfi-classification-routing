@@ -1,0 +1,18 @@
+{
+  "thread_id": "dev-0003",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0003",
+  "date_submitted": "2025-04-17",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Inconsistent detailing of the sprinkler branch line at Mechanical Room 3B between Fire",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Wendy Sato",
+      "timestamp": "2025-04-17T11:07",
+      "message_type": "initial_question",
+      "text": "The sprinkler branch line shown in Fire Alarm Riser Diagram FA-501 at Mechanical Room 3B isn't detailed consistently with Fire Protection Sheet FP-101 -- need direction before we release the sprinkler shop drawings. This is becoming a priority as sprinkler rough-in proceeds toward the fire marshal walkthrough. There may be a cost impact if repiping or additional fittings are required. This could affect the fire marshal walkthrough schedule. There's no hard deadline on this, but a timely response is appreciated."
+    }
+  ]
+}

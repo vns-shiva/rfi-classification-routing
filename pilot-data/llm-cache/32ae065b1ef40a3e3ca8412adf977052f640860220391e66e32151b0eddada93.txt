@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Drawing conflict/clarification",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 - Concrete",
+  "urgency": "High",
+  "question_summary": "Conflict between Structural Detail 3/S502 and Foundation Plan S-101 regarding additional #5 ties at column baseplate reinforcement; which governs?",
+  "referenced_documents": ["Structural Detail 3/S502", "Foundation Plan S-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within two business days ahead of the scheduled pour.",
+  "assigned_reviewer": "Structural Engineer of Record (SER)",
+  "routing_rationale": "This is a structural reinforcement conflict requiring confirmation of governing detail by the structural engineer.",
+  "escalation": false,
+  "confidence": 0.86
+}

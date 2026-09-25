@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0146",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Conflict between Electrical Detail 2/E502 and Electrical Panel Schedule E-601 for Section 26 51 00 light fixture type near LP-1; confirm which governs prior to fabrication.",
+  "referenced_documents": [
+    "Section 26 51 00",
+    "Detail 2/E502",
+    "Panel Schedule E-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "before the electrical rough-in inspection.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As an electrical document discrepancy, it should be resolved by the Electrical Engineer of record.",
+  "escalation": false,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

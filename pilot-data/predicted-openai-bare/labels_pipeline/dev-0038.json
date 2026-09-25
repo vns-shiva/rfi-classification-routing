@@ -1,0 +1,29 @@
+{
+  "thread_id": "dev-0038",
+  "rfi_type": "Coordination conflict/clarification",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "Mechanical",
+    "Architectural"
+  ],
+  "csi_division": "03 \u2014 Concrete",
+  "urgency": "high",
+  "question_summary": "Direction needed on location/layout of the cast-in anchor bolt group at Gridline E/9 due to conflict between Foundation Plan S-101 and Sheet S-301, and whether to revise per S-301 or await a revised sheet to proceed with steel fabrication.",
+  "referenced_documents": [
+    "S-101",
+    "S-301"
+  ],
+  "proposed_solution": "Revise the cast-in anchor bolt group per Sheet S-301 and coordinate final dimensions with affected trades before fabrication.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "We need this resolved before the next steel erection mobilization.",
+  "assigned_reviewer": "Structural Engineer of Record (SER)",
+  "routing_rationale": "The SER must resolve conflicting structural documents and provide final direction on anchor bolt placement impacting foundations and steel.",
+  "escalation": true,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "priority",
+  "question_summary": "Shop drawings for the Section 08 41 13 entry vestibule storefront glazing system do not match the built field mockup; submitter requests confirmation of which document governs prior to fabrication.",
+  "referenced_documents": ["Section 08 41 13 storefront glazing shop drawings", "field mockup"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "a timely response is appreciated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As a document discrepancy involving architectural glazing details, it is routed to the Architect of Record who holds design authority over Division 08 openings documentation.",
+  "escalation": false,
+  "confidence": 0.82
+}

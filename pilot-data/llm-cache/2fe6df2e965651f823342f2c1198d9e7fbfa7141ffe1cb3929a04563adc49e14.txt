@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document conflict/clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "normal",
+  "question_summary": "Confirm which governs for the building corner curtain wall mullion detail—field mockup versus shop drawings/contract detail—due to a coordination conflict.",
+  "referenced_documents": ["Section 08 44 13 Specifications", "Contract Drawings – Curtain wall mullion detail at building corner", "Curtain wall shop drawings", "Field mockup documentation"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The curtain wall detail and conformance between mockup, shop drawings, and contract documents fall under the Architect of Record’s authority for design intent and document coordination.",
+  "escalation": false,
+  "confidence": 0.74
+}

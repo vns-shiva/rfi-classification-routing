@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0040",
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Electrical"
+  ],
+  "csi_division": "07 00 00 (Thermal and Moisture Protection)",
+  "urgency": "priority",
+  "question_summary": "Submitter asks whether the occupancy separation rating specified in Project Manual Section 01 00 00 complies with the adopted code edition cited in Section 26 05 00, or whether it reflects design intent rather than a strict code requirement.",
+  "referenced_documents": [
+    "Project Manual Section 01 00 00",
+    "Section 26 05 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Occupancy separation ratings are a life-safety/code compliance matter governed by the architectural life safety plans, making the Architect of Record the appropriate first reviewer.",
+  "escalation": false,
+  "confidence": 0.62,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

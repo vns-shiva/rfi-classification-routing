@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0065",
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Conflicting document coordination on the Section 23 31 00 ductwork routing at T-1.",
+  "referenced_documents": [
+    "Sequence of Operations M-701",
+    "Sheet M-401"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within three business days",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "Default discipline routing: the Mechanical Engineer resolves design clarifications affecting mechanical work.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-07-02",
+  "deadline_resolution_status": "resolved_to_date"
+}

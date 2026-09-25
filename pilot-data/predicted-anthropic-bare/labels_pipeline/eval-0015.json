@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0015",
+  "rfi_type": "specification clarification",
+  "primary_discipline": "civil/geotechnical",
+  "secondary_disciplines": [
+    "structural"
+  ],
+  "csi_division": "31 00 00 \u2013 Earthwork",
+  "urgency": "low",
+  "question_summary": "Submitter asks whether the geotechnical report adequately establishes the Section 31 20 00 required compaction density for structural fill under the building pad at Placement Zone 2, and whether the civil inspector can sign off as shown.",
+  "referenced_documents": [
+    "Section 31 20 00",
+    "Geotechnical Report"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Geotechnical Engineer of Record",
+  "routing_rationale": "The question concerns compaction density requirements for structural fill, which falls under the geotechnical engineer's scope of the earthwork specification.",
+  "escalation": false,
+  "confidence": 0.75,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

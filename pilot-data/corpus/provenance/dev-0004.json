@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0004",
+  "template_id": "t05_field_condition_electrical_dev",
+  "cell": {
+    "split": "dev",
+    "rfi_type": "field_condition_conflict",
+    "primary_discipline": "Electrical",
+    "urgency": "priority",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "none",
+    "adversarial": "boundary_urgency",
+    "thread_shape": "multi_turn_clarification"
+  },
+  "variant_index": 0,
+  "seed": 10614720270055752663,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0,
+    "clarification": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Northgate Mixed-Use Phase II",
+  "doc_a": "Electrical Panel Schedule E-601",
+  "doc_b": "Sheet E-501",
+  "date_submitted": "2025-05-20"
+}

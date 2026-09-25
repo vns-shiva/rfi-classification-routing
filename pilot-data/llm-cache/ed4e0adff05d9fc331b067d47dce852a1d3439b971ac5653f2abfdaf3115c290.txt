@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document Coordination Conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Glazing/Curtainwall"],
+  "csi_division": "08 - Openings",
+  "urgency": "medium",
+  "question_summary": "Shop drawings for the Section 08 41 13 storefront glazing system at the entry vestibule do not match the built field mockup; submitter requests confirmation of which governs prior to submittal.",
+  "referenced_documents": ["Section 08 41 13 Storefront Glazing Specification", "Storefront Glazing Shop Drawings", "Field Mockup"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "no specific deadline for this, but a timely response is appreciated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As the discrepancy involves storefront glazing design intent versus field-built conditions, the Architect of Record must confirm which document governs.",
+  "escalation": false,
+  "confidence": 0.7
+}

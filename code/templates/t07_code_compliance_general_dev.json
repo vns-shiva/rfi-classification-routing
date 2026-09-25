@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "template_id": "t07_code_compliance_general_dev",
+  "pool": "dev",
+  "axes": {
+    "rfi_type": ["code_compliance_question"],
+    "primary_discipline": ["General"],
+    "urgency": ["priority", "urgent"],
+    "cost_impact": [false, true],
+    "schedule_impact": [false, true],
+    "deadline_family": ["none"],
+    "adversarial": ["type_ambiguity"],
+    "thread_shape": ["single_message", "two_message_qa"]
+  },
+  "csi_by_discipline": {
+    "General": "—"
+  },
+  "secondary_by_adversarial": {
+    "type_ambiguity": []
+  },
+  "slots": {
+    "code_topic": ["egress width requirement", "fire-rated assembly listing", "accessible route slope", "occupancy separation rating"]
+  },
+  "urgency_phrasing": {
+    "priority": [
+      "We would like this reviewed ahead of the next inspection.",
+      "This is becoming a priority as the affected work proceeds."
+    ],
+    "urgent": [
+      "This is urgent -- the inspector flagged this on site today.",
+      "This needs immediate attention -- please prioritize a response."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "There may be a cost impact if rework is required to satisfy code.",
+      "This could affect the contract sum depending on the resolution."
+    ],
+    "false": [
+      "No cost impact is anticipated.",
+      "We do not expect this to affect the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up the inspection in this area.",
+      "This could affect the certificate of occupancy schedule."
+    ],
+    "false": [
+      "This is not holding up any current work.",
+      "No schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "none": [
+      "There is no specific deadline for this, but a timely response is appreciated.",
+      "No hard deadline, just would like to keep this moving."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Project Engineer", "Assistant Project Manager"],
+      "shapes": ["single_message", "two_message_qa"],
+      "body_variants": [
+        "We need confirmation on whether the {code_topic} shown in {doc_a} complies with the adopted code edition referenced in {spec_section}, though this may simply come down to what the design intended rather than a strict code reading. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase}",
+        "Please confirm the {code_topic} condition at {room_name} meets code -- {doc_a} and {doc_b} appear to conflict on this point, and it is not clear whether that is a code issue or just how the design was intended to work. {urgency_phrase} {deadline_phrase}",
+        "It is not clear whether this is asking us to interpret the design intent or confirm code applicability for the {code_topic}; please confirm applicability per {spec_section}. {cost_phrase} {schedule_phrase}",
+        "The inspector questioned the {code_topic} at {room_name}; please confirm whether this needs a code ruling or just documentation clarifying our original intent per {spec_section}. {urgency_phrase} {cost_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa"],
+      "body_variants": [
+        "Confirmed compliant per {spec_section}; no code issue with the {code_topic} as detailed in {doc_a}. {cost_phrase}",
+        "The {code_topic} as shown does not meet {spec_section}; revise per the attached code analysis. {schedule_phrase}",
+        "AHJ has been consulted -- the {code_topic} at {room_name} is acceptable as shown in {doc_b}. {cost_phrase} {schedule_phrase}"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "—",
+    "question_summary_variants": [
+      "Whether the {code_topic} shown in {doc_a} complies with the adopted code.",
+      "Code compliance question regarding the {code_topic} at {room_name}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend confirming with the AHJ and documenting the response in the project record."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"urgency": "urgent"},
+      "assigned_reviewer": "Code Official/AHJ Liaison",
+      "routing_rationale": "All code compliance questions route to the Code Official/AHJ Liaison regardless of discipline; urgent status escalates the review.",
+      "escalation": true,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    },
+    {
+      "when": {"cost_impact": true, "schedule_impact": true},
+      "assigned_reviewer": "Code Official/AHJ Liaison",
+      "routing_rationale": "All code compliance questions route to the Code Official/AHJ Liaison regardless of discipline; simultaneous cost and schedule impact escalates the review.",
+      "escalation": true,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Code Official/AHJ Liaison",
+      "routing_rationale": "All code compliance questions route to the Code Official/AHJ Liaison regardless of discipline.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

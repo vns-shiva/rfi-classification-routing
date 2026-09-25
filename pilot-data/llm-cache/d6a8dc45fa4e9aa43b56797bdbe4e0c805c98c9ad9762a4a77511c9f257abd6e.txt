@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Plumbing", "Structural"],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "urgent",
+  "question_summary": "Unforeseen existing utility line discovered beneath slab area at Pour 3; requesting approval to locally shift the layout and keep all else per plan.",
+  "referenced_documents": ["General Conditions Article 3"],
+  "proposed_solution": "Shift the layout locally around the conflicting utility and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "Conflict involves an unforeseen utility under slab and required layout adjustment within site/utilities scope, which is the Civil Engineer’s purview.",
+  "escalation": false,
+  "confidence": 0.66
+}

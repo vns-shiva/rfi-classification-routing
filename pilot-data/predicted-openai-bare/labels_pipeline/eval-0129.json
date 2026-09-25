@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0129",
+  "rfi_type": "Unforeseen field condition (MEP clash)",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Mechanical (HVAC)"
+  ],
+  "csi_division": "26 \u2014 Electrical",
+  "urgency": "Medium \u2013 3 days requested",
+  "question_summary": "Existing electrical conduit in Room 214 conflicts with the new duct routing not shown in Detail 2/E502; request approval/direction for rerouting, now proposed per attached sketch.",
+  "referenced_documents": [
+    "Electrical Detail 2/E502",
+    "Attached routing sketch \u2013 Room 214"
+  ],
+  "proposed_solution": "Reroute the existing conduit per the attached sketch resolving the conflict with the new duct at Room 214.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer of Record (EOR)",
+  "routing_rationale": "Electrical EOR must approve modifications to existing conduit routing and coordinate with HVAC duct layout.",
+  "escalation": false,
+  "confidence": 0.83,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

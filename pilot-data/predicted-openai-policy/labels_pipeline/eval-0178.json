@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0178",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Mechanical"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "priority",
+  "question_summary": "Existing sprinkler main conflicts with new duct routing at Lobby 101, not shown on FP-101; request direction to resolve/reroute.",
+  "referenced_documents": [
+    "Fire Protection Sheet FP-101",
+    "Last month's inspection log",
+    "Attached reroute sketch for Lobby 101"
+  ],
+  "proposed_solution": "Reroute to clear the conflict at Lobby 101 per the attached sketch; proceed once clearance is confirmed. No cost impact is anticipated.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep the crew moving.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a field condition conflict involving the sprinkler main, it should be resolved by the Fire Protection engineer of record.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

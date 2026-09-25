@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0034",
+  "rfi_type": "Coordination Clash",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Fire Protection"
+  ],
+  "csi_division": "Division 32 - Exterior Improvements",
+  "urgency": "Low",
+  "question_summary": "Field super identified a conflict between the paving layout at Placement Zone 2 (Sheet C-101) and the fire lane turning radius shown on Utility Plan C-301, requesting resolution.",
+  "referenced_documents": [
+    "Sheet C-101",
+    "Utility Plan C-301",
+    "Site coordination sketch"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The clash centers on paving/site layout versus fire lane turning radius, a civil site design coordination issue best resolved by the Civil Engineer of Record in coordination with fire protection requirements.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

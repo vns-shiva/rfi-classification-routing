@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0031",
+  "rfi_type": "Document coordination/clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "normal",
+  "question_summary": "Conflict between Detail 5/A501 and Sheet A-301 for Section 08 44 13 curtain wall corner mullion; confirm which detail governs for shop drawings and mockup.",
+  "referenced_documents": [
+    "Detail 5/A501",
+    "Sheet A-301",
+    "Specification Section 08 44 13"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "We would like this closed out ahead of the next submittal deadline.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an architectural drawing coordination issue for the curtain wall detail that requires the Architect to confirm governing detail and issue an addendum.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

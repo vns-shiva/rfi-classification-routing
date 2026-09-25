@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Confirm which light fixture type per Section 26 51 00 is correct near XFMR-2 due to mismatch between Sheet E-501 and Electrical Detail 2/E502.",
+  "referenced_documents": ["Sheet E-501", "Electrical Detail 2/E502", "Section 26 51 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "respond when convenient",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "This concerns a discrepancy between electrical drawings/specs for light fixtures, which falls under the Electrical Engineer’s purview.",
+  "escalation": false,
+  "confidence": 0.9
+}

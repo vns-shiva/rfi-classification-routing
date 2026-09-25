@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural", "Plumbing"],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen utility line found beneath Area C slab; contractor requests approval to locally shift layout and keep remaining work per plan.",
+  "referenced_documents": ["Project Manual Section 01 00 00"],
+  "proposed_solution": "Shift the layout locally and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "Conflict involves an existing utility under the slab and proposed reroute, which is primarily a civil/utilities scope decision requiring civil engineering review with coordination to structural and plumbing as needed.",
+  "escalation": false,
+  "confidence": 0.76
+}

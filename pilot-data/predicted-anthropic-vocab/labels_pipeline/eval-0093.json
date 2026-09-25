@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0093",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Mechanical",
+    "General"
+  ],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "urgent",
+  "question_summary": "Foreman requests sign-off on a proposed workaround for an unforeseen underground obstruction discovered near Mechanical Room 3B before committing to a permanent fix, with crew work stalling nearby.",
+  "referenced_documents": [
+    "General Conditions Article 3"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The issue involves an unforeseen underground obstruction requiring civil engineering evaluation and sign-off before proceeding with a permanent fix.",
+  "escalation": true,
+  "confidence": 0.62,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

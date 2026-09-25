@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0092",
+  "rfi_type": "Unforeseen field condition",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "Division 26 - Electrical",
+  "urgency": "high",
+  "question_summary": "Existing panel location at Electrical Closet 2A conflicts with new wall framing, which is not reflected in One-Line Diagram E-002; circuit was de-energized and locked out pending resolution, with a revised sketch later confirming resolution.",
+  "referenced_documents": [
+    "One-Line Diagram E-002",
+    "Revised routing sketch (panel relocation)"
+  ],
+  "proposed_solution": "Resubmittal confirms the conflict is resolved per the attached revised sketch showing the corrected panel routing/location.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The issue involves a physical conflict between an electrical panel and building framing that requires engineering sign-off on a revised electrical routing, making the Electrical Engineer of Record the appropriate reviewer.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

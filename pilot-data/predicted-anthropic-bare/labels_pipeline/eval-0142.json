@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0142",
+  "rfi_type": "Design Clash / Coordination",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "Division 31 - Earthwork",
+  "urgency": "high",
+  "question_summary": "Retaining wall footing at Pour 3 conflicts with underground utility corridor per Civil Detail 2/C501 versus Sheet C-101; resolution needed to keep site work progressing.",
+  "referenced_documents": [
+    "Civil Detail 2/C501",
+    "Sheet C-101"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The clash centers on utility corridor routing shown on the civil site plan, so the Civil Engineer of Record should resolve the conflict in coordination with structural for footing adjustments.",
+  "escalation": false,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

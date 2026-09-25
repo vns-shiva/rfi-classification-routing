@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Sheet E-501 and Electrical Panel Schedule E-601 for Section 26 24 00 panel schedule circuit assignments near J-Box 4; which document governs for fabrication and rough-in?",
+  "referenced_documents": ["Sheet E-501", "Electrical Panel Schedule E-601"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond before the panel energization walkthrough.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The discrepancy is between electrical drawings/panel schedules and needs the Electrical Engineer of Record to confirm the governing document and issue an update.",
+  "escalation": false,
+  "confidence": 0.86
+}

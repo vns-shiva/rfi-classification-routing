@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0017",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Curtain wall panel head/jamb detail at Gridline B/2 on Sheet A-301 does not match the head condition detail 5/A501; clarification requested on which detail governs.",
+  "referenced_documents": [
+    "Sheet A-301",
+    "Detail 5/A501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The discrepancy involves curtain wall head/jamb detailing, an architectural envelope element governed by Division 08 documents, so it is routed to the Architect of Record.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

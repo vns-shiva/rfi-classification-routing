@@ -1,0 +1,18 @@
+{
+  "rfi_type": "unforeseen field condition",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "Division 21 - Fire Suppression",
+  "urgency": "high",
+  "question_summary": "Sprinkler crew discovered that sprinkler head spacing conflicts with the ceiling grid layout at Lobby 101; this condition is similar to one noted in a prior inspection but is not depicted on Fire Protection Detail 3/FP502, and resolution is needed before the next work sequence.",
+  "referenced_documents": ["Fire Protection Detail 3/FP502", "prior month's inspection log"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Project Engineer",
+  "routing_rationale": "The issue is a fire protection layout conflict requiring coordination with ceiling/architectural elements, so it was routed to the Project Engineer who already issued a reroute sketch resolving the field conflict.",
+  "escalation": false,
+  "confidence": 0.83
+}

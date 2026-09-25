@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Coordination conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Electrical", "Plumbing", "Mechanical"],
+  "csi_division": "03 - Concrete",
+  "urgency": "high",
+  "question_summary": "Resolve clash at Gridline D/7 where the concrete grade beam conflicts with the underground electrical duct bank, the plumbing sanitary main, and the mechanical condensate drain; request a coordination sketch to allow fabrication release.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three weeks would be appreciated.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The conflict centers on the concrete grade beam geometry/elevation, requiring structural direction and a coordination sketch in consultation with MEP trades.",
+  "escalation": false,
+  "confidence": 0.79
+}

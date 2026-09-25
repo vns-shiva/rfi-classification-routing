@@ -1,0 +1,18 @@
+{
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "priority",
+  "question_summary": "Request clarification on required setback for excavation shoring near property line per Section 31 50 00 and whether the civil inspector can approve it as shown, since the geotechnical report is unclear.",
+  "referenced_documents": ["Spec Section 31 50 00 Excavation Support and Protection", "Geotechnical Report"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This is a clarification of an earthwork/shoring setback requirement under Division 31, which is under the Civil Engineer’s scope to confirm and coordinate with inspection.",
+  "escalation": false,
+  "confidence": 0.68
+}

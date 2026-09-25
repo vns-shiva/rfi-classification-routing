@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0114",
+  "rfi_type": "Conflict in documents",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 - Concrete",
+  "urgency": "High",
+  "question_summary": "Conflict between Structural General Notes S-001 and Detail 3/S502 on shear wall reinforcement (#6 dowels at 12\" o.c.); confirm whether the 3/S502 requirement applies to all shear walls on this level.",
+  "referenced_documents": [
+    "Structural General Notes S-001",
+    "Structural Detail 3/S502"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "We need a response within one business day, if at all possible.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The issue is a structural reinforcement conflict and requires the EOR to confirm applicability across all shear walls.",
+  "escalation": true,
+  "confidence": 0.84,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

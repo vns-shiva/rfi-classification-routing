@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Design clarification",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26",
+  "urgency": "normal",
+  "question_summary": "Confirm the correct Section 26 05 33 conduit routing due to a mismatch between Electrical Panel Schedule E-601 and Electrical Detail 2/E502 prior to fabrication.",
+  "referenced_documents": ["Section 26 05 33", "Electrical Panel Schedule E-601", "Electrical Detail 2/E502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "before the panel energization walkthrough.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The discrepancy is between electrical drawings and schedule, requiring the Electrical EOR to determine the governing conduit routing.",
+  "escalation": false,
+  "confidence": 0.86
+}

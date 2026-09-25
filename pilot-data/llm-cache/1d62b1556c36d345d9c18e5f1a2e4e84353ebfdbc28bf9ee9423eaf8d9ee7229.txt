@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Field coordination conflict (unforeseen condition)",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": ["Architecture", "Mechanical"],
+  "csi_division": "21 - Fire Suppression",
+  "urgency": "High",
+  "question_summary": "Fire pump room clearance conflicts with new equipment layout at Lobby 101; condition not shown on Detail 3/FP502. Request direction to resolve to keep work progressing.",
+  "referenced_documents": ["Fire Protection Detail 3/FP502", "Inspection log (last month)", "Attached sketch (reroute at Lobby 101)"],
+  "proposed_solution": "Reroute to clear the conflict at Lobby 101 per the attached sketch; proceed once clearance is confirmed.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days",
+  "assigned_reviewer": "Fire Protection Engineer of Record",
+  "routing_rationale": "This is a fire protection clearance conflict requiring design approval for rerouting in and adjacent to the fire pump room.",
+  "escalation": true,
+  "confidence": 0.78
+}

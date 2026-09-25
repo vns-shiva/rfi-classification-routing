@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0060",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "routine",
+  "question_summary": "Retaining wall footing at Placement Zone 2 conflicts with an underground utility corridor per Utility Plan C-301 vs Sheet C-101; requests resolution before next site work sequence.",
+  "referenced_documents": [
+    "Utility Plan C-301",
+    "Sheet C-101",
+    "site coordination sketch"
+  ],
+  "proposed_solution": "Revise per the attached site coordination sketch resolving the retaining wall footing conflict with the underground utility corridor at Placement Zone 2.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "As a coordination_conflict involving utility corridor routing versus structural footing placement, it is routed to the Civil Engineer, the design professional of record for the primary discipline.",
+  "escalation": false,
+  "confidence": 0.8,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

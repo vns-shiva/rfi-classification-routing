@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "template_id": "t21_field_condition_electrical_eval",
+  "pool": "eval",
+  "axes": {
+    "rfi_type": ["field_condition_conflict"],
+    "primary_discipline": ["Electrical"],
+    "urgency": ["routine", "priority"],
+    "cost_impact": [false, true],
+    "schedule_impact": [false, true],
+    "deadline_family": ["relative_days"],
+    "adversarial": ["none"],
+    "thread_shape": ["single_message", "resubmittal"]
+  },
+  "csi_by_discipline": {
+    "Electrical": "26 00 00 (Electrical)"
+  },
+  "secondary_by_adversarial": {
+    "none": []
+  },
+  "slots": {
+    "electrical_field_condition": [
+      "existing conduit conflicting with the new duct routing",
+      "panel location conflicting with the new wall framing",
+      "existing feeder conflicting with the new equipment pad",
+      "junction box location conflicting with the ceiling grid layout"
+    ]
+  },
+  "urgency_phrasing": {
+    "routine": [
+      "This is routine and can be worked into the normal schedule.",
+      "No rush on this -- please respond when convenient."
+    ],
+    "priority": [
+      "We would like this resolved ahead of the next work sequence.",
+      "This is becoming a priority as work proceeds nearby."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "There will be a cost impact to address this condition.",
+      "This condition will require a change order."
+    ],
+    "false": [
+      "No cost impact is anticipated for this condition.",
+      "We do not expect this to affect the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up work in this area.",
+      "This could affect the overall schedule."
+    ],
+    "false": [
+      "This is not holding up other work currently.",
+      "No broader schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "relative_days": [
+      "Please respond within five days so we can proceed.",
+      "A response within three days would be appreciated."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Field Superintendent", "Foreman"],
+      "shapes": ["single_message", "resubmittal"],
+      "body_variants": [
+        "We de-energized the circuit and logged the {electrical_field_condition} at {room_name} in today's field log; this isn't reflected in {doc_a}. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase}",
+        "For safety we've locked out the circuit near {room_name} pending resolution of the {electrical_field_condition}. {urgency_phrase} {deadline_phrase}",
+        "Electrical crew has paused rough-in at {room_name}, breaker de-energized as a precaution, because of the {electrical_field_condition}; please advise when convenient. {cost_phrase} {schedule_phrase}",
+        "We need direction on the {electrical_field_condition} at {room_name} before we re-energize and continue rough-in. {urgency_phrase} {cost_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["resubmittal"],
+      "body_variants": [
+        "Keep the circuit locked out at {room_name} -- we'll send a revised routing sketch for the {electrical_field_condition} once engineering signs off. {cost_phrase}",
+        "Hold {room_name} de-energized until we've reviewed the {electrical_field_condition}; a sketch showing the corrected layout will follow.",
+        "We're preparing a sketch to resolve the {electrical_field_condition} at {room_name} -- keep the crew off that circuit until you receive it. {schedule_phrase}"
+      ]
+    },
+    {
+      "message_type": "resubmittal",
+      "sender_role_pool": ["Field Superintendent", "Foreman"],
+      "shapes": ["resubmittal"],
+      "body_variants": [
+        "Resubmitting after field verification: the {electrical_field_condition} at {room_name} is resolved per the attached sketch. {deadline_phrase}",
+        "Revised layout attached reflecting resolution of the {electrical_field_condition} at {room_name}.",
+        "Field verification complete -- the {electrical_field_condition} at {room_name} is now resolved; requesting sign-off. {cost_phrase}"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "26 00 00 (Electrical)",
+    "question_summary_variants": [
+      "Unforeseen electrical field condition: {electrical_field_condition} at {room_name}.",
+      "Electrical field condition requiring direction: {electrical_field_condition} at {room_name}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend a change order and corrected layout to address {electrical_field_condition}."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"cost_impact": true, "schedule_impact": true},
+      "assigned_reviewer": "Owner's Representative",
+      "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Electrical Engineer looped in as technical reviewer.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "Default discipline routing would keep this with the Electrical Engineer; this project's delegation letter pulls the owner's rep in whenever both cost and schedule are affected, regardless of discipline."
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Electrical Engineer",
+      "routing_rationale": "Default discipline routing: the Electrical Engineer resolves field conditions affecting electrical work.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

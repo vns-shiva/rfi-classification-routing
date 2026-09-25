@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Electrical", "Plumbing", "Mechanical"],
+  "csi_division": "03 00 00",
+  "urgency": "critical",
+  "question_summary": "Concrete grade beam at Gridline D/7 clashes with underground electrical duct bank, plumbing sanitary main, and mechanical condensate drain routing; resolution needed before fabrication release.",
+  "referenced_documents": [],
+  "proposed_solution": "Hold fabrication release at Gridline D/7 pending a coordination sketch.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three weeks would be appreciated.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The grade beam is the structural element in conflict and its redesign must be coordinated with the other trades, making the Structural Engineer the appropriate lead reviewer.",
+  "escalation": true,
+  "confidence": 0.78
+}

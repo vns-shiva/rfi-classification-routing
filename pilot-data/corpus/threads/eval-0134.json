@@ -1,0 +1,34 @@
+{
+  "thread_id": "eval-0134",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0134",
+  "date_submitted": "2025-04-02",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Unforeseen field condition: conflicting utility line beneath the slab area at Placement",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Tom Reilly",
+      "timestamp": "2025-04-02T16:21",
+      "message_type": "initial_question",
+      "text": "We found the conflicting utility line beneath the slab area at Placement Zone 2; see Project Specifications Division 00 for the assumed condition. Our proposal is to shift the layout locally and hold everything else per plan -- let us know if that works or if you need to review first. We would like this resolved ahead of the next work sequence. This condition will require a change order. No broader schedule impact is expected. Please respond this week so we can keep the crew moving."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-04-03T13:32",
+      "message_type": "response",
+      "text": "We'll need photos and measurements of the conflicting utility line beneath the slab area at Placement Zone 2 before we can evaluate the workaround. This condition will require a change order."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Tom Reilly",
+      "timestamp": "2025-04-05T09:12",
+      "message_type": "clarification",
+      "text": "Attached photos show that the condition at Placement Zone 2 is more extensive than first reported; our workaround proposal still holds otherwise. Please respond this week so we can keep the crew moving."
+    }
+  ]
+}

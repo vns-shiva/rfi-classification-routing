@@ -1,0 +1,18 @@
+{
+  "rfi_type": "substitution_request",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "priority",
+  "question_summary": "Request approval to substitute ABS DWV piping in lieu of specified no-hub cast-iron soil piping per Spec Section 22 13 16, with no anticipated cost or schedule impact, to allow ordering.",
+  "referenced_documents": ["Section 22 13 16"],
+  "proposed_solution": "Use ABS DWV system as an alternate to the specified no-hub cast-iron soil piping.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by the end of the week so we can place the order.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a plumbing material substitution, it requires the Plumbing/Fire Protection Engineer to verify code compliance and performance equivalency.",
+  "escalation": false,
+  "confidence": 0.86
+}

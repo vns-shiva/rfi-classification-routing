@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "priority",
+  "question_summary": "Conflict between Sequence of Operations M-701 and Mechanical Detail 4/M501 regarding the required equipment clearance at P-101 under Section 23 74 00 is blocking installation.",
+  "referenced_documents": ["Sequence of Operations M-701", "Mechanical Detail 4/M501", "Section 23 74 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": true,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "As a document discrepancy involving mechanical equipment clearance details, it is routed to the Mechanical Engineer of record for resolution.",
+  "escalation": false,
+  "confidence": 0.82
+}

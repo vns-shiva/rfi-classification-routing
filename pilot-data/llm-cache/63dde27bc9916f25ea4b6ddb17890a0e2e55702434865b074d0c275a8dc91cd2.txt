@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Coordination conflict / Clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Fire Protection"],
+  "csi_division": "08 - Openings",
+  "urgency": "Medium",
+  "question_summary": "Confirm whether the shop drawings or the built field mockup governs for the Section 08 71 00 interior door hardware set at the stair enclosure.",
+  "referenced_documents": ["Section 08 71 00 - Door Hardware", "Shop Drawings - Interior Door Hardware Set (Stair Enclosure)", "Field Mockup - Stair Enclosure Door"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Door hardware specifications and life-safety compliance for stair enclosures are under architectural purview, requiring the Architect of Record to resolve the conflict between shop drawings and the field mockup.",
+  "escalation": false,
+  "confidence": 0.73
+}

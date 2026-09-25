@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Mechanical Detail 4/M501 and Mechanical Schedule M-601 for Section 23 31 00 ductwork routing near P-101; clarify which governs.",
+  "referenced_documents": ["Mechanical Detail 4/M501", "Mechanical Schedule M-601", "Section 23 31 00", "Location near P-101"],
+  "proposed_solution": "Follow Mechanical Schedule M-601 for duct routing near P-101; issue an addendum to reconcile Mechanical Detail 4/M501.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The discrepancy is between mechanical drawings and schedule for ductwork routing, which the Mechanical Engineer must resolve and formalize via addendum.",
+  "escalation": false,
+  "confidence": 0.86
+}

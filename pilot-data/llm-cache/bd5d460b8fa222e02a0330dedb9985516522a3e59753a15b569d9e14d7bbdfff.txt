@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Field Condition / Unforeseen Condition",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 - Electrical",
+  "urgency": "high",
+  "question_summary": "Field team found a panel clearance obstruction at Electrical Closet 2A not shown on the One-Line Diagram (E-002) or Panel Schedule (E-601); after a reroute sketch was provided, foreman asks whether the One-Line Diagram must be formally revised to reflect the change.",
+  "referenced_documents": ["E-002 One-Line Diagram", "E-601 Electrical Panel Schedule", "Reroute sketch (attached to M02)"],
+  "proposed_solution": "Reroute per the attached sketch to clear the panel clearance obstruction.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by end of week so we can plan the rough-in sequence.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The issue concerns panel clearance and one-line diagram accuracy, which falls squarely under the Electrical Engineer of Record's responsibility for electrical system design documentation.",
+  "escalation": false,
+  "confidence": 0.78
+}

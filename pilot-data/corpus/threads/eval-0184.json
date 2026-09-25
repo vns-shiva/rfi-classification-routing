@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0184",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0184",
+  "date_submitted": "2025-03-30",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Confirmation requested on the Section 31 23 00 minimum cover requirement for the",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-03-30T17:39",
+      "message_type": "initial_question",
+      "text": "At Placement Zone 2, the geotechnical report doesn't clearly speak to the Section 31 23 00 minimum cover requirement for the underground utility trench backfill -- can the civil inspector sign off on it as shown? This is becoming more pressing as backfill work approaches. A response within three days would help us stay ahead of the compaction testing."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-04-03T15:32",
+      "message_type": "response",
+      "text": "The compaction and cover requirements are satisfied as shown in Grading Plan C-201; no design change is needed for the Section 31 23 00 minimum cover requirement for the underground utility trench backfill."
+    }
+  ]
+}

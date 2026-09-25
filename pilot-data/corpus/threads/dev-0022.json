@@ -1,0 +1,18 @@
+{
+  "thread_id": "dev-0022",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0022",
+  "date_submitted": "2025-10-23",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Whether the concrete cover requirement at the footing shown in Structural Detail 3/S502",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-10-23T13:30",
+      "message_type": "initial_question",
+      "text": "Does the concrete cover requirement at the footing shown in Structural Detail 3/S502 meet the code edition referenced in Section 03 20 00? This is routine and can be worked into the normal submittal cycle. No cost impact is anticipated. No schedule impact is expected. A response within three days would be appreciated."
+    }
+  ]
+}

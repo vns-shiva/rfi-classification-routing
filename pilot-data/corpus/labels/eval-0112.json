@@ -1,0 +1,23 @@
+{
+  "thread_id": "eval-0112",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "critical",
+  "question_summary": "Direction requested on undersized mechanical shaft in the corridor chase near P-101.",
+  "referenced_documents": [],
+  "proposed_solution": "Recommend a change order and revised routing sketch to address undersized mechanical shaft in the corridor chase.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Friday",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "Critical urgency without a schedule impact still escalates directly to the Mechanical Engineer for immediate evaluation.",
+  "escalation": true,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-08-29",
+  "deadline_resolution_status": "resolved_to_date"
+}

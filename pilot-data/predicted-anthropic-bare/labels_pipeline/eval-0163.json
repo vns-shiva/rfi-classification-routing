@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0163",
+  "rfi_type": "document coordination conflict",
+  "primary_discipline": "architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "low",
+  "question_summary": "Shop drawings for the aluminum window frame detail at the corner window (Section 08 51 13) don't match the field mockup; submitter asks which document governs.",
+  "referenced_documents": [
+    "Section 08 51 13",
+    "Sheet A-301",
+    "Sheet A-201"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict involves architectural drawing coordination (A-201 vs A-301) governing an aluminum window detail, which falls under the architect's purview.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

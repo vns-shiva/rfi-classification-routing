@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "Site Coordination Clash",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "Division 31 - Earthwork",
+  "urgency": "medium",
+  "question_summary": "Retaining wall footing at Placement Zone 2 conflicts with underground utility corridor; coordination between Utility Plan C-301 and Sheet C-101 needed to resolve clash before site work sequence proceeds.",
+  "referenced_documents": ["Utility Plan C-301", "Sheet C-101", "Site coordination sketch"],
+  "proposed_solution": "Revise per the attached site coordination sketch resolving the retaining wall footing conflict with the underground utility corridor at Placement Zone 2.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The clash centers on utility corridor routing versus retaining wall footing placement, which falls under civil/site utility design responsibility, with structural input needed on footing revisions.",
+  "escalation": false,
+  "confidence": 0.82
+}
+```

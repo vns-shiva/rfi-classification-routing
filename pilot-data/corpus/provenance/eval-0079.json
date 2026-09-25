@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0079",
+  "template_id": "t16_code_compliance_civil_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "code_compliance_question",
+    "primary_discipline": "Civil",
+    "urgency": "priority",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "relative_days",
+    "adversarial": "answer_in_documents",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 3,
+  "seed": 8854811646668518702,
+  "body_variant_index": {
+    "initial_question": 1
+  },
+  "question_summary_variant_index": 1,
+  "proposed_solution_variant_index": 1,
+  "project": "Harborview Logistics Center",
+  "doc_a": "Grading Plan C-201",
+  "doc_b": "Civil Detail 2/C501",
+  "date_submitted": "2025-09-24"
+}

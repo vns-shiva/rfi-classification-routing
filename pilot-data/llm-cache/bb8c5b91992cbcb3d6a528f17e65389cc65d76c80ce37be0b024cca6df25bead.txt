@@ -1,0 +1,18 @@
+{
+  "rfi_type": "unforeseen field condition",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "26 00 00 - Electrical",
+  "urgency": "medium",
+  "question_summary": "Field team discovered that the electrical panel location at Electrical Closet 2A conflicts with new wall framing, a condition not shown on Sheet E-501; clarification is requested on how to proceed.",
+  "referenced_documents": ["Sheet E-501", "field log dated 2025-08-24"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The conflict involves an electrical panel's physical location relative to structural/architectural wall framing, so the Electrical EOR should lead the response with Architectural coordination.",
+  "escalation": false,
+  "confidence": 0.75
+}

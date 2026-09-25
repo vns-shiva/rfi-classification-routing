@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0010",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0010",
+  "date_submitted": "2025-08-14",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Conflicting document coordination on the Section 23 74 00 equipment clearance at P-101",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-08-14T17:49",
+      "message_type": "initial_question",
+      "text": "Coordination between Sheet M-401 and Sequence of Operations M-701 breaks down for the Section 23 74 00 equipment clearance near P-101. We would like this closed out ahead of the next submittal deadline. We do not expect this to affect the contract sum. This is not holding up any current work. A response within three business days would be appreciated."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-08-19T10:58",
+      "message_type": "response",
+      "text": "Follow Sequence of Operations M-701 for the Section 23 74 00 equipment clearance near P-101; we'll issue an addendum to reconcile Sheet M-401. We do not expect this to affect the contract sum. This is not holding up any current work."
+    }
+  ]
+}

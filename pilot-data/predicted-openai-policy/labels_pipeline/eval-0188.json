@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0188",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Confirm which Section 26 51 00 light fixture type is correct where One-Line Diagram E-002 conflicts with Sheet E-501 prior to fabrication release.",
+  "referenced_documents": [
+    "One-Line Diagram E-002",
+    "Sheet E-501",
+    "Specification Section 26 51 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "please respond when convenient",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As an electrical drawing/spec discrepancy, it should be clarified by the Electrical Engineer of record.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

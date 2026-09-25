@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0104",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0104",
+  "date_submitted": "2025-05-24",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Discrepancy in the Section 26 51 00 light fixture type between Electrical Detail 2/E502",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Wendy Sato",
+      "timestamp": "2025-05-24T12:09",
+      "message_type": "initial_question",
+      "text": "Coordination review turned up a mismatch on the Section 26 51 00 light fixture type between Sheet E-501 and Electrical Detail 2/E502 -- can you confirm which is correct before we release for fabrication? No rush on this -- please respond when convenient. No cost impact is anticipated. This is not holding up any current work. Please respond at your earliest convenience. We don't have a fixed turnaround in mind for this -- it depends on the BIM detailer's next clash pass, which isn't on a set schedule."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-05-25T10:28",
+      "message_type": "response",
+      "text": "Sheet E-501 governs for the Section 26 51 00 light fixture type near XFMR-2; Electrical Detail 2/E502 will be superseded by an updated drawing. No cost impact is anticipated. This is not holding up any current work."
+    }
+  ]
+}

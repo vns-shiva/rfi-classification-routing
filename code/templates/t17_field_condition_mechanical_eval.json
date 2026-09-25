@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "template_id": "t17_field_condition_mechanical_eval",
+  "pool": "eval",
+  "axes": {
+    "rfi_type": ["field_condition_conflict"],
+    "primary_discipline": ["Mechanical"],
+    "urgency": ["priority", "critical"],
+    "cost_impact": [true],
+    "schedule_impact": [true, false],
+    "deadline_family": ["weekday"],
+    "adversarial": ["none"],
+    "thread_shape": ["two_message_qa", "multi_turn_clarification"]
+  },
+  "csi_by_discipline": {
+    "Mechanical": "23 00 00 (HVAC)"
+  },
+  "secondary_by_adversarial": {
+    "none": []
+  },
+  "slots": {
+    "mechanical_field_condition": [
+      "existing ductwork conflicting with the new structural beam",
+      "undersized mechanical shaft in the corridor chase",
+      "existing piping conflicting with the new equipment pad location",
+      "unforeseen ceiling height restriction affecting the ductwork routing"
+    ]
+  },
+  "urgency_phrasing": {
+    "priority": [
+      "We would like this resolved ahead of the next work sequence.",
+      "This is becoming a priority as work proceeds nearby."
+    ],
+    "critical": [
+      "This is critical -- please treat this as a top priority.",
+      "This needs immediate attention; please respond as soon as possible."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "There will be a cost impact to address this condition.",
+      "This condition will require a change order."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up work in this area.",
+      "This could affect the overall schedule."
+    ],
+    "false": [
+      "This is not holding up other work currently.",
+      "No broader schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "weekday": [
+      "Please respond Thursday so we can keep the crew moving.",
+      "A response Friday would be appreciated."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Field Superintendent", "Foreman"],
+      "shapes": ["two_message_qa", "multi_turn_clarification"],
+      "body_variants": [
+        "Our crew hit the {mechanical_field_condition} at {equipment_tag} and need your call on the permanent fix. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase}",
+        "Can we get interim direction on the {mechanical_field_condition} near {equipment_tag} so the crew isn't fully stopped while you finalize the resolution? {urgency_phrase} {deadline_phrase}",
+        "The {mechanical_field_condition} at {equipment_tag} is under review; let us know if you need anything further from us in the meantime. {cost_phrase} {schedule_phrase}",
+        "We need a decision on the {mechanical_field_condition} near {equipment_tag} -- happy to proceed with a temporary reroute if that's faster than waiting on a full redesign. {urgency_phrase} {cost_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa", "multi_turn_clarification"],
+      "body_variants": [
+        "Reroute to clear the conflict at {equipment_tag} per the attached sketch; proceed once you've confirmed clearance. {cost_phrase}",
+        "Hold work at {equipment_tag} -- we'll issue a bulletin addressing the {mechanical_field_condition} by end of day. {schedule_phrase}",
+        "Proceed with a field-fit resolution for the {mechanical_field_condition} at {equipment_tag}; document the as-built change for the closeout set. {cost_phrase} {schedule_phrase}"
+      ]
+    },
+    {
+      "message_type": "clarification",
+      "sender_role_pool": ["Field Superintendent", "Foreman"],
+      "shapes": ["multi_turn_clarification"],
+      "body_variants": [
+        "Photos show the {mechanical_field_condition} at {equipment_tag} goes further than we first thought -- does your direction still cover it? {deadline_phrase}",
+        "Also worth noting -- the {mechanical_field_condition} near {equipment_tag} looks like it's affecting the adjacent duct run too; will that need its own bulletin?",
+        "Confirming the direction on the {mechanical_field_condition} at {equipment_tag} still stands before we close this out. {cost_phrase}"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "23 00 00 (HVAC)",
+    "question_summary_variants": [
+      "Unforeseen mechanical field condition: {mechanical_field_condition} at {equipment_tag}.",
+      "Direction requested on {mechanical_field_condition} near {equipment_tag}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend a change order and revised routing sketch to address {mechanical_field_condition}."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"schedule_impact": true},
+      "assigned_reviewer": "Owner's Representative",
+      "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Mechanical Engineer looped in as technical reviewer.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "Default discipline routing would keep this with the Mechanical Engineer; this project's delegation letter pulls the owner's rep in whenever both cost and schedule are affected, regardless of discipline. Every cell in this template carries a cost impact, so any schedule impact triggers the override."
+    },
+    {
+      "when": {"urgency": "critical"},
+      "assigned_reviewer": "Mechanical Engineer",
+      "routing_rationale": "Critical urgency without a schedule impact still escalates directly to the Mechanical Engineer for immediate evaluation.",
+      "escalation": true,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Mechanical Engineer",
+      "routing_rationale": "Default discipline routing: the Mechanical Engineer resolves field conditions affecting mechanical work.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

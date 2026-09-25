@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0030",
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Fire_Protection"
+  ],
+  "csi_division": "07 00 00 (Thermal and Moisture Protection)",
+  "urgency": "urgent",
+  "question_summary": "Confirm whether the occupancy separation rating indicated in Division 00 complies with the adopted code edition referenced in Section 07 92 00.",
+  "referenced_documents": [
+    "Project Specifications Division 00",
+    "Section 07 92 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Occupancy separation and code compliance determinations are the responsibility of the Architect of Record as part of the life-safety and code path for the design.",
+  "escalation": false,
+  "confidence": 0.74,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

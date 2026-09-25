@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0185",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0185",
+  "date_submitted": "2025-04-03",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Unforeseen mechanical field condition: unforeseen ceiling height restriction affecting",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Tom Reilly",
+      "timestamp": "2025-04-03T09:14",
+      "message_type": "initial_question",
+      "text": "Our crew hit the unforeseen ceiling height restriction affecting the ductwork routing at RTU-2 and need your call on the permanent fix. This needs immediate attention; please respond as soon as possible. This condition will require a change order. This is holding up work in this area. Please respond Thursday so we can keep the crew moving."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-04-08T10:29",
+      "message_type": "response",
+      "text": "Reroute to clear the conflict at RTU-2 per the attached sketch; proceed once you've confirmed clearance. This condition will require a change order."
+    }
+  ]
+}

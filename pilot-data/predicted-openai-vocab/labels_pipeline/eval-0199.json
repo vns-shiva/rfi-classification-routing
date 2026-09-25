@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0199",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Conflict between Sheet A-201 corner curtain wall mullion detail and A-601 schedule; confirm which governs for shop drawings vs. field mockup.",
+  "referenced_documents": [
+    "Sheet A-201",
+    "Schedule A-601",
+    "Section 08 44 13",
+    "Curtain wall shop drawings",
+    "Field mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The discrepancy is between architectural sheets (A-201 and A-601) for the curtain wall, which the Architect of Record must resolve and issue by addendum.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

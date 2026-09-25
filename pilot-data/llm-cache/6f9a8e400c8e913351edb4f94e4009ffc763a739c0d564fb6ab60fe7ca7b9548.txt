@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "routine",
+  "question_summary": "Aluminum window frame detail (Section 08 51 13) at the corner window shown in shop drawings does not match the built field mockup; submitter asks which governs before submitting shop drawings.",
+  "referenced_documents": ["Section 08 51 13", "Sheet A-301", "Sheet A-201"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict involves an architectural window frame detail requiring clarification between conflicting drawing sheets, which falls under the Architect of Record's authority.",
+  "escalation": false,
+  "confidence": 0.85
+}

@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0066",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0066",
+  "date_submitted": "2025-09-06",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Conflicting document coordination on the Section 23 74 00 equipment clearance at RTU-2",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Wendy Sato",
+      "timestamp": "2025-09-06T16:57",
+      "message_type": "initial_question",
+      "text": "Coordination between Mechanical Detail 4/M501 and Mechanical Schedule M-601 breaks down for the Section 23 74 00 equipment clearance near RTU-2. This is becoming a priority as installation approaches. This could affect the contract sum depending on the resolution. This is not holding up any current work. A response Friday would be appreciated."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-09-11T08:06",
+      "message_type": "response",
+      "text": "Follow Mechanical Schedule M-601 for the Section 23 74 00 equipment clearance near RTU-2; we'll issue an addendum to reconcile Mechanical Detail 4/M501. This could affect the contract sum depending on the resolution. This is not holding up any current work."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "priority",
+  "question_summary": "Grading plan C-201 conflicts with Sheet C-101 regarding the storm drainage inlet location at Pour 3; request resolution to coordinate grades and inlet placement.",
+  "referenced_documents": ["Grading Plan C-201", "Sheet C-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the site crew moving.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This is a civil site coordination clash between grading and storm drain layout, best resolved by the Civil Engineer of record.",
+  "escalation": false,
+  "confidence": 0.76
+}

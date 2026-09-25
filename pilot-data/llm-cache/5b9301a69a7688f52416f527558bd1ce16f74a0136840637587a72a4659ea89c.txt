@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "priority",
+  "question_summary": "Curtain wall panel head/jamb detail at Gridline E/9 differs between Sheet A-201 and Sheet A-301, creating conflicting guidance for shop drawing coordination.",
+  "referenced_documents": ["Sheet A-201", "Sheet A-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "Respond whenever convenient",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As a document discrepancy in curtain wall detailing (Architectural/Openings), it is routed to the Architect of Record as the design professional responsible for resolving conflicting drawing details.",
+  "escalation": false,
+  "confidence": 0.9
+}

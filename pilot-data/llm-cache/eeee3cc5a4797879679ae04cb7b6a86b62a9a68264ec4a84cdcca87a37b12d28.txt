@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Unforeseen field condition / utility conflict",
+  "primary_discipline": "Civil/Site Utilities",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "33 - Utilities",
+  "urgency": "High",
+  "question_summary": "Unforeseen existing utility line conflicts with slab placement at Placement Zone 2; contractor proposes a local layout shift and requests approval/review to proceed, noting change order will be required.",
+  "referenced_documents": ["Project Specifications Division 00 (assumed conditions)"],
+  "proposed_solution": "Shift the utility layout locally at Placement Zone 2 and hold all other work per plan.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving.",
+  "assigned_reviewer": "Civil Engineer of Record (Site/Utilities)",
+  "routing_rationale": "Utility reroute under slab requires the Site/Civil EOR to evaluate and approve the layout change and document the change order.",
+  "escalation": false,
+  "confidence": 0.63
+}

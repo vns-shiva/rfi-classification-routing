@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "26 00 00",
+  "urgency": "priority",
+  "question_summary": "Field-verified panel location at Electrical Closet 2A conflicts with new wall framing, a condition not shown on Sheet E-501; direction is needed to relocate/coordinate the panel before work can continue.",
+  "referenced_documents": ["Sheet E-501"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "respond within five days so we can proceed",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The conflict involves the electrical panel's location and routing, which falls under the Electrical Engineer's design authority, with Architectural coordination needed for the wall framing.",
+  "escalation": false,
+  "confidence": 0.78
+}

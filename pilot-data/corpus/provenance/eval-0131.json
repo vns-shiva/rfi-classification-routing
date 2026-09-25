@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0131",
+  "template_id": "t14_field_condition_general_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "field_condition_conflict",
+    "primary_discipline": "General",
+    "urgency": "priority",
+    "cost_impact": true,
+    "schedule_impact": true,
+    "deadline_family": "this_next_week",
+    "adversarial": "none",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 17242842614344202526,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Northgate Mixed-Use Phase II",
+  "doc_a": "Project Manual Section 01 00 00",
+  "doc_b": "General Conditions Article 3",
+  "date_submitted": "2025-08-15"
+}

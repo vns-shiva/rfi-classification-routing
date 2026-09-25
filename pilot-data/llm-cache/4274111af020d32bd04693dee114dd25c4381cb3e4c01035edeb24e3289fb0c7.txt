@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Electrical"],
+  "csi_division": "09 00 00",
+  "urgency": "priority",
+  "question_summary": "Foreman reports that the existing wall condition near Electrical Closet 2A does not match the drawings and requests direction/sign-off before proceeding with a permanent fix.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The discrepancy concerns an existing wall condition versus architectural drawings, making the Architect of Record the appropriate reviewer to resolve the conflict.",
+  "escalation": false,
+  "confidence": 0.55
+}

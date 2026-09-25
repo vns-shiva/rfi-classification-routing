@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "priority",
+  "question_summary": "RTU-2 equipment clearance per Section 23 74 00 conflicts between Mechanical Detail 4/M501 and Mechanical Schedule M-601, requiring clarification before installation.",
+  "referenced_documents": ["Mechanical Detail 4/M501", "Mechanical Schedule M-601", "Section 23 74 00"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "As a document discrepancy involving mechanical equipment clearance with no code or field-condition urgency triggers, it is routed to the Mechanical Engineer as design professional of record for this discipline.",
+  "escalation": false,
+  "confidence": 0.85
+}

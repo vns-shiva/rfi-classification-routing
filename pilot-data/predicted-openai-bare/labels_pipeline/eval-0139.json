@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0139",
+  "rfi_type": "Field condition/coordination conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Architecture"
+  ],
+  "csi_division": "26 \u2014 Electrical",
+  "urgency": "High (5-day response requested)",
+  "question_summary": "Junction box location in Mechanical Room 3B conflicts with the ceiling grid; not consistent with Sheet E-501. Request direction on relocation or coordination to resolve the conflict.",
+  "referenced_documents": [
+    "Sheet E-501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The issue is an electrical junction box location conflict requiring design direction and coordination with the ceiling grid, best addressed by the Electrical EOR.",
+  "escalation": false,
+  "confidence": 0.87,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

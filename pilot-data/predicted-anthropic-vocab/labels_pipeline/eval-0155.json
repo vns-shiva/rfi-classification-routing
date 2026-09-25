@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0155",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "urgent",
+  "question_summary": "Foreman flagged a conflict between slab-on-deck pour strip reinforcement noted in Structural General Notes S-001 and the #6 dowels at 12\" o.c. called out on Foundation Plan S-101, requesting direction on which detail governs.",
+  "referenced_documents": [
+    "S-001",
+    "S-101"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "by end of day Wednesday",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The conflict involves two structural documents governing reinforcement detailing, requiring the Structural Engineer to determine which detail supersedes.",
+  "escalation": false,
+  "confidence": 0.88,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

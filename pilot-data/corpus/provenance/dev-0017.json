@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0017",
+  "template_id": "t01_design_clarification_dev",
+  "cell": {
+    "split": "dev",
+    "rfi_type": "design_clarification",
+    "primary_discipline": "Architectural",
+    "urgency": "routine",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "relative_days",
+    "adversarial": "none",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 2209639544646189164,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Northgate Mixed-Use Phase II",
+  "doc_a": "Sheet A-301",
+  "doc_b": "Detail 5/A501",
+  "date_submitted": "2025-09-06"
+}

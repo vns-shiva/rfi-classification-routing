@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Field conflict / unforeseen condition",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": ["Mechanical", "Electrical"],
+  "csi_division": "21 - Fire Suppression",
+  "urgency": "Response requested within 3 business days",
+  "question_summary": "Unforeseen clearance conflict in the fire pump room at Room 214 not shown on Detail 3/FP502; guidance requested to resolve prior to next work sequence.",
+  "referenced_documents": ["Fire Protection Detail 3/FP502", "last month's inspection log", "attached sketch"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Fire Protection Engineer of Record",
+  "routing_rationale": "The issue concerns fire pump room clearances and sprinkler rerouting, which fall under the Fire Protection engineer’s design responsibility.",
+  "escalation": false,
+  "confidence": 0.79
+}

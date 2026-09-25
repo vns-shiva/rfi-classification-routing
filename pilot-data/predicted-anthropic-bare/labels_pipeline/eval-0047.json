@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0047",
+  "rfi_type": "Document Coordination Conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Life Safety/Code Compliance"
+  ],
+  "csi_division": "08 - Openings",
+  "urgency": "medium",
+  "question_summary": "Shop drawings for the Section 08 71 00 interior door hardware set at the stair enclosure do not match the as-built field mockup; submitter requests confirmation of which governs prior to submittal.",
+  "referenced_documents": [
+    "Section 08 71 00 Door Hardware Shop Drawings",
+    "Field Mockup - Stair Enclosure Door Hardware"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The Architect of Record holds authority over door hardware specifications and finish coordination and must resolve the discrepancy between shop drawings and field conditions, especially given potential fire/life-safety implications at a stair enclosure.",
+  "escalation": false,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

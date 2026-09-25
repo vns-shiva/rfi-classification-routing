@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0135",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0135",
+  "date_submitted": "2025-07-15",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Conflict involving concrete grade beam clashing with the underground electrical duct",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-07-15T17:46",
+      "message_type": "initial_question",
+      "text": "The concrete grade beam clashing with the underground electrical duct bank, the plumbing sanitary main, and the mechanical condensate drain routing at Gridline D/7 needs resolution before we can release for fabrication. This needs immediate attention; multiple trades are blocked. A response within three weeks would be appreciated."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-07-18T13:39",
+      "message_type": "response",
+      "text": "Hold fabrication release at Gridline D/7 pending a coordination sketch for the concrete grade beam clashing with the underground electrical duct bank, the plumbing sanitary main, and the mechanical condensate drain routing."
+    }
+  ]
+}

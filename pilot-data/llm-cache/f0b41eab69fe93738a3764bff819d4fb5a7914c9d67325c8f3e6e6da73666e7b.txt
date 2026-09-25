@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Conflict between drawings and specifications",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23",
+  "urgency": "urgent",
+  "question_summary": "There is a conflict between Mechanical Detail 4/M501 and Sequence of Operations M-701 regarding Section 23 74 00 equipment clearance near P-101; requester also asks if the direction to follow M-701 applies throughout the area, not just at P-101.",
+  "referenced_documents": ["Section 23 74 00", "Detail 4/M501", "Sequence of Operations M-701"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The issue concerns conflicting mechanical documents and required equipment clearances governed by Division 23, which should be resolved by the Mechanical Engineer of Record.",
+  "escalation": true,
+  "confidence": 0.76
+}

@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0024",
+  "template_id": "t14_field_condition_general_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "field_condition_conflict",
+    "primary_discipline": "General",
+    "urgency": "urgent",
+    "cost_impact": true,
+    "schedule_impact": false,
+    "deadline_family": "this_next_week",
+    "adversarial": "none",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 11857421900484791582,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Harborview Logistics Center",
+  "doc_a": "General Conditions Article 3",
+  "doc_b": "Project Manual Section 01 00 00",
+  "date_submitted": "2025-03-14"
+}

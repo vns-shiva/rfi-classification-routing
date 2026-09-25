@@ -1,0 +1,23 @@
+```json
+{
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00",
+  "urgency": "priority",
+  "question_summary": "Does the minimum reinforcing lap length for the shear wall assembly in Structural General Notes S-001 comply with the code edition referenced in Section 03 15 00?",
+  "referenced_documents": [
+    "Structural General Notes S-001",
+    "Section 03 15 00"
+  ],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "This is a structural code compliance question regarding reinforcing lap length in concrete shear walls that requires the Structural Engineer to verify compliance with applicable building code requirements.",
+  "escalation": false,
+  "confidence": 0.95
+}
+```

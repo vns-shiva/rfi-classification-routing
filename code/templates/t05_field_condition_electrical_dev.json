@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "template_id": "t05_field_condition_electrical_dev",
+  "pool": "dev",
+  "axes": {
+    "rfi_type": ["field_condition_conflict"],
+    "primary_discipline": ["Electrical"],
+    "urgency": ["priority", "urgent"],
+    "cost_impact": [false, true],
+    "schedule_impact": [false, true],
+    "deadline_family": ["none", "end_of"],
+    "adversarial": ["boundary_urgency"],
+    "thread_shape": ["single_message", "multi_turn_clarification"]
+  },
+  "csi_by_discipline": {
+    "Electrical": "26 00 00 (Electrical)"
+  },
+  "secondary_by_adversarial": {
+    "boundary_urgency": []
+  },
+  "slots": {
+    "electrical_condition": ["conduit routing conflict", "panel clearance obstruction", "existing feeder condition", "unmarked underground duct bank"]
+  },
+  "urgency_phrasing": {
+    "priority": [
+      "We'd like this looked at sooner rather than later, please.",
+      "This is becoming a priority on our end -- we'd appreciate a prompt response."
+    ],
+    "urgent": [
+      "We'd treat this as urgent on our end, though it's admittedly a judgment call.",
+      "This feels urgent to us, but we'd understand if your read on it differs."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "There may be a cost impact if rerouting or additional material is required.",
+      "This could affect the contract sum depending on the resolution."
+    ],
+    "false": [
+      "No cost impact is anticipated.",
+      "We do not expect this to affect the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up electrical rough-in in this area.",
+      "This could affect the rough-in inspection schedule."
+    ],
+    "false": [
+      "This is not holding up any current rough-in work.",
+      "No schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "none": [
+      "There is no specific deadline for this, but a timely response is appreciated.",
+      "No hard deadline, just would like to keep this moving."
+    ],
+    "end_of": [
+      "Please respond by end of week so we can plan the rough-in sequence.",
+      "A response by end of day would be much appreciated."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Field Superintendent", "Foreman"],
+      "shapes": ["single_message", "multi_turn_clarification"],
+      "body_variants": [
+        "Field investigation at {room_name} revealed a field condition -- {electrical_condition} -- not shown on {doc_a} or {doc_b}. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase}",
+        "The {electrical_condition} discovered near {equipment_tag} conflicts with the routing shown in {doc_a}. {urgency_phrase} {deadline_phrase}",
+        "We encountered the following field condition at {room_name}, not anticipated in {doc_b}: {electrical_condition}. {urgency_phrase} {cost_phrase} {schedule_phrase}",
+        "Please advise on the {electrical_condition} found near {equipment_tag} during rough-in at {room_name}. {urgency_phrase} {cost_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["multi_turn_clarification"],
+      "body_variants": [
+        "Reroute per the attached sketch to clear the {electrical_condition} at {room_name}. {cost_phrase} {schedule_phrase}",
+        "Field-verify the extent of the {electrical_condition} near {equipment_tag} before proceeding with any rework.",
+        "Proceed with the alternate routing shown in {doc_b} to avoid the {electrical_condition} at {room_name}. {schedule_phrase}"
+      ]
+    },
+    {
+      "message_type": "clarification",
+      "sender_role_pool": ["Field Superintendent", "Foreman"],
+      "shapes": ["multi_turn_clarification"],
+      "body_variants": [
+        "To confirm, does the reroute around the {electrical_condition} at {room_name} require a revised {doc_a}? {deadline_phrase}",
+        "Following up on {equipment_tag} -- should we proceed with demolition before your team resolves the {electrical_condition}?",
+        "Following up: {cost_phrase} If there is a cost impact, would rerouting labor at {room_name} need to be accounted for?"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "26 00 00 (Electrical)",
+    "question_summary_variants": [
+      "Unforeseen {electrical_condition} at {room_name} conflicting with {doc_a} and {doc_b}.",
+      "Field condition near {equipment_tag} not anticipated in the contract documents."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend rerouting per an updated sketch and reissuing the affected sheet."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"cost_impact": true, "schedule_impact": true},
+      "assigned_reviewer": "Owner's Representative",
+      "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Electrical Engineer looped in as technical reviewer.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "Default discipline routing would keep this with the Electrical Engineer; this project's delegation letter pulls the owner's rep in whenever both cost and schedule are affected, regardless of discipline."
+    },
+    {
+      "when": {"schedule_impact": true, "urgency": "urgent"},
+      "assigned_reviewer": "GC Superintendent",
+      "routing_rationale": "Field condition conflicts that are both urgent and schedule-impacting route directly to the GC Superintendent for immediate field resolution, unless the delegation-of-authority letter already pulled this to the Owner's Representative for a simultaneous cost impact.",
+      "escalation": true,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    },
+    {
+      "when": {"urgency": "urgent"},
+      "assigned_reviewer": "Electrical Engineer",
+      "routing_rationale": "Default discipline routing: the Electrical Engineer resolves this field condition; urgent status escalates the review but does not change who owns it since there is no schedule impact.",
+      "escalation": true,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Electrical Engineer",
+      "routing_rationale": "Default discipline routing: the Electrical Engineer resolves field condition conflicts affecting electrical work.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

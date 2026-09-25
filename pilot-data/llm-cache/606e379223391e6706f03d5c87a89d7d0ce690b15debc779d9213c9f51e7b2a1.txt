@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Detail 4/M501 conflicts with Sequence of Operations M-701 regarding Section 23 07 00 piping insulation type near AHU-3; confirm which governs and whether direction applies throughout the area.",
+  "referenced_documents": ["Mechanical Detail 4/M501", "Sequence of Operations M-701", "Section 23 07 00"],
+  "proposed_solution": "Follow Sequence of Operations M-701 for piping insulation near AHU-3 and issue an addendum to reconcile Detail 4/M501.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The discrepancy is within the mechanical documents and requires the Mechanical Engineer of record to clarify and issue an addendum.",
+  "escalation": false,
+  "confidence": 0.86
+}

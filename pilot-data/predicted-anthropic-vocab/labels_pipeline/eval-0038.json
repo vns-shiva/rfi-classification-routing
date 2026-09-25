@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0038",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Coordination discrepancy between Mechanical Detail 4/M501 and Sheet M-401 regarding the piping insulation type (Section 23 07 00) near AHU-3, needed for ongoing installation.",
+  "referenced_documents": [
+    "Mechanical Detail 4/M501",
+    "Sheet M-401",
+    "Section 23 07 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep installation moving.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The discrepancy involves mechanical piping insulation specifications between conflicting mechanical drawings, requiring the Mechanical Engineer's review and clarification.",
+  "escalation": false,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

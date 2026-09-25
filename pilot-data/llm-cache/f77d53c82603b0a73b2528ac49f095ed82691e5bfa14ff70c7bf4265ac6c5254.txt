@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Junction box in Lobby 101 conflicts with ceiling grid layout and is not reflected on Electrical Panel Schedule E-601; requester seeks approval/ direction for revised routing as shown on attached sketch.",
+  "referenced_documents": ["Electrical Panel Schedule E-601", "Attached routing sketch (Lobby 101)", "Field log entry (Lobby 101)"],
+  "proposed_solution": "Relocate/re-route the junction box per the attached sketch resolving the ceiling grid conflict.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The Electrical Engineer must review and approve the revised junction box routing and update the electrical documents for coordination with the ceiling layout.",
+  "escalation": false,
+  "confidence": 0.83
+}

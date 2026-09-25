@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "routine",
+  "question_summary": "Elevation for the storm drainage inlet at Pour 3 conflicts between Sheet C-101 and Utility Plan C-301; which elevation governs?",
+  "referenced_documents": ["Sheet C-101", "Utility Plan C-301"],
+  "proposed_solution": "Use the elevation shown on Utility Plan C-301; Sheet C-101 to be corrected by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No rush on this -- please respond when convenient.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This is a civil utilities plan discrepancy best resolved by the Civil Engineer of record.",
+  "escalation": false,
+  "confidence": 0.92
+}

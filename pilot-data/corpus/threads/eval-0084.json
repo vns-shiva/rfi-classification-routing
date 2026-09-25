@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0084",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0084",
+  "date_submitted": "2025-06-14",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Discrepancy in the Section 26 27 26 receptacle mounting height between One-Line Diagram",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-06-14T11:59",
+      "message_type": "initial_question",
+      "text": "Coordination review turned up a mismatch on the Section 26 27 26 receptacle mounting height between Sheet E-501 and One-Line Diagram E-002 -- can you confirm which is correct before we release for fabrication? This is routine and can be worked into the normal submittal cycle. No cost impact is anticipated. This is not holding up any current work. Please respond at your earliest convenience."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "33 00 00",
+  "urgency": "priority",
+  "question_summary": "Utility trench in Area C per Utility Plan C-301 conflicts with proposed landscaping layout shown on Sheet C-101; resolution needed before proceeding with site work sequence.",
+  "referenced_documents": ["Utility Plan C-301", "Sheet C-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This is a coordination conflict primarily involving civil site utility and landscaping layout, so it is routed to the Civil Engineer as design professional of record for that discipline.",
+  "escalation": false,
+  "confidence": 0.82
+}

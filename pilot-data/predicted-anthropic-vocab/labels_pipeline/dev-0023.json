@@ -1,0 +1,29 @@
+{
+  "thread_id": "dev-0023",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "Mechanical",
+    "Architectural"
+  ],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "critical",
+  "question_summary": "Embed plate location at Gridline C/4 differs between Structural General Notes S-001 and Foundation Plan S-101, conflicting with mechanical ductwork and architectural ceiling framing routing; clarification needed on which document governs before fabrication proceeds.",
+  "referenced_documents": [
+    "S-001",
+    "S-101"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "before the fabricator's shop drawing cutoff",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The conflict centers on structural embed plate placement between two structural documents, requiring the Structural Engineer to resolve the discrepancy and confirm final coordination with affected trades.",
+  "escalation": true,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

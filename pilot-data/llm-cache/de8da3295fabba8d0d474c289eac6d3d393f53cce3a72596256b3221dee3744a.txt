@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Sheet M-401 and Sequence of Operations M-701 regarding Section 23 74 00 equipment clearance near P-101; direction requested prior to next submittal.",
+  "referenced_documents": ["Sheet M-401", "Sequence of Operations M-701", "Specification 23 74 00"],
+  "proposed_solution": "Follow Sequence of Operations M-701 and issue an addendum to reconcile Sheet M-401.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The discrepancy is within mechanical documents and spec Section 23, so the Mechanical Engineer should provide direction and issue an addendum.",
+  "escalation": false,
+  "confidence": 0.9
+}

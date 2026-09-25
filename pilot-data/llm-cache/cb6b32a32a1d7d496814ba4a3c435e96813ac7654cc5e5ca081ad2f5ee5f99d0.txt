@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Unforeseen existing/field condition",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural", "Electrical", "Plumbing"],
+  "csi_division": "33",
+  "urgency": "High",
+  "question_summary": "Crew discovered an existing utility line conflicting with the slab-on-grade at Pour 3 and requests approval to locally shift the layout while holding the remainder per plan.",
+  "referenced_documents": ["General Conditions Article 3"],
+  "proposed_solution": "Shift the layout locally around the conflicting utility and keep all other work per plan.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "Conflict involves existing utilities beneath the slab, which is under the civil/site utilities scope and requires civil design direction on layout adjustments.",
+  "escalation": false,
+  "confidence": 0.69
+}

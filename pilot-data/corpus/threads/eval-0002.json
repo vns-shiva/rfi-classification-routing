@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0002",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0002",
+  "date_submitted": "2025-08-01",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Conflicting document coordination on the Section 23 31 00 ductwork routing at P-101",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-08-01T14:48",
+      "message_type": "initial_question",
+      "text": "Coordination between Mechanical Detail 4/M501 and Mechanical Schedule M-601 breaks down for the Section 23 31 00 ductwork routing near P-101. This is becoming a priority as installation approaches. We do not expect this to affect the contract sum. This is not holding up any current work. A response Friday would be appreciated."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-08-04T12:13",
+      "message_type": "response",
+      "text": "Follow Mechanical Schedule M-601 for the Section 23 31 00 ductwork routing near P-101; we'll issue an addendum to reconcile Mechanical Detail 4/M501. We do not expect this to affect the contract sum. This is not holding up any current work."
+    }
+  ]
+}

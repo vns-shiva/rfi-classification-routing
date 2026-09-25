@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0175",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Existing feeder discovered at Electrical Closet 2A conflicts with new equipment pad location, condition not shown on Sheet E-501; resolution needed before next work sequence.",
+  "referenced_documents": [
+    "Sheet E-501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The conflict involves an existing electrical feeder not reflected in the electrical drawings, requiring the Electrical Engineer to review and provide direction.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

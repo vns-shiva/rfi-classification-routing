@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0013",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "routine",
+  "question_summary": "Standpipe connection detailing at Lobby 101 is inconsistent between Fire Sprinkler Riser Diagram FP-501 and Fire Protection Detail 3/FP502, requiring direction before sprinkler shop drawings are released.",
+  "referenced_documents": [
+    "FP-501",
+    "3/FP502"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "no hard deadline on this, but a timely response is appreciated",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The discrepancy concerns fire suppression standpipe detailing, which falls under the Plumbing/Fire Protection Engineer's scope.",
+  "escalation": false,
+  "confidence": 0.9,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0089",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "05 00 00 (Metals)",
+  "urgency": "priority",
+  "question_summary": "Direction and sign-off requested for repairing deteriorated existing structural element discovered behind finish wall at Lobby 101; confirmation on proposed workaround to avoid crew downtime.",
+  "referenced_documents": [
+    "General Conditions Article 3"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The issue concerns the integrity and repair approach for an existing structural element, requiring the Structural Engineer\u2019s direction and approval.",
+  "escalation": false,
+  "confidence": 0.64,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

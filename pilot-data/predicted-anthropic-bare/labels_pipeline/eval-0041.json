@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0041",
+  "rfi_type": "design clarification",
+  "primary_discipline": "structural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 03 - Concrete",
+  "urgency": "high",
+  "question_summary": "Conflict between column baseplate reinforcement on Sheet S-301 and #6 dowels at 12\" o.c. per Detail 3/S502; resolved in favor of S502, but field is now confirming whether this applies to all column baseplates on the level ahead of concrete placement.",
+  "referenced_documents": [
+    "Sheet S-301",
+    "Structural Detail 3/S502"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within two business days ahead of the scheduled pour",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The issue involves a discrepancy in structural reinforcement details requiring authoritative clarification from the Structural Engineer of Record.",
+  "escalation": false,
+  "confidence": 0.83,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-04-28",
+  "deadline_resolution_status": "resolved_to_date"
+}

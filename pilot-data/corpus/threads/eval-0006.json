@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0006",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0006",
+  "date_submitted": "2025-06-23",
+  "submitted_by_role": "Foreman",
+  "subject": "Conflicting reinforcement detail for the column baseplate between Structural General",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Bobby Kern",
+      "timestamp": "2025-06-23T09:05",
+      "message_type": "initial_question",
+      "text": "The column baseplate reinforcement shown in Structural General Notes S-001 conflicts with #6 dowels at 12\" o.c. noted in Foundation Plan S-101. This is becoming a priority on our end; we'd appreciate a prompt response. We do not expect this to affect the contract sum. No schedule impact is expected from this clarification. We need direction by end of day Wednesday."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-06-25T09:42",
+      "message_type": "response",
+      "text": "Proceed with #6 dowels at 12\" o.c. per Foundation Plan S-101; Structural General Notes S-001 is superseded. We do not expect this to affect the contract sum. No schedule impact is expected from this clarification."
+    }
+  ]
+}

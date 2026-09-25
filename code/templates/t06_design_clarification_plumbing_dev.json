@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "template_id": "t06_design_clarification_plumbing_dev",
+  "pool": "dev",
+  "axes": {
+    "rfi_type": ["design_clarification"],
+    "primary_discipline": ["Plumbing"],
+    "urgency": ["routine", "priority"],
+    "cost_impact": [false, true],
+    "schedule_impact": [false, true],
+    "deadline_family": ["none"],
+    "adversarial": ["none"],
+    "thread_shape": ["single_message", "two_message_qa"]
+  },
+  "csi_by_discipline": {
+    "Plumbing": "22 00 00 (Plumbing)"
+  },
+  "secondary_by_adversarial": {
+    "none": []
+  },
+  "slots": {
+    "plumbing_item": ["domestic water riser", "sanitary vent stack", "floor drain rough-in", "backflow preventer assembly"],
+    "spec_section": ["Section 22 05 00", "Section 22 11 00", "Section 22 40 00", "Section 22 13 00"]
+  },
+  "urgency_phrasing": {
+    "routine": [
+      "This is routine and can be worked into the normal submittal cycle.",
+      "No rush on this -- please respond when convenient."
+    ],
+    "priority": [
+      "We would like this closed out ahead of the next rough-in inspection.",
+      "This is becoming a priority as rough-in proceeds."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "There may be a cost impact if rerouting or additional material is required.",
+      "This could affect the contract sum depending on the resolution."
+    ],
+    "false": [
+      "No cost impact is anticipated.",
+      "We do not expect this to affect the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up rough-in in this area.",
+      "This could affect the rough-in inspection schedule."
+    ],
+    "false": [
+      "This is not holding up any current rough-in work.",
+      "No schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "none": [
+      "There is no specific deadline for this, but a timely response is appreciated.",
+      "No hard deadline, just would like to keep this moving."
+    ]
+  },
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Project Engineer", "Detailer/BIM Coordinator"],
+      "shapes": ["single_message", "two_message_qa"],
+      "body_variants": [
+        "The {plumbing_item} shown in {doc_a} at {room_name} is not detailed consistently with {doc_b}. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase}",
+        "Please clarify the intended location of the {plumbing_item} near {room_name} -- {doc_a} and {doc_b} show different elevations. {urgency_phrase} {deadline_phrase}",
+        "Per {spec_section}, the {plumbing_item} at {room_name} is unclear relative to the ceiling condition in {doc_b}. {cost_phrase} {schedule_phrase}",
+        "We need clarification on the {plumbing_item} condition at {room_name} before proceeding with installation. {urgency_phrase} {cost_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa"],
+      "body_variants": [
+        "Locate the {plumbing_item} per {doc_b}; disregard the conflicting note in {doc_a}. {cost_phrase} {schedule_phrase}",
+        "The intended condition for the {plumbing_item} at {room_name} is per {spec_section}; proceed accordingly.",
+        "Confirmed -- {doc_b} governs for the {plumbing_item} near {room_name}. {schedule_phrase}"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "22 00 00 (Plumbing)",
+    "question_summary_variants": [
+      "Inconsistent detailing of the {plumbing_item} at {room_name} between {doc_a} and {doc_b}.",
+      "Location of the {plumbing_item} near {room_name} is unclear between {doc_a} and {doc_b}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend {doc_b} govern and issue a coordination sketch reflecting the resolved condition."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"cost_impact": true, "schedule_impact": true},
+      "assigned_reviewer": "Owner's Representative",
+      "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Plumbing/Fire Protection Engineer looped in as technical reviewer.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "Default discipline routing would keep this with the Plumbing/Fire Protection Engineer; this project's delegation letter pulls the owner's rep in whenever both cost and schedule are affected, regardless of discipline."
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+      "routing_rationale": "Default discipline routing: the Plumbing/Fire Protection Engineer resolves design clarifications affecting plumbing work.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0148",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Shop drawings for the Section 08 44 13 curtain wall corner mullion do not match the field mockup; confirm which governs (mockup vs contract detail).",
+  "referenced_documents": [
+    "Section 08 44 13 \u2013 Curtain Wall",
+    "Curtain wall mullion detail at building corner (Contract Drawings)",
+    "Curtain wall shop drawings",
+    "Field mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As this is an Architectural curtain wall coordination issue without urgent schedule risk, it should be decided by the Architect of Record.",
+  "escalation": false,
+  "confidence": 0.74,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

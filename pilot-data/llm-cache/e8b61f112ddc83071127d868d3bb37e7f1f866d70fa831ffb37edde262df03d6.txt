@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Design Conflict / Drawing Coordination",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Mechanical", "Architectural"],
+  "csi_division": "Division 05 - Metals",
+  "urgency": "high",
+  "question_summary": "Conflict between shear wall hold-down location on S-301 at Gridline B/2 and Structural Detail 3/S502, which is further complicated by mechanical ductwork and architectural ceiling framing routing shown in that detail; submitter needs confirmation on which document governs before steel fabrication release.",
+  "referenced_documents": ["Sheet S-301", "Structural Detail 3/S502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three weeks would let us keep the erection sequence on track.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The core conflict involves a shear wall hold-down detail governed by structural drawings, requiring the Structural EOR to issue a definitive resolution and coordinate with MEP/architectural trades.",
+  "escalation": true,
+  "confidence": 0.72
+}

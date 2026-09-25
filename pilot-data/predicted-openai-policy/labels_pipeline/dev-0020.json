@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0020",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Curtain wall panel at Gridline C/4 shows conflicting head/jamb detail between A-301 and Door/Window Schedule A-601; which detail governs for shop drawings?",
+  "referenced_documents": [
+    "Sheet A-301",
+    "Sheet A-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three calendar days would help us hold the current shop drawing schedule.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an architectural detail/schedule conflict, so it should be resolved by the Architect of Record.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

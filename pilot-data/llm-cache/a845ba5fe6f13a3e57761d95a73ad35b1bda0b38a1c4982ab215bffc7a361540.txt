@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Field Coordination/Clash",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "21 - Fire Suppression",
+  "urgency": "Urgent",
+  "question_summary": "Standpipe riser at Room 214 conflicts with structural bracing; not shown on Detail 3/FP502. Direction needed to clear the conflict and proceed.",
+  "referenced_documents": ["Fire Protection Detail 3/FP502", "Reroute sketch issued 2025-04-18", "Inspection log (last month)"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Fire Protection Engineer of Record",
+  "routing_rationale": "Primary issue is a standpipe routing conflict requiring fire protection design direction with structural coordination.",
+  "escalation": true,
+  "confidence": 0.78
+}

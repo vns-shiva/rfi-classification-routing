@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document Coordination Conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 08 - Openings",
+  "urgency": "high",
+  "question_summary": "Shop drawings for the storefront glazing system at the entry vestibule do not match the field mockup, and confirmation is needed on which governs before fabrication proceeds.",
+  "referenced_documents": ["Section 08 41 13 - Storefront Glazing", "Field Mockup"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect",
+  "routing_rationale": "The conflict involves storefront glazing details governed by architectural specifications and mockup approval, requiring architect clarification.",
+  "escalation": false,
+  "confidence": 0.78
+}

@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0007",
+  "template_id": "t07_code_compliance_general_dev",
+  "cell": {
+    "split": "dev",
+    "rfi_type": "code_compliance_question",
+    "primary_discipline": "General",
+    "urgency": "priority",
+    "cost_impact": false,
+    "schedule_impact": true,
+    "deadline_family": "none",
+    "adversarial": "type_ambiguity",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 12406262547101415589,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Harborview Logistics Center",
+  "doc_a": "Project Specifications Division 00",
+  "doc_b": "General Conditions Article 3",
+  "date_submitted": "2025-03-18"
+}

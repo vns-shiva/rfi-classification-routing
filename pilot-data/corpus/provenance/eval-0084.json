@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0084",
+  "template_id": "t13_document_discrepancy_electrical_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "document_discrepancy",
+    "primary_discipline": "Electrical",
+    "urgency": "routine",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "ambiguous",
+    "adversarial": "none",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 12912968869303973677,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Cedar Grove Elementary Addition",
+  "doc_a": "One-Line Diagram E-002",
+  "doc_b": "Sheet E-501",
+  "date_submitted": "2025-06-14"
+}

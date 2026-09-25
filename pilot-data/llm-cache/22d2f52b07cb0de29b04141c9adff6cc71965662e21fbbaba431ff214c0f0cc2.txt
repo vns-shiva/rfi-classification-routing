@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Conflict between contract documents",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 - Concrete",
+  "urgency": "High",
+  "question_summary": "Conflict between Structural General Notes S-001 and Foundation Plan S-101 regarding column baseplate reinforcement/dowels; confirm which detail governs (#6 dowels at 12\" o.c.).",
+  "referenced_documents": ["Structural General Notes S-001", "Foundation Plan S-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "We need direction by end of day Wednesday.",
+  "assigned_reviewer": "Structural Engineer of Record (SER)",
+  "routing_rationale": "Design clarification is required to resolve a conflict between structural notes and the foundation plan, which falls under the SER’s authority.",
+  "escalation": false,
+  "confidence": 0.86
+}

@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0162",
+  "template_id": "t21_field_condition_electrical_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "field_condition_conflict",
+    "primary_discipline": "Electrical",
+    "urgency": "routine",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "relative_days",
+    "adversarial": "none",
+    "thread_shape": "resubmittal"
+  },
+  "variant_index": 0,
+  "seed": 15777591337114035477,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0,
+    "resubmittal": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Riverside Medical Office Building",
+  "doc_a": "One-Line Diagram E-002",
+  "doc_b": "Sheet E-501",
+  "date_submitted": "2025-04-25"
+}

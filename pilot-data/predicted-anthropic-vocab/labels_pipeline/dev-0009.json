@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0009",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "routine",
+  "question_summary": "Retaining wall elevation at Pour 3 differs between Grading Plan C-201 and Utility Plan C-301; clarification requested on which to follow.",
+  "referenced_documents": [
+    "Grading Plan C-201",
+    "Utility Plan C-301"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The discrepancy involves civil site plans (grading and utility), making the Civil Engineer the appropriate reviewer.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0200",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0200",
+  "date_submitted": "2025-08-04",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Discrepancy in the Section 26 05 33 conduit routing between Sheet E-501 and Electrical",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Chris Boone",
+      "timestamp": "2025-08-04T07:47",
+      "message_type": "initial_question",
+      "text": "Coordination review turned up a mismatch on the Section 26 05 33 conduit routing between Electrical Panel Schedule E-601 and Sheet E-501 -- can you confirm which is correct before we release for fabrication? This is routine and can be worked into the normal submittal cycle. No cost impact is anticipated. No schedule impact is expected. Please respond before the electrical rough-in inspection. There isn't a real deadline we can set from here; it's contingent on the coordination model update, which doesn't have a scheduled release."
+    }
+  ]
+}

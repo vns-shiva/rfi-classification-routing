@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0019",
+  "rfi_type": "Conflict between documents / coordination clarification",
+  "primary_discipline": "Mechanical (HVAC)",
+  "secondary_disciplines": [],
+  "csi_division": "23",
+  "urgency": "urgent",
+  "question_summary": "There is a conflict between Sheet M-401 and Mechanical Schedule M-601 regarding Section 23 74 00 equipment clearance near T-1; requester seeks confirmation that the directive to follow M-601 applies throughout the area, not just at T-1.",
+  "referenced_documents": [
+    "Sheet M-401",
+    "Mechanical Schedule M-601",
+    "Section 23 74 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "Mechanical design authority is required to resolve the discrepancy between mechanical documents and confirm area-wide applicability and addendum scope.",
+  "escalation": true,
+  "confidence": 0.79,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

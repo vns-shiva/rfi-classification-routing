@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0123",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Shop drawings for the entry vestibule storefront glazing system (Section 08 41 13) do not match the built field mockup; submitter asks which should govern.",
+  "referenced_documents": [
+    "Section 08 41 13 storefront glazing shop drawings",
+    "field mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "no specific deadline for this, but a timely response is appreciated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The Architect of Record holds authority over storefront glazing design intent and must determine whether the shop drawings or the built mockup governs.",
+  "escalation": false,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

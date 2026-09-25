@@ -1,0 +1,18 @@
+{
+  "rfi_type": "substitution request",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23",
+  "urgency": "medium",
+  "question_summary": "Submitter requests approval to substitute a fan-powered VAV box in lieu of the specified single-duct VAV terminal unit under Section 23 09 00, citing lead time concerns.",
+  "referenced_documents": ["Section 23 09 00"],
+  "proposed_solution": "Substitute a fan-powered alternate VAV box in lieu of the specified single-duct VAV terminal unit.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The request involves substituting HVAC terminal equipment specified in Division 23, requiring review and approval by the Mechanical Engineer of Record.",
+  "escalation": false,
+  "confidence": 0.82
+}

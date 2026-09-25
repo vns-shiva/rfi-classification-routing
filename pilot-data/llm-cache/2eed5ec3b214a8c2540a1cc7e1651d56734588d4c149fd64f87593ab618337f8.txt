@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Coordination/Clash",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Landscape Architecture"],
+  "csi_division": "33 - Utilities",
+  "urgency": "High",
+  "question_summary": "Resolve conflict between site utility trench and proposed landscaping at Pour 3 per Grading Plan C-201 and Detail 2/C501; request direction to proceed.",
+  "referenced_documents": ["Grading Plan C-201", "Civil Detail 2/C501", "Attached site coordination sketch"],
+  "proposed_solution": "Revise per the attached site coordination sketch to resolve the trench and landscaping conflict at Pour 3.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the site crew moving.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The conflict arises from civil utility and grading layouts versus landscaping, requiring the Civil EOR to issue or approve the revision.",
+  "escalation": false,
+  "confidence": 0.86
+}

@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0113",
+  "rfi_type": "substitution_request",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00 (Plumbing)",
+  "urgency": "urgent",
+  "question_summary": "Request to approve ABS DWV piping as a substitution for specified no-hub cast-iron soil piping per Spec Section 22 13 16.",
+  "referenced_documents": [
+    "Spec Section 22 13 16 Sanitary Waste and Vent Piping",
+    "Product cut sheet (ABS DWV)",
+    "Third-party listing/certification (ABS DWV)"
+  ],
+  "proposed_solution": "Approve ABS DWV piping in lieu of specified no-hub cast-iron soil piping per attached cut sheet and listing.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response by the end of the day would let us keep the order on track.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a substitution affecting the plumbing system, it should be reviewed by the Plumbing/Fire Protection Engineer of record for compliance with specifications and applicable codes.",
+  "escalation": true,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

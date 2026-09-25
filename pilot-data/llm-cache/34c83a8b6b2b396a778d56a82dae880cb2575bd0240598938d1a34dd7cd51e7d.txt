@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field condition conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "Division 26 - Electrical",
+  "urgency": "high",
+  "question_summary": "Field-discovered conduit routing conflict at Lobby 101 not shown on Electrical Detail 2/E502 or One-Line Diagram E-002; contractor requests direction and later asks if a revised detail is required.",
+  "referenced_documents": ["Electrical Detail 2/E502", "One-Line Diagram E-002"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "end of day",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The conflict involves conduit routing shown on electrical details and one-line diagrams, requiring the Electrical EOR to confirm rerouting and whether a formal detail revision is needed.",
+  "escalation": false,
+  "confidence": 0.78
+}

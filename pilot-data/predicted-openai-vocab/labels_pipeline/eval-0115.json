@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0115",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "Mechanical",
+    "Electrical",
+    "Plumbing"
+  ],
+  "csi_division": "05 00 00 (Metals)",
+  "urgency": "priority",
+  "question_summary": "Resolve clash at Gridline C/4 where roof structure bracing conflicts with rooftop mechanical equipment curb, adjacent electrical conduit rack, and roof drain plumbing leader to enable fabrication release.",
+  "referenced_documents": [
+    "Revised coordination model (attached)"
+  ],
+  "proposed_solution": "Proceed per the attached revised coordination model reflecting a resolved arrangement at Gridline C/4.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within two weeks so we can keep fabrication on track.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The clash involves roof structural bracing that likely requires structural redesign and a coordination sketch.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

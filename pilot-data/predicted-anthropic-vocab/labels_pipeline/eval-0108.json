@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0108",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Shop drawings for the entry vestibule storefront glazing system (Section 08 41 13) do not match the built field mockup; submitter asks which governs prior to submittal deadline.",
+  "referenced_documents": [
+    "Section 08 41 13 storefront glazing system shop drawings",
+    "field mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The storefront glazing system falls under Architectural openings (CSI 08 00 00), so the Architect of Record should resolve the discrepancy between shop drawings and the field mockup.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

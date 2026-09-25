@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0193",
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Document coordination conflict on the Section 08 51 13 aluminum window frame detail at the corner window.",
+  "referenced_documents": [
+    "Door and Window Schedule A-601",
+    "Detail 5/A501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within three days",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Default discipline routing: the Architect of Record resolves design clarifications affecting architectural work.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-04-30",
+  "deadline_resolution_status": "resolved_to_date"
+}

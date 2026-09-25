@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0198",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0198",
+  "date_submitted": "2025-09-04",
+  "submitted_by_role": "Assistant Project Manager",
+  "subject": "Document coordination conflict on the Section 08 51 13 aluminum window frame detail at",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Assistant Project Manager",
+      "sender_name": "Alicia Stone",
+      "timestamp": "2025-09-04T12:00",
+      "message_type": "initial_question",
+      "text": "Shop drawings for the Section 08 51 13 aluminum window frame detail at the corner window are ready to submit, but what's shown doesn't match what's built out in the field mockup -- can you confirm which governs? This is becoming a priority as fabrication approaches. No cost impact is anticipated. This could affect the submittal review schedule. No hard deadline, just would like to keep this moving. We can't tell if this is a deliberate design call or just a coordination slip in how it was documented."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-09-07T07:13",
+      "message_type": "response",
+      "text": "Sheet A-201 is the condition to build to for the Section 08 51 13 aluminum window frame detail at the corner window; we'll reconcile Sheet A-301 by addendum. No cost impact is anticipated. This could affect the submittal review schedule."
+    }
+  ]
+}

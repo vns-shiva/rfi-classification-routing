@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "routine",
+  "question_summary": "Curtain wall mullion detail at building corner (Section 08 44 13) shown in shop drawings does not match the field mockup; submitter asks which governs before proceeding with submittal.",
+  "referenced_documents": ["Section 08 44 13", "Door and Window Schedule A-601", "Detail 5/A501"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict concerns curtain wall/opening detailing under Division 08, which falls under the Architect of Record's design authority to resolve and reconcile via addendum.",
+  "escalation": false,
+  "confidence": 0.85
+}

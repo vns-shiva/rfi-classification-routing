@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0009",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "routine",
+  "question_summary": "Discrepancy between Grading Plan C-201 and Utility Plan C-301 on the site retaining wall condition at Pour 3.",
+  "referenced_documents": [
+    "Grading Plan C-201",
+    "Utility Plan C-301"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond at your earliest convenience.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "Default discipline routing: the Civil Engineer resolves document discrepancies affecting site/civil work.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

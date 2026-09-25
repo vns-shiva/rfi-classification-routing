@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "routine",
+  "question_summary": "Storefront glazing system (Section 08 41 13) shop drawings for the entry vestibule do not match the built field mockup; submitter asks which document governs and whether the mismatch is intentional or a documentation error.",
+  "referenced_documents": ["Section 08 41 13", "Sheet A-201", "Door and Window Schedule A-601"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict concerns storefront glazing design intent and schedule/sheet coordination, which falls under the Architect of Record's authority.",
+  "escalation": false,
+  "confidence": 0.9
+}

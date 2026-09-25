@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "31 00 00",
+  "urgency": "priority",
+  "question_summary": "Submitter asked whether the civil inspector can sign off on utility trench backfill cover at Placement Zone 2, since the geotechnical report doesn't clearly address the Section 31 23 00 minimum cover requirement, ahead of compaction testing.",
+  "referenced_documents": ["Section 31 23 00", "Geotechnical Report", "Grading Plan C-201"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": true,
+  "deadline_text": "A response within three days",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The question concerns minimum cover requirements for underground utility trench backfill, which falls under civil site utility work best confirmed by the Civil Engineer.",
+  "escalation": false,
+  "confidence": 0.78
+}
+```

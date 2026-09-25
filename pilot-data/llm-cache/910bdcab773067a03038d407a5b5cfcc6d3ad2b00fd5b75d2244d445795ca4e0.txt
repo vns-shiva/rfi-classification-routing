@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Coordination/Clash Resolution",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Mechanical", "Electrical", "Plumbing"],
+  "csi_division": "05 - Metals",
+  "urgency": "High",
+  "question_summary": "Clash at Gridline B/2 where a structural steel beam conflicts with mechanical ductwork, electrical conduit rack, and plumbing riser; requesting direction/approval of coordination sketch to clear conflicts and keep steel fabrication on track.",
+  "referenced_documents": ["Structural Detail 3/S502", "Structural General Notes S-001", "Attached coordination sketch (beam/MEP at Grid B/2)"],
+  "proposed_solution": "Implement the attached coordination sketch to adjust the steel beam and reroute M/E/P to resolve the conflicts at Gridline B/2.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within two weeks so we can keep fabrication on track.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "Resolution requires modification/approval of structural steel framing and coordinated MEP changes, which must be directed by the Structural Engineer of Record.",
+  "escalation": true,
+  "confidence": 0.84
+}

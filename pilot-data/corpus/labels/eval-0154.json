@@ -1,0 +1,23 @@
+{
+  "thread_id": "eval-0154",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "General",
+  "secondary_disciplines": [],
+  "csi_division": "\u2014",
+  "urgency": "priority",
+  "question_summary": "Direction requested on existing wall condition inconsistent with the drawings near Mechanical Room 3B.",
+  "referenced_documents": [],
+  "proposed_solution": "Recommend a change order to address existing wall condition inconsistent with the drawings.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "next week",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Default discipline routing: with no discipline-specific trade implicated, the Architect of Record fields the field condition.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-05-09",
+  "deadline_resolution_status": "resolved_to_date"
+}

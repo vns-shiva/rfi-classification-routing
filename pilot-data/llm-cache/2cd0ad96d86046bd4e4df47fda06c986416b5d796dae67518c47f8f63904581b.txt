@@ -1,0 +1,23 @@
+{
+  "rfi_type": "Document discrepancy/coordination",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 - Heating, Ventilating, and Air Conditioning",
+  "urgency": "Medium (requested within 3 business days)",
+  "question_summary": "Conflicting requirements between Mechanical Detail 4/M501 and Mechanical Schedule M-601 for Section 23 74 00 equipment clearance at/around RTU-2; requester asks which to follow and whether the direction applies beyond RTU-2.",
+  "referenced_documents": [
+    "Mechanical Detail 4/M501",
+    "Mechanical Schedule M-601",
+    "Section 23 74 00",
+    "RTU-2"
+  ],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "This is a mechanical document conflict regarding HVAC equipment clearances and requires design intent confirmation by the mechanical EOR.",
+  "escalation": false,
+  "confidence": 0.82
+}

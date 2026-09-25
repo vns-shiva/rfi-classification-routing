@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0094",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0094",
+  "date_submitted": "2025-07-27",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Discrepancy in the Section 26 27 26 receptacle mounting height between Sheet E-501 and",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Chris Boone",
+      "timestamp": "2025-07-27T14:34",
+      "message_type": "initial_question",
+      "text": "Coordination review turned up a mismatch on the Section 26 27 26 receptacle mounting height between Electrical Panel Schedule E-601 and Sheet E-501 -- can you confirm which is correct before we release for fabrication? This is routine and can be worked into the normal submittal cycle. No cost impact is anticipated. This is holding up rough-in in this area. Please respond at your earliest convenience."
+    }
+  ]
+}

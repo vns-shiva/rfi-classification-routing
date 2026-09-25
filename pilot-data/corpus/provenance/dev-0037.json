@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0037",
+  "template_id": "t06_design_clarification_plumbing_dev",
+  "cell": {
+    "split": "dev",
+    "rfi_type": "design_clarification",
+    "primary_discipline": "Plumbing",
+    "urgency": "priority",
+    "cost_impact": false,
+    "schedule_impact": true,
+    "deadline_family": "none",
+    "adversarial": "none",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 17340570499349046543,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Riverside Medical Office Building",
+  "doc_a": "Plumbing Fixture Schedule P-602",
+  "doc_b": "Plumbing Riser Diagram P-501",
+  "date_submitted": "2025-07-12"
+}

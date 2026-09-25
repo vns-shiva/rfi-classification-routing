@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0040",
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "General",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "\u2014",
+  "urgency": "priority",
+  "question_summary": "Confirmation needed on whether the occupancy separation rating specified in Project Manual Section 01 00 00 complies with the code edition referenced in Section 26 05 00.",
+  "referenced_documents": [
+    "Project Manual Section 01 00 00",
+    "Project Manual Section 26 05 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Code Official/AHJ Liaison",
+  "routing_rationale": "Occupancy separation ratings are code-compliance matters requiring independent verification against the adopted code edition; the AHJ Liaison can definitively confirm compliance and resolve any ambiguity between design intent and code reading.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "annotator_b",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

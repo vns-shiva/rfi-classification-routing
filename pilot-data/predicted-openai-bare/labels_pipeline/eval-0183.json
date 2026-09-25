@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0183",
+  "rfi_type": "Product substitution request",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [
+    "Electrical",
+    "Architecture"
+  ],
+  "csi_division": "22 - Plumbing",
+  "urgency": "Normal",
+  "question_summary": "Request to substitute a tankless water heater in lieu of the specified storage-type unit in Spec Section 22 34 00 and obtain approval prior to ordering.",
+  "referenced_documents": [
+    "Section 22 34 00"
+  ],
+  "proposed_solution": "Substitute a tankless water heater in place of the specified storage-type water heater, with equivalent performance and code-compliance.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response by the end of the day would let us keep the order on track.",
+  "assigned_reviewer": "Plumbing Engineer of Record",
+  "routing_rationale": "The Plumbing Engineer of Record is responsible for approving substitutions affecting domestic water heating performance and code compliance.",
+  "escalation": false,
+  "confidence": 0.83,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

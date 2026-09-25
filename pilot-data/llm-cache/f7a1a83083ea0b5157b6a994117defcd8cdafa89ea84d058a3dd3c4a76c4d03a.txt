@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Field condition/coordination conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "26 — Electrical",
+  "urgency": "Normal (5 days)",
+  "question_summary": "Existing electrical panel location in Electrical Closet 2A conflicts with new wall framing; request approval/direction to relocate/reroute per sketch.",
+  "referenced_documents": ["One-Line Diagram E-002", "Attached sketch resolving panel conflict at Electrical Closet 2A", "Field log entry 2025-03-09"],
+  "proposed_solution": "Relocate/reroute the panel and associated conduits per the attached sketch to clear the new wall framing, maintaining lockout until approved.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The Electrical Engineer of Record must approve revisions to panel location and one-line/routing to resolve the conflict.",
+  "escalation": false,
+  "confidence": 0.77
+}

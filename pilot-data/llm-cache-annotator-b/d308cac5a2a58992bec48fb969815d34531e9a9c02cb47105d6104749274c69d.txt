@@ -1,0 +1,23 @@
+```json
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Plumbing",
+  "secondary_disciplines": [],
+  "csi_division": "22 00 00",
+  "urgency": "priority",
+  "question_summary": "Sanitary vent stack detailing for Room 214 is inconsistent between Plumbing Fixture Schedule P-602 and Plumbing Riser Diagram P-501; clarification needed before rough-in inspection.",
+  "referenced_documents": [
+    "Plumbing Fixture Schedule P-602",
+    "Plumbing Riser Diagram P-501"
+  ],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The Plumbing/Fire Protection Engineer must reconcile the conflicting vent stack details between the two plumbing documents and issue clarification before rough-in inspection proceeds.",
+  "escalation": false,
+  "confidence": 0.92
+}
+```

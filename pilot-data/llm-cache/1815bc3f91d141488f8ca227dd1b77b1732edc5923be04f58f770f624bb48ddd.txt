@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00",
+  "urgency": "urgent",
+  "question_summary": "Reinforcement detail on Sheet S-301 conflicts with revised bar splice shown in Structural Detail 3/S502 for the transfer beam; field wants confirmation the revised splice applies to all transfer beams on the level before the next concrete pour.",
+  "referenced_documents": ["Sheet S-301", "Structural Detail 3/S502"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "respond by Thursday, ahead of Friday's pour",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The conflict involves structural reinforcement detailing, so it is routed to the Structural Engineer of record for resolution.",
+  "escalation": true,
+  "confidence": 0.88
+}
+```

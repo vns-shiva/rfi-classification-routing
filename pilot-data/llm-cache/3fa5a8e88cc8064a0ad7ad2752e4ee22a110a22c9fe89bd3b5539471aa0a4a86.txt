@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field condition",
+  "primary_discipline": "electrical",
+  "secondary_disciplines": ["architectural"],
+  "csi_division": "Division 26 - Electrical",
+  "urgency": "high",
+  "question_summary": "Junction box location at Lobby 101 conflicts with the ceiling grid layout, discovered in the field and not reflected on One-Line Diagram E-002; circuit was de-energized pending resolution.",
+  "referenced_documents": ["One-Line Diagram E-002"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The conflict involves electrical junction box routing that requires engineering sign-off on a revised sketch, making the Electrical Engineer of Record the appropriate reviewer.",
+  "escalation": false,
+  "confidence": 0.78
+}

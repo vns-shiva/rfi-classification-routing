@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Conflict between storefront glazing shown on A-201 and the Door and Window Schedule A-601 versus the field mockup; which governs for the entry vestibule?",
+  "referenced_documents": ["Section 08 41 13 Storefront Glazing", "Sheet A-201", "Door and Window Schedule A-601", "Storefront Shop Drawings", "Field Mockup"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an Architectural document discrepancy for storefront glazing, so it should be decided by the Architect of Record.",
+  "escalation": false,
+  "confidence": 0.86
+}

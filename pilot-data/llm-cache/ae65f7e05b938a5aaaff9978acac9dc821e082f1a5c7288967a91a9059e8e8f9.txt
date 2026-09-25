@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Drawing discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 — Electrical",
+  "urgency": "normal",
+  "question_summary": "Confirm correct receptacle mounting height for Section 26 27 26 where Sheet E-501 conflicts with Electrical Detail 2/E502 near DP-3.",
+  "referenced_documents": ["Sheet E-501", "Detail 2/E502", "Section 26 27 26"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond at your earliest convenience.",
+  "assigned_reviewer": "Electrical Engineer of Record (EOR)",
+  "routing_rationale": "The issue is a conflict between electrical drawings regarding wiring device mounting heights and requires EOR clarification and revision.",
+  "escalation": false,
+  "confidence": 0.86
+}

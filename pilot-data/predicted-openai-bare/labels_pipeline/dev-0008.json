@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0008",
+  "rfi_type": "Detail/coordination discrepancy",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": [],
+  "csi_division": "Division 21 - Fire Suppression",
+  "urgency": "High",
+  "question_summary": "Detail 3/FP502 for the Mechanical Room 3B FDC piping conflicts with the FP-501 fire sprinkler riser diagram; request direction to reconcile before issuing shop drawings and proceeding with hydrostatic test.",
+  "referenced_documents": [
+    "Detail 3/FP502",
+    "FP-501 Fire Sprinkler Riser Diagram"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "There's no hard deadline on this, but a timely response is appreciated.",
+  "assigned_reviewer": "Fire Protection Engineer of Record",
+  "routing_rationale": "As the discrepancy is between fire protection details and the riser diagram, the Fire Protection EOR is responsible for clarifying design intent and issuing direction.",
+  "escalation": false,
+  "confidence": 0.73,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

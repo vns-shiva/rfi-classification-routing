@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0099",
+  "template_id": "t13_document_discrepancy_electrical_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "document_discrepancy",
+    "primary_discipline": "Electrical",
+    "urgency": "routine",
+    "cost_impact": false,
+    "schedule_impact": true,
+    "deadline_family": "event_anchored",
+    "adversarial": "none",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 2134128343255071901,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Harborview Logistics Center",
+  "doc_a": "Electrical Panel Schedule E-601",
+  "doc_b": "One-Line Diagram E-002",
+  "date_submitted": "2025-06-26"
+}

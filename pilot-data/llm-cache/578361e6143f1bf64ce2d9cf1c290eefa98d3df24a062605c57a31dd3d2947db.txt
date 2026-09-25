@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00",
+  "urgency": "routine",
+  "question_summary": "Detailer identified a mismatch in the Section 26 51 00 light fixture type between One-Line Diagram E-002 and Sheet E-501, and requests confirmation of the correct fixture type before fabrication release.",
+  "referenced_documents": ["One-Line Diagram E-002", "Sheet E-501"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "no rush on this -- please respond when convenient",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The discrepancy involves electrical lighting fixture specifications across electrical drawings, requiring the Electrical Engineer to confirm the correct fixture type.",
+  "escalation": false,
+  "confidence": 0.85
+}

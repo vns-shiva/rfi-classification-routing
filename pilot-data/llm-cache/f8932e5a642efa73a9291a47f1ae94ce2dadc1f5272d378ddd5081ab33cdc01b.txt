@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "31 00 00",
+  "urgency": "routine",
+  "question_summary": "Discrepancy between Grading Plan C-201 and Utility Plan C-301 regarding the elevation of the site retaining wall near Pour Sequence 4.",
+  "referenced_documents": ["Grading Plan C-201", "Utility Plan C-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "at your earliest convenience",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The discrepancy involves grading and utility plans, which fall under civil engineering scope and require the Civil Engineer's resolution.",
+  "escalation": false,
+  "confidence": 0.85
+}

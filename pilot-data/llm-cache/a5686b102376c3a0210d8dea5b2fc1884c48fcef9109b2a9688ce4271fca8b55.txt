@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Field condition conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "26 — Electrical",
+  "urgency": "Routine",
+  "question_summary": "Existing electrical panel in Electrical Closet 2A conflicts with new wall framing; not shown on Sheet E-501. Request direction on panel/wall adjustment to proceed.",
+  "referenced_documents": ["Sheet E-501"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The issue concerns electrical equipment location and requires the Electrical EOR’s direction and coordination with architectural wall layout.",
+  "escalation": false,
+  "confidence": 0.81
+}

@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0034",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Fire_Protection"
+  ],
+  "csi_division": "32 00 00 (Exterior Improvements)",
+  "urgency": "routine",
+  "question_summary": "Paving layout on Sheet C-101 conflicts with required fire lane turning radius per Utility Plan C-301 at Placement Zone 2; clarification and coordinated revision needed.",
+  "referenced_documents": [
+    "Sheet C-101",
+    "Utility Plan C-301",
+    "attached site coordination sketch"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "Issue concerns site paving and fire lane geometry requiring civil site plan coordination, with input from fire protection standards.",
+  "escalation": false,
+  "confidence": 0.79,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

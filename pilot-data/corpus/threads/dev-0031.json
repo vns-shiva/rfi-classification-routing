@@ -1,0 +1,18 @@
+{
+  "thread_id": "dev-0031",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0031",
+  "date_submitted": "2025-09-04",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Inconsistent detailing of the fire pump discharge piping at Electrical Closet 2A between",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Chris Boone",
+      "timestamp": "2025-09-04T15:00",
+      "message_type": "initial_question",
+      "text": "The fire pump discharge piping shown in Fire Protection Detail 3/FP502 at Electrical Closet 2A isn't detailed consistently with Fire Alarm Riser Diagram FA-501 -- need direction before we release the sprinkler shop drawings. This is becoming a priority as sprinkler rough-in proceeds toward the fire marshal walkthrough. No cost impact is anticipated. This isn't holding up any current sprinkler work. There's no hard deadline on this, but a timely response is appreciated."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "routine",
+  "question_summary": "Confirm whether Section 31 20 00 compaction density for structural fill under the building pad on Civil Detail 2/C501 aligns with the geotechnical report requirements for this area.",
+  "referenced_documents": ["Specification Section 31 20 00", "Civil Detail 2/C501", "Geotechnical Report", "Detail 6/C-601"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "Please respond within five days so we can schedule the civil inspection.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "As a design clarification concerning earthwork requirements, it should be answered by the Civil Engineer of record.",
+  "escalation": false,
+  "confidence": 0.88
+}

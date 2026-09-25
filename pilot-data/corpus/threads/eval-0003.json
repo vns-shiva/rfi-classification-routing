@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0003",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0003",
+  "date_submitted": "2025-08-25",
+  "submitted_by_role": "Assistant Project Manager",
+  "subject": "Confirmation requested on the Section 31 50 00 setback requirement for the excavation",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Assistant Project Manager",
+      "sender_name": "Kevin Cho",
+      "timestamp": "2025-08-25T15:08",
+      "message_type": "initial_question",
+      "text": "At Placement Zone 2, the geotechnical report doesn't clearly speak to the Section 31 50 00 setback requirement for the excavation shoring near the property line -- can the civil inspector sign off on it as shown? This is becoming more pressing as backfill work approaches. A response within three days would help us stay ahead of the compaction testing."
+    }
+  ]
+}

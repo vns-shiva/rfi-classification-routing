@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00",
+  "urgency": "priority",
+  "question_summary": "Submitter asks which document governs for the Section 08 71 00 interior door hardware set at the stair enclosure, since the shop drawings do not match the field mockup, prior to submittal.",
+  "referenced_documents": ["Section 08 71 00", "Door and Window Schedule A-601", "Sheet A-301"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": true,
+  "deadline_text": "ahead of the next submittal deadline",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As a document discrepancy involving door hardware (Division 08), it is routed to the Architect of Record, the design professional responsible for that scope.",
+  "escalation": true,
+  "confidence": 0.82
+}

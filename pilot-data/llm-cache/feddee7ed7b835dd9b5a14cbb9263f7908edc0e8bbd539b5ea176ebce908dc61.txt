@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00",
+  "urgency": "routine",
+  "question_summary": "Junction box location at Electrical Closet 2A conflicts with ceiling grid layout, not reflected in One-Line Diagram E-002; field verified resolution per revised sketch pending final confirmation.",
+  "referenced_documents": ["One-Line Diagram E-002", "field log 2025-04-25", "revised routing sketch"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As a routine field condition conflict without schedule or cost impact and low urgency, it routes to the Electrical Engineer as design professional of record for the discipline.",
+  "escalation": false,
+  "confidence": 0.85
+}

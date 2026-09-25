@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0154",
+  "rfi_type": "Existing conditions conflict with drawings",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Structural",
+    "Mechanical"
+  ],
+  "csi_division": "09 \u2014 Finishes",
+  "urgency": "Medium",
+  "question_summary": "Existing wall near Mechanical Room 3B does not match the drawings; contractor requests direction and sign-off on a permanent fix before proceeding.",
+  "referenced_documents": [
+    "Contract Drawings \u2013 Architectural plans around Mechanical Room 3B"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Architectural is responsible for wall assemblies and approving deviations from the drawings, with potential coordination to structural and mechanical.",
+  "escalation": false,
+  "confidence": 0.63,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

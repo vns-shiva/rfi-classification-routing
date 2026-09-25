@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0177",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "urgent",
+  "question_summary": "An unforeseen underground obstruction was discovered at Pour Sequence 4, differing from the assumed subsurface condition; the field team asks whether a local layout shift is acceptable or if engineering review is required before proceeding.",
+  "referenced_documents": [
+    "Project Specifications Division 00"
+  ],
+  "proposed_solution": "Shift the layout locally at the obstruction and hold everything else per the original plan.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The issue involves an unforeseen underground/subsurface obstruction impacting site work, which falls under civil engineering scope and requires their review before altering layout.",
+  "escalation": true,
+  "confidence": 0.68,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

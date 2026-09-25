@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "31 00 00",
+  "urgency": "routine",
+  "question_summary": "Confirm whether the minimum cover requirement in Section 31 23 00 for underground utility trench backfill shown on Grading Plan C-201 is consistent with the geotechnical report's requirements for this area.",
+  "referenced_documents": ["Section 31 23 00", "Grading Plan C-201", "Geotechnical Report"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The RFI concerns earthwork/trench backfill cover requirements under CSI Division 31, which falls to the Civil Engineer of record per the default routing policy.",
+  "escalation": false,
+  "confidence": 0.78
+}

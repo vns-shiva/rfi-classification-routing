@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0073",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0073",
+  "date_submitted": "2025-08-25",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Document coordination conflict on the Section 08 51 13 aluminum window frame detail at",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-08-25T09:57",
+      "message_type": "initial_question",
+      "text": "Shop drawings for the Section 08 51 13 aluminum window frame detail at the corner window are ready to submit, but what's shown doesn't match what's built out in the field mockup -- can you confirm which governs? This is becoming a priority as fabrication approaches. There may be a cost impact if a change to the specified material is required. This could affect the submittal review schedule. No hard deadline, just would like to keep this moving."
+    }
+  ]
+}

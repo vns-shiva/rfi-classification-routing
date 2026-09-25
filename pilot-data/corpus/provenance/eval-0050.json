@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0050",
+  "template_id": "t15_substitution_plumbing_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "substitution_request",
+    "primary_discipline": "Plumbing",
+    "urgency": "routine",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "end_of",
+    "adversarial": "none",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 158086255370814496,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Riverside Medical Office Building",
+  "doc_a": "Plumbing Detail 6/P503",
+  "doc_b": "Sheet P-601",
+  "date_submitted": "2025-04-22"
+}

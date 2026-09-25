@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "routine",
+  "question_summary": "Sprinkler head spacing in Lobby 101 conflicts with the ceiling grid; confirm resolution and whether the reroute per attached sketch fully addresses the expanded extent.",
+  "referenced_documents": ["FP-501 Fire Sprinkler Riser Diagram", "Attached reroute sketch for Lobby 101", "Last month's inspection log"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep the crew moving.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "As a fire protection field conflict impacting sprinkler head layout, it should be resolved by the Fire Protection engineer of record.",
+  "escalation": false,
+  "confidence": 0.78
+}

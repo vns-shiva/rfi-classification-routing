@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0106",
+  "rfi_type": "Document Coordination Conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Curtain Wall/Glazing"
+  ],
+  "csi_division": "08 - Openings",
+  "urgency": "medium",
+  "question_summary": "Submitter asks which document governs for the curtain wall mullion detail at the building corner, since the shop drawings do not match the built field mockup.",
+  "referenced_documents": [
+    "Section 08 44 13",
+    "Sheet A-201",
+    "Door and Window Schedule A-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within five days",
+  "assigned_reviewer": "Architect",
+  "routing_rationale": "The conflict involves reconciling architectural drawings (A-201) and schedules (A-601) governing curtain wall detailing, which falls under the Architect's design authority.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": "2025-06-25",
+  "deadline_resolution_status": "resolved_to_date"
+}

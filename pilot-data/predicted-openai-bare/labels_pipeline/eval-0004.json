@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0004",
+  "rfi_type": "Clarification - Erosion control compliance",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Geotechnical"
+  ],
+  "csi_division": "31 - Earthwork",
+  "urgency": "Normal",
+  "question_summary": "Confirm whether the disturbed slope at Placement Zone 2 meets Section 31 25 00 erosion control requirements and can be signed off by the civil inspector as shown.",
+  "referenced_documents": [
+    "Section 31 25 00 Erosion and Sedimentation Controls",
+    "Civil Detail 2/C501",
+    "Geotechnical Report"
+  ],
+  "proposed_solution": "Civil inspector to sign off as shown for the disturbed slope area.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "Please respond within five days so we can schedule the civil inspection.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The clarification pertains to compliance with civil/site erosion control specs and details shown on C501.",
+  "escalation": false,
+  "confidence": 0.77,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

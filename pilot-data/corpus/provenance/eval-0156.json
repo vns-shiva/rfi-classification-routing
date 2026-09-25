@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0156",
+  "template_id": "t11_design_clarification_architectural_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "design_clarification",
+    "primary_discipline": "Architectural",
+    "urgency": "routine",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "none",
+    "adversarial": "none",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 557505367340433444,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Harborview Logistics Center",
+  "doc_a": "Door and Window Schedule A-601",
+  "doc_b": "Sheet A-301",
+  "date_submitted": "2025-08-28"
+}

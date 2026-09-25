@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Unforeseen field condition / coordination conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "26 — Electrical",
+  "urgency": "High",
+  "question_summary": "Existing electrical panel location in Mechanical Room 3B conflicts with new wall framing; not reflected on E-601. Direction/approval needed for revised panel location/routing and confirmation of change order.",
+  "referenced_documents": ["Electrical Panel Schedule E-601", "Field log (Mechanical Room 3B)", "Revised routing sketch (attached)"],
+  "proposed_solution": "Relocate/reroute the panel per the attached revised routing sketch.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "Design approval is required for relocating an electrical panel and validating the revised routing sketch.",
+  "escalation": false,
+  "confidence": 0.77
+}

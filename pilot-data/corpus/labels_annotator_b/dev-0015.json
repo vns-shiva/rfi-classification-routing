@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0015",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "priority",
+  "question_summary": "Elevation discrepancy between Grading Plan C-201 and Sheet C-101 for site retaining wall at Placement Zone 2; resolved by field verification and survey benchmark correction.",
+  "referenced_documents": [
+    "Grading Plan C-201",
+    "Sheet C-101"
+  ],
+  "proposed_solution": "Use elevation shown in Sheet C-101; Grading Plan C-201 to be corrected by addendum; site retaining wall matches C-101 once survey benchmark is corrected.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "at your earliest convenience",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "Civil Engineer leads earthwork and site grading design; Structural Engineer involvement secondary for retaining wall structural verification.",
+  "escalation": false,
+  "confidence": 0.92,
+  "status": "open",
+  "annotator": "annotator_b",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

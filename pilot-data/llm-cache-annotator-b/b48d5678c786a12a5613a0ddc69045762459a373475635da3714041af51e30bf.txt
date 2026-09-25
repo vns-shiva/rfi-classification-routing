@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Mechanical", "Architectural"],
+  "csi_division": "03 00 00",
+  "urgency": "critical",
+  "question_summary": "Cast-in anchor bolt group location at Gridline E/9 on Foundation Plan S-101 conflicts with mechanical ductwork and architectural ceiling framing routing on Sheet S-301; clarification needed on which plan controls before steel fabrication release.",
+  "referenced_documents": ["Foundation Plan S-101", "Sheet S-301"],
+  "proposed_solution": "Revise the cast-in anchor bolt group per Sheet S-301 and coordinate final dimensions with affected trades before fabrication.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "before the next steel erection mobilization",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The Structural Engineer must resolve the foundation anchor bolt conflict and coordinate with Mechanical and Architectural disciplines to establish a unified design before steel fabrication proceeds.",
+  "escalation": true,
+  "confidence": 0.92
+}
+```

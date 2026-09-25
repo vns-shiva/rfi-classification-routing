@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Conflicting shear wall reinforcement between Foundation Plan S-101 and Sheet S-301; need direction on which detail governs before next pour.",
+  "referenced_documents": ["Foundation Plan S-101", "Sheet S-301"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "We need direction by end of day Wednesday.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "Conflict between structural sheets regarding shear wall reinforcement requires resolution by the Structural Engineer.",
+  "escalation": false,
+  "confidence": 0.86
+}

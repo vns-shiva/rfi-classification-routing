@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "field condition / coordination conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "Division 26 - Electrical",
+  "urgency": "low",
+  "question_summary": "Junction box location at Electrical Closet 2A conflicts with the ceiling grid layout and is not reflected in One-Line Diagram E-002; field team requests direction on resolving the conflict.",
+  "referenced_documents": ["One-Line Diagram E-002"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The conflict involves an electrical junction box location and circuit routing requiring engineering sign-off, making the Electrical Engineer of Record the appropriate reviewer.",
+  "escalation": false,
+  "confidence": 0.78
+}
+```

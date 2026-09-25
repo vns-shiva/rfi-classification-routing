@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0030",
+  "template_id": "t07_code_compliance_general_dev",
+  "cell": {
+    "split": "dev",
+    "rfi_type": "code_compliance_question",
+    "primary_discipline": "General",
+    "urgency": "urgent",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "none",
+    "adversarial": "type_ambiguity",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 0,
+  "seed": 241337367398734086,
+  "body_variant_index": {
+    "initial_question": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Cedar Grove Elementary Addition",
+  "doc_a": "Project Specifications Division 00",
+  "doc_b": "Addendum 3",
+  "date_submitted": "2025-08-14"
+}

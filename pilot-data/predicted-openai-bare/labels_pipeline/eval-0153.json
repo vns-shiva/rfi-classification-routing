@@ -1,0 +1,31 @@
+{
+  "thread_id": "eval-0153",
+  "rfi_type": "Multi-trade coordination/clash resolution",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "Mechanical",
+    "Electrical",
+    "Plumbing"
+  ],
+  "csi_division": "05 - Metals",
+  "urgency": "High",
+  "question_summary": "Structural steel beam at Gridline C/4 conflicts with mechanical ductwork, electrical conduit rack, and plumbing riser per S-001 and S-301; direction needed to resolve the clash.",
+  "referenced_documents": [
+    "Structural General Notes S-001",
+    "Sheet S-301",
+    "Attached coordination sketch"
+  ],
+  "proposed_solution": "Revise per the attached coordination sketch to resolve the beam/MEP clashes at Gridline C/4.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three weeks would be appreciated.",
+  "assigned_reviewer": "Structural Engineer of Record (SER)",
+  "routing_rationale": "The clash involves a structural steel beam requiring structural design approval and coordination with MEP revisions.",
+  "escalation": true,
+  "confidence": 0.84,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

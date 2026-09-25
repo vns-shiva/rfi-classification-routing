@@ -1,0 +1,288 @@
+{
+  "gated": [
+    {
+      "thread_id": "dev-0010",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "dev-0023",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "dev-0028",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "dev-0038",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0005",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0012",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0014",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0024",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0026",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0028",
+      "annotator": "pipeline",
+      "reasons": [
+        "confidence 0.55 < 0.6"
+      ]
+    },
+    {
+      "thread_id": "eval-0037",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0043",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0056",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0080",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0089",
+      "annotator": "pipeline",
+      "reasons": [
+        "confidence 0.58 < 0.6",
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0093",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0095",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0101",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0110",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0112",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0116",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0120",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0135",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0141",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0150",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0152",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0153",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0154",
+      "annotator": "pipeline",
+      "reasons": [
+        "confidence 0.55 < 0.6"
+      ]
+    },
+    {
+      "thread_id": "eval-0157",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0164",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0169",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0173",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0174",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0177",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0182",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0185",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0187",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0192",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0195",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0196",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    }
+  ],
+  "parse_failed": [],
+  "errored": [],
+  "invalid_labels": []
+}

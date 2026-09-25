@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0022",
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "routine",
+  "question_summary": "Confirm if the footing concrete cover shown on Detail 3/S502 complies with the code edition referenced in Spec Section 03 20 00.",
+  "referenced_documents": [
+    "Detail 3/S502",
+    "Section 03 20 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Code Official/AHJ Liaison",
+  "routing_rationale": "This is a code compliance question and should be reviewed by the AHJ liaison for confirmation of code conformance.",
+  "escalation": false,
+  "confidence": 0.89,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

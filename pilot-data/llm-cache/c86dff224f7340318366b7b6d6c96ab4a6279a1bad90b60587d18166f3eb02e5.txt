@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Electrical", "Plumbing", "Mechanical"],
+  "csi_division": "03 00 00",
+  "urgency": "urgent",
+  "question_summary": "Concrete grade beam at Gridline D/7 clashes with underground electrical duct bank, plumbing sanitary main, and mechanical condensate drain routing; resolution needed before next fabrication release.",
+  "referenced_documents": ["Structural Detail 3/S502", "Structural General Notes S-001"],
+  "proposed_solution": "Revise per the attached coordination sketch resolving the concrete grade beam clash with the electrical duct bank, plumbing sanitary main, and mechanical condensate drain at Gridline D/7.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three weeks would be appreciated.",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "As a multi-trade underground coordination clash involving structural, electrical, plumbing, and mechanical elements, the GC Superintendent is best positioned to oversee resolution and coordinate the change order across trades.",
+  "escalation": true,
+  "confidence": 0.72
+}

@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0150",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen underground obstruction at Placement Zone 2; requesting approval to locally shift layout while holding all else per plan and guidance on next steps.",
+  "referenced_documents": [
+    "General Conditions Article 3",
+    "Attached photos and measurements of Placement Zone 2"
+  ],
+  "proposed_solution": "Shift the layout locally and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The issue involves an unforeseen underground obstruction and proposed layout shift affecting site/earthwork scope best evaluated by the Civil Engineer.",
+  "escalation": false,
+  "confidence": 0.83,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0017",
+  "rfi_type": "Design Clarification / Document Conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Curtain Wall/Glazing"
+  ],
+  "csi_division": "08 - Openings",
+  "urgency": "low",
+  "question_summary": "The curtain wall panel head/jamb detail at Gridline B/2 shown on Sheet A-301 does not match the head condition detail 5/A501; submitter requests clarification on which detail governs.",
+  "referenced_documents": [
+    "Sheet A-301",
+    "Detail 5/A501"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can stay on schedule.",
+  "assigned_reviewer": "Project Architect",
+  "routing_rationale": "The discrepancy involves conflicting architectural curtain wall details, so the Project Architect is best positioned to reconcile Sheet A-301 with Detail 5/A501.",
+  "escalation": false,
+  "confidence": 0.82,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

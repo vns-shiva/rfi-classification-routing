@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0093",
+  "rfi_type": "Unforeseen/Concealed Condition \u2013 direction requested",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [
+    "Civil",
+    "Structural"
+  ],
+  "csi_division": "23 \u2014 Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "High",
+  "question_summary": "Contractor discovered an unforeseen underground obstruction near Mechanical Room 3B and requests direction/approval on a proposed workaround to avoid delaying adjacent work.",
+  "referenced_documents": [
+    "General Conditions, Article 3"
+  ],
+  "proposed_solution": "Contractor\u2019s proposed workaround near Mechanical Room 3B pending field verification per General Conditions Article 3.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Mechanical Engineer of Record (MEOR)",
+  "routing_rationale": "Primary impact is to mechanical systems routing near the mechanical room, requiring MEOR direction and sign-off on the workaround.",
+  "escalation": true,
+  "confidence": 0.62,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

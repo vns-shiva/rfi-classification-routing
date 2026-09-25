@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document conflict/coordination discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 — Heating, Ventilating, and Air Conditioning",
+  "urgency": "Normal",
+  "question_summary": "Conflicting direction between Mechanical Detail 4/M501 and Sheet M-401 for Section 23 07 00 piping insulation type at/around T-1; confirm which governs and whether the direction applies throughout the area, not just at T-1.",
+  "referenced_documents": ["Section 23 07 00", "Sheet M-401", "Detail 4/M501"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep installation moving.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The issue is a conflict within Division 23 mechanical drawings/specs regarding insulation type, requiring design intent confirmation and addendum by the mechanical EOR.",
+  "escalation": false,
+  "confidence": 0.83
+}

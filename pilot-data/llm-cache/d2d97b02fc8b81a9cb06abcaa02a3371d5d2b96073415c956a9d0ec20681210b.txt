@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Plan discrepancy/clarification",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Surveying"],
+  "csi_division": "32 — Exterior Improvements",
+  "urgency": "low",
+  "question_summary": "Elevation for the site retaining wall at Pour 3 conflicts between Utility Plan C-301 and Sheet C-101; confirm which elevation governs.",
+  "referenced_documents": ["Utility Plan C-301", "Sheet C-101"],
+  "proposed_solution": "Use the elevation shown on Sheet C-101; Utility Plan C-301 to be corrected by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would be appreciated.",
+  "assigned_reviewer": "Site/Civil Engineer of Record",
+  "routing_rationale": "The discrepancy is between civil site sheets and requires confirming the governing elevation and issuing an addendum, which falls under the Civil EOR.",
+  "escalation": false,
+  "confidence": 0.74
+}

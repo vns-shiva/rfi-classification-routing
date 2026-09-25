@@ -1,0 +1,18 @@
+{
+  "rfi_type": "design clarification",
+  "primary_discipline": "structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 Concrete",
+  "urgency": "high",
+  "question_summary": "Field team identified a conflict between transfer beam reinforcement shown in Structural General Notes S-001 and additional #5 ties noted on Sheet S-301, and after initial resolution asked whether the additional #5 ties apply to all transfer beams on the level or only the one referenced in S-001.",
+  "referenced_documents": ["Structural General Notes S-001", "Sheet S-301"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within one business day",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The conflict involves structural reinforcement details across two structural drawings, requiring the Structural EOR to confirm scope of applicability before concrete placement.",
+  "escalation": false,
+  "confidence": 0.78
+}

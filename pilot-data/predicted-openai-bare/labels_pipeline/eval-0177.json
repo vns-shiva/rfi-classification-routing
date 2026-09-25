@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0177",
+  "rfi_type": "Unforeseen existing condition / differing site condition",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "Civil",
+    "Geotechnical"
+  ],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "urgent - response needed this week",
+  "question_summary": "Field found an unforeseen underground obstruction at Pour Sequence 4 and requests approval to shift the layout locally while keeping all else per plan, or advise if design review is required.",
+  "referenced_documents": [
+    "Project Specifications Division 00"
+  ],
+  "proposed_solution": "Shift the layout locally and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving.",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The obstruction impacts foundation/concrete layout, requiring the Structural Engineer of Record to evaluate and approve any layout shift and coordinate with site/geotechnical as needed.",
+  "escalation": false,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

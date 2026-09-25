@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0085",
+  "rfi_type": "Coordination/Plan conflict",
+  "primary_discipline": "Civil - Site/Utilities",
+  "secondary_disciplines": [
+    "Earthwork/Grading"
+  ],
+  "csi_division": "33 - Utilities",
+  "urgency": "normal",
+  "question_summary": "Resolve and approve conflict between grading plan and storm drainage inlet location at Placement Zone 2 (Utility Plan C-301 vs Sheet C-101) per attached coordination sketch.",
+  "referenced_documents": [
+    "Utility Plan C-301",
+    "Sheet C-101",
+    "Site coordination sketch (attached)"
+  ],
+  "proposed_solution": "Revise per the attached site coordination sketch to relocate/adjust grading and inlet to eliminate the conflict.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer of Record (Site/Utilities)",
+  "routing_rationale": "The conflict is between civil grading and storm drainage on sheets C-101 and C-301 and requires civil EOR review and approval of the coordination sketch and any plan revision.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

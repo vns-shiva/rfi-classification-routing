@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0159",
+  "rfi_type": "Clarification",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Geotechnical"
+  ],
+  "csi_division": "31 - Earthwork",
+  "urgency": "High (response requested within 3 days)",
+  "question_summary": "Confirm the minimum cover requirement for underground utility trench backfill per Section 31 23 00 and whether the civil inspector can sign off as shown for Pour Sequence 4.",
+  "referenced_documents": [
+    "Geotechnical Report",
+    "Section 31 23 00",
+    "Detail 6/C-601"
+  ],
+  "proposed_solution": "Allow civil inspector to sign off on the trench backfill cover as shown.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": true,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The inquiry concerns trench backfill cover per Section 31 23 00 and Civil Detail 6/C-601, which falls under the civil/site scope governed by the Civil EOR.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

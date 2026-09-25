@@ -1,0 +1,23 @@
+{
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "low",
+  "question_summary": "Shop drawings for the Section 08 41 13 storefront at the entry vestibule do not match the field mockup; confirm which condition (mockup vs. contract documents/specs) governs or provide clarification of intent.",
+  "referenced_documents": [
+    "Specification Section 08 41 13 - Aluminum-Framed Entrances and Storefronts",
+    "Architectural drawings for entry vestibule (A-series plans/elevations/details)",
+    "Field mockup – entry vestibule storefront",
+    "Storefront glazing shop drawings (pre-submittal)"
+  ],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record (AOR)",
+  "routing_rationale": "The issue concerns design intent and coordination for Division 08 storefront details, which falls under the Architect of Record’s responsibility.",
+  "escalation": false,
+  "confidence": 0.76
+}

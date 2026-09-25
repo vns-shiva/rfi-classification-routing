@@ -1,0 +1,18 @@
+{
+  "thread_id": "eval-0048",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0048",
+  "date_submitted": "2025-08-24",
+  "submitted_by_role": "Foreman",
+  "subject": "Unforeseen electrical field condition: panel location conflicting with the new wall",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Luis Fernandez",
+      "timestamp": "2025-08-24T15:00",
+      "message_type": "initial_question",
+      "text": "We de-energized the circuit and logged the panel location conflicting with the new wall framing at Electrical Closet 2A in today's field log; this isn't reflected in Sheet E-501. This is routine and can be worked into the normal schedule. We do not expect this to affect the contract sum. This is holding up work in this area. Please respond within five days so we can proceed."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0047",
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": [
+    "Fire Protection/Life Safety"
+  ],
+  "csi_division": "08 \u2014 Openings",
+  "urgency": "normal",
+  "question_summary": "Shop drawings for Section 08 71 00 interior door hardware at the stair enclosure conflict with the field mockup; confirm which governs for submittal.",
+  "referenced_documents": [
+    "Section 08 71 00 - Door Hardware",
+    "Shop Drawings - Stair Enclosure Door Hardware Set",
+    "Field Mockup - Stair Enclosure Door/Hardware"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The AOR is responsible for Division 08 door hardware coordination and life-safety compliance at stair enclosures and can determine precedence between mockup and submittals.",
+  "escalation": false,
+  "confidence": 0.72,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

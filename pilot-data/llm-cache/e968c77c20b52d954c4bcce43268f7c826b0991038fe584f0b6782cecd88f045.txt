@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Electrical"],
+  "csi_division": "09 00 00 (Finishes)",
+  "urgency": "priority",
+  "question_summary": "Existing wall near Electrical Closet 2A does not match the drawings; requesting direction and sign-off on corrective approach before proceeding.",
+  "referenced_documents": [],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response next week would still let us stay on track.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The Architect of Record should provide direction on discrepancies with existing wall conditions and approve any corrective details, coordinating with electrical clearances as needed.",
+  "escalation": false,
+  "confidence": 0.72
+}

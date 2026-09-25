@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0039",
+  "rfi_type": "Document conflict/coordination discrepancy",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": [],
+  "csi_division": "08 \u2013 Openings",
+  "urgency": "low",
+  "question_summary": "Detail 5/A501 curtain wall head/jamb condition at Gridline C/4 conflicts with the head condition shown on Sheet A-201; clarify which detail governs.",
+  "referenced_documents": [
+    "Detail 5/A501",
+    "Sheet A-201"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Respond whenever convenient.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict is between architectural drawings/details for the curtain wall and should be resolved by the Architect of Record.",
+  "escalation": false,
+  "confidence": 0.84,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

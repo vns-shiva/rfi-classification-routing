@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "26 00 00",
+  "urgency": "priority",
+  "question_summary": "Field investigation at Mechanical Room 3B found a conduit routing conflict not depicted on Electrical Detail 2/E502 or One-Line Diagram E-002, requiring guidance before rough-in.",
+  "referenced_documents": ["Electrical Detail 2/E502", "One-Line Diagram E-002"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "by end of week",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As a field condition conflict primarily involving electrical conduit routing without urgent schedule impact, it is routed to the Electrical Engineer as design professional of record.",
+  "escalation": false,
+  "confidence": 0.82
+}

@@ -1,0 +1,18 @@
+{
+  "thread_id": "dev-0025",
+  "project": "Riverside Medical Office Building",
+  "rfi_number": "RFI-0025",
+  "date_submitted": "2025-06-22",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Inconsistent detailing of the backflow preventer assembly at Room 214 between Sheet P-601",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Wendy Sato",
+      "timestamp": "2025-06-22T13:57",
+      "message_type": "initial_question",
+      "text": "The backflow preventer assembly shown in Sheet P-601 at Room 214 is not detailed consistently with Plumbing Riser Diagram P-501. This is becoming a priority as rough-in proceeds. There may be a cost impact if rerouting or additional material is required. This could affect the rough-in inspection schedule. No hard deadline, just would like to keep this moving."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0101",
+  "rfi_type": "Field condition/coordination conflict",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": [
+    "Mechanical"
+  ],
+  "csi_division": "21 - Fire Suppression",
+  "urgency": "High (response requested within 5 business days)",
+  "question_summary": "Direction requested to resolve unforeseen clearance conflict in fire pump room at Mechanical Room 3B; confirm if prior reroute instruction still applies given greater extent than initially reported.",
+  "referenced_documents": [
+    "Fire Protection Detail 3/FP502",
+    "Last month's inspection log",
+    "Attached reroute sketch"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep the crew moving.",
+  "assigned_reviewer": "Fire Protection Engineer of Record",
+  "routing_rationale": "The issue concerns code-required clearances and rerouting of fire protection systems not covered on FP502, requiring direction from the FP EOR.",
+  "escalation": true,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

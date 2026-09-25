@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Foundation Plan S-101 and Structural General Notes S-001 on column baseplate reinforcement; requester also seeks confirmation if #6 dowels at 12\" o.c. apply to all column baseplates on this level.",
+  "referenced_documents": ["Foundation Plan S-101", "Structural General Notes S-001"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within two business days ahead of the scheduled pour.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "Resolution of conflicting structural sheets and confirmation of global applicability requires the Structural Engineer’s direction.",
+  "escalation": false,
+  "confidence": 0.86
+}

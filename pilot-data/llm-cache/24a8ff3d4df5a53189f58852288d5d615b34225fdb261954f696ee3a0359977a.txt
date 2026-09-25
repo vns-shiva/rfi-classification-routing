@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "31 00 00",
+  "urgency": "priority",
+  "question_summary": "Submitter asks whether the Section 31 23 00 minimum cover requirement for underground utility trench backfill on Sheet C-101 is consistent with the geotechnical report requirements for this area, ahead of the next civil inspection.",
+  "referenced_documents": ["Section 31 23 00", "Sheet C-101", "Geotechnical Report"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can schedule the civil inspection.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The question concerns consistency between the civil trench backfill specification and geotechnical requirements, which falls under the Civil Engineer's scope.",
+  "escalation": false,
+  "confidence": 0.72
+}

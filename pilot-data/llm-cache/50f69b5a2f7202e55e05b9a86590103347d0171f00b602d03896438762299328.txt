@@ -1,0 +1,18 @@
+{
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "routine",
+  "question_summary": "Confirm that the Section 31 23 00 minimum cover for underground utility trench backfill on Sheet C-101 complies with the geotechnical report for this area prior to civil inspection.",
+  "referenced_documents": ["Section 31 23 00", "Sheet C-101", "Geotechnical Report"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can schedule the civil inspection.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This is an earthwork/trench backfill cover verification against the geotechnical report, which falls under the Civil Engineer’s purview.",
+  "escalation": false,
+  "confidence": 0.86
+}

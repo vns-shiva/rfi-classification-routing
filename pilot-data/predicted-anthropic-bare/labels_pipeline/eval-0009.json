@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0009",
+  "rfi_type": "document coordination conflict",
+  "primary_discipline": "architectural",
+  "secondary_disciplines": [],
+  "csi_division": "Division 08 - Openings",
+  "urgency": "medium",
+  "question_summary": "Shop drawings for the Section 08 71 00 interior door hardware set at the stair enclosure conflict with the field mockup and Door and Window Schedule A-601; submitter asks which document governs before submitting for fabrication.",
+  "referenced_documents": [
+    "Section 08 71 00",
+    "Sheet A-201",
+    "Door and Window Schedule A-601"
+  ],
+  "proposed_solution": "Sheet A-201 is the condition to build to; Door and Window Schedule A-601 will be reconciled by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The conflict involves door hardware coordination between architectural drawings and schedules, which falls under the Architect of Record's responsibility for Division 08 openings documentation.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

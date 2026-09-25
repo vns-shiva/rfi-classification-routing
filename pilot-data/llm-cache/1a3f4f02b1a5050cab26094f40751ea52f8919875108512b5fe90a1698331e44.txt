@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00",
+  "urgency": "priority",
+  "question_summary": "Mismatch identified between Electrical Panel Schedule E-601 and Sheet E-501 regarding the Section 26 51 00 light fixture type near LP-1; submitter requested confirmation of the correct fixture type before fabrication release.",
+  "referenced_documents": ["Sheet E-501", "Electrical Panel Schedule E-601", "Section 26 51 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "at your earliest convenience",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The discrepancy involves electrical fixture specifications between electrical drawings and schedules, requiring the Electrical Engineer to confirm the correct governing document.",
+  "escalation": false,
+  "confidence": 0.9
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00",
+  "urgency": "routine",
+  "question_summary": "Sheet M-401 and Sequence of Operations M-701 provide conflicting equipment clearance requirements for Section 23 74 00 equipment near P-101, and clarification on which governs is requested before the next submittal deadline.",
+  "referenced_documents": ["Sheet M-401", "Sequence of Operations M-701", "Section 23 74 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "The conflict involves HVAC equipment clearance requirements under Section 23 74 00, which falls under the Mechanical Engineer's scope of design.",
+  "escalation": false,
+  "confidence": 0.9
+}

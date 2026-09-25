@@ -1,0 +1,20 @@
+```json
+{
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "21 00 00",
+  "urgency": "priority",
+  "question_summary": "Confirmation that the fire-rated assembly listing in Project Specifications Division 00 complies with the adopted code edition referenced in Section 03 30 00.",
+  "referenced_documents": ["Project Specifications Division 00", "Section 03 30 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Code Official/AHJ Liaison",
+  "routing_rationale": "Fire-rated assembly code compliance requires verification against adopted code edition and AHJ interpretation; response from Project Engineer confirms compliance but formal code review by AHJ liaison ensures regulatory standing.",
+  "escalation": false,
+  "confidence": 0.78
+}
+```

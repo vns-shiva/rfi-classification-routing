@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Confirm whether the field mockup or the contract documents/shop drawings govern for the Section 08 41 13 storefront glazing at the entry vestibule due to discrepancies.",
+  "referenced_documents": ["Section 08 41 13 Storefront Glazing", "Field mockup (entry vestibule)", "Shop drawings (storefront glazing system)"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Storefront glazing system coordination and mockup conformance fall under the Architect of Record’s purview.",
+  "escalation": false,
+  "confidence": 0.73
+}

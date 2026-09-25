@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0119",
+  "template_id": "t15_substitution_plumbing_eval",
+  "cell": {
+    "split": "eval",
+    "rfi_type": "substitution_request",
+    "primary_discipline": "Plumbing",
+    "urgency": "priority",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "end_of",
+    "adversarial": "none",
+    "thread_shape": "single_message"
+  },
+  "variant_index": 1,
+  "seed": 8261371000682829074,
+  "body_variant_index": {
+    "initial_question": 1
+  },
+  "question_summary_variant_index": 1,
+  "proposed_solution_variant_index": 1,
+  "project": "Cedar Grove Elementary Addition",
+  "doc_a": "Plumbing Detail 6/P503",
+  "doc_b": "Plumbing Fixture Schedule P-602",
+  "date_submitted": "2025-10-23"
+}

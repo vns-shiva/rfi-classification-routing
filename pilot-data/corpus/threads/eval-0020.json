@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0020",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0020",
+  "date_submitted": "2025-09-16",
+  "submitted_by_role": "Assistant Project Manager",
+  "subject": "Document coordination conflict on the Section 08 44 13 curtain wall mullion detail at the",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Assistant Project Manager",
+      "sender_name": "Kevin Cho",
+      "timestamp": "2025-09-16T14:00",
+      "message_type": "initial_question",
+      "text": "Shop drawings for the Section 08 44 13 curtain wall mullion detail at the building corner are ready to submit, but what's shown doesn't match what's built out in the field mockup -- can you confirm which governs? This is routine and can be worked into the normal submittal cycle. This could affect the contract sum depending on the resolution. No schedule impact is expected. There is no specific deadline for this, but a timely response is appreciated. This could go either way -- treat it as a design decision that needs direction, or as a documentation error that just needs correcting."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-09-18T09:38",
+      "message_type": "response",
+      "text": "Sheet A-201 is the condition to build to for the Section 08 44 13 curtain wall mullion detail at the building corner; we'll reconcile Door and Window Schedule A-601 by addendum. This could affect the contract sum depending on the resolution. No schedule impact is expected."
+    }
+  ]
+}

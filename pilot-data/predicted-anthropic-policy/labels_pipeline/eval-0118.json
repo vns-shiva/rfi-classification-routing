@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0118",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Shop drawings for the Section 08 41 13 storefront glazing system at the entry vestibule do not match the field mockup; submitter asks which governs.",
+  "referenced_documents": [
+    "Section 08 41 13 storefront glazing shop drawings",
+    "field mockup"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "As a document discrepancy in an Architectural discipline (storefront glazing), it routes to the Architect of Record for interpretation.",
+  "escalation": false,
+  "confidence": 0.85,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

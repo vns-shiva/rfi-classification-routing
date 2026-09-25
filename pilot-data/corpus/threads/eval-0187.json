@@ -1,0 +1,34 @@
+{
+  "thread_id": "eval-0187",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0187",
+  "date_submitted": "2025-09-19",
+  "submitted_by_role": "Field Superintendent",
+  "subject": "Conflicting reinforcement detail for the transfer beam between Sheet S-301 and Structural",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Gary Owusu",
+      "timestamp": "2025-09-19T12:11",
+      "message_type": "initial_question",
+      "text": "The transfer beam reinforcement shown in Sheet S-301 conflicts with a revised bar splice noted in Structural Detail 3/S502. We would like this resolved ahead of the next concrete pour. This may generate a change order depending on the direction taken. This is holding the concrete placement for this pour. Please respond by Thursday, ahead of Friday's pour."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-09-20T14:13",
+      "message_type": "response",
+      "text": "Proceed with a revised bar splice per Structural Detail 3/S502; Sheet S-301 is superseded. This may generate a change order depending on the direction taken. This is holding the concrete placement for this pour."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Field Superintendent",
+      "sender_name": "Tom Reilly",
+      "timestamp": "2025-09-24T14:43",
+      "message_type": "clarification",
+      "text": "To confirm before we place concrete: does this direction -- a revised bar splice -- apply at every transfer beam on this level, not just the one called out in Sheet S-301?"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "thread_id": "dev-0029",
+  "rfi_type": "substitution_request",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Request to substitute a fan-coil-based alternate air handling unit for the specified packaged rooftop AHU due to lead time constraints.",
+  "referenced_documents": [
+    "Section 23 05 00"
+  ],
+  "proposed_solution": "Substitute fan-coil-based alternate AHU with performance data confirming equivalence to Section 23 05 00 specifications.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "Mechanical Engineer must evaluate performance equivalence of the proposed fan-coil alternate against the specified rooftop AHU requirements in Section 23 05 00.",
+  "escalation": false,
+  "confidence": 0.92,
+  "status": "open",
+  "annotator": "annotator_b",
+  "deadline_iso": "2025-03-28",
+  "deadline_resolution_status": "resolved_to_date"
+}

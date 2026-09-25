@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "template_id": "t09_design_clarification_eval",
+  "pool": "eval",
+  "axes": {
+    "rfi_type": ["design_clarification"],
+    "primary_discipline": ["Structural"],
+    "urgency": ["priority", "urgent"],
+    "cost_impact": [false, true],
+    "schedule_impact": [false, true],
+    "deadline_family": ["business_days", "weekday"],
+    "adversarial": ["none", "boundary_urgency"],
+    "thread_shape": ["two_message_qa", "multi_turn_clarification"]
+  },
+  "csi_by_discipline": {
+    "Structural": "03 00 00 (Concrete)"
+  },
+  "secondary_by_adversarial": {
+    "none": [],
+    "boundary_urgency": []
+  },
+  "slots": {
+    "member_type": ["transfer beam", "shear wall", "column baseplate", "slab-on-deck pour strip"],
+    "reinforcement_detail": ["#6 dowels at 12\" o.c.", "additional #5 ties", "a revised bar splice"]
+  },
+  "urgency_phrasing": {
+    "priority": [
+      "We would like this resolved ahead of the next concrete pour.",
+      "This is becoming a priority on our end; we'd appreciate a prompt response."
+    ],
+    "urgent": [
+      "This is urgent -- we need direction as soon as possible.",
+      "We need an urgent response on this; please treat it as time-sensitive."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "Additional reinforcement or rework here would carry a cost impact.",
+      "This may generate a change order depending on the direction taken."
+    ],
+    "false": [
+      "No cost impact is anticipated from this clarification.",
+      "We do not expect this to affect the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding the concrete placement for this pour.",
+      "This is directly on the critical path for the current pour sequence."
+    ],
+    "false": [
+      "This is not holding any current pour.",
+      "No schedule impact is expected from this clarification."
+    ]
+  },
+  "deadline_phrasing": {
+    "business_days": [
+      "Please respond within two business days ahead of the scheduled pour.",
+      "We need a response within one business day, if at all possible."
+    ],
+    "weekday": [
+      "Please respond by Thursday, ahead of Friday's pour.",
+      "We need direction by end of day Wednesday."
+    ]
+  },
+  "boundary_phrasing": [
+    "Honestly, this could go either way on how fast it needs a response -- reasonable people on the team see it differently.",
+    "This sits right on the edge, timeline-wise; hard to say for certain how quickly this really needs to move.",
+    "Some on our side would call this more pressing than others do -- it's a judgment call either way."
+  ],
+  "ambiguity_phrasing": [],
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Field Superintendent", "Foreman"],
+      "shapes": ["two_message_qa", "multi_turn_clarification"],
+      "body_variants": [
+        "The {member_type} reinforcement shown in {doc_a} conflicts with {reinforcement_detail} noted in {doc_b}. {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase} {boundary_phrase}",
+        "Formwork is set for the {member_type}, but {doc_a} and {doc_b} disagree on {reinforcement_detail}. {urgency_phrase} {deadline_phrase} {boundary_phrase}",
+        "We need clarification on the {member_type} reinforcement ahead of the concrete pour; {doc_a} does not match {reinforcement_detail} called out in {doc_b}. {urgency_phrase} {cost_phrase} {schedule_phrase} {boundary_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa", "multi_turn_clarification"],
+      "body_variants": [
+        "Proceed with {reinforcement_detail} per {doc_b}; {doc_a} is superseded. {cost_phrase} {schedule_phrase}",
+        "Use {doc_b} for the {member_type} reinforcement; disregard the conflicting note in {doc_a}.",
+        "Confirmed — {doc_b} governs for the {member_type}. {cost_phrase} {schedule_phrase}"
+      ]
+    },
+    {
+      "message_type": "clarification",
+      "sender_role_pool": ["Field Superintendent"],
+      "shapes": ["multi_turn_clarification"],
+      "body_variants": [
+        "To confirm before we place concrete: does this direction -- {reinforcement_detail} -- apply at every {member_type} on this level, not just the one called out in {doc_a}?",
+        "Understood on {doc_b} governing — does this also apply to the adjacent {member_type} shown on the same sheet?",
+        "One follow-up: does {reinforcement_detail} need to be field-verified before we proceed with the {member_type} pour?"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "03 00 00 (Concrete)",
+    "question_summary_variants": [
+      "Conflicting reinforcement detail for the {member_type} between {doc_a} and {doc_b} ahead of a scheduled pour.",
+      "{doc_a} and {doc_b} disagree on {reinforcement_detail} for the {member_type}.",
+      "Which document governs {reinforcement_detail} for the {member_type}, {doc_a} or {doc_b}, ahead of the scheduled pour."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend following {doc_b} and issuing a bulletin to correct {doc_a}.",
+      "Recommend field-verifying {reinforcement_detail} before the pour proceeds."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"urgency": "urgent"},
+      "assigned_reviewer": "Structural Engineer",
+      "routing_rationale": "Urgent structural reinforcement conflict ahead of a scheduled pour: the Structural Engineer of record must resolve it directly regardless of cost/schedule impact.",
+      "escalation": true,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    },
+    {
+      "when": {"cost_impact": true, "schedule_impact": true},
+      "assigned_reviewer": "Cost/Change-Order Manager",
+      "routing_rationale": "This project's structural change-order protocol routes concurrent cost- and schedule-impacting reinforcement questions to the cost manager first, with the Structural Engineer as technical reviewer of record.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "AIA A201 default routing would keep this with the Structural Engineer; this project's change-order protocol pulls the cost manager in whenever both cost and schedule are affected at priority urgency."
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Structural Engineer",
+      "routing_rationale": "Default discipline routing: the Structural Engineer of record interprets and clarifies the Contract Documents for this Structural-discipline design clarification.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

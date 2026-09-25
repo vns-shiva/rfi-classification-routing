@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0134",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "priority",
+  "question_summary": "Unforeseen existing utility line conflicts with planned work beneath slab at Placement Zone 2; requester proposes locally shifting the layout and asks whether this workaround is acceptable.",
+  "referenced_documents": [
+    "Project Specifications Division 00",
+    "Attached photos of conflicting utility line at Placement Zone 2"
+  ],
+  "proposed_solution": "Shift the layout locally while holding all other elements per plan.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This is an unforeseen field condition impacting underground utilities; the Civil Engineer of record should direct the layout adjustment/relocation.",
+  "escalation": false,
+  "confidence": 0.73,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

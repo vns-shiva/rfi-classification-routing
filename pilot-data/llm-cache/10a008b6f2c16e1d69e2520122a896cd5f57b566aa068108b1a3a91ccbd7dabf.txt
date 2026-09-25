@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Coordination/Conflict",
+  "primary_discipline": "Civil/Site",
+  "secondary_disciplines": ["Landscape Architecture"],
+  "csi_division": "33 — Utilities",
+  "urgency": "High",
+  "question_summary": "Conflict at Area C between site utility trench alignment and proposed landscaping per Utility Plan C-301 vs Sheet C-101; direction needed to resolve and allow site work to proceed.",
+  "referenced_documents": ["Utility Plan C-301", "Sheet C-101"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The issue concerns utility trench routing (civil scope) conflicting with landscaping, so the Civil Engineer of Record should lead resolution and coordinate with the Landscape Architect.",
+  "escalation": false,
+  "confidence": 0.78
+}

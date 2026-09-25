@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00",
+  "urgency": "urgent",
+  "question_summary": "Field team identified a conflict between column baseplate reinforcement shown on Sheet S-301 and the #6 dowels at 12\" o.c. detailed in Structural Detail 3/S502, requiring clarification before concrete placement.",
+  "referenced_documents": ["Sheet S-301", "Structural Detail 3/S502"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "within two business days ahead of the scheduled pour",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The conflict involves structural reinforcement detailing between two structural drawings, requiring the Structural Engineer of record to determine which detail governs.",
+  "escalation": false,
+  "confidence": 0.9
+}

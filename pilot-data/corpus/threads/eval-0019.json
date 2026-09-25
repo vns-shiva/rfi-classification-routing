@@ -1,0 +1,34 @@
+{
+  "thread_id": "eval-0019",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0019",
+  "date_submitted": "2025-04-17",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Conflicting document coordination on the Section 23 74 00 equipment clearance at T-1",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Chris Boone",
+      "timestamp": "2025-04-17T09:30",
+      "message_type": "initial_question",
+      "text": "Coordination between Sheet M-401 and Mechanical Schedule M-601 breaks down for the Section 23 74 00 equipment clearance near T-1. This is urgent -- please treat this as a priority. We do not expect this to affect the contract sum. No schedule impact is expected. A response Friday would be appreciated."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-04-19T13:18",
+      "message_type": "response",
+      "text": "Follow Mechanical Schedule M-601 for the Section 23 74 00 equipment clearance near T-1; we'll issue an addendum to reconcile Sheet M-401. We do not expect this to affect the contract sum. No schedule impact is expected."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Wendy Sato",
+      "timestamp": "2025-04-23T07:57",
+      "message_type": "clarification",
+      "text": "To confirm before we proceed with installation: does your direction apply throughout the area, not just the condition at T-1?"
+    }
+  ]
+}

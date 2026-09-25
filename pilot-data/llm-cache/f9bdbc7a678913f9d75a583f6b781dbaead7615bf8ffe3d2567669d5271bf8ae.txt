@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "31 00 00",
+  "urgency": "routine",
+  "question_summary": "Geotechnical report does not clearly state the Section 31 20 00 required compaction density for structural fill under the building pad at Pour 3; requesting confirmation before the civil inspector signs off.",
+  "referenced_documents": ["Section 31 20 00", "Geotechnical Report"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The discrepancy concerns earthwork compaction requirements under Civil discipline, so it is routed to the Civil Engineer of record.",
+  "escalation": false,
+  "confidence": 0.78
+}

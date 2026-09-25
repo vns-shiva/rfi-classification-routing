@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Shop drawings for the entry vestibule storefront (08 41 13) do not match the built field mockup; confirm which governs and whether documents contain an error or require architectural interpretation.",
+  "referenced_documents": ["Specification 08 41 13 Storefront Glazing", "Shop Drawings - Storefront System (Entry Vestibule)", "Field Mockup - Entry Vestibule"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Storefront systems and mockup/design intent clarifications fall under Architectural, and the Architect must decide whether the mockup or submittal governs.",
+  "escalation": false,
+  "confidence": 0.78
+}

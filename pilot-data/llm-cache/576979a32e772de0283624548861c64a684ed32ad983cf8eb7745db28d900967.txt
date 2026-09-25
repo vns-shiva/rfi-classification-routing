@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "32 00 00",
+  "urgency": "urgent",
+  "question_summary": "Utility trench in Placement Zone 2 conflicts with the proposed landscaping layout, per Grading Plan C-201 versus Civil Detail 2/C501; resolution requested before site work proceeds.",
+  "referenced_documents": ["Grading Plan C-201", "Civil Detail 2/C501"],
+  "proposed_solution": "Revise the utility trench/landscaping layout at Placement Zone 2 per the attached site coordination sketch.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The conflict involves civil site utilities and grading versus landscaping layout, so it is routed to the Civil Engineer as design professional of record.",
+  "escalation": true,
+  "confidence": 0.82
+}

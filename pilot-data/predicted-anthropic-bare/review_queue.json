@@ -1,0 +1,2667 @@
+{
+  "gated": [
+    {
+      "thread_id": "dev-0003",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "dev-0007",
+      "annotator": "pipeline",
+      "reasons": [
+        "confidence 0.5 < 0.6",
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "dev-0010",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "dev-0023",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "dev-0028",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "dev-0030",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "dev-0038",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0005",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0012",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0013",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0014",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0019",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0024",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0026",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0028",
+      "annotator": "pipeline",
+      "reasons": [
+        "confidence 0.55 < 0.6"
+      ]
+    },
+    {
+      "thread_id": "eval-0033",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0035",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0037",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0039",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0042",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0053",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0055",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0056",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0073",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0074",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0082",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0088",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0089",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0093",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0095",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0101",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0103",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0105",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0107",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0109",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0110",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0114",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0115",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0116",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0119",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0120",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0125",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0126",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0131",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0134",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0135",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0136",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0138",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0139",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0141",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0150",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0152",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0153",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0155",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0157",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0164",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0169",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0174",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0175",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0177",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0180",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0181",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0182",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0185",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0187",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0192",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0195",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    },
+    {
+      "thread_id": "eval-0196",
+      "annotator": "pipeline",
+      "reasons": [
+        "escalation flagged by routing policy"
+      ]
+    }
+  ],
+  "parse_failed": [],
+  "errored": [],
+  "invalid_labels": [
+    {
+      "thread_id": "dev-0001",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "dev-0002",
+      "errors": [
+        "rfi_type 'substitution request' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0003",
+      "errors": [
+        "rfi_type 'design clarification' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "secondary_disciplines contains 'Electrical/Life Safety', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0004",
+      "errors": [
+        "rfi_type 'Unforeseen Field Condition' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0005",
+      "errors": [
+        "rfi_type 'Field Condition Conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0006",
+      "errors": [
+        "rfi_type 'Field Condition / Unforeseen Condition' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0007",
+      "errors": [
+        "rfi_type 'Code Compliance Clarification' not in RFI_TYPES",
+        "secondary_disciplines contains 'Fire Protection/Life Safety', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "dev-0008",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0009",
+      "errors": [
+        "rfi_type 'discrepancy/conflict' not in RFI_TYPES",
+        "primary_discipline 'civil' not in DISCIPLINES",
+        "secondary_disciplines contains 'surveying', not in DISCIPLINES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0010",
+      "errors": [
+        "rfi_type 'Design Conflict / Drawing Coordination' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 05 - Metals' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0011",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "secondary_disciplines contains 'Curtain Wall/Glazing', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Project Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0012",
+      "errors": [
+        "rfi_type 'Substitution Request' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0013",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "assigned_reviewer 'Project Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0014",
+      "errors": [
+        "rfi_type 'substitution request' not in RFI_TYPES",
+        "primary_discipline 'Mechanical (HVAC)' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0015",
+      "errors": [
+        "rfi_type 'discrepancy' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0016",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "dev-0017",
+      "errors": [
+        "rfi_type 'Design Clarification / Document Conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'Curtain Wall/Glazing', not in DISCIPLINES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Project Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0018",
+      "errors": [
+        "rfi_type 'Design Clarification/Conflict' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 22 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0019",
+      "errors": [
+        "rfi_type 'Substitution Request' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0020",
+      "errors": [
+        "rfi_type 'Design Conflict/Discrepancy' not in RFI_TYPES",
+        "secondary_disciplines contains 'Curtain Wall/Glazing', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "dev-0021",
+      "errors": [
+        "rfi_type 'field condition conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0022",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division 'Division 03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0023",
+      "errors": [
+        "rfi_type 'Conflict/Discrepancy' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 05 - Metals' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0024",
+      "errors": [
+        "rfi_type 'discrepancy' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 33 - Utilities' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0025",
+      "errors": [
+        "rfi_type 'Design Clarification / Discrepancy' not in RFI_TYPES",
+        "secondary_disciplines contains 'BIM Coordination', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 22 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0026",
+      "errors": [
+        "rfi_type 'Field Condition / Unforeseen Condition' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '26 00 00 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0027",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Project Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0028",
+      "errors": [
+        "rfi_type 'design conflict' not in RFI_TYPES",
+        "primary_discipline 'structural' not in DISCIPLINES",
+        "secondary_disciplines contains 'mechanical', not in DISCIPLINES",
+        "secondary_disciplines contains 'architectural', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0029",
+      "errors": [
+        "rfi_type 'substitution request' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0030",
+      "errors": [
+        "rfi_type 'Code Compliance / Clarification' not in RFI_TYPES",
+        "secondary_disciplines contains 'Life Safety/Code', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 07 - Thermal and Moisture Protection' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "dev-0031",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0032",
+      "errors": [
+        "rfi_type 'code compliance verification' not in RFI_TYPES",
+        "secondary_disciplines contains 'Fire Protection', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 07 - Thermal and Moisture Protection' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "dev-0033",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division 'Division 22 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0034",
+      "errors": [
+        "rfi_type 'design discrepancy' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0035",
+      "errors": [
+        "rfi_type 'Document Discrepancy' not in RFI_TYPES",
+        "secondary_disciplines contains 'Survey', not in DISCIPLINES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0036",
+      "errors": [
+        "rfi_type 'Code compliance verification' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '03 00 00 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0037",
+      "errors": [
+        "rfi_type 'Design Discrepancy / Drawing Coordination' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division '22 00 00 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0038",
+      "errors": [
+        "rfi_type 'Design Conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 05 - Metals' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "dev-0039",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "secondary_disciplines contains 'Curtain Wall/Glazing', not in DISCIPLINES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "dev-0040",
+      "errors": [
+        "rfi_type 'Code Compliance Clarification' not in RFI_TYPES",
+        "secondary_disciplines contains 'Fire Protection', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 01 - General Requirements' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0001",
+      "errors": [
+        "rfi_type 'document coordination/conflict' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0002",
+      "errors": [
+        "rfi_type 'document coordination/conflict' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0003",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "secondary_disciplines contains 'Geotechnical', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Geotechnical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0004",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "secondary_disciplines contains 'Geotechnical', not in DISCIPLINES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division '31 00 00 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0005",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating Ventilating and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0006",
+      "errors": [
+        "rfi_type 'Design Clarification / Conflicting Documents' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0007",
+      "errors": [
+        "rfi_type 'site coordination clash' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0008",
+      "errors": [
+        "rfi_type 'Document Discrepancy' not in RFI_TYPES",
+        "secondary_disciplines contains 'Glazing/Curtain Wall', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Project Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0009",
+      "errors": [
+        "rfi_type 'document coordination conflict' not in RFI_TYPES",
+        "primary_discipline 'architectural' not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS"
+      ]
+    },
+    {
+      "thread_id": "eval-0010",
+      "errors": [
+        "rfi_type 'document coordination/discrepancy' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0011",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0012",
+      "errors": [
+        "rfi_type 'design conflict/clarification' not in RFI_TYPES",
+        "primary_discipline 'structural' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0013",
+      "errors": [
+        "rfi_type 'conflict/discrepancy' not in RFI_TYPES",
+        "primary_discipline 'structural' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0014",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "primary_discipline 'mechanical' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0015",
+      "errors": [
+        "rfi_type 'specification clarification' not in RFI_TYPES",
+        "primary_discipline 'civil/geotechnical' not in DISCIPLINES",
+        "secondary_disciplines contains 'structural', not in DISCIPLINES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "assigned_reviewer 'Geotechnical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0016",
+      "errors": [
+        "rfi_type 'Unforeseen Field Condition' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0017",
+      "errors": [
+        "rfi_type 'Document Coordination / Conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0018",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'Glazing/Curtain Wall', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division '08 00 00 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0019",
+      "errors": [
+        "rfi_type 'document conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '23 00 00 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0020",
+      "errors": [
+        "rfi_type 'Document Coordination / Discrepancy' not in RFI_TYPES",
+        "secondary_disciplines contains 'Glazing/Curtain Wall', not in DISCIPLINES",
+        "urgency 'Routine' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Project Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0021",
+      "errors": [
+        "rfi_type 'Document Conflict/Coordination' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0022",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "primary_discipline 'mechanical' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0023",
+      "errors": [
+        "urgency 'low' not in URGENCY_TIERS",
+        "assigned_reviewer 'Plumbing Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0024",
+      "errors": [
+        "rfi_type 'Unforeseen Field Condition' not in RFI_TYPES",
+        "primary_discipline 'Civil/Site Utilities' not in DISCIPLINES",
+        "secondary_disciplines contains 'Contract Administration', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0025",
+      "errors": [
+        "rfi_type 'discrepancy/document coordination' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0026",
+      "errors": [
+        "rfi_type 'field condition / conflict' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0027",
+      "errors": [
+        "rfi_type 'document conflict/coordination' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0028",
+      "errors": [
+        "rfi_type 'existing conditions discrepancy' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "assigned_reviewer 'Project Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0029",
+      "errors": [
+        "rfi_type 'design clarification' not in RFI_TYPES",
+        "primary_discipline 'structural' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0030",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0031",
+      "errors": [
+        "rfi_type 'document coordination conflict' not in RFI_TYPES",
+        "primary_discipline 'architectural' not in DISCIPLINES",
+        "secondary_disciplines contains 'glazing/curtain wall', not in DISCIPLINES",
+        "urgency 'normal' not in URGENCY_TIERS",
+        "assigned_reviewer 'Project Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0032",
+      "errors": [
+        "rfi_type 'substitution request' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division '22 00 00 Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0033",
+      "errors": [
+        "rfi_type 'Document Conflict / Coordination' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0034",
+      "errors": [
+        "rfi_type 'Coordination Clash' not in RFI_TYPES",
+        "secondary_disciplines contains 'Fire Protection', not in DISCIPLINES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division 'Division 32 - Exterior Improvements' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0035",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0036",
+      "errors": [
+        "rfi_type 'Document Discrepancy/Coordination' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Project Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0037",
+      "errors": [
+        "rfi_type 'field condition / conflict' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0038",
+      "errors": [
+        "rfi_type 'document conflict / coordination' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0039",
+      "errors": [
+        "rfi_type 'Unforeseen Field Condition' not in RFI_TYPES",
+        "secondary_disciplines contains 'General Requirements', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0040",
+      "errors": [
+        "rfi_type 'Conflict/Discrepancy' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0041",
+      "errors": [
+        "rfi_type 'design clarification' not in RFI_TYPES",
+        "primary_discipline 'structural' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0042",
+      "errors": [
+        "rfi_type 'design conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0043",
+      "errors": [
+        "rfi_type 'Design Clarification / Conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0044",
+      "errors": [
+        "rfi_type 'Document Coordination/Conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0045",
+      "errors": [
+        "rfi_type 'Substitution Request' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 22 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0046",
+      "errors": [
+        "rfi_type 'design conflict/clarification' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0047",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'Life Safety/Code Compliance', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0048",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division '26 00 00 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0049",
+      "errors": [
+        "rfi_type 'design conflict/coordination' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0050",
+      "errors": [
+        "rfi_type 'substitution request' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 22 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0051",
+      "errors": [
+        "rfi_type 'design conflict' not in RFI_TYPES",
+        "primary_discipline 'structural' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0052",
+      "errors": [
+        "rfi_type 'Field Condition Conflict' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Project Engineer (Priya Nair)' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0053",
+      "errors": [
+        "rfi_type 'design conflict / clarification' not in RFI_TYPES",
+        "primary_discipline 'structural' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0054",
+      "errors": [
+        "rfi_type 'Document Coordination / Discrepancy' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0055",
+      "errors": [
+        "rfi_type 'Coordination/Clash' not in RFI_TYPES",
+        "secondary_disciplines contains 'Landscape', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 33 - Utilities' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0056",
+      "errors": [
+        "rfi_type 'Design Clarification / Conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0057",
+      "errors": [
+        "rfi_type 'substitution request' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0058",
+      "errors": [
+        "rfi_type 'Coordination Clash' not in RFI_TYPES",
+        "primary_discipline 'Civil/Site Utilities' not in DISCIPLINES",
+        "secondary_disciplines contains 'Landscape Architecture', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS"
+      ]
+    },
+    {
+      "thread_id": "eval-0059",
+      "errors": [
+        "rfi_type 'field condition' not in RFI_TYPES",
+        "primary_discipline 'electrical' not in DISCIPLINES",
+        "secondary_disciplines contains 'architectural', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0060",
+      "errors": [
+        "rfi_type 'Site Coordination Clash' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0061",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'Glazing/Curtain Wall', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0062",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Project Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0063",
+      "errors": [
+        "rfi_type 'Substitution Request' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 22 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0064",
+      "errors": [
+        "rfi_type 'Discrepancy/Coordination' not in RFI_TYPES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division '26 00 00 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0065",
+      "errors": [
+        "rfi_type 'document coordination/conflict' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0066",
+      "errors": [
+        "rfi_type 'Document Coordination/Conflict' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0067",
+      "errors": [
+        "rfi_type 'Document Discrepancy' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0068",
+      "errors": [
+        "rfi_type 'Discrepancy/Coordination' not in RFI_TYPES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division '26 00 00 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0069",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "secondary_disciplines contains 'Geotechnical', not in DISCIPLINES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division '31 00 00 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0070",
+      "errors": [
+        "rfi_type 'Discrepancy/Conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'BIM Coordination', not in DISCIPLINES",
+        "urgency 'Medium' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0071",
+      "errors": [
+        "rfi_type 'Document Conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'Construction Management', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0072",
+      "errors": [
+        "rfi_type 'Field Condition / Unforeseen Condition' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '26 00 00 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0073",
+      "errors": [
+        "rfi_type 'Document Discrepancy / Coordination Conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'General Contracting/Construction Management', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0074",
+      "errors": [
+        "rfi_type 'Design Clarification / Conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0075",
+      "errors": [
+        "rfi_type 'site coordination clash' not in RFI_TYPES",
+        "secondary_disciplines contains 'Fire Protection', not in DISCIPLINES",
+        "secondary_disciplines contains 'Paving/Sitework', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 32 - Exterior Improvements' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0076",
+      "errors": [
+        "rfi_type 'Document Discrepancy' not in RFI_TYPES",
+        "urgency 'Routine' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0077",
+      "errors": [
+        "rfi_type 'Document Discrepancy' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0078",
+      "errors": [
+        "rfi_type 'Document Coordination / Conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'Glazing/Storefront', not in DISCIPLINES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0079",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "secondary_disciplines contains 'Geotechnical', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0080",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "secondary_disciplines contains 'Structural/Architectural (wall framing)', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '26 00 00 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0081",
+      "errors": [
+        "rfi_type 'Coordination Clash' not in RFI_TYPES",
+        "secondary_disciplines contains 'Site/Utilities', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 33 - Utilities' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0082",
+      "errors": [
+        "rfi_type 'document conflict / coordination' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - HVAC' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0083",
+      "errors": [
+        "rfi_type 'Document Coordination / Discrepancy' not in RFI_TYPES",
+        "secondary_disciplines contains 'Curtain Wall/Glazing', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0084",
+      "errors": [
+        "rfi_type 'Discrepancy/Conflict' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division '26 00 00 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0085",
+      "errors": [
+        "rfi_type 'Coordination Clash' not in RFI_TYPES",
+        "secondary_disciplines contains 'Site Work', not in DISCIPLINES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division 'Division 33 - Utilities' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0086",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0087",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0088",
+      "errors": [
+        "rfi_type 'field condition/unforeseen condition' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0089",
+      "errors": [
+        "rfi_type 'existing conditions / unforeseen condition' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '05 00 00 - Metals' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0090",
+      "errors": [
+        "rfi_type 'compliance/verification' not in RFI_TYPES",
+        "secondary_disciplines contains 'Geotechnical', not in DISCIPLINES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 31 \u2013 Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0091",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'Doors & Hardware', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0092",
+      "errors": [
+        "rfi_type 'Unforeseen field condition' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0093",
+      "errors": [
+        "rfi_type 'Unforeseen Condition' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Project Engineer (Marcus Webb)' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0094",
+      "errors": [
+        "rfi_type 'Discrepancy/Conflict' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0095",
+      "errors": [
+        "rfi_type 'Unforeseen Field Condition' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 02 - Existing Conditions' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0096",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'Curtain Wall/Glazing', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0097",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0098",
+      "errors": [
+        "rfi_type 'substitution request' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division '22 00 00 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0099",
+      "errors": [
+        "rfi_type 'Discrepancy/Conflict in Contract Documents' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0100",
+      "errors": [
+        "rfi_type 'coordination clash' not in RFI_TYPES",
+        "primary_discipline 'civil' not in DISCIPLINES",
+        "secondary_disciplines contains 'landscaping', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0101",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0102",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0103",
+      "errors": [
+        "rfi_type 'RFI' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '03 00 00 Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0104",
+      "errors": [
+        "rfi_type 'Discrepancy/Conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'BIM Coordination', not in DISCIPLINES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0105",
+      "errors": [
+        "rfi_type 'Design Conflict / Discrepancy' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0106",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'Curtain Wall/Glazing', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0107",
+      "errors": [
+        "rfi_type 'substitution request' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '22 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0108",
+      "errors": [
+        "rfi_type 'Document Discrepancy' not in RFI_TYPES",
+        "secondary_disciplines contains 'Glazing/Storefront Contractor', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Project Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0109",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'BIM Coordination', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0110",
+      "errors": [
+        "rfi_type 'Design Conflict / Discrepancy' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0111",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division '08 00 00 \u2013 Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0112",
+      "errors": [
+        "rfi_type 'Design Clarification / Field Coordination Issue' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '23 00 00 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0113",
+      "errors": [
+        "rfi_type 'substitution request' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '22 00 00 Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0114",
+      "errors": [
+        "rfi_type 'Design Conflict / Discrepancy' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0115",
+      "errors": [
+        "rfi_type 'coordination clash' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 05 - Metals' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0116",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "primary_discipline 'fire protection' not in DISCIPLINES",
+        "secondary_disciplines contains 'mechanical', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0117",
+      "errors": [
+        "rfi_type 'Document Coordination/Conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0118",
+      "errors": [
+        "rfi_type 'Document Discrepancy' not in RFI_TYPES",
+        "secondary_disciplines contains 'Glazing/Storefront', not in DISCIPLINES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0119",
+      "errors": [
+        "rfi_type 'Substitution Request' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 22 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0120",
+      "errors": [
+        "rfi_type 'Coordination Clash' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 05 - Metals' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0121",
+      "errors": [
+        "rfi_type 'Document Conflict/Discrepancy' not in RFI_TYPES",
+        "secondary_disciplines contains 'Geotechnical', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0122",
+      "errors": [
+        "rfi_type 'Document Discrepancy' not in RFI_TYPES",
+        "secondary_disciplines contains 'Glazing/Curtain Wall', not in DISCIPLINES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Project Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0123",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'Glazing/Curtainwall', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0124",
+      "errors": [
+        "rfi_type 'field condition / conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0125",
+      "errors": [
+        "rfi_type 'Coordination Clash' not in RFI_TYPES",
+        "secondary_disciplines contains 'Site Utilities', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 33 - Utilities' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0126",
+      "errors": [
+        "rfi_type 'Document Coordination/Discrepancy' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0127",
+      "errors": [
+        "rfi_type 'Discrepancy/Conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0128",
+      "errors": [
+        "rfi_type 'coordination clash' not in RFI_TYPES",
+        "secondary_disciplines contains 'Landscape', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 33 - Utilities' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0129",
+      "errors": [
+        "rfi_type 'Unforeseen Field Condition' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0130",
+      "errors": [
+        "rfi_type 'coordination clash' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0131",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "primary_discipline 'civil' not in DISCIPLINES",
+        "secondary_disciplines contains 'structural', not in DISCIPLINES",
+        "secondary_disciplines contains 'mechanical', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0132",
+      "errors": [
+        "rfi_type 'Substitution Request' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 22 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0133",
+      "errors": [
+        "rfi_type 'Document Conflict' not in RFI_TYPES",
+        "urgency 'Medium' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0134",
+      "errors": [
+        "rfi_type 'Unforeseen Field Condition' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 33 - Utilities' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0135",
+      "errors": [
+        "rfi_type 'coordination/clash' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '03 00 00 Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0136",
+      "errors": [
+        "rfi_type 'document conflict/coordination' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '23 00 00 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0137",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "secondary_disciplines contains 'Ceilings/Finishes', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0138",
+      "errors": [
+        "rfi_type 'Field Condition / Unforeseen Condition Conflict' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0139",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "primary_discipline 'electrical' not in DISCIPLINES",
+        "secondary_disciplines contains 'mechanical', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0140",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "secondary_disciplines contains 'Geotechnical', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '31 00 00 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0141",
+      "errors": [
+        "rfi_type 'document conflict/coordination' not in RFI_TYPES",
+        "secondary_disciplines contains 'BIM Coordination', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0142",
+      "errors": [
+        "rfi_type 'Design Clash / Coordination' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0143",
+      "errors": [
+        "rfi_type 'site coordination clash' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0144",
+      "errors": [
+        "rfi_type 'Discrepancy/Conflict' not in RFI_TYPES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division '26 00 00 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0145",
+      "errors": [
+        "rfi_type 'document coordination conflict' not in RFI_TYPES",
+        "primary_discipline 'architectural' not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS"
+      ]
+    },
+    {
+      "thread_id": "eval-0146",
+      "errors": [
+        "rfi_type 'Discrepancy/Conflict' not in RFI_TYPES",
+        "urgency 'Routine' not in URGENCY_TIERS",
+        "csi_division '26 00 00 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0147",
+      "errors": [
+        "rfi_type 'clarification' not in RFI_TYPES",
+        "primary_discipline 'Civil/Geotechnical' not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "assigned_reviewer 'Geotechnical/Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0148",
+      "errors": [
+        "rfi_type 'Document Discrepancy' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0149",
+      "errors": [
+        "rfi_type 'document coordination conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'General Contractor Coordination', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0150",
+      "errors": [
+        "rfi_type 'unforeseen condition' not in RFI_TYPES",
+        "primary_discipline 'civil' not in DISCIPLINES",
+        "secondary_disciplines contains 'structural', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0151",
+      "errors": [
+        "rfi_type 'Field Condition / Design Clarification' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '23 00 00 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer / MEP Coordinator' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0152",
+      "errors": [
+        "rfi_type 'field condition/conflict' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0153",
+      "errors": [
+        "rfi_type 'coordination clash' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '05 00 00 - Metals' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0154",
+      "errors": [
+        "rfi_type 'Existing Condition Discrepancy' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '02 - Existing Conditions' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Project Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0155",
+      "errors": [
+        "rfi_type 'conflicting documents' not in RFI_TYPES",
+        "primary_discipline 'structural' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0156",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0157",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "primary_discipline 'mechanical' not in DISCIPLINES",
+        "secondary_disciplines contains 'structural', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0158",
+      "errors": [
+        "rfi_type 'field condition / conflict' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0159",
+      "errors": [
+        "rfi_type 'clarification' not in RFI_TYPES",
+        "primary_discipline 'civil' not in DISCIPLINES",
+        "secondary_disciplines contains 'geotechnical', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS"
+      ]
+    },
+    {
+      "thread_id": "eval-0160",
+      "errors": [
+        "rfi_type 'Design Clarification / Conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0161",
+      "errors": [
+        "rfi_type 'Unforeseen Field Condition' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0162",
+      "errors": [
+        "rfi_type 'field condition / coordination conflict' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0163",
+      "errors": [
+        "rfi_type 'document coordination conflict' not in RFI_TYPES",
+        "primary_discipline 'architectural' not in DISCIPLINES",
+        "urgency 'low' not in URGENCY_TIERS"
+      ]
+    },
+    {
+      "thread_id": "eval-0164",
+      "errors": [
+        "rfi_type 'Site Coordination/Clash' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0165",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0166",
+      "errors": [
+        "rfi_type 'substitution request' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '22 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0167",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']",
+        "assigned_reviewer 'Architect' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0168",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "secondary_disciplines contains 'Geotechnical', not in DISCIPLINES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Geotechnical Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0169",
+      "errors": [
+        "rfi_type 'design conflict / clarification' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0170",
+      "errors": [
+        "rfi_type 'Compliance/Coordination Question' not in RFI_TYPES",
+        "secondary_disciplines contains 'Geotechnical', not in DISCIPLINES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division 'Division 31 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0171",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Project Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0172",
+      "errors": [
+        "rfi_type 'Compliance Verification' not in RFI_TYPES",
+        "primary_discipline 'Civil/Geotechnical' not in DISCIPLINES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "assigned_reviewer 'Geotechnical/Civil Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0173",
+      "errors": [
+        "rfi_type 'Field Conflict / Coordination' not in RFI_TYPES",
+        "secondary_disciplines contains 'Fire Protection', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer (HVAC) in coordination with Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0174",
+      "errors": [
+        "rfi_type 'Field Condition/Conflict' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0175",
+      "errors": [
+        "rfi_type 'Unforeseen Field Condition' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0176",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "secondary_disciplines contains 'Geotechnical', not in DISCIPLINES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division '31 00 00 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0177",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '31 00 00 - Earthwork' not among CSI divisions mapped to primary_discipline 'Civil': ['31 00 00 (Earthwork)', '32 00 00 (Exterior Improvements)', '33 00 00 (Utilities)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0178",
+      "errors": [
+        "rfi_type 'Field Conflict / Unforeseen Condition' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0179",
+      "errors": [
+        "rfi_type 'Document Coordination/Conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0180",
+      "errors": [
+        "rfi_type 'unforeseen field condition' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0181",
+      "errors": [
+        "rfi_type 'Field Condition/Unforeseen Condition' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0182",
+      "errors": [
+        "rfi_type 'Unforeseen Field Condition' not in RFI_TYPES",
+        "secondary_disciplines contains 'General Conditions/Contract Administration', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 03 - Concrete / Division 05 - Metals' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0183",
+      "errors": [
+        "rfi_type 'substitution request' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '22 00 00 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0184",
+      "errors": [
+        "rfi_type 'clarification' not in RFI_TYPES",
+        "primary_discipline 'civil' not in DISCIPLINES",
+        "secondary_disciplines contains 'geotechnical', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Civil Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0185",
+      "errors": [
+        "rfi_type 'Field Condition / Unforeseen Condition' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 23 - Heating Ventilating and Air Conditioning (HVAC)' not among CSI divisions mapped to primary_discipline 'Mechanical': ['23 00 00 (HVAC)']",
+        "assigned_reviewer 'Mechanical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0186",
+      "errors": [
+        "rfi_type 'Discrepancy/Conflict' not in RFI_TYPES",
+        "urgency 'Routine' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0187",
+      "errors": [
+        "rfi_type 'design conflict/discrepancy' not in RFI_TYPES",
+        "secondary_disciplines contains 'Concrete', not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0188",
+      "errors": [
+        "rfi_type 'Discrepancy/Conflict in Documents' not in RFI_TYPES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0189",
+      "errors": [
+        "rfi_type 'substitution request' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 22 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0190",
+      "errors": [
+        "rfi_type 'Discrepancy/Conflict' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division '26 00 00 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0191",
+      "errors": [
+        "rfi_type 'Field Condition Conflict' not in RFI_TYPES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0192",
+      "errors": [
+        "rfi_type 'coordination clash' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '03 00 00 Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0193",
+      "errors": [
+        "rfi_type 'Document Coordination Conflict' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division '08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0194",
+      "errors": [
+        "rfi_type 'Substitution Request' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 22 - Plumbing' not among CSI divisions mapped to primary_discipline 'Plumbing': ['21 00 00 (Fire Suppression)', '22 00 00 (Plumbing)']",
+        "assigned_reviewer 'Plumbing Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0195",
+      "errors": [
+        "rfi_type 'Field Direction Request' not in RFI_TYPES",
+        "primary_discipline 'Fire Protection' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "assigned_reviewer 'Fire Protection Engineer' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0196",
+      "errors": [
+        "rfi_type 'Coordination Clash' not in RFI_TYPES",
+        "urgency 'high' not in URGENCY_TIERS",
+        "csi_division 'Division 03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0197",
+      "errors": [
+        "rfi_type 'design clarification' not in RFI_TYPES",
+        "urgency 'medium' not in URGENCY_TIERS",
+        "csi_division '03 - Concrete' not among CSI divisions mapped to primary_discipline 'Structural': ['03 00 00 (Concrete)', '04 00 00 (Masonry)', '05 00 00 (Metals)', '31 00 00 (Earthwork)']",
+        "assigned_reviewer 'Structural Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    },
+    {
+      "thread_id": "eval-0198",
+      "errors": [
+        "rfi_type 'document coordination conflict' not in RFI_TYPES",
+        "primary_discipline 'architectural' not in DISCIPLINES",
+        "urgency 'high' not in URGENCY_TIERS"
+      ]
+    },
+    {
+      "thread_id": "eval-0199",
+      "errors": [
+        "rfi_type 'document coordination conflict' not in RFI_TYPES",
+        "secondary_disciplines contains 'Glazing/Curtain Wall', not in DISCIPLINES",
+        "urgency 'low' not in URGENCY_TIERS",
+        "csi_division 'Division 08 - Openings' not among CSI divisions mapped to primary_discipline 'Architectural': ['06 00 00 (Wood, Plastics, Composites)', '07 00 00 (Thermal and Moisture Protection)', '08 00 00 (Openings)', '09 00 00 (Finishes)']"
+      ]
+    },
+    {
+      "thread_id": "eval-0200",
+      "errors": [
+        "rfi_type 'Design Clarification' not in RFI_TYPES",
+        "secondary_disciplines contains 'BIM Coordination', not in DISCIPLINES",
+        "urgency 'Low' not in URGENCY_TIERS",
+        "csi_division 'Division 26 - Electrical' not among CSI divisions mapped to primary_discipline 'Electrical': ['26 00 00 (Electrical)', '27 00 00 (Communications)', '28 00 00 (Electronic Safety and Security)']",
+        "assigned_reviewer 'Electrical Engineer of Record' not in REVIEWER_ROLES"
+      ]
+    }
+  ]
+}

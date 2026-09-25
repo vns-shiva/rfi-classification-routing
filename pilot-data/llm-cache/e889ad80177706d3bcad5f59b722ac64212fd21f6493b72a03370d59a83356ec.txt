@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "routine",
+  "question_summary": "Unforeseen conduit routing conflict in Electrical Closet 2A not shown on E-501/E-601; confirm reroute per attached sketch and whether a revised Sheet E-501 is required.",
+  "referenced_documents": ["Sheet E-501", "Electrical Panel Schedule E-601", "Attached sketch"],
+  "proposed_solution": "Reroute conduits per the attached sketch to clear the conflict at Electrical Closet 2A.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond by end of week so we can plan the rough-in sequence.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "As an electrical field condition conflict without schedule urgency, it should be resolved by the Electrical Engineer of record.",
+  "escalation": false,
+  "confidence": 0.9
+}

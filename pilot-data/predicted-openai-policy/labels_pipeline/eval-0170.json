@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0170",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "routine",
+  "question_summary": "Confirm whether Section 31 25 00 erosion control for the disturbed slope per Civil Detail 2/C501 aligns with the geotechnical report requirements for that area.",
+  "referenced_documents": [
+    "Section 31 25 00 Erosion and Sedimentation Control",
+    "Civil Detail 2/C501",
+    "Geotechnical Report"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would help us stay ahead of the compaction testing.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "As a discrepancy between civil specifications/details and the geotechnical report, it should be resolved by the Civil Engineer of record.",
+  "escalation": false,
+  "confidence": 0.76,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

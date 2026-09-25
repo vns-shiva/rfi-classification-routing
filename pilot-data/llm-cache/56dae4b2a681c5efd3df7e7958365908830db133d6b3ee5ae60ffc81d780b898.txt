@@ -1,0 +1,18 @@
+{
+  "rfi_type": "unforeseen field condition",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Ceilings/Finishes"],
+  "csi_division": "Division 26 - Electrical",
+  "urgency": "medium",
+  "question_summary": "Field-verified junction box location at Lobby 101 conflicts with the ceiling grid layout and is not reflected in Electrical Panel Schedule E-601; circuit was de-energized and locked out pending resolution.",
+  "referenced_documents": ["Electrical Panel Schedule E-601", "revised routing sketch"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within five days",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The conflict involves an electrical junction box location discrepancy against the panel schedule, requiring electrical engineering sign-off on the revised routing.",
+  "escalation": false,
+  "confidence": 0.78
+}

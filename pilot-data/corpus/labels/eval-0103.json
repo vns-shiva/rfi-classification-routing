@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0103",
+  "rfi_type": "design_clarification",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Conflicting reinforcement detail for the shear wall between Foundation Plan S-101 and Structural General Notes S-001 ahead of a scheduled pour.",
+  "referenced_documents": [
+    "Foundation Plan S-101",
+    "Structural General Notes S-001"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Thursday",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "Default discipline routing: the Structural Engineer of record interprets and clarifies the Contract Documents for this Structural-discipline design clarification.",
+  "escalation": false,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-08-28",
+  "deadline_resolution_status": "resolved_to_date"
+}

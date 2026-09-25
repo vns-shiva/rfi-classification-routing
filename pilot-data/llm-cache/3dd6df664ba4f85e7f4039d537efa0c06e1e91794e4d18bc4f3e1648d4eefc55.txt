@@ -1,0 +1,18 @@
+{
+  "rfi_type": "coordination clash",
+  "primary_discipline": "civil",
+  "secondary_disciplines": ["landscaping"],
+  "csi_division": "Division 31 - Earthwork",
+  "urgency": "high",
+  "question_summary": "Site utility trench conflicts with proposed landscaping layout at Pour 3, per Grading Plan C-201 vs Civil Detail 2/C501, requiring resolution to keep site work on schedule.",
+  "referenced_documents": ["Grading Plan C-201", "Civil Detail 2/C501", "Site coordination sketch"],
+  "proposed_solution": "Revise per the attached site coordination sketch resolving the trench/landscaping conflict at Pour 3.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "respond Thursday so we can keep the site crew moving",
+  "assigned_reviewer": "Civil Engineer of Record",
+  "routing_rationale": "The clash involves site utility trenching versus grading/landscaping layout, which falls under civil design authority for resolving grading and utility conflicts.",
+  "escalation": false,
+  "confidence": 0.78
+}

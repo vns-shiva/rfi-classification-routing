@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0078",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "routine",
+  "question_summary": "Conflict between Detail 5/A501 and Door and Window Schedule A-601 for Section 08 51 13 corner window frame; confirm which governs for the shop drawings and field mockup.",
+  "referenced_documents": [
+    "Section 08 51 13",
+    "Detail 5/A501",
+    "Door and Window Schedule A-601"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The issue is an internal architectural document conflict regarding window details and schedules, which the Architect of Record must resolve and issue by addendum.",
+  "escalation": false,
+  "confidence": 0.83,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

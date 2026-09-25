@@ -1,0 +1,28 @@
+{
+  "thread_id": "dev-0005",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Mechanical"
+  ],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Conduit routing conflict discovered in Mechanical Room 3B during field investigation, not depicted on Electrical Detail 2/E502 or One-Line Diagram E-002; requires clarification on proper routing to coordinate with mechanical systems.",
+  "referenced_documents": [
+    "Electrical Detail 2/E502",
+    "One-Line Diagram E-002"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "end of week",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "Electrical Engineer must resolve the conduit routing conflict shown in their design documents and coordinate with Mechanical to establish conflict-free routing in the field.",
+  "escalation": false,
+  "confidence": 0.92,
+  "status": "open",
+  "annotator": "annotator_b",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

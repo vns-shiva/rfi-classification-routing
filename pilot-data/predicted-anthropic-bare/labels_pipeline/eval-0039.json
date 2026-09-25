@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0039",
+  "rfi_type": "Unforeseen Field Condition",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [
+    "General Requirements"
+  ],
+  "csi_division": "Division 03 - Concrete",
+  "urgency": "high",
+  "question_summary": "Field team found an existing wall condition at Pour Sequence 4 that is inconsistent with the drawings, and is requesting confirmation of a proposed local layout shift while holding everything else per plan, noting the condition is more extensive than initially reported.",
+  "referenced_documents": [
+    "Project Manual Section 01 00 00"
+  ],
+  "proposed_solution": "Shift the layout locally at the affected area and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "please respond this week so we can keep the crew moving",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The issue involves an existing wall condition affecting concrete pour sequencing, requiring structural evaluation of the proposed workaround.",
+  "escalation": true,
+  "confidence": 0.68,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

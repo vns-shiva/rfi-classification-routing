@@ -1,0 +1,22 @@
+{
+  "rfi_type": "Document coordination conflict",
+  "primary_discipline": "Architecture",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "Medium",
+  "question_summary": "Confirm whether the field mockup or the storefront shop drawings govern for the Section 08 41 13 entry vestibule glazing system so fabrication can proceed.",
+  "referenced_documents": [
+    "Section 08 41 13 Storefronts and Glazing",
+    "Entry vestibule storefront shop drawings",
+    "Entry vestibule field mockup"
+  ],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Architect of Record (Project Architect)",
+  "routing_rationale": "The AOR must resolve conflicts between the field mockup and storefront shop drawings for architectural storefront systems.",
+  "escalation": false,
+  "confidence": 0.74
+}

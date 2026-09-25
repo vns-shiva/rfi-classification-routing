@@ -1,0 +1,23 @@
+```json
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [],
+  "csi_division": "21 00 00",
+  "urgency": "priority",
+  "question_summary": "Standpipe connection detailing at Lobby 101 is inconsistent between Fire Sprinkler Riser Diagram FP-501 and Fire Protection Detail 3/FP-502; clarification needed before sprinkler shop drawings release.",
+  "referenced_documents": [
+    "Fire Sprinkler Riser Diagram FP-501",
+    "Fire Protection Detail 3/FP-502"
+  ],
+  "proposed_solution": "Layout the standpipe connection per Fire Protection Detail 3/FP-502; disregard the conflicting note in Fire Sprinkler Riser Diagram FP-501.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "none stated",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "Fire protection system design authority must resolve the discrepancy between the two contract documents and authorize the correct detailing before shop drawings proceed.",
+  "escalation": false,
+  "confidence": 0.92
+}
+```

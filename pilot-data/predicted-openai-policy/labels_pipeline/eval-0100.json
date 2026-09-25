@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0100",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "priority",
+  "question_summary": "Conflict between site utility trench and proposed landscaping at Pour 3 per Grading Plan C-201 vs Detail 2/C501; request direction/approval to revise per attached coordination sketch to avoid rework and delay.",
+  "referenced_documents": [
+    "Grading Plan C-201",
+    "Civil Detail 2/C501",
+    "Attached site coordination sketch"
+  ],
+  "proposed_solution": "Revise per the attached site coordination sketch resolving the trench and landscaping conflict at Pour 3.",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the site crew moving.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This is a site utilities vs landscaping coordination issue on civil plans, so it should be resolved by the Civil Engineer of record.",
+  "escalation": true,
+  "confidence": 0.79,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

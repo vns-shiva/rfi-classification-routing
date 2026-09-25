@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0025",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0025",
+  "date_submitted": "2025-03-12",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Discrepancy in the Section 26 24 00 panel schedule circuit assignment between Electrical",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Chris Boone",
+      "timestamp": "2025-03-12T11:01",
+      "message_type": "initial_question",
+      "text": "Coordination review turned up a mismatch on the Section 26 24 00 panel schedule circuit assignment between Electrical Detail 2/E502 and Electrical Panel Schedule E-601 -- can you confirm which is correct before we release for fabrication? No rush on this -- please respond when convenient. No cost impact is anticipated. No schedule impact is expected. Please respond before the electrical rough-in inspection. We don't have a fixed turnaround in mind for this -- it depends on the BIM detailer's next clash pass, which isn't on a set schedule."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-03-15T09:23",
+      "message_type": "response",
+      "text": "Electrical Detail 2/E502 governs for the Section 26 24 00 panel schedule circuit assignment near MDP-1; Electrical Panel Schedule E-601 will be superseded by an updated drawing. No cost impact is anticipated. No schedule impact is expected."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "thread_id": "eval-0129",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [
+    "Mechanical"
+  ],
+  "csi_division": "26 00 00 (Electrical)",
+  "urgency": "priority",
+  "question_summary": "Existing conduit at Room 214 conflicts with new duct routing shown in Electrical Detail 2/E502, discovered in the field; circuit was de-energized and locked out pending a revised routing sketch.",
+  "referenced_documents": [
+    "Electrical Detail 2/E502"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer",
+  "routing_rationale": "The conflict centers on existing electrical conduit routing that must be resolved and re-detailed, making the Electrical Engineer the appropriate reviewer to coordinate with mechanical ductwork.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

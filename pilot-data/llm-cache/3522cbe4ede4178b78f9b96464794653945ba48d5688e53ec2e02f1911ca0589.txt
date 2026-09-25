@@ -1,0 +1,18 @@
+{
+  "rfi_type": "design conflict/clarification",
+  "primary_discipline": "structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00 Concrete",
+  "urgency": "high",
+  "question_summary": "Reinforcement detail conflict between Structural General Notes S-001 and Foundation Plan S-101 regarding additional #5 ties in slab-on-deck pour strip; follow-up asks whether the resolved direction applies to all slab-on-deck pour strips on the level, not just the one referenced.",
+  "referenced_documents": ["Structural General Notes S-001", "Foundation Plan S-101"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within one business day",
+  "assigned_reviewer": "Structural Engineer of Record",
+  "routing_rationale": "The unresolved scope question about whether the #5 tie requirement applies to all slab-on-deck pour strips is a structural design interpretation that requires confirmation from the Structural Engineer of Record.",
+  "escalation": true,
+  "confidence": 0.72
+}

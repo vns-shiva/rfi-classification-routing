@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0037",
+  "rfi_type": "Coordination conflict (unforeseen field condition)",
+  "primary_discipline": "Fire Protection",
+  "secondary_disciplines": [
+    "Structural"
+  ],
+  "csi_division": "21 - Fire Suppression",
+  "urgency": "High (response requested within five business days; work area on hold)",
+  "question_summary": "Standpipe riser location at Room 214 conflicts with structural bracing; FP-101 does not show this condition. Initial direction to reroute was issued, but the conflict extent is greater than first reported\u2014request confirmation that the reroute still applies.",
+  "referenced_documents": [
+    "FP-101",
+    "Attached reroute sketch (2025-07-04)",
+    "Inspection log (last month)"
+  ],
+  "proposed_solution": "Reroute the standpipe to clear the structural bracing per the attached sketch, proceed once clearance is confirmed.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five business days so we can keep the crew moving.",
+  "assigned_reviewer": "Fire Protection Engineer of Record",
+  "routing_rationale": "The issue concerns rerouting a standpipe and verifying clearances, which requires the Fire Protection EOR to confirm design intent and coordinate with Structural.",
+  "escalation": false,
+  "confidence": 0.74,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

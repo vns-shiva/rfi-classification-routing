@@ -1,0 +1,18 @@
+{
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "31 00 00 (Earthwork)",
+  "urgency": "priority",
+  "question_summary": "Clarify required setback for excavation shoring near the property line at Placement Zone 2 per Section 31 50 00 and confirm whether the civil inspector can approve it as currently shown.",
+  "referenced_documents": ["Specification Section 31 50 00", "Geotechnical Report"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days",
+  "assigned_reviewer": "Code Official/AHJ Liaison",
+  "routing_rationale": "The inquiry requests confirmation of inspector sign-off and compliance for excavation/shoring setbacks near the property line, which should be coordinated through the AHJ liaison with input from the civil designer.",
+  "escalation": false,
+  "confidence": 0.71
+}

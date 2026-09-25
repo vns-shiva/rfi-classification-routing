@@ -1,0 +1,25 @@
+{
+  "thread_id": "eval-0101",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "urgent",
+  "question_summary": "Unforeseen fire protection field condition: fire pump room clearance conflicting with the new equipment layout at Mechanical Room 3B.",
+  "referenced_documents": [
+    "Fire Protection Detail 3/FP502"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within five business days",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "Urgent field conditions without a schedule impact escalate directly to the Plumbing/Fire Protection Engineer.",
+  "escalation": true,
+  "confidence": 1.0,
+  "status": "open",
+  "annotator": "gold",
+  "deadline_iso": "2025-04-18",
+  "deadline_resolution_status": "resolved_to_date"
+}

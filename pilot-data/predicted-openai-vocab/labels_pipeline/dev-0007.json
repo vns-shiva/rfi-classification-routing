@@ -1,0 +1,27 @@
+{
+  "thread_id": "dev-0007",
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Confirm whether the specified egress width in Division 00 complies with the adopted code edition referenced in Section 23 05 00.",
+  "referenced_documents": [
+    "Project Specifications Division 00",
+    "Section 23 05 00",
+    "Adopted building code edition"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Egress width and code compliance are life-safety matters under the Architect of Record\u2019s purview.",
+  "escalation": false,
+  "confidence": 0.73,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

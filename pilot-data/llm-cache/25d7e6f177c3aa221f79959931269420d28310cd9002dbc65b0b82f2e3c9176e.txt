@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "31 00 00",
+  "urgency": "routine",
+  "question_summary": "Submitter asks whether the minimum cover requirement for underground utility trench backfill per Section 31 23 00 and Civil Detail 2/C501 is consistent with the geotechnical report's requirements for the area.",
+  "referenced_documents": ["Section 31 23 00", "Civil Detail 2/C501", "Geotechnical Report"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can schedule the civil inspection.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The question concerns underground utility trench backfill cover requirements, a civil earthwork detail requiring the Civil Engineer's confirmation against the geotechnical report.",
+  "escalation": false,
+  "confidence": 0.82
+}

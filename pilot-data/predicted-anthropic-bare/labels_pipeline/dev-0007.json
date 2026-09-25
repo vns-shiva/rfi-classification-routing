@@ -1,0 +1,29 @@
+{
+  "thread_id": "dev-0007",
+  "rfi_type": "Code Compliance Clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [
+    "Mechanical",
+    "Fire Protection/Life Safety"
+  ],
+  "csi_division": "08 - Openings",
+  "urgency": "high",
+  "question_summary": "Submitter asks whether the egress width requirement stated in Division 00 of the project specifications complies with the adopted building code edition referenced in Section 23 05 00, noting the discrepancy may be a design-intent issue rather than an actual code violation, and flags potential impact on the certificate of occupancy schedule.",
+  "referenced_documents": [
+    "Project Specifications Division 00",
+    "Section 23 05 00"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "no specific deadline for this, but a timely response is appreciated",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "Egress width is fundamentally a life-safety/architectural code compliance matter, so the Architect of Record is best positioned to confirm whether the specified width meets the adopted code edition.",
+  "escalation": true,
+  "confidence": 0.5,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

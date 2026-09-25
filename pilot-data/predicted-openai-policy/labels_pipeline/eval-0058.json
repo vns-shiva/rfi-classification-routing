@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0058",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "priority",
+  "question_summary": "Utility trench route per C-101 conflicts with proposed landscaping shown on Grading Plan C-201 at Pour Sequence 4; request direction to resolve clash.",
+  "referenced_documents": [
+    "Sheet C-101",
+    "Grading Plan C-201"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "This is a site utilities vs. landscaping coordination issue best resolved by the Civil Engineer of record.",
+  "escalation": false,
+  "confidence": 0.78,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,18 @@
+{
+  "thread_id": "dev-0012",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0012",
+  "date_submitted": "2025-09-24",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Request to substitute a linear slot alternate diffuser in lieu of the specified",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-09-24T17:10",
+      "message_type": "initial_question",
+      "text": "We would like to substitute a linear slot alternate diffuser in lieu of the specified perforated face diffuser, per Section 23 82 00. We would like this reviewed ahead of the next equipment order deadline. No cost adjustment is anticipated for this substitution. This substitution will not affect the equipment delivery schedule. Please respond Thursday so we can place the order. This RFI is unrelated to the pending equipment cost-escalation claim submitted separately."
+    }
+  ]
+}

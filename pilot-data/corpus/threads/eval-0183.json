@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0183",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0183",
+  "date_submitted": "2025-04-18",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Request to substitute a tankless alternate in lieu of the storage-type water heater",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-04-18T08:38",
+      "message_type": "initial_question",
+      "text": "We're proposing a tankless alternate in lieu of the storage-type water heater specified in Section 22 34 00 and want sign-off before we order material. No rush -- please take a look whenever it's convenient. The substitution may affect the plumbing fixture budget depending on the manufacturer. No schedule impact is anticipated from this substitution. A response by the end of the day would let us keep the order on track."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Dana Ruiz",
+      "timestamp": "2025-04-21T13:02",
+      "message_type": "response",
+      "text": "The submittal for a tankless alternate in lieu of the storage-type water heater specified in Section 22 34 00 is acceptable provided it shows equivalent performance data and code-compliance listings for the assembly it replaces. The substitution may affect the plumbing fixture budget depending on the manufacturer."
+    }
+  ]
+}

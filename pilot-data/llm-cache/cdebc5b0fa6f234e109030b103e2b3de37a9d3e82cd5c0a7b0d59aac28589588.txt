@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Unforeseen Field Condition",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": [],
+  "csi_division": "Division 26 - Electrical",
+  "urgency": "high",
+  "question_summary": "Field team discovered an existing electrical feeder at Electrical Closet 2A that conflicts with the new equipment pad location, a condition not shown on Sheet E-501, requiring resolution before the next work sequence.",
+  "referenced_documents": ["Sheet E-501"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The conflict involves an existing electrical feeder and equipment power routing, requiring the Electrical Engineer of Record to assess and revise E-501 accordingly.",
+  "escalation": true,
+  "confidence": 0.85
+}

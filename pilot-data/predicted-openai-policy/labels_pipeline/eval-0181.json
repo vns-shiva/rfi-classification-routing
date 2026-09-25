@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0181",
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "21 00 00 (Fire Suppression)",
+  "urgency": "urgent",
+  "question_summary": "Unforeseen conflict at Electrical Closet 2A where sprinkler head spacing clashes with the ceiling grid; not shown on FP-501; guidance needed to resolve so crews can proceed.",
+  "referenced_documents": [
+    "FP-501 Fire Sprinkler Riser Diagram",
+    "Attached reroute sketch for Electrical Closet 2A"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "GC Superintendent",
+  "routing_rationale": "This is a field condition conflict impacting schedule with urgent priority, so it should be directed by the GC Superintendent for immediate field resolution.",
+  "escalation": true,
+  "confidence": 0.79,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

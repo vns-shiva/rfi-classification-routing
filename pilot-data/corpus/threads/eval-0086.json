@@ -1,0 +1,26 @@
+{
+  "thread_id": "eval-0086",
+  "project": "Harborview Logistics Center",
+  "rfi_number": "RFI-0086",
+  "date_submitted": "2025-06-22",
+  "submitted_by_role": "Foreman",
+  "subject": "Unforeseen mechanical field condition: unforeseen ceiling height restriction affecting",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Foreman",
+      "sender_name": "Luis Fernandez",
+      "timestamp": "2025-06-22T11:09",
+      "message_type": "initial_question",
+      "text": "Our crew hit the unforeseen ceiling height restriction affecting the ductwork routing at EF-4 and need your call on the permanent fix. We would like this resolved ahead of the next work sequence. There will be a cost impact to address this condition. This is not holding up other work currently. A response Friday would be appreciated."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-06-23T11:19",
+      "message_type": "response",
+      "text": "Reroute to clear the conflict at EF-4 per the attached sketch; proceed once you've confirmed clearance. There will be a cost impact to address this condition."
+    }
+  ]
+}

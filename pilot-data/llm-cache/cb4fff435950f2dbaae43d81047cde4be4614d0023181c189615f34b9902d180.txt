@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": [],
+  "csi_division": "03 00 00",
+  "urgency": "urgent",
+  "question_summary": "Reinforcement for the slab-on-deck pour strip is shown differently in Structural General Notes S-001 versus Foundation Plan S-101 (additional #5 ties); after an initial directive to follow S-101, the field is asking whether that directive applies to all slab-on-deck pour strips on this level or only the one originally called out, and confirmation is needed before the next concrete pour.",
+  "referenced_documents": ["S-001", "S-101"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "within one business day",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "The unresolved conflict and follow-up scope question both concern structural reinforcement detailing, requiring the Structural Engineer to confirm applicability across all pour strips before concrete placement.",
+  "escalation": true,
+  "confidence": 0.82
+}

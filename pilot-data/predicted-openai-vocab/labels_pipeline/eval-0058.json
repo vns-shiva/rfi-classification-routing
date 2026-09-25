@@ -1,0 +1,28 @@
+{
+  "thread_id": "eval-0058",
+  "rfi_type": "coordination_conflict",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": [
+    "Architectural"
+  ],
+  "csi_division": "33 00 00 (Utilities)",
+  "urgency": "priority",
+  "question_summary": "Conflict between site utility trench alignment and proposed landscaping shown at Pour Sequence 4 per C-101 vs Grading Plan C-201; need direction on rerouting utilities or adjusting landscaping.",
+  "referenced_documents": [
+    "Sheet C-101",
+    "Grading Plan C-201"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can keep the site crew moving.",
+  "assigned_reviewer": "Civil Engineer",
+  "routing_rationale": "The issue involves site utilities and grading/landscape coordination on civil sheets, best resolved by the Civil Engineer.",
+  "escalation": false,
+  "confidence": 0.77,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

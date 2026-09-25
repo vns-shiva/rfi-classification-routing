@@ -1,0 +1,18 @@
+{
+  "rfi_type": "code_compliance_question",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "09 00 00 (Finishes)",
+  "urgency": "priority",
+  "question_summary": "Confirm whether the specified fire-rated assembly listing in Division 00 complies with the adopted code edition referenced in Section 03 30 00.",
+  "referenced_documents": ["Project Specifications Division 00", "Section 03 30 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": true,
+  "deadline_text": "No hard deadline, just would like to keep this moving.",
+  "assigned_reviewer": "Code Official/AHJ Liaison",
+  "routing_rationale": "This is a code compliance confirmation and should be routed to the Code Official/AHJ Liaison per policy.",
+  "escalation": false,
+  "confidence": 0.74
+}

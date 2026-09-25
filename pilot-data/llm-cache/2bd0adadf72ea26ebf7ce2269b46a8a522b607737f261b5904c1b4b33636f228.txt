@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Structural",
+  "secondary_disciplines": ["Architectural"],
+  "csi_division": "03 00 00 (Concrete)",
+  "urgency": "priority",
+  "question_summary": "Existing wall condition at Pour Sequence 4 does not match drawings; contractor requests approval to locally shift layout while keeping remaining work per plan.",
+  "referenced_documents": ["Project Manual Section 01 00 00", "Drawings – Pour Sequence 4"],
+  "proposed_solution": "Shift the layout locally and hold everything else per plan.",
+  "cost_impact": true,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond this week so we can keep the crew moving.",
+  "assigned_reviewer": "Structural Engineer",
+  "routing_rationale": "This unforeseen condition impacts concrete work in Pour Sequence 4, so it should be reviewed by the Structural Engineer as the design professional of record.",
+  "escalation": false,
+  "confidence": 0.84
+}

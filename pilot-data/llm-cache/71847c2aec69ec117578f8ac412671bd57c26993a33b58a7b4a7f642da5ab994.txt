@@ -1,0 +1,18 @@
+{
+  "rfi_type": "document coordination/conflict",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "Division 23 - Heating, Ventilating, and Air Conditioning (HVAC)",
+  "urgency": "medium",
+  "question_summary": "Requests resolution of a conflict between Mechanical Detail 4/M501 and Mechanical Schedule M-601 regarding ductwork routing near P-101 under Section 23 31 00.",
+  "referenced_documents": ["Mechanical Detail 4/M501", "Mechanical Schedule M-601", "Section 23 31 00"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "A response Friday would be appreciated.",
+  "assigned_reviewer": "Mechanical Engineer of Record",
+  "routing_rationale": "The conflict involves mechanical ductwork routing documentation, so it should be resolved by the Mechanical Engineer of Record.",
+  "escalation": false,
+  "confidence": 0.85
+}

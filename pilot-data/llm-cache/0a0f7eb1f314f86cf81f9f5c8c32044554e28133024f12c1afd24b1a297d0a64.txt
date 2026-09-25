@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document conflict/coordination",
+  "primary_discipline": "Civil",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "32 — Exterior Improvements",
+  "urgency": "Routine",
+  "question_summary": "Elevation for the site retaining wall at Pour Sequence 4 conflicts between Grading Plan C-201 and Utility Plan C-301; which elevation governs?",
+  "referenced_documents": ["Grading Plan C-201", "Utility Plan C-301"],
+  "proposed_solution": "Use the elevation in Utility Plan C-301 and correct the survey benchmark; update Grading Plan C-201 by addendum.",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond at your earliest convenience.",
+  "assigned_reviewer": "Civil Engineer of Record (Site/Civil)",
+  "routing_rationale": "The issue is a conflict between civil plan sheets affecting site grading and a retaining wall elevation, requiring the civil EOR to confirm and issue an addendum.",
+  "escalation": false,
+  "confidence": 0.78
+}

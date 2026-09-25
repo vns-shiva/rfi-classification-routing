@@ -1,0 +1,25 @@
+{
+  "thread_id": "dev-0012",
+  "rfi_type": "substitution_request",
+  "primary_discipline": "Mechanical",
+  "secondary_disciplines": [],
+  "csi_division": "23 00 00 (HVAC)",
+  "urgency": "priority",
+  "question_summary": "Request to substitute a linear slot alternate diffuser for the specified perforated face diffuser in HVAC system per Section 23 82 00.",
+  "referenced_documents": [
+    "Section 23 82 00"
+  ],
+  "proposed_solution": "Linear slot alternate diffuser in lieu of specified perforated face diffuser",
+  "cost_impact": false,
+  "schedule_impact": false,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond Thursday so we can place the order.",
+  "assigned_reviewer": "Mechanical Engineer",
+  "routing_rationale": "Mechanical Engineer must review the technical equivalency of the alternate diffuser to ensure performance, airflow characteristics, and noise criteria match the original specification.",
+  "escalation": false,
+  "confidence": 0.92,
+  "status": "open",
+  "annotator": "annotator_b",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

@@ -1,0 +1,18 @@
+{
+  "rfi_type": "field_condition_conflict",
+  "primary_discipline": "Fire_Protection",
+  "secondary_disciplines": ["Structural"],
+  "csi_division": "21 00 00",
+  "urgency": "urgent",
+  "question_summary": "Standpipe riser location at Room 214 conflicts with structural bracing and is not shown on FP-101; field crew stopped work pending direction, and extent of conflict may be larger than initially reported.",
+  "referenced_documents": ["FP-101"],
+  "proposed_solution": "Reroute to clear the conflict at Room 214 per attached sketch, proceed once clearance confirmed.",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three business days would be appreciated.",
+  "assigned_reviewer": "Plumbing/Fire Protection Engineer",
+  "routing_rationale": "The conflict centers on the fire protection standpipe routing, requiring the Plumbing/Fire Protection Engineer to confirm the rerouting solution given the expanded conflict scope.",
+  "escalation": true,
+  "confidence": 0.75
+}

@@ -1,0 +1,29 @@
+{
+  "thread_id": "eval-0061",
+  "rfi_type": "document_discrepancy",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 00 00 (Openings)",
+  "urgency": "priority",
+  "question_summary": "Conflict between Sheet A-201 and Detail 5/A501 for Section 08 44 13 curtain wall mullion at building corner; confirm which detail governs for fabrication.",
+  "referenced_documents": [
+    "Section 08 44 13",
+    "Sheet A-201",
+    "Detail 5/A501",
+    "Field mockup",
+    "Curtain wall shop drawings"
+  ],
+  "proposed_solution": "\u2014",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "Please respond within five days so we can proceed with fabrication.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "This is an architectural detail discrepancy between architectural drawings requiring AOR direction and addendum.",
+  "escalation": false,
+  "confidence": 0.86,
+  "status": "open",
+  "annotator": "pipeline",
+  "deadline_iso": null,
+  "deadline_resolution_status": "unresolved"
+}

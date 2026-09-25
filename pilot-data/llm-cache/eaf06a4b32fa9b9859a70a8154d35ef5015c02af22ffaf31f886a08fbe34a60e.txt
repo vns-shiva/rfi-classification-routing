@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Unforeseen Field Condition",
+  "primary_discipline": "Electrical",
+  "secondary_disciplines": ["Mechanical"],
+  "csi_division": "Division 26 - Electrical",
+  "urgency": "high",
+  "question_summary": "Existing electrical conduit conflicts with new ductwork routing at Room 214, not shown on Electrical Detail 2/E502; circuit de-energized and locked out pending resolution.",
+  "referenced_documents": ["Electrical Detail 2/E502"],
+  "proposed_solution": "—",
+  "cost_impact": true,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "A response within three days would be appreciated.",
+  "assigned_reviewer": "Electrical Engineer of Record",
+  "routing_rationale": "The conflict involves existing electrical conduit not reflected on the electrical detail, requiring engineering review and a revised routing sketch from the electrical discipline.",
+  "escalation": false,
+  "confidence": 0.82
+}

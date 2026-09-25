@@ -1,0 +1,18 @@
+{
+  "rfi_type": "Document coordination conflict / design clarification",
+  "primary_discipline": "Architectural",
+  "secondary_disciplines": [],
+  "csi_division": "08 - Openings",
+  "urgency": "Medium",
+  "question_summary": "Confirm whether the entry vestibule storefront glazing should follow the shop drawings or the field mockup where they conflict for Section 08 41 13.",
+  "referenced_documents": ["Section 08 41 13 Aluminum-Framed Entrances and Storefronts", "Entry vestibule storefront shop drawings", "Field mockup (entry vestibule storefront)"],
+  "proposed_solution": "—",
+  "cost_impact": false,
+  "schedule_impact": true,
+  "answer_in_documents": false,
+  "deadline_text": "We would like this closed out ahead of the next submittal deadline. There is no specific deadline for this, but a timely response is appreciated.",
+  "assigned_reviewer": "Architect of Record",
+  "routing_rationale": "The Architect of Record is responsible for resolving architectural storefront design intent and conflicts between mockup and submittal documents.",
+  "escalation": false,
+  "confidence": 0.76
+}

@@ -1,0 +1,26 @@
+{
+  "thread_id": "dev-0028",
+  "project": "Northgate Mixed-Use Phase II",
+  "rfi_number": "RFI-0028",
+  "date_submitted": "2025-03-18",
+  "submitted_by_role": "Project Engineer",
+  "subject": "Conflict between Foundation Plan S-101 and Structural Detail 3/S502 over the cast-in",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-03-18T11:40",
+      "message_type": "initial_question",
+      "text": "The cast-in anchor bolt group location shown in Foundation Plan S-101 at Gridline B/2 conflicts with the mechanical ductwork and architectural ceiling framing routing shown in Structural Detail 3/S502. This needs immediate attention -- please prioritize a response. We do not expect this to affect the contract sum. This is holding up steel fabrication release. We need this resolved before the next steel erection mobilization."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Priya Nair",
+      "timestamp": "2025-03-20T17:58",
+      "message_type": "response",
+      "text": "Revise the cast-in anchor bolt group per Structural Detail 3/S502; coordinate final dimensions with the affected trades before fabrication. We do not expect this to affect the contract sum. This is holding up steel fabrication release."
+    }
+  ]
+}

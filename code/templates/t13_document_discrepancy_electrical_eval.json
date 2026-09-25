@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "template_id": "t13_document_discrepancy_electrical_eval",
+  "pool": "eval",
+  "axes": {
+    "rfi_type": ["document_discrepancy"],
+    "primary_discipline": ["Electrical"],
+    "urgency": ["routine", "urgent"],
+    "cost_impact": [false, true],
+    "schedule_impact": [false, true],
+    "deadline_family": ["event_anchored", "ambiguous"],
+    "adversarial": ["none", "unresolvable_deadline"],
+    "thread_shape": ["single_message", "two_message_qa"]
+  },
+  "csi_by_discipline": {
+    "Electrical": "26 00 00 (Electrical)"
+  },
+  "secondary_by_adversarial": {
+    "none": [],
+    "unresolvable_deadline": []
+  },
+  "slots": {
+    "electrical_item": [
+      "Section 26 24 00 panel schedule circuit assignment",
+      "Section 26 05 33 conduit routing",
+      "Section 26 51 00 light fixture type",
+      "Section 26 27 26 receptacle mounting height"
+    ],
+    "equipment_tag": ["LP-1", "MDP-1", "XFMR-2", "DP-3", "J-Box 4"]
+  },
+  "urgency_phrasing": {
+    "routine": [
+      "This is routine and can be worked into the normal submittal cycle.",
+      "No rush on this -- please respond when convenient."
+    ],
+    "urgent": [
+      "This is urgent -- please treat this as a priority.",
+      "This needs a quick turnaround; please prioritize a response."
+    ]
+  },
+  "cost_phrasing": {
+    "true": [
+      "There may be a cost impact depending on how this is resolved.",
+      "This could affect the contract sum depending on the resolution."
+    ],
+    "false": [
+      "No cost impact is anticipated.",
+      "We do not expect this to affect the contract sum."
+    ]
+  },
+  "schedule_phrasing": {
+    "true": [
+      "This is holding up rough-in in this area.",
+      "This could affect the electrical rough-in schedule."
+    ],
+    "false": [
+      "This is not holding up any current work.",
+      "No schedule impact is expected."
+    ]
+  },
+  "deadline_phrasing": {
+    "event_anchored": [
+      "Please respond before the electrical rough-in inspection.",
+      "Please respond before the panel energization walkthrough."
+    ],
+    "ambiguous": [
+      "Please respond at your earliest convenience.",
+      "Let us know when you expect to have an answer."
+    ]
+  },
+  "unresolvable_deadline_phrasing": [
+    "We can't tie this to a firm date on our end -- it depends on when the panel vendor gets back to us, and they haven't given a timeline.",
+    "There isn't a real deadline we can set from here; it's contingent on the coordination model update, which doesn't have a scheduled release.",
+    "We don't have a fixed turnaround in mind for this -- it depends on the BIM detailer's next clash pass, which isn't on a set schedule."
+  ],
+  "messages": [
+    {
+      "message_type": "initial_question",
+      "sender_role_pool": ["Project Engineer", "Detailer/BIM Coordinator"],
+      "shapes": ["single_message", "two_message_qa"],
+      "body_variants": [
+        "Coordination review turned up a mismatch on the {electrical_item} between {doc_b} and {doc_a} -- can you confirm which is correct before we release for fabrication? {urgency_phrase} {cost_phrase} {schedule_phrase} {deadline_phrase} {unresolvable_deadline_phrase}",
+        "{doc_a} and {doc_b} conflict on the {electrical_item} at {equipment_tag} -- which is correct as issued? {urgency_phrase} {deadline_phrase} {unresolvable_deadline_phrase}",
+        "The {electrical_item} at {equipment_tag} shown in {doc_a} is inconsistent with {doc_b}. {cost_phrase} {schedule_phrase} {unresolvable_deadline_phrase}",
+        "BIM clash detection flagged the {electrical_item} near {equipment_tag} as a possible conflict between {doc_a} and {doc_b} -- please confirm before we proceed. {urgency_phrase} {cost_phrase} {unresolvable_deadline_phrase}"
+      ]
+    },
+    {
+      "message_type": "response",
+      "sender_role_pool": ["Project Engineer"],
+      "shapes": ["two_message_qa"],
+      "body_variants": [
+        "{doc_b} governs for the {electrical_item} near {equipment_tag}; {doc_a} will be superseded by an updated drawing. {cost_phrase} {schedule_phrase}",
+        "Neither drawing is correct as marked -- follow the attached corrected drawing for the {electrical_item} near {equipment_tag}. {cost_phrase}",
+        "{doc_b} is correct -- proceed with the {electrical_item} near {equipment_tag} as shown there. {schedule_phrase}"
+      ]
+    }
+  ],
+  "gold": {
+    "csi_division": "26 00 00 (Electrical)",
+    "question_summary_variants": [
+      "Discrepancy in the {electrical_item} between {doc_a} and {doc_b}.",
+      "Inconsistent {electrical_item} near {equipment_tag} between {doc_a} and {doc_b}."
+    ],
+    "proposed_solution_variants": [
+      "—",
+      "Recommend {doc_b} govern and issue an addendum correcting {doc_a}."
+    ],
+    "answer_in_documents": false
+  },
+  "gold_routing_table": [
+    {
+      "when": {"cost_impact": true, "schedule_impact": true},
+      "assigned_reviewer": "Owner's Representative",
+      "routing_rationale": "Simultaneous cost and schedule impact on this project routes first to the Owner's Representative per the delegation-of-authority letter, with the Electrical Engineer looped in as technical reviewer.",
+      "escalation": true,
+      "policy_divergence": true,
+      "divergence_reason": "Default discipline routing would keep this with the Electrical Engineer; this project's delegation letter pulls the owner's rep in whenever both cost and schedule are affected, regardless of discipline."
+    },
+    {
+      "when": {"urgency": "urgent"},
+      "assigned_reviewer": "Electrical Engineer",
+      "routing_rationale": "Urgent document discrepancies escalate directly to the Electrical Engineer for a fast resolution.",
+      "escalation": true,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    },
+    {
+      "when": {},
+      "assigned_reviewer": "Electrical Engineer",
+      "routing_rationale": "Default discipline routing: the Electrical Engineer resolves document discrepancies affecting electrical work.",
+      "escalation": false,
+      "policy_divergence": false,
+      "divergence_reason": ""
+    }
+  ]
+}

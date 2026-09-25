@@ -1,0 +1,27 @@
+{
+  "thread_id": "dev-0018",
+  "template_id": "t06_design_clarification_plumbing_dev",
+  "cell": {
+    "split": "dev",
+    "rfi_type": "design_clarification",
+    "primary_discipline": "Plumbing",
+    "urgency": "priority",
+    "cost_impact": false,
+    "schedule_impact": false,
+    "deadline_family": "none",
+    "adversarial": "none",
+    "thread_shape": "two_message_qa"
+  },
+  "variant_index": 0,
+  "seed": 5326007954238276720,
+  "body_variant_index": {
+    "initial_question": 0,
+    "response": 0
+  },
+  "question_summary_variant_index": 0,
+  "proposed_solution_variant_index": 0,
+  "project": "Northgate Mixed-Use Phase II",
+  "doc_a": "Plumbing Fixture Schedule P-602",
+  "doc_b": "Plumbing Detail 6/P503",
+  "date_submitted": "2025-07-24"
+}

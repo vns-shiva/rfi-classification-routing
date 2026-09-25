@@ -1,0 +1,34 @@
+{
+  "thread_id": "dev-0010",
+  "project": "Cedar Grove Elementary Addition",
+  "rfi_number": "RFI-0010",
+  "date_submitted": "2025-09-09",
+  "submitted_by_role": "Detailer/BIM Coordinator",
+  "subject": "Conflict between Sheet S-301 and Structural Detail 3/S502 over the shear wall hold-down",
+  "messages": [
+    {
+      "message_id": 1,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Chris Boone",
+      "timestamp": "2025-09-09T13:41",
+      "message_type": "initial_question",
+      "text": "The shear wall hold-down location shown in Sheet S-301 at Gridline B/2 conflicts with the mechanical ductwork and architectural ceiling framing routing shown in Structural Detail 3/S502. This needs immediate attention -- please prioritize a response. No cost impact is anticipated either way. This is holding up steel fabrication release. A response within three weeks would let us keep the erection sequence on track."
+    },
+    {
+      "message_id": 2,
+      "sender_role": "Project Engineer",
+      "sender_name": "Marcus Webb",
+      "timestamp": "2025-09-12T08:35",
+      "message_type": "response",
+      "text": "Revise the shear wall hold-down per Structural Detail 3/S502; coordinate final dimensions with the affected trades before fabrication. No cost impact is anticipated either way. This is holding up steel fabrication release."
+    },
+    {
+      "message_id": 3,
+      "sender_role": "Detailer/BIM Coordinator",
+      "sender_name": "Chris Boone",
+      "timestamp": "2025-09-13T13:05",
+      "message_type": "clarification",
+      "text": "To confirm, should the shear wall hold-down at Gridline B/2 remain per Sheet S-301, or do we wait for a revised Structural Detail 3/S502? A response within three weeks would let us keep the erection sequence on track."
+    }
+  ]
+}
