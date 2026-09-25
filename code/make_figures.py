@@ -39,7 +39,7 @@ def _load(provider: str, condition: str) -> dict:
 
 
 def fig_ablation_accuracy() -> None:
-    fig, axes = plt.subplots(1, 2, figsize=(12, 4.5), sharey=True)
+    fig, axes = plt.subplots(2, 1, figsize=(7, 8.5), sharex=True)
     x = range(len(_ARMS))
     width = 0.25
     for ax, provider in zip(axes, _PROVIDERS):
@@ -54,9 +54,9 @@ def fig_ablation_accuracy() -> None:
         ax.set_xticklabels([_ARM_LABELS[a] for a in _ARMS], fontsize=8)
         ax.set_title(_PROVIDER_LABELS[provider], fontsize=10)
         ax.axhline(0, color="black", linewidth=0.8)
-    axes[0].set_ylabel("Reviewer assignment accuracy (n=200 EVAL threads)")
-    axes[0].set_ylim(0, 1.05)
-    axes[1].legend(title="Prompt condition", fontsize=8)
+        ax.set_ylabel("Reviewer assignment accuracy\n(n=200 EVAL threads)", fontsize=8)
+        ax.set_ylim(0, 1.05)
+    axes[0].legend(title="Prompt condition", fontsize=8)
     fig.suptitle(
         "Reviewer-routing accuracy by prompt condition, scoring arm, and provider\n"
         "(bare = not scored for every arm/provider because 100% of its outputs failed\n"
