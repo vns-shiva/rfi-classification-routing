@@ -54,19 +54,16 @@ composing the LLM's classification fields with a deterministic routing
 policy reaches 73.5% reviewer-assignment accuracy against gold labels
 (Cohen's κ=0.700) versus an 85.5% oracle ceiling (κ=0.834) and a 7.5%
 majority baseline; adding the policy text itself does not improve on vocab's
-accuracy. Confidence/escalation gating separates a small (18%), genuinely
-hard subpopulation (≈39% accuracy) from a large majority routed at over 81%
-accuracy. A disclosed LLM proxy for a second annotator, used because no
-human coder was available and reported as a limitation, not a claim of
-human-human reliability, agrees with gold at Krippendorff's α=0.914
-(discipline), 0.818 (urgency), and 0.484 (escalation). A full replication
-with a second provider (OpenAI GPT-5) across all three conditions confirms
-both headline findings: the bare condition again fails outright (239/240
-outputs schema-invalid, the 240th failing before a parseable response), and
-composed reviewer-assignment accuracy is materially unchanged by the
-policy-text addition (74.0% vocab vs. 74.0% policy, vs. Anthropic's 73.5%
-vocab vs. 74.0% policy), with both providers' vocab/policy accuracy landing
-within 1.5 points of each other on every scoring arm.
+accuracy. A full replication with a second provider (OpenAI GPT-5) across
+all three conditions confirms both headline findings: the bare condition
+again fails outright (239/240 outputs schema-invalid, the 240th failing
+before a parseable response), and composed reviewer-assignment accuracy is
+materially unchanged by the policy-text addition (74.0% vocab vs. 74.0%
+policy, vs. Anthropic's 73.5% vocab vs. 74.0% policy), with both providers'
+vocab/policy accuracy landing within 1.5 points of each other on every
+scoring arm. This is a pilot-scale study on a single synthetic corpus with
+one run per provider/condition cell; performance on real project RFIs
+remains untested.
 
 **Keywords:** requests for information; construction document classification; large language models; prompt engineering; structured output validation; inter-annotator agreement; ticket routing
 
@@ -161,9 +158,8 @@ as a workflow bottleneck instead of a purely contractual formality. The one
 existing attempt to apply a large language model to the RFI process itself,
 Panahi et al.'s [1] ChatGPT-based RFI recommender for pre-construction
 design review, is the closest direct precedent to this paper's task; it
-targets recommendation, not the closed-vocabulary schema validity and
-policy-grounded routing this paper isolates, which is the gap this paper's
-ablation is designed to fill.
+targets recommendation, not closed-vocabulary schema validity or
+policy-grounded routing.
 
 ### 2.2 NLP and text mining applied to construction documents
 
@@ -172,16 +168,12 @@ extraction to other construction document types — specifications,
 submittals, and contracts — without targeting RFIs specifically. Xu et
 al. [11] survey text-mining applications across the construction industry
 and identify a persistent gap between narrow proof-of-concept classifiers
-and deployable pipelines with explicit validity guarantees, the gap this
-paper's closed-vocabulary ablation addresses for one task. Moon et al. [12]
+and deployable pipelines with explicit validity guarantees. Moon et al. [12]
 use a BERT-based classifier to detect contractual risk clauses in
 specifications, Pham and Han [13] apply multitask classification to predict
 risk-handling actions in construction contracts, and Dikmen et al. [14]
 combine NLP and machine learning for automated contract risk and
-responsibility assessment. None of these apply a closed-vocabulary or
-policy-conditioning ablation to isolate which part of a prompt is
-responsible for a model's output validity, which is this paper's specific
-contribution relative to this cluster.
+responsibility assessment.
 
 ### 2.3 Large language models applied to AEC tasks
 
@@ -193,8 +185,7 @@ ontology-driven GPT-4 pipeline to question-answering over construction
 standards. Two recent reviews, Kampelopoulos et al. [2] and Gao et al. [3],
 survey LLM applications and implementation strategies across the AEC
 industry more broadly, and both identify structured-output reliability as an
-open challenge for deployment; this paper treats that challenge as its
-central empirical question, not merely a stated limitation.
+open challenge for deployment.
 
 ### 2.4 Structured output, schema-constrained generation, and function calling
 
@@ -227,9 +218,9 @@ routing rule be driven reliably by LLM-produced classification fields) is
 the same. Zhou and Li [19] apply few-shot LLM classification to triage
 patient inquiries into actionable categories, and Madeyski [20] routes
 software engineering tasks to cost-tiered LLMs using code-quality signals;
-both are ticket/task routing analogues this paper's five-arm routing
-evaluation (§4.1) generalizes by separating classification-field noise from
-routing-rule divergence, which neither prior study isolates explicitly.
+both are ticket/task routing analogues to this paper's five-arm routing
+evaluation (§4.1), which separates classification-field noise from
+routing-rule divergence.
 
 ### 2.6 Inter-annotator agreement and LLM-as-annotator
 
@@ -678,35 +669,11 @@ value.
 
 ## 7. CONCLUSION
 
-This paper isolated *which part of an LLM prompt* is responsible for
-reliable RFI classification and routing, instead of only measuring
-whether an LLM can do the task at all. Across a stratified, adversarial,
-anti-fabrication 240-thread synthetic corpus, the answer is unambiguous:
-closed-vocabulary injection is the difference between a 0%- and a
-100%-schema-valid pipeline (§5.1), while adding the deterministic
-routing-policy text on top of the vocabulary produces no further
-improvement in composed routing accuracy (73.5% vs. 74.0% on 200 EVAL-split
-threads, §5.2), a result a single end-to-end accuracy number would not have
-surfaced, and which the five-arm evaluation design (oracle / composed /
-direct / policy_fidelity / majority) was built specifically to separate from
-policy/gold divergence. Confidence/escalation gating further shows that most
-of the residual error is concentrated in a small, identifiable subpopulation
-(§5.3) instead of spread uniformly across the corpus, and a disclosed
-LLM-proxy second annotator agrees with gold most on structured fields and
-least on the single most judgment-dependent field, escalation (§5.4), a
-pattern consistent with the broader LLM-as-annotator literature's finding
-that LLM annotation reliability is uneven across field types, not a
-uniform stand-in for a human coder [25]. A full replication against a second
-commercial provider (§5.5) confirms both central findings within 1.5
-accuracy points on every scoring arm: closed-vocabulary injection again
-separates a 0%- from a fully schema-valid pipeline, and the policy-text
-addition again produces no further improvement in composed routing accuracy
-over vocab alone. Within this synthetic, single-run-per-condition pilot,
-that agreement is evidence the findings are not one model's idiosyncrasy;
-it does not establish that closed-vocabulary injection is necessary or
-sufficient for schema validity across other prompt phrasings, model
-families, or real (non-synthetic) RFI text, a stronger claim only the
-replications named in §6.3 could support.
+In this 240-thread synthetic pilot, supplying closed vocabularies made all
+evaluated outputs schema-valid, while adding routing-policy text produced
+little change in composed reviewer accuracy. The result was similar across
+the two providers tested. Because each condition was run once and the
+corpus is synthetic, performance on real project RFIs remains untested.
 
 Two practical implications follow directly. First, teams deploying an LLM
 for RFI (or, more generally, construction-document) classification should
